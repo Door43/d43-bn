@@ -1,15 +1,12 @@
 
 
   - [[:bn:obs:01|সৃষ্টি ]]
-  - [[:bn:obs:02|পাপ জগতে প্রবেশ করে ]]
-  - [[:bn:obs:03|জলপ্লাবন]]
-  - [[:bn:obs:04|
-
-অব্রাহামের সঙ্গে
-ঈশ্বরের চুক্তি  ]]
-  - [[:bn:obs:05|The Son of Promise]]
-  - [[:bn:obs:06|God Provides for Isaac]]
-  - [[:bn:obs:07|God Blesses Jacob]]
+  - [[:bn:obs:2|পৃথিবীতে পাপের প্রবেশ]]
+  - [[:bn:obs:3|বন্যা]]
+  - [[:bn:obs:4|আব্রাহামের সাথে ঈশ্বরের নিয়ম]][[:bn:obs:04| ]]
+  - [[:bn:obs:5|প্রতিজ্ঞার পুত্র]]
+  - [[:bn:obs:6|ঈশ্বর ইসহাককে সরবরাহ করেন]]
+  - [[:bn:obs:7|ঈশ্বর]] [[:bn:obs:7|যাকোবকে]] [[:bn:obs:7|আশির্বাদ]] করলেন
   - [[:bn:obs:08|God Saves Joseph and His Family]]
   - [[:bn:obs:09|God Calls Moses]]
   - [[:bn:obs:10|The Ten Plagues]]
