@@ -1,26 +1,29 @@
 
-----
-~~NOCACHE~~
-**Door43**
 
-  * [[bn:home|Door43 (bn)]]
-  * [[en:license|License]]
+----
+
+~~NOCACHE~~ **Door43**
+
+   * [[:bn:home|Door43 (bn)]]
+  * [[:en:license|License]]
 
 **Resources**
 
-  * [[bn:obs|Open Bible Stories (bn)]]
+  * [[:bn:obs|Open Bible Stories (bn)]]
 
 **Downloads**
 
-All content for this namespace is available in the [[https://github.com/Door43/d43-bn|d43-bn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bn/archive/master.zip|d43-bn.zip]]
+All content for this namespace is available in the [[https://github.com/Door43/d43-bn|d43-bn repository]]. To download it as a zip file, click [[https://github.com/Door43/d43-bn/archive/master.zip|d43-bn.zip]]
 
 **Recent Changes**
+
 {{changes>ns = bn}}
 
 **Latest Status**
-{{page>en:uwadmin:bn:obs:status}}
 
+{{page>en:uwadmin:bn:obs:status}}
 
 **Language Information**
 
 [[http://www.ethnologue.com/language/bn|Ethnologue data]]
+
