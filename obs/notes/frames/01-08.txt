@@ -1,42 +1,22 @@
 
 
-**<font 24px/inherit;;inherit;;inherit>ঈশ্বর প্রাণীদের সৃষ্টি করেন [০১-০৮]</font> **
+**<font 24px/inherit;;inherit;;inherit>ঈশ্বর প্রাণীদের সৃষ্টি করেন [০১-০৮]</font>    **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg?nolink&}}
 
-On **the sixth day** of creation, **God said**, “Let there be **all kinds** of **land animals**!” And it happened just like God said. Some were **farm animals**, some **crawled on the ground**, and some were **wild**. And God saw that **it was good**.
-===== Important Terms: =====
+সৃষ্টির ষষ্ট দিনে, ঈশ্বর বললেন, “সকল ধরনের ভুচর প্রাণীসমূহ হোক!” আর তেমনটাই হল যেমনটি ঈশ্বর বললেন৷ কিছু ছিল গবাদি পশু, কিছু ছিল ভূমিতে ভর দিয়ে চলে এমন প্রাণী, আর কিছু ছিল বন্য জন্তু৷ আর ঈশ্বর দেখলেন যে এটি উত্তম হয়েছে৷
 
-  *
+**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font> **
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * ****[[:bn:obs:notes:key-terms:good|উত্তমতায়]]****
+==== অনুবাদিত টীকাসমূহ: ====
 
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
-
-**[[https://door43.org/en/obe/kt/good|good]]**
-==== Translation Notes: ====
-
-  *
-
-**the sixth day**  - The next event in a continuing, orderly progression of days and creative acts.
-  *
-
-**God said**  - God's spoken word is the means by which the animals were created.
-  *
-
-**all kinds**  - This indicates a great variety, but also order.
-  *
-
-**land animals**  - Every kind of animal that lived on the land, as opposed to the birds, or animals that live in the seas.
-  *
-
-**farm animals**  - The kinds of land animals that commonly live peacefully with people–-as in tame, or domesticated animals.
-  *
-
-**crawled on the ground**  - This probably includes reptiles, and possibly the insects.
-  *
-
-**wild**  - The kinds of animals that do not normally live peacefully with people, usually because they are afraid of people, or dangerous to them.
-  *
-
-**it was good**  - This phrase is repeated throughout creation to show that every step went exactly according to God's wise plan and purpose.
+  * **ষষ্ট দিন**- দিনগুলোর আর সৃজনশীল কার্যগুলোর একটি অবিরত, সুশৃঙ্খল অগ্রগতিতে আগামী ঘটনা৷
+  * **ঈশ্বর বললেন**- ঈশ্বরের বলা বাক্যটি হল মাধ্যম যার দ্বারা প্রাণীরা সৃষ্টি হয়েছিল৷
+  * **সকল ধরনের**- এটি ইঙ্গিত করে একট বিশাল বৈচিত্র্য আর শৃঙ্খলাকে৷
+  * **ভুচর প্রাণী**- প্রত্যেক ধরনের প্রাণী যা ভূমিতে বসবাস করে, পাখিদের বা সমুদ্রে থাকে এমন প্রানীদের বিপরীতে৷
+  * **গবাদিপশু**- এটি হল ভুচর প্রানীদের এক প্রকার সমূহ যা সাধারণত লোকেদের সাথে শান্তিতে বসবাস করে পালিত বা গৃহস্থ পশুরূপে৷
+  * **বুকে ভর দিয়ে চলে এমন প্রাণী**- এটি সম্ভবত সরীসৃপ আর সম্ভবতঃ কীটপতঙ্গদের অন্তর্ভুক্ত করে৷
+  * **বন্য**  -  এটি হল সেই ধরনের প্রাণী যারা সাধারনত লোকেদের সাথে শান্তির সাথে বসবাস করে না, সাধারণত কারন তারা মানুষদের ভয় পায় বা তাদের জন্য বিপদজ্জনক৷
+  * **এটি উত্তম ছিল**- এই বাক্যাংশটি সৃষ্টির কাহিনীতে পুনরাবৃত্ত করা হয়েছে এটি দেখাবার জন্য যে প্রত্যেক ধাপটি সঠিক হয়েছিল যেমনটি ঈশ্বরের বিজ্ঞ যোজনা আর উদ্দেশ্যটি ছিল৷
 
