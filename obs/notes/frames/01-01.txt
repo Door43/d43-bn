@@ -8,24 +8,12 @@
 
   * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
   * **[[:bn:obs:notes:key-terms:holy-spirit|ঈশ্বরের আত্মা]]**
-<font 18px/inherit;;inherit;;inherit>** অনুবাদিত টীকাসমূহ: **</font>
+<font 18px/inherit;;inherit;;inherit>** অনুবাদিত টীকাসমূহ:  **</font>
 
   * **আরম্ভ**- সেটি হল, ঈশ্বর ছাড়া কোনো কিছুর অস্ত্বিত্বের পূর্বে, “সকল কিছুর শুরু হওয়া৷”
   * **সৃষ্টি**- কিছু-না (শূন্যতা) থেকে কিছুর সৃষ্টি করা এই অর্থে এটি এখানে ব্যবহার করা হয়েছে৷
   * **ব্রহ্মাণ্ড**- এইটি পৃথিবীতে ও আকাশে ঈশ্বরের রচিত সকল কিছুকে অন্তর্নিহিত করে, দৃশ্যমান ও অদৃশ্যমান দুটোই৷
   * **অন্ধকার**- এটি সম্পূর্ণরূপে অন্ধকার ছিল৷ কোনও আলো সেখানে ছিল না, যেহেতু ঈশ্বর তখনও কোনো আলোর সৃষ্টি করেন নি
-  *
-
-**dark**  - It was completely dark. There was no light at all, since God had not yet created light.
-
-  *
-
-**empty**  - God had not yet created anything except for the bare earth covered by water.
-
-  *
-
-**nothing had been formed**  - There were no distinguishing features–just water covering everything.
-
-  *
-
-**God's Spirit**  - The Spirit of God, sometimes called the Holy Spirit, was present in the beginning, moving freely over the earth in order to create all that he had planned to do.
+  * **শূন্যতা**- শূন্য পৃথিবী জলরাশির দ্বারা আচ্ছাদিত থাকে ছাড়া ঈশ্বর অন্য কিছুরই রচনা তখনও করেন নি৷
+  * **কিছুরই আকার দেওয়া হয়নি**- কেবল সকল কিছু জলরাশি দ্বারা আচ্ছাদনের ছাড়া পার্থক্যযোগ্য কোনো বৈশিষ্ট্য সেখানে ছিল না৷
+  * **ঈশ্বরের আত্মা**- ঈশ্বরের আত্মা, যাকে কখনো কখনো পবিত্র আত্মাও বলা হয়, আরম্ভে উপস্থিত ছিলেন, তার পরিকল্পিত সকল কিছু সৃষ্টি করার জন্য স্বাধীনভাবে পৃথিবীর উপর গমন তিনি করছিলেন৷
