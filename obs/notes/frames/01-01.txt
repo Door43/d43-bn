@@ -8,24 +8,12 @@
 
   * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
   * **[[:bn:obs:notes:key-terms:holy-spirit|ঈশ্বরের আত্মা]]**
-==== Translation Notes: ====
+<font 18px/inherit;;inherit;;inherit>** অনুবাদিত টীকাসমূহ: **</font>
 
-  *
-
-**the beginning**  - That is, “the beginning of all things,” before anything existed except God.
-
-  *
-
-**created**  - This is used here in the sense of making something out of nothing.
-
-  *
-
-**universe**  - This includes everything that God created on the earth and in the heavens, both visible and invisible things.
-
-  *
-
-**earth**  - The word “earth” refers to the whole world that people live on.
-
+  * **আরম্ভ**- সেটি হল, ঈশ্বর ছাড়া কোনো কিছুর অস্ত্বিত্বের পূর্বে, “সকল কিছুর শুরু হওয়া৷”
+  * **সৃষ্টি**- কিছু-না (শূন্যতা) থেকে কিছুর সৃষ্টি করা এই অর্থে এটি এখানে ব্যবহার করা হয়েছে৷
+  * **ব্রহ্মাণ্ড**- এইটি পৃথিবীতে ও আকাশে ঈশ্বরের রচিত সকল কিছুকে অন্তর্নিহিত করে, দৃশ্যমান ও অদৃশ্যমান দুটোই৷
+  * **অন্ধকার**- এটি সম্পূর্ণরূপে অন্ধকার ছিল৷ কোনও আলো সেখানে ছিল না, যেহেতু ঈশ্বর তখনও কোনো আলোর সৃষ্টি করেন নি
   *
 
 **dark**  - It was completely dark. There was no light at all, since God had not yet created light.
