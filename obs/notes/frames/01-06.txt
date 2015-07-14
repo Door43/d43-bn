@@ -6,26 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  *
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:good|উত্তমতায়]]**
+==== অনুবাদিত টীকাসমূহ: ====
 
-**[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  *
-
-**[[:bn:obs:notes:key-terms:good|উত্তমতায়]]**
-==== Translation Notes: ====
-
-  *
-
-**the fourth day**  - The next in the orderly series of days in which God created.
-  *
-
-**God spoke**  - God created the sun, moon, and stars by speaking a command.
-  *
-
-**light**  - Shining objects in the sky now provided light for the earth.
-  *
-
-**day and night, seasons and years**  - God created a different light to mark each portion of time from small to large, and set them to repeat continually until the end of time.
-  *
-
-**created**  - This word is used here in the sense of making something out of nothing.
+  * **চতুর্থ দিন**- সুশৃঙ্খল দিনগুলোর সিরিজের আগামী দিনে যেখানে ঈশ্বর সৃষ্টি করলেন৷
+  * **ঈশ্বর বললেন**- ঈশ্বর সূর্য, চন্দ্র, আর তারাদের একটি আদেশ বলার দ্বারা সৃষ্টি করলেন৷
+  * **আলো**- আকাশের উজ্জ্বল বস্তুগুলো এখন পৃথিবীর জন্য আলো প্রদান করে৷
+  * **দিন আর রাত, ঋতু আর বছরসমূহ**  – ঈশ্বর একটি ভিন্ন আলোর সৃষ্টি করলেন সময়ের প্রত্যেক ছোট থেকে বড় ক্ষণকে চিহ্নিত করার জন্য আর তাদের অন্তিম সময় পর্যন্ত অবিরত পুনরাবৃত্তির জন্য নির্ধারিত করলেন৷
+  * **সৃষ্টি হয়েছিল**- এই শব্দটি এই অর্থে এখানে প্রয়োগ হয়েছে যে কিছু-না (শূন্য থেকে কিছুর সৃষ্টি হয়েছে৷
