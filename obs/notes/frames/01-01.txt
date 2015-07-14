@@ -2,38 +2,43 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?nolink&}}
 
-This is how **the beginning** of everything happened. God **created** the **universe** and everything in it in six days. After God created the earth it was **dark** and **empty**, and **nothing had been formed** in it. But **God's Spirit** was there over the water.
-===== Important Terms: =====
+এইভাবে সকল কিছুর আরম্ভ হয়েছিল৷ঈশ্বর ছয় দিনে ব্রহ্মাণ্ড আর এর ভিতরের সকল কিছুর সৃষ্টি করেছিলেন৷ ঈশ্বর পৃথিবী সৃষ্টি করার পর, এটি অন্ধকারময় ও শূন্য ছিল, আর এটির  কিছুই আকারে ছিল না৷  কিন্তু ঈশ্বরের আত্মা জলের উপর ছিল৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
+  * **__[[:bn:obs:notes:key-terms:god|ঈশ্বর]]__**
+  * **__[[:bn:obs:notes:key-terms:holy spirit|ঈশ্বরের আত্মা]]__**
 
-**[[https://door43.org/en/obe/kt/holyspirit|God's Spirit]]**
 ==== Translation Notes: ====
 
   *
 
 **the beginning**  - That is, “the beginning of all things,” before anything existed except God.
+
   *
 
 **created**  - This is used here in the sense of making something out of nothing.
+
   *
 
 **universe**  - This includes everything that God created on the earth and in the heavens, both visible and invisible things.
+
   *
 
 **earth**  - The word “earth” refers to the whole world that people live on.
+
   *
 
 **dark**  - It was completely dark. There was no light at all, since God had not yet created light.
+
   *
 
 **empty**  - God had not yet created anything except for the bare earth covered by water.
+
   *
 
 **nothing had been formed**  - There were no distinguishing features–just water covering everything.
+
   *
 
 **God's Spirit**  - The Spirit of God, sometimes called the Holy Spirit, was present in the beginning, moving freely over the earth in order to create all that he had planned to do.
