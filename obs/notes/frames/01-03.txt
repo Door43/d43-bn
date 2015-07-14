@@ -2,24 +2,14 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?nolink&}}
 
-সৃষ্টির দ্বিতীয় দিনে, ঈশ্বর বলেছিলেন আর পৃথিবীর উপর আকাশ সৃষ্টি করেছিলেন৷  নিচের জলরাশি থেকে উপরের জলরাশিকে পৃথক করার দ্বারা তিনি আকাশের সৃষ্টি করেন৷
+সৃষ্টির দ্বিতীয় দিনে, ঈশ্বর বলেছিলেন আর পৃথিবীর উপর আকাশ সৃষ্টি করেছিলেন৷ নিচের জলরাশি থেকে উপরের জলরাশিকে পৃথক করার দ্বারা তিনি আকাশের সৃষ্টি করেন৷
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  *
+  * **__[[:bn:obs:notes:key-terms:god|ঈশ্বর]]__ **
+==== অনুবাদিত টীকাসমূহ: ====
 
-**__[[:bn:obs:notes:key-terms:god|ঈশ্বর]]__**
-==== Translation Notes: ====
-
-  *
-
-**the second day**  - God's work of creation was orderly, purposeful, and sequential. The things he created each day built upon and depended on the acts of the previous days.
-  *
-
-**God spoke**  - God created the sky by speaking a command.
-  *
-
-**created**  - God made the sky out of nothing.
-  *
-
-**sky**  - This term refers to all of the space above the earth, including the air we breathe and the heavens.
+  * **দ্বিতীয় দিন**- ঈশ্বরের সৃষ্টির কার্য সুশৃঙ্খল, উদ্দেশ্যপূর্ণ আর ক্রমানুসার  ছিল৷ যা কিছু তিনি প্রত্যেক দিন সৃষ্টি করেছিলেন তা গঠিত হয়েছিল ও নির্ভরশীল ছিল গত দিনগুলির কার্যগুলোর উপর৷
+  * **ঈশ্বর বললেন**-ঈশ্বর আকাশের সৃষ্টি একটি আদেশ বলার মাধ্যমে করেছিলেন৷
+  * **সৃষ্টি করেছিলেন**- ঈশ্বর আকাশকে কিছু-না (শূন্য) থেকে সৃষ্টি করেছিলেন৷
+  * **আকাশ**- এই শব্দটি পৃথিবীর উপরের সকল স্থানকেই উল্লেখ করে, বাতাস যা আমরা নিঃশ্বাসে নিই আর স্বর্গসমূহও এতে অন্তর্ভুক্ত৷
