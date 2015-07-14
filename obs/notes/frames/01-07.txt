@@ -7,33 +7,15 @@
 পঞ্চম দিনে, ঈশ্বর বললেন আর সে সকল কিছু যা জলে সাঁতার কাটে আর সকল পাখিদের সৃষ্টি করলেন৷ ঈশ্বর দেখলেন যে এটি উত্তম হয়েছে আর তিনি সেগুলোকে আশির্বাদ করলেন৷
 
 **<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font>    **
-  * ****[[:bn:obs:notes:key-terms:god|ঈশ্বর]]****
-  * ****[[:bn:obs:notes:key-terms:good|উত্তমতায়]]****
+  * [[:bn:obs:notes:key-terms:god|ঈশ্বর]]
+  * [[:bn:obs:notes:key-terms:good|উত্তমতায়]]
   * **[[:bn:obs:notes:key-terms:bless|আশির্বাদ দিলেন]]**
+==== অনুবাদিত টীকাসমূহ: ====
 
-==== Translation Notes: ====
-
-  *
-
-**the fifth day**  - God continues his orderly progression of creation that he started during the previous four days.
-
-  *
-
-**God spoke**  - God created the birds and water creatures by speaking a command.
-
-  *
-
-**everything that swims**  - God not only made fish, but every kind of living thing that lives in the waters. Every one exists because God chose to create it.
-
-  *
-
-**all the birds**  - God did not make just one kind of bird, but all of the amazing variety of shapes, sizes, colors, and kinds of birds.
-
-  *
-
-**it was good**  - This phrase is repeated throughout creation to show that every step went exactly according to God's wise plan and purpose.
-
-  *
-
-**blessed them**  - God speaks his desire that they would prosper and that things would go well for them in the world in which he had placed them.
+  * **পঞ্চম দিন**- গত চারদিনের সময়ে তিনি যা আরম্ভ করেছিলেন তা ঈশ্বর তার সৃষ্টির সুশৃঙ্খল অগ্রগতিতে বহাল রাখলেন৷
+  * **ঈশ্বর বললেন**- ঈশ্বর পাখিদের আর জলস্থ প্রাণীবর্গের সৃষ্টি একটি আদেশ বলার দ্বারা করলেন৷
+  * **সকল কিছু যা সাঁতার কাটে**- ঈশ্বর কেবল মাছদেরই সৃষ্টি করেন নি, বরং সকল ধরনের জীবদের যারা জলে বসবাস করে৷ সকলকিছু অস্ত্বিত্বে রয়েছে কেননা ঈশ্বর তেমনটাই সৃষ্টি করতে চেয়েছিলেন৷
+  * **সকল পাখিগণ**- ঈশ্বর কেবল এক ধরনেরই পাখির সৃষ্টি করেন নি, বরং সকল ধরনের অদ্ভুত আকারের, প্রকারের, রঙের পাখিদের সৃষ্টি করেছেন৷
+  * **এটি উত্তম ছিল**- এই বাক্যাংশটি সৃষ্টির কাহিনীতে পুনরাবৃত্ত করা হয়েছে এটি দেখাবার জন্য যে প্রত্যেক ধাপটি সঠিক হয়েছিল যেমনটি ঈশ্বরের বিজ্ঞ যোজনা আর উদ্দেশ্যটি ছিল৷
+  * **তাদের অশির্বাদিত করেছিলেন**- ঈশ্বর তার ইচ্ছা বলেছিলেন যেন সেগুলো উন্নতি লাভ করে আর পৃথিবীতে যেখানে তিনি তাদের রেখেছিলেন সকল কিছু যেন তাদের সাথে ভালো হয়৷
 
