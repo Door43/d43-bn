@@ -4,45 +4,18 @@
 
 উদ্যানের মাঝখানে, ঈশ্বর দুটি বিশেষ বৃক্ষ রোপন করেছিলেন- জীবন বৃক্ষ আর সৎ ও অসৎ জ্ঞান প্রদানকারী বৃক্ষ৷ ঈশ্বর আদমকে বলেছিলেন যে তিনি উদ্যানের যেকোনো গাছ থেকে ফল খেতে পারেন কিন্তু সৎ ও অসৎ জ্ঞান প্রদানকারী বৃক্ষ থেকে যেন না খান৷ যদি তিনি খান তবে তিনি মারা যাবেন৷
 
-**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font> **
-  *
-
-**[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  *
-
-**[[:bn:obs:notes:key-terms:life|জীবন]]**
-  *
-
-**[[:bn:obs:notes:key-terms:good|উত্তমতায়]]**
-  *
-
-**[[:bn:obs:notes:key-terms:evil|মন্দ]]**
-  *
-
-**[[:bn:obs:notes:key-terms:adam|আদম]]**
-  *
-
-**[[:bn:obs:notes:key-terms:death|মরবে]]**
-==== Translation Notes: ====
-
-  *
-
-**in the middle**  - The central location emphasizes the importance of the two trees.
-  *
-
-**garden**  - An area of land planted with trees and plants for a purpose–usually to produce food or to provide beauty.
-  *
-
-**tree of life**  - Anyone who ate fruit from this tree would never die.
-  *
-
-**tree of knowledge of good and evil**  - The fruit of this tree could enable a person to know both good and evil.
-  *
-
-**knowledge**  - To know or understand by personal experience.
-  *
-
-**good and evil**  - Evil is the opposite of good. Just as “good” refers to what is pleasing to God, “evil” refers to everything that is not pleasing to God.
-  *
-
-**die**  - In this instance, he would die both physically and spiritually.
+**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font>    **
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:life|জীবন]]**
+  * **[[:bn:obs:notes:key-terms:good|উত্তমতায়]]**
+  * **[[:bn:obs:notes:key-terms:evil|মন্দ]]**
+  * **[[:bn:obs:notes:key-terms:adam|আদম]]**
+  * **[[:bn:obs:notes:key-terms:death|মরবে]]**
+**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font> **
+  * **মাঝখানে**- কেন্দ্রীয় স্থানটি দুটি বৃক্ষের গুরুত্বপূর্ণতাটিকে ব্যক্ত করে৷
+  * **উদ্যান**-একটি উদ্ভিদ ও গাছপালা রোপিত এলাকা সাধারনত খাদ্য উৎপাদন ও সুন্দরতা প্রদানের উদ্দ্যেশ্যে রচিত৷
+  * **জীবন বৃক্ষ**- যেকেউ এই বৃক্ষ থেকে ফল খেয়েছে সে কখনো মরবে না৷
+  * **সৎ ও অসৎ জ্ঞান প্রদানকারী বৃক্ষ**- এই গাছের ফল এক ব্যক্তিকে ভালো ও মন্দ জানার ক্ষমতা প্রদান করে৷
+  * **জ্ঞান**- ব্যক্তিগত অভিজ্ঞতার দ্বারা জানা বা বোঝা৷
+  * **সৎ ও অসৎ**- মন্দ হল ভালোর বিপরীত৷ যেমন “ভালো” ইঙ্গিত করে যা ঈশ্বরকে সন্তুষ্ট করে, “মন্দ” ইঙ্গিত করে যা ঈশ্বরকে সন্তুষ্ট করে না৷
+  * **মরবে**- এই পরিপেক্ষিতে, সে দৈহিক ও আত্মিক দুটিতেই মারা যাবে৷
