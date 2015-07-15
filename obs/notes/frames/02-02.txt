@@ -1,27 +1,17 @@
 
 
-**<font 24px/inherit;;inherit;;inherit>সর্প [০২-০২]</font> **
+**<font 24px/inherit;;inherit;;inherit>সর্প [০২-০২]</font>    **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-02.jpg?nolink&}}
 
-কিন্তু উদ্যানটিতে একটি প্রবঞ্চক সর্প ছিল৷  সে স্ত্রীকে প্রশ্ন করল, “সত্যিই কি ঈশ্বর তোমাদেরকে বলেছেন উদ্যানের কোনোও বৃক্ষ থেকে ফল না খেতে?”
+কিন্তু উদ্যানটিতে একটি প্রবঞ্চক সর্প ছিল৷ সে স্ত্রীকে প্রশ্ন করল, “সত্যিই কি ঈশ্বর তোমাদেরকে বলেছেন উদ্যানের কোনোও বৃক্ষ থেকে ফল না খেতে?”
 
-**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font> **
-  *
+**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font>    **
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+==== অনুবাদিত টীকাসমূহ: ====
 
-**[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-==== Translation Notes: ====
-
-  *
-
-**crafty**  - Clever and sly, with the intent to deceive.
-  *
-
-**snake**  - An elongated, legless land creature that now moves by wiggling on its belly. Although later on in the story it is revealed that the snake is Satan, this should not be said here in this frame.
-  *
-
-**Did God really tell you**  - The snake asked the woman whether God actually said not to eat from any of the trees in the garden. But he was only pretending that he didn't know what God had said because he wanted to create doubt in the woman's mind. He wanted her to question God's goodness.
-  *
-
-**fruit of any of the trees**  - All of the various types of fruit from each of the different trees in the garden.
+  * **প্রবঞ্চক**- চালক আর ধূর্ত, প্রবঞ্চনার অভিপ্রায়ের সাথে৷
+  * **সর্প**- একটি সম্প্রসারিত, পা হীন ভুচর যা এখন বুকে হেঁটে চলে৷ যদিও কাহিনীর পরের ভাগে এটি প্রকাশিত করা হয় যে সেই সর্পটি সয়ং শয়তান ছিল, সেটি কাহিনীর এই অংশে বলা উচিত হবে না৷
+  * **সত্যিই কি ঈশ্বর তোমাদেরকে বলেছেন**- সাপটি স্ত্রীকে জিজ্ঞেসা করেছিল যে ঈশ্বর কি আসলে উদ্যানের কোনও বৃক্ষ থেকে ফল খেতে বারণ করেছেন? কিন্তু আসলে সে কেবল না জানার ভান করছিল যে ঈশ্বর তাদের কি বলেছিলেন কারণ সে স্ত্রীর মনে সন্দেহ উৎপন্ন করতে চাইছিল৷ সে চাইছিল সে (হবা)  ঈশ্বরের সদগুণের উপর প্রশ্ন তুলুক৷
+  * **কোনও বৃক্ষের ফল**- সকল বিভিন্ন প্রভৃতির গাছপালার নানান ধরনের ফলসমূহ৷
 
