@@ -6,10 +6,6 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  *
-
-**[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font> **
-  *
-
-**childbirth very painful**  - Some languages may need to express this as a verb. You could say, “I will cause you to have much more pain when you give birth to children.”
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+****<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font>    ** **
+  * **প্রসব খুবিই বেদনাময় হওয়া**- এই ক্রিয়া শব্দটিকে ব্যক্ত করার জন্য কিছু ভাষার প্রয়োজন হতে পারে৷ আপনি বলতে পারেন, “তুমি যখন সন্তানদের প্রসূতি করবে তখন আমি ভীষণ বেদনা উৎপন্ন করে তোমায় অভিশপ্ত করব৷”
