@@ -4,39 +4,17 @@
 
 তারপর ঈশ্বর বললেন, “সৎ ও অসৎ জানার মাধ্যমে এখন মনুষ্যরা আমাদের মত হয়েছে, তাদের জীবন বৃক্ষ থেকে ফল খাওয়ার আর চিরকাল বাঁচার অনুমতি দেওয়া যায় না৷” অতএব ঈশ্বর আদম ও হবাকে সুন্দর উদ্যান থেকে বের করে দিলেন৷ জীবন বৃক্ষ থেকে কাউকে ফল খাওয়া থেকে বিরত রাখার জন্য ঈশ্বর বিরাট ও শক্তিশালী স্বর্গদুতেদের উদ্যানের প্রবেশদ্বারে নিযুক্ত করলেন ৷
 
-**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font> **
-  *
+**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font>    **
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:good|উত্তমতায়]]**
+  * **[[:bn:obs:notes:key-terms:evil|মন্দ]]**
+  * **[[:bn:obs:notes:key-terms:life|জীবন]]**
+  * **[[:bn:obs:notes:key-terms:adam|আদম]]**
+  * **[[:bn:obs:notes:key-terms:eve|হবা]]**
+  * **[[:bn:obs:notes:key-terms:angel|স্বর্গদূত]]**
+===== অনুবাদিত টীকাসমূহ: =====
 
-**[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  *
-
-**[[:bn:obs:notes:key-terms:good|উত্তমতায়]]**
-  *
-
-**[[:bn:obs:notes:key-terms:evil|মন্দ]]**
-  *
-
-**[[:bn:obs:notes:key-terms:life|জীবন]]**
-  *
-
-**[[:bn:obs:notes:key-terms:adam|আদম]]**
-  *
-
-**[[:bn:obs:notes:key-terms:eve|হবা]]**
-  *
-
-**[[:bn:obs:notes:key-terms:angel|স্বর্গদূত]]**
-===== Translation Notes: =====
-
-  *
-
-**like us by knowing good and evil**  - Here, this phrase points to a new way that Adam and Eve would be like God. Because they had sinned, they were aware of evil and could experience it. You could say, “because now they knew both good and evil.”
-  *
-
-**fruit**  - The specific kind of fruit is not revealed, so it is best to translate this using a general word for fruit.
-  *
-
-**tree of life**  - This was an actual tree with fruit. See **[[https://door43.org/en/obs/notes/frames/01-11|[01-11]]]**. If a person ate this fruit he would live continually and never die.
-  *
-
-//A Bible story from//  - These references may be slightly different in some Bible translations.
+  * **সৎ ও অসৎ জানার দ্বারা আমাদের মত**  – এখানে, এই বাক্যাংশটি ইঙ্গিত করে একটি নতুন পথের যে আদম আর হবা ঈশ্বরের মত হবে৷ কারণ তারা পাপ করেছিলেন, তারা মন্দের বিষয়ে অবগত ছিলেন আর তা অভিজ্ঞতা করেছিলেন৷ আপনি বলতে পারেন, “কেননা তারা এখন দুজনেই ভালো ও খারাপ জানত৷”
+  * **ফল**- বিশেষ ধরনের ফল এখানে প্রকাশিত করা হয়নি, তাই ফলটির জন্য একটি সাধারণ শব্দের প্রয়োগের দ্বারা এটা অনুবাদ করাটা ভালো হবে৷
+  * **জীবন বৃক্ষ**- এটি একটি সত্যিকারের ফলের গাছ ছিল৷ দেখুন [০১-১১]৷ যদি কোনো ব্যক্তি এই ফলটি খায় সে নিরন্তর বাঁচবে আর কখনো মরবে না৷
+  * //একটি বাইবেল কাহিনী-//  এইসব উল্লেখগুলো কিছু কিছু বাইবেল অনুবাদে সামান্য ভিন্ন হতে পারে৷
