@@ -1,6 +1,6 @@
 
 
-**<font 24px/inherit;;inherit;;inherit>ঈশ্বর পুরুষটিকে অভিশপ্ত করেন [০২-১১]</font> **
+**<font 24px/inherit;;inherit;;inherit>ঈশ্বর পুরুষটিকে অভিশপ্ত করেন [০২-১১]</font>    **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-11.jpg?nolink&}}
 
@@ -8,39 +8,17 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  *
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:disobey|অবাধ্যতা]]**
+  * **[[:bn:obs:notes:key-terms:curse|অভিশপ্ত]]**
+  * **[[:bn:obs:notes:key-terms:death|মরবে]]**
+  * **[[:bn:obs:notes:key-terms:eve|হবা]]**
+  * **[[:bn:obs:notes:key-terms:adam|আদম]]**
+==== অনুবাদিত টীকাসমূহ: ====
 
-**[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  *
-
-**[[:bn:obs:notes:key-terms:disobey|অবাধ্যতা]]**
-  *
-
-**[[:bn:obs:notes:key-terms:curse|অভিশপ্ত]]**
-  *
-
-**[[:bn:obs:notes:key-terms:death|মরবে]]**
-  *
-
-**[[:bn:obs:notes:key-terms:eve|হবা]]**
-  *
-
-**[[:bn:obs:notes:key-terms:adam|আদম]]**
-==== Translation Notes: ====
-
-  *
-
-**ground is cursed**  - As punishment for Adam's disobedience, the earth would no longer be fruitful. Adam would have to work very hard to raise enough food to eat.
-  *
-
-**you will die**  - The ultimate punishment for their disobedience was death. Spiritual death is our separation from God. Physical death is our separation from our body.
-  *
-
-**return to dirt**  - God created Adam from the dirt or soil and gave him life. As a result of sin, his life will be taken from him and his body will decompose and become dirt again.
-  *
-
-**Eve, which means 'life-giver'**  - God gave life to Adam and Eve, and it is passed on to every person through childbirth.
-  *
-
-**mother of all people**  - This means that she would be the female ancestor of all people. Some languages say “she would be the grandmother of all people.”
+  * **ভূমি অভিশাপগ্রস্ত হল**- আদমের অবাধ্যতার শাস্তি স্বরূপ, পৃথিবী আর কখনো ফলবন্ত থাকবে না৷ আদমকে যথেষ্ট খাদ্য খাওয়ার জন্য খুবিই কঠিন প্ররিশ্রম করতে হবে৷
+  * **তুমি মরবে**- তাদের অবাধ্যতার চূড়ান্ত শাস্তি হল মৃত্যু৷ আত্মিক মৃত্যুটি হল ঈশ্বরের থেকে আমাদের পৃথক হওয়া৷ শারীরিক মৃত্যুটি হল আমাদের শরীর থেকে আমাদের পৃথক হওয়া৷
+  * **ধুলাতে ফিরে যাবে**- ঈশ্বর আদমকে ধুলো বা মাটি থেকে বানিয়েছিলেন আর তাকে জীবন দিয়েছিলেন৷ পাপের পরিনাম স্বরূপ, তার জীবন তার থেকে নিয়ে নেওয়া হবে আর তার শরীর পচবে আর পুনরায় ধুলোয় পরিনত হবে৷
+  * **হবা, যার অর্থ হল ‘জীবন**-দাত্রী’- ঈশ্বর আদম ও হবাকে জীবন দিয়েছিলেন, আর এটি সকল ব্যক্তির কাছে সন্তান প্রসবের মাধ্যমে অগ্রসরমান হবে৷
+  * **সকল মানুষের মাতা**- এর অর্থ হল যে তিনি সকল মানুষের মহিলা প্রাচীনা হবেন৷ কিছু ভাষা বলে যে “তিনি সকলের মাতামহী হবে৷”
 
