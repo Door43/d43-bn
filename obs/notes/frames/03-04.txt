@@ -4,21 +4,10 @@
 
 নোহ ঈশ্বরের আজ্ঞাকারী হয়েছিলেন৷ তিনি ও তার তিন পুত্র জাহাজটি তৈরী করলেন টিক যেমনটি ঈশ্বর তাদের আদেশ দিয়েছিলেন৷ এটি বানাতে বহু বছর লেগে গেল, কেননা এটি বিরাট বড় ছিল৷ নোহ লোকেদের আগত বন্যা সম্বন্ধে সতর্ক করে দিয়েছিলেন আর তাদের ঈশ্বরের কাছে ফিরে আসতে বলেছিলেন, কিন্তু তারা তাকে বিশ্বাস করল না৷
 
-**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font> **
-  *
-
-**[[:bn:obs:notes:key-terms:noah|নোহ]]**
-  *
-
-**[[:bn:obs:notes:key-terms:obey|আজ্ঞাকারী]]**
-  *
-
-**[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-===== Translation Notes: =====
-
-  *
-
-**Noah warned**  - Noah told everyone that God planned to destroy the world because of sin.
-  *
-
-**turn to God**  - This means that they should stop sinning and start obeying God.
+**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font>    **
+  * **[[:bn:obs:notes:key-terms:noah|নোহ]]**
+  * **[[:bn:obs:notes:key-terms:obey|আজ্ঞাকারী]]**
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font> **
+  * **নোহ সতর্ক করেছিলেন**- নোহ প্রত্যেককে বলেছিলেন যে ঈশ্বর পাপের কারণে পৃথিবীকে ধ্বংস করার যোজনা করেছেন৷
+  * **ঈশ্বরের কাছে ফেরা**- আর মানে হল যে তাদের পাপ করা বন্ধ করতে হবে আর ঈশ্বরের আজ্ঞা পালন করা উচিত৷
