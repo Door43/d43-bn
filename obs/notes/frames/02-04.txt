@@ -1,33 +1,18 @@
 
 
-**<font 24px/inherit;;inherit;;inherit>মিথ্যে [০২-০৪]</font> **
+**<font 24px/inherit;;inherit;;inherit>মিথ্যে [০২-০৪]</font>    **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-04.jpg?nolink&}}
 
 সাপটি স্ত্রীকে প্রতিউত্তর দিল, “এটি সত্য নয়! তোমরা মরবে না৷ঈশ্বর কেবল জানেন যে যখনি তোমরা এটাকে খাবে, তখুনি তোমরা ঈশ্বরের সমান হয়ে যাবে আর তারই মত তোমরা সৎ ও অসৎ বুঝবে৷
 
-**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font> **
-  *
-
-**[[:bn:obs:notes:key-terms:truth|সত্য]]**
-  *
-
-**[[:bn:obs:notes:key-terms:death|মরবে]]**
-  *
-
-**[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  *
-
-**[[:bn:obs:notes:key-terms:good|উত্তমতায়]]**
-  *
-
-**[[:bn:obs:notes:key-terms:evil|মন্দ]]**
-==== Translation Notes: ====
-
-  *
-
-**like God**  - The man and the woman were already made in the likeness of God. The snake is suggesting that the woman would be more like God if she understood evil. However, God never intended for her to have this knowledge.
-  *
-
-**understand good and evil**  - To know from personal experience what things are good and what things are bad, or being able to know whether something is good or bad.
+**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font>    **
+  * **[[:bn:obs:notes:key-terms:truth|সত্য]]**
+  * **[[:bn:obs:notes:key-terms:death|মরবে]]**
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:good|উত্তমতায়]]**
+  * **[[:bn:obs:notes:key-terms:evil|মন্দ]]**
+**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font> **
+  * **ঈশ্বরের সমান**- পুরুষ ও স্ত্রীটি প্রথম থেকেই ঈশ্বরের স্বরূপে সৃষ্টি করা হয়েছিল৷ সাপটি স্ত্রীটিকে পরামর্শ দিয়েছিল যে স্ত্রীটি ঈশ্বরের স্বরূপ হতে পারে যদি সে অসৎকে আরো ভালো করে বুঝে৷ যাইহোক, ঈশ্বর কখনো চাই নি যে তার এই জ্ঞান হোক৷
+  * **সৎ আর অসৎ জানা**- ব্যক্তিগত অভিজ্ঞতার থেকে কি ভালো আর কি মন্দ তা জানা, বা জানার ক্ষমতা রাখা কোনকিছু ভালো কি খারাপ৷
 
