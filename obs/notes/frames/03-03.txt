@@ -6,14 +6,8 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  *
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:noah|নোহ]]**
+===== অনুবাদিত টীকাসমূহ: =====
 
-**[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  *
-
-**[[:bn:obs:notes:key-terms:noah|নোহ]]**
-===== Translation Notes: =====
-
-  *
-
-**the boat**  - The boat was big enough to carry eight people, two of every kind of animal, and their provisions for almost a year.
+  * **জাহাজ**- জাহাজটি আট জন লোক, সকল ধরনের পশুদের দুটি পশু, আর এক বছরের জন্য তাদের খাবারের সঞ্চিতিকে রাখার জন্য যথেষ্ট বড় ছিল৷
