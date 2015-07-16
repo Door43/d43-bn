@@ -4,24 +4,12 @@
 
 বহু সময় পর, পৃথিবীতে বহু লোক বসবাস করতে লাগল৷ তারা ভীষণ দুষ্ট আর হিংস্রক হয়ে উঠেছিল৷এটা এতটাই খারাপ হয়ে উঠেছিল যে ঈশ্বর সম্পূর্ণ পৃথিবীকে একটি বিপুল বন্যার দ্বারা ধ্বংস করার নির্ণয় নিলেন৷
 
-**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font> **
-  *
+**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font>    **
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+===== অনুবাদিত টীকাসমূহ: =====
 
-**[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-===== Translation Notes: =====
-
-  *
-
-**After a long time**  - This story happens many generations (hundreds of years) after creation.
-  *
-
-**very wicked and violent**  - It may be more natural to say, “had become wicked and did violent things”.
-  *
-
-**It became so bad**  – It may be clearer to say, “People were behaving in such harmful and evil ways that God.”
-  *
-
-**God decided to destroy**  - This does not mean that the earth would be destroyed completely. Rather God planned to destroy all the people who had rebelled against him and who had caused such evil and violence. This flood would also kill all the land animals and the birds.
-  *
-
-**huge flood**  - Very deep water that would cover the earth, even in places where the ground was normally dry, and even covering the tops of the highest mountains.
+  * **বহুকাল পর**- এই কাহিনীটি সৃষ্টি হয়ে যাবার বহু প্রজন্মের (হাজার হাজার বছর) পর ঘটেছিল৷
+  * **ভীষণ দুষ্ট আর হিংস্রক**- আরো সহজ ভাবে বললে, “দুষ্ট হয়ে উঠেছিল আর হিংস্রক কর্ম করেছিল৷”
+  * **এটা এতটাই খারাপ হয়ে উঠেছিল**- এটা বললে স্পষ্ট হবে যে, “মানুষেরা আঘাতকারী ও ক্ষতিকারক ভাবে ব্যবহার করছিল৷”
+  * **ঈশ্বর নির্ণয় নিলেন ধ্বংস করার**- এর মানে এ নয় যে পৃথিবী সম্পূর্ণভাবে শেষ হয়ে যাবে৷ বরং ঈশ্বর সকল লোকেদের যারা তার বিরুদ্ধে বিদ্রোহ করেছিল আর যারা সেই দুষ্টতার আর হিংসার কারণ ছিল তাদের শেষ করার যোজনা করেছিলেন৷ এই বন্যাটি ভুচর আর পাখিদেরও শেষ করবে৷
+  * **বিপুল বন্যা**- খুব গভীর জলরাশি যা পৃথিবীকে আচ্ছাদন করবে এমনকি সেসব জায়গাও যেখানকার মাটি সাধারনত শুকনো আর এমনকি সবচাইতে উচুঁ পর্বতদের শৃঙ্গও ডুবিয়ে দেবে৷
