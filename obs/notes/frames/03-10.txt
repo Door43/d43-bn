@@ -10,4 +10,4 @@
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **দাঁড়কাক**- একটি কালো পাখি যা উড়ে আর বিভিন্ন গাছ আর প্রানীদের খাদ্য হিসেবে খায়, এমনকি পশুদের পচা মাংসও খায়৷
-**[[:door43.org:en:obs:notes:frames:03-09|<<]] | [[https://door43.org/en/obs/notes/03|Up]] | [[https://door43.org/en/obs/notes/frames/03-11|>>]]**
+**[[:bn:obs:notes:frames:03-09|<<]] | [[:bn:obs:notes:frames:03-10|Up]] | [[https://door43.org/en/obs/notes/frames/03-11|>>]]**
