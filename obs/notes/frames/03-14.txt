@@ -6,27 +6,17 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  *
-
-**[[:bn:obs:notes:key-terms:noah|নোহ]]**
-  *
-
-**বেদী**
-  *
-
-**বলি উৎসর্গ করেছিলেন**
-  *
-
-**ঈশ্বর**
-  *
-
-**আশির্বাদ দিলেন**
+  * **[[:bn:obs:notes:key-terms:noah|নোহ]]**
+  * **[[:bn:obs:notes:key-terms:altar|বেদী]]**
+  * **[[:bn:obs:notes:key-terms:sacrifice|বলি উৎসর্গ করেছিলেন]]**
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:bless|আশির্বাদ দিলেন]]**
 ===== Translation Notes: =====
 
   *
 
 **animal that could be used for a sacrifice**  - Another way to say this would be, “that people could use to sacrifice to him.”
+
   *
 
-**God was happy**  - God was pleased with Noah for sacrificing these animals.
-**[[https://door43.org/en/obs/notes/frames/03-13|<<]] | [[https://door43.org/en/obs/notes/03|Up]] | [[https://door43.org/en/obs/notes/frames/03-15|>>]]**
+**God was happy**  - God was pleased with Noah for sacrificing these animals. **[[https://door43.org/en/obs/notes/frames/03-13|<<]] | [[https://door43.org/en/obs/notes/03|Up]] | [[https://door43.org/en/obs/notes/frames/03-15|>>]]**
