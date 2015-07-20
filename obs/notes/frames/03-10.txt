@@ -2,14 +2,12 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-10.jpg?nolink&}}
 
-আরো ছলিশ দিন পর, নোহ একটি পাখি যাকে দাঁড়কাক বলা হয় দেখতে পাঠালেন যদি জল শুকিয়ে গিয়েছে কিনা৷  দাঁড়কাকটি উড়ে ফিরে এলো আর সে শুকনো ভূমি খুঁজেছিল কিন্তু সে পায়নি৷
+আরো ছলিশ দিন পর, নোহ একটি পাখি যাকে দাঁড়কাক বলা হয় দেখতে পাঠালেন যদি জল শুকিয়ে গিয়েছে কিনা৷ দাঁড়কাকটি উড়ে ফিরে এলো আর সে শুকনো ভূমি খুঁজেছিল কিন্তু সে পায়নি৷
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
   * **[[:bn:obs:notes:key-terms:noah|নোহ]]**
+===== অনুবাদিত টীকাসমূহ: =====
 
-===== Translation Notes: =====
-
-  *
-
-**raven**  - A black bird that flies and eats a variety of plant and animal foods, including the rotting flesh of dead animals. **[[https://door43.org/en/obs/notes/frames/03-09|<<]] | [[https://door43.org/en/obs/notes/03|Up]] | [[https://door43.org/en/obs/notes/frames/03-11|>>]]**
+  * **দাঁড়কাক**- একটি কালো পাখি যা উড়ে আর বিভিন্ন গাছ আর প্রানীদের খাদ্য হিসেবে খায়, এমনকি পশুদের পচা মাংসও খায়৷
+**[[:door43.org:en:obs:notes:frames:03-09|<<]] | [[https://door43.org/en/obs/notes/03|Up]] | [[https://door43.org/en/obs/notes/frames/03-11|>>]]**
