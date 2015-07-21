@@ -10,20 +10,10 @@
   * **[[:bn:obs:notes:key-terms:curse|অভিশপ্ত]]**
   * **[[:bn:obs:notes:key-terms:evil|মন্দ]]**
   * **[[:bn:obs:notes:key-terms:sin|পাপময়]]**
-===== Translation Notes: =====
+===== অনুবাদিত টীকাসমূহ: =====
 
-  *
-
-**never again**  - This means, “not ever again” or, “not again at any time” or, “truly not again”. Examples: “I will not ever again curse the ground” or, “I will not curse the ground again at any time” or, “I will truly not curse the ground again”.
-
-  *
-
-**curse the ground**  - The earth and the other creatures suffered because of man's sin.
-
-  *
-
-**the world**  – This refers to the earth and the living creatures that lived on it.
-
-  *
-
-**people are sinful from the time they are children**  - Another way to say this would be, “people do sinful things their entire lives.” **[[https://door43.org/en/obs/notes/frames/03-14|<<]] | [[https://door43.org/en/obs/notes/03|Up]] | [[https://door43.org/en/obs/notes/frames/03-16|>>]]**
+  * **আর কখনো নয়**- এর অর্থ হল, “আবার কখনো নয়” বা, “আর কোনো সময়ে নয়” বা, “সত্যি সত্যি পুনরায় নয়৷” উদাহরণস্বরূপ: “আমি আর কখনো ভূমিকে অভিশপ্ত করব না” বা, “আমি কোনো সময়েও ভূমিকে পুনরায় অভিশপ্ত করব না” বা, “আমি সত্যি সত্যি আবার ভূমিকে অভিশপ্ত করব না৷”
+  * **ভূমিকে অভিশপ্ত করা**- মানুষের পাপের জন্য পৃথিবী আর অন্যান্য সৃষ্ট প্রাণীরা ভুগেছিল৷
+  * **পৃথিবী**- এটি উল্লেখ করে পৃথিবী ও সকল জীবিত প্রানীদের যারা এর উপর বসবাস করে৷
+  * **মনুষ্য জাতি শৈশবকাল থেকেই পাপময়**- এটি অন্যভাবে বললে এটি হবে, “মনুষ্যেরা তাদের সম্পূর্ণ জীবনই পাপময় কার্য করে৷”
+**[[:bn:obs:notes:frames:03-14|<<]] | [[:bn:obs:notes:frames:03-15|Up]] | [[:bn:obs:notes:frames:03-16|>>]]**
