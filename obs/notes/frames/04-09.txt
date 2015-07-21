@@ -2,31 +2,20 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-09.jpg?nolink&}}
 
-তারপর ঈশ্বর অব্রামের সাথে একটি নিয়ম স্থির করলেন৷ নিয়মটি হল দুটি দলের মধ্যে একটি সম্মতি৷  ঈশ্বর বললেন, “আমি তোমাকে তোমার নিজ দেহের একটি পুত্র দেব৷ আমি তোমার বংশধরদের কানানের ভূমিটি প্রদান করব৷ কিন্তু তথাপি তখনও অব্রামের কোনো পুত্র ছিল না৷
+তারপর ঈশ্বর অব্রামের সাথে একটি নিয়ম স্থির করলেন৷ নিয়মটি হল দুটি দলের মধ্যে একটি সম্মতি৷ ঈশ্বর বললেন, “আমি তোমাকে তোমার নিজ দেহের একটি পুত্র দেব৷ আমি তোমার বংশধরদের কানানের ভূমিটি প্রদান করব৷ কিন্তু তথাপি তখনও অব্রামের কোনো পুত্র ছিল না৷
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * ****[[:bn:obs:notes:key-terms:god|ঈশ্বর]]****
-  * ****[[:bn:obs:notes:key-terms:covenant|নিয়ম]]****
-  * ****[[:bn:obs:notes:key-terms:abraham|আব্রাম]]****
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:covenant|নিয়ম]]**
+  * **[[:bn:obs:notes:key-terms:abraham|আব্রাম]]**
   * **[[:bn:obs:notes:key-terms:son|পুত্র]]**
   * **[[:bn:obs:notes:key-terms:canaan|কানান]]**
-  * ********[[:bn:obs:notes:key-terms:descendant|সন্তান-সন্ততি]]********
+  * **[[:bn:obs:notes:key-terms:descendant|সন্তান-সন্ততি]]**
+===== অনুবাদিত টীকাসমূহ: =====
 
-===== Translation Notes: =====
-
-  *
-
-**two parties**  - The parties could be two people, two groups of people, or a person and a group of people. In this case the agreement was between God and Abram.
-
-  *
-
-**from your own body**  - With his own body Abram would cause his wife to become pregnant, so that together they would have their own, natural son. This was an amazing promise, since Abram and Sarai were very old.
-
-  *
-
-**did not have a son**  - Abram still did not have any descendants who could possess the land.
-
-  *
-
-//A Bible story from//  - These references may be slightly different in some Bible translations. **[[https://door43.org/en/obs/notes/frames/04-08|<<]] | [[https://door43.org/en/obs/notes/04|Up]] | [[https://door43.org/en/obs/notes/frames/05-01|>>]]**
+  * **দুটি দলসমূহ**- দল সমূহ বলতে দুজনও হতে পারে, দুটি সম্প্রদায় হতে পারে, বা একটি ব্যক্তি ও একটি গোষ্ঠীও হতে পারে৷ এই ক্ষেত্রে ঈশ্বর ও অব্রামের মধ্যে সম্মতি বোঝায়৷
+  * **তোমার নিজ দেহ থেকে**- তার নিজ শরীর দ্বারা আব্রাম তার স্ত্রীকে গর্ভবতী করবেন, যেন দুজনের দ্বারা তাদের প্রাকৃতিক পুত্র সন্তান হয়৷ এটি ছিল একটি অদ্ভুত প্রতিজ্ঞা ছিল, যেহেতু তখন আব্রাম ও সারী খুবিই বৃদ্ধ ছিলেন৷
+  * **পুত্র ছিল না**- অব্রামের তখনও কোনো সন্তান ছিল না যে সেই দেশটিতে রাজত্ব করে৷
+  * //একটি বাইবেল কাহিনী-//  এইসব উল্লেখগুলো কিছু কিছু বাইবেল অনুবাদে সামান্য ভিন্ন হতে পারে৷
+**[[:bn:obs:notes:frames:04-08|<<]] | [[:bn:obs:notes:frames:04-09|Up]] | [[:bn:obs:notes:frames:05-01|>>]]**
