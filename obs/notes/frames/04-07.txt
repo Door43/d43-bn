@@ -1,31 +1,16 @@
-===== Melchizedek [04-07] =====
+===== মল্কীযেদক [০৪-০৭] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-07.jpg?nolink&}}
 
-One day, **Abram** met **Melchizedek**, the **priest** of **God Most High**. Melchizedek **blessed** Abram and said, “May God Most High who **owns heaven and earth** bless Abram.” Then Abram gave Melchizedek a tenth of all he owned.
-===== Important Terms: =====
+একদিন, আব্রাম মল্কীযেদকের সাথে, যিনি মহান ঈশ্বরের যাজক ছিলেন, সাক্ষাৎকার করেন৷ মল্কীযেদক অব্রামকে আশির্বাদ করলেন আর বললেন, “সর্বশক্তিমান ঈশ্বর যিনি স্বর্গ ও পৃথিবীর কর্তা আপনাকে আশির্বাদ করুন৷” তারপর আব্রাম মল্কীযেদককে তার সকল কিছুর দশমাংশ প্রদান করলেন৷
 
-  *
-
-**[[https://door43.org/en/obe/other/abraham|Abram]]**
-  *
-
-**[[https://door43.org/en/obe/kt/priest|priest]]**
-  *
-
-**[[https://door43.org/en/obe/kt/god|God Most High]]**
-  *
-
-**[[https://door43.org/en/obe/kt/bless|blessed]]**
-  *
-
-**[[https://door43.org/en/obe/kt/heaven|heaven]]**
-===== Translation Notes: =====
-
-  *
-
-**Melchizedek**  - Melchizedek was the recognized religious authority in Canaan who received and presented offerings to God.
-  *
-
-**God Most High**  - The people of Canaan worshiped many false gods. The title, “Most High God” explains that the God that Melchizedek worshiped was far superior to all of them, and was the same God that Abram worshiped.
-**[[https://door43.org/en/obs/notes/frames/04-06|<<]] | [[https://door43.org/en/obs/notes/04|Up]] | [[https://door43.org/en/obs/notes/frames/04-08|>>]]**
+**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font> **
+  * **[[:bn:obs:notes:key-terms:abraham|আব্রাম]]**
+  * **[[:bn:obs:notes:key-terms:priest|যাজক]]**
+  * **[[:bn:obs:notes:key-terms:god|সর্বশক্তিমান ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:bless|আশির্বাদ দিলেন]]**
+  * **[[:bn:obs:notes:key-terms:heaven|স্বর্গ]]**
+**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font> **
+  * **মল্কীযেদক**- মল্কীযেদক কাননের একজন ধর্মী ব্যক্তি ছিলেন যিনি ঈশ্বরের জন্য উপহার গ্রহণ ও প্রস্তুত করতেন৷
+  * **সর্বশক্তিমান ঈশ্বর**  – কানানের লোকেরা বহু মিথ্যে দেবদেবীর আরাধনা করত৷ এই নামটি, “সর্বশক্তিমান ঈশ্বর” বর্ণনা দেয় যে ঈশ্বরকে মল্কীযেদক আরাধনা করতেন তিনি সেই সকল দেবদেবীর তুলনায় অনেক মহান ছিলেন আর সেই একই ঈশ্বর ছিলেন যার আরাধনা আব্রাম করতেন৷
+**[[:bn:obs:notes:frames:04-06|<<]] | [[:bn:obs:notes:frames:04-07|Up]] | [[:bn:obs:notes:frames:04-08|>>]]**
