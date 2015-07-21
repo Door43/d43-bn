@@ -1,34 +1,18 @@
-===== God Blessed Abram [04-06] =====
+===== ঈশ্বর আব্রামকে আশির্বাদ দিয়েছিলেন [০৪-০৬] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-06.jpg?nolink&}}
 
-When **Abram** arrived in **Canaan**, **God** said, “Look all around you. I will give to you and your **descendants all the land that you can see as an inheritance**”. **Then Abram settled in the land**.
-===== Important Terms: =====
+যখন আব্রাম কানান দেশে পৌঁছেছিলেন, তখন ঈশ্বর বললেন “তোমার চারিদিকে দেখো৷  এই সকল ভূমি যা তুমি দেখতে পারছ তা আমি তোমাকে ও তোমার উত্তরাধিকারীদের উত্তরাধিকার স্বরূপ প্রদান করব৷তারপর আব্রাম ভূমিটিতে বসবাস করতে থাকলো৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/other/abraham|Abram]]**
-  *
-
-**[[https://door43.org/en/obe/other/canaan|Canaan]]**
-  *
-
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
-
-**[[https://door43.org/en/obe/other/descendant|descendants]]**
-  *
-
-**[[https://door43.org/en/obe/kt/inherit|inheritance]]**
-===== Translation Notes: =====
-
-  *
-
-**all the land that you can see**  - If Abram was standing on a mountain, he could have seen a very large area. On several occasions God promised to give the entire land of Canaan to Abram and his descendants.
-  *
-
-**as an inheritance**  - God promised to give land to Abram and his descendants as a father gives land and possessions to his children.
-  *
-
-**Then Abram settled in the land**  - Abram lived there along with all those who had gone there with him.
-**[[https://door43.org/en/obs/notes/frames/04-05|<<]] | [[https://door43.org/en/obs/notes/04|Up]] | [[https://door43.org/en/obs/notes/frames/04-07|>>]]**
+  * ****[[:bn:obs:notes:key-terms:abraham|আব্রাম]]****
+  * ****[[:bn:obs:notes:key-terms:canaan|কানান]]****
+  * ****[[:bn:obs:notes:key-terms:god|ঈশ্বর]]****
+  * ********[[:bn:obs:notes:key-terms:descendant|সন্তান-সন্ততি]]********
+  * ****[[:bn:obs:notes:key-terms:inherit|উত্তরাধিকার]]****
+**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font> **
+  * **এই সকল ভূমি যা তুমি দেখতে পারছ**- যদি আব্রাম একটি পর্বতে দাঁড়িয়ে থাকেন তাহলে তিনি খুব বড় এলাকা দেখে থাকবেন৷ কতিপয় ঘটনায় ঈশ্বর আব্রাম ও তার উত্তরাধিকারদের কাননের সম্পূর্ণ ভূমিটিকে দেওয়ার প্রতিজ্ঞা করেছিলেন৷
+  * **উত্তরাধিকার স্বরূপ**- ঈশ্বর আব্রাম ও তার উত্তরাধিকারদের ভূমি দিয়েছিলেন যেমন একজন পিতা তার ভূমি ও সম্পত্তি তার সন্তানেদের দেন৷
+  * **আব্রাম সেই ভূমিতে বসবাস করলেন**- আব্রাম সেখানে বসবাস করলেন তাদের সাথে যারা তার সাথে সেখানে গিয়েছিলেন৷
+**[[:bn:obs:notes:frames:04-05|<<]] | [[:bn:obs:notes:frames:04-06|Up]] | [[:bn:obs:notes:frames:04-07|>>]]**
