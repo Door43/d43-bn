@@ -6,7 +6,7 @@
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
   * **[[:bn:obs:notes:key-terms:proud|অহংকার]]**
-  * ****[[:bn:obs:notes:key-terms:god|ঈশ্বর]]****
+  * [[:bn:obs:notes:key-terms:god|ঈশ্বর]]
   * **[[:bn:obs:notes:key-terms:heaven|স্বর্গ]]**
   * **[[:bn:obs:notes:key-terms:evil|মন্দ]]**
   * **[[:bn:obs:notes:key-terms:sin|পাপময়]]**
@@ -14,4 +14,4 @@
 
   * **স্বর্গস্পর্শী মিনার**- এই পরিকাঠামোটি এতটাই উচ্চ ছিল যে এর চূড়া আকাশে পৌঁছাত৷
   * **স্বর্গ**  – এটিকে, “আকাশ” হিসেবে অনুবাদ করতে হবে৷
-**[[:bn:obs:notes:frames:04-01|<<]][[:bn:obs:notes:frames:04-01| ]]| [[:bn:obs:notes:frames:04-02|Up]] | [[:bn:obs:notes:frames:04-03|>>]]**
+**[[:bn:obs:notes:frames:04-01|<<]] | [[:bn:obs:notes:frames:04-02|Up]] | [[:bn:obs:notes:frames:04-03|>>]]**
