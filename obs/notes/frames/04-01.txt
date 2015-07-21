@@ -1,25 +1,16 @@
-===== One People [04-01] =====
+===== একত্র মানুষ [০৪-০১] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink&}}
 
-**Many years after the flood**, there were **again many people** in the world, and they all spoke the **same language**. Instead of filling the earth as **God** had commanded, they gathered together and built **a city**.
-===== Important Terms: =====
+বন্যার বহু বছর পর, পুনরায় পৃথিবীতে প্রচুর লোক হল, আর তারা সকল এক ভাষাতেই কথা বলত৷  পৃথিবী পরিপূর্ণ করার বদলে যেমন ঈশ্বর আদেশ দিয়েছিলেন, তারা একত্র হল আর একটি নগরের নির্মান করল৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/kt/god|God]]**
-===== Translation Notes: =====
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+===== অনুবাদিত টীকাসমূহ: =====
 
-  *
-
-**many years after the flood**  - Many generations had passed since the end of the flood.
-  *
-
-**again many people**  - Noah's family multiplied into enough people to fill a city.
-  *
-
-**same language**  - This means there was only one language, so they could all understand each other.
-  *
-
-**a city**  - It is best to use a general word for “city” since the text does not give a specific name.
-**[[https://door43.org/en/obs/notes/frames/03-16|<<]] | [[https://door43.org/en/obs/notes/04|Up]] | [[https://door43.org/en/obs/notes/frames/04-02|>>]]**
+  * **বন্যার বহু বছর পর**- বন্যার শেষ হওয়ার পর বহু প্রজন্ম পার হয়ে গিয়েছিল৷
+  * **পুনরায় বহু লোক**- নোহের পরিবার বহু পরিবারে বৃদ্ধি পেয়েছিল নগরটিকে পরিপূর্ণ করার জন্য৷
+  * **এক ভাষা**- এর অর্থ হল কেবল একটি ভাষা, যেন তারা একেঅপরকে বুঝতে পারে৷
+  * **একটি নগর**- এটি ভালো হবে “নগরের” জন্য একটি সাধারণ শব্দের ব্যবহার করা যেহেতু বাক্য আমাদের কোনো নির্দিষ্ট নাম দেয় নি৷
+**[[:bn:obs:notes:frames:03-16|<<]] | [[:bn:obs:notes:frames:04-01|Up]] | [[:bn:obs:notes:frames:04-02|>>]]**
