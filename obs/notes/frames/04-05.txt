@@ -1,37 +1,19 @@
-===== To Canaan [04-05] =====
+===== কানান [০৪-০৫] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-05.jpg?nolink&}}
 
-So **Abram obeyed God**. **He took** his wife, **Sarai**, together with all of his **servants** and everything he owned and went to the land **God showed him**, **the land of Canaan**.
-===== Important Terms: =====
+অতএব আব্রাম ঈশ্বরের আজ্ঞাকারী হলেন৷তিনি তার স্ত্রী সারীকে, তার চাকরদের আর যা কিছু তিনি অধিকার করতেন সঙ্গে নিলেন আর ঈশ্বরের দেখানো দেশে যা ছিল কানান দেশ, চললেন৷
 
-  *
+**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font> **
+  * ****[[:bn:obs:notes:key-terms:abraham|আব্রাম]]****
+  * **[[:bn:obs:notes:key-terms:obey|আজ্ঞাকারী]]**
+  * ****[[:bn:obs:notes:key-terms:god|ঈশ্বর]]****
+  * **[[:bn:obs:notes:key-terms:sarah|সারী]]**
+  * **[[:bn:obs:notes:key-terms:servant|চাকরবাকরদের]]**
+  * **[[:bn:obs:notes:key-terms:canaan|কানান]]**
+===== অনুবাদিত টীকাসমূহ: =====
 
-**[[https://door43.org/en/obe/other/abraham|Abram]]**
-  *
-
-**[[https://door43.org/en/obe/other/obey|obeyed]]**
-  *
-
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
-
-**[[https://door43.org/en/obe/other/sarah|Sarai]]**
-  *
-
-**[[https://door43.org/en/obe/other/servant|servants]]**
-  *
-
-**[[https://door43.org/en/obe/other/canaan|Canaan]]**
-===== Translation Notes: =====
-
-  *
-
-**He took**  – Some languages would say, “He brought” here. Others would use two different verbs here, such as, “He caused his wife to come with him” and, “He brought along all of their servants and possessions.”
-  *
-
-**God showed him**  - Somehow God made it clear to Abram where he was to go. The text doesn't tell how God showed him.
-  *
-
-**land of Canaan**  - The name of this land was “Canaan”. This could be translated, “the land called Canaan.”
-**[[https://door43.org/en/obs/notes/frames/04-04|<<]] | [[https://door43.org/en/obs/notes/04|Up]] | [[https://door43.org/en/obs/notes/frames/04-06|>>]]**
+  * **তিনি সঙ্গে নিলেন**  – কিছু কিছু ভাষা এখানে বলে, “তিনি সঙ্গে আনলেন৷” অন্যরা এখানে দুটি ক্রিয়া শব্দের প্রয়োগ করে, যেমন, “তিনি তার স্ত্রীকে তার সাথে আসতে বাধ্য করলেন” আর, “তিনি তার সাথে তার চাকরদের আর সম্পত্তি নিজের সাথে আনলেন৷”
+  * **ঈশ্বর তাকে দেখিয়ে ছিলেন**- কোনোভাবে হয়ত ঈশ্বর এটি অব্রামকে স্পষ্ট করেছিলেন যে কোথায় তিনি চলেছেন৷ বাক্য আমাদের বলে না যে কিভাবে ঈশ্বর তাকে তা দেখিয়েছিলেন৷
+  * **কানান দেশ**- এই ভূমিটির নাম ছিল “কানান”৷ এটি এভাবে অনুবাদ করা যাবে, “ভূমি যাকে কানান বলা হত৷”
+**[[:bn:obs:notes:frames:04-04|<<]] | [[:bn:obs:notes:frames:04-05|Up]] | [[:bn:obs:notes:frames:04-06|>>]]**
