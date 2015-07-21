@@ -1,40 +1,20 @@
-===== No Son [04-08] =====
+===== পুত্রহীন [০৪-০৮] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-08.jpg?nolink&}}
 
-**Many years** went by, but **Abram** and **Sarai** still did not have a **son**. **God** spoke to Abram and **promised** again that he would have a son and as many **descendants** **as the stars in the sky**. Abram **believed** God's promise. God declared that Abram was **righteous** because he believed in God's promise.
-===== Important Terms: =====
+বহু বছর পার হয়ে গেল, কিন্তু আব্রাম ও সারীর তখনও কোনো পুত্র উৎপন্ন হয়নি৷ঈশ্বর অব্রামকে বলেছিলেন আর পুনরায় প্রতিজ্ঞা করেছিলেন যে তার একটি পুত্র হবে আর আকাশের নক্ষত্রদের ন্যায় তার সন্তান সন্ততি হবে৷ অব্রাম ঈশ্বরের প্রতিজ্ঞায় বিশ্বাস করলেন৷ ঈশ্বর ঘোষনা করেছিলেন যে আব্রাম একজন ধর্মী কেননা তিনি ঈশ্বরের প্রতিজ্ঞাকে বিশ্বাস করেছিলেন৷
 
-  *
+**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font> **
+  * **[[:bn:obs:notes:key-terms:abraham|আব্রাম]]**
+  * ****[[:bn:obs:notes:key-terms:sarah|সারী]]****
+  * **[[:bn:obs:notes:key-terms:son|পুত্র]]**
+  * ****[[:bn:obs:notes:key-terms:god|ঈশ্বর]]****
+  * ****[[:bn:obs:notes:key-terms:promise|প্রতিজ্ঞাসমূহ]]****
+  * **[[:bn:obs:notes:key-terms:descendant|সন্তান-সন্ততি]]**
+  * ******[[:bn:obs:notes:key-terms:believe|বিশ্বাসকরেছিলেন]]******
+  * **[[:bn:obs:notes:key-terms:righteous|ধর্মী]]**
+===== অনুবাদিত টীকাসমূহ: =====
 
-**[[https://door43.org/en/obe/other/abraham|Abram]]**
-  *
-
-**[[https://door43.org/en/obe/other/sarah|Sarai]]**
-  *
-
-**[[https://door43.org/en/obe/kt/son|son]]**
-  *
-
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
-
-**[[https://door43.org/en/obe/kt/promise|promised]]**
-  *
-
-**[[https://door43.org/en/obe/other/descendant|descendants]]**
-  *
-
-**[[https://door43.org/en/obe/kt/believe|believed]]**
-  *
-
-**[[https://door43.org/en/obe/kt/righteous|righteous]]**
-===== Translation Notes: =====
-
-  *
-
-**Many years**  - Several years had passed since God had first promised that Abram would have a son.
-  *
-
-**as the stars in the sky**  - This expression means that Abram's descendants will be so many that no one can count them all.
-**[[https://door43.org/en/obs/notes/frames/04-07|<<]] | [[https://door43.org/en/obs/notes/04|Up]] | [[https://door43.org/en/obs/notes/frames/04-09|>>]]**
+  * **বহু বছর**- ঈশ্বরের প্রথমবার প্রতিজ্ঞা করার বহু বছর পর যে অব্রামের একটি পুত্র হবে৷
+  * **আকাশের নক্ষত্রদের ন্যায়**- এই রূপকটির অর্থ হল যে আব্রাহামের প্রচুর সন্তান সন্ততি হবে যে তাদের কেউই গণনা করতে পারবে না৷
+**[[:bn:obs:notes:frames:04-07|<<]] | [[:bn:obs:notes:frames:04-08|Up]] | [[:bn:obs:notes:frames:04-09|>>]]**
