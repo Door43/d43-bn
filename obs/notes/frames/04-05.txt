@@ -4,10 +4,10 @@
 
 অতএব আব্রাম ঈশ্বরের আজ্ঞাকারী হলেন৷তিনি তার স্ত্রী সারীকে, তার চাকরদের আর যা কিছু তিনি অধিকার করতেন সঙ্গে নিলেন আর ঈশ্বরের দেখানো দেশে যা ছিল কানান দেশ, চললেন৷
 
-**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font> **
-  * ****[[:bn:obs:notes:key-terms:abraham|আব্রাম]]****
+**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font>    **
+  * **[[:bn:obs:notes:key-terms:abraham|আব্রাম]]**
   * **[[:bn:obs:notes:key-terms:obey|আজ্ঞাকারী]]**
-  * ****[[:bn:obs:notes:key-terms:god|ঈশ্বর]]****
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
   * **[[:bn:obs:notes:key-terms:sarah|সারী]]**
   * **[[:bn:obs:notes:key-terms:servant|চাকরবাকরদের]]**
   * **[[:bn:obs:notes:key-terms:canaan|কানান]]**
