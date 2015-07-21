@@ -6,7 +6,7 @@
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
   * **[[:bn:obs:notes:key-terms:proud|অহংকার]]**
-  * [[:bn:obs:notes:key-terms:god|ঈশ্বর]]
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
   * **[[:bn:obs:notes:key-terms:heaven|স্বর্গ]]**
   * **[[:bn:obs:notes:key-terms:evil|মন্দ]]**
   * **[[:bn:obs:notes:key-terms:sin|পাপময়]]**
