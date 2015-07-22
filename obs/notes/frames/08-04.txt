@@ -7,13 +7,12 @@
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
   * **[[:bn:obs:notes:key-terms:servant|ক্রীতদাস]]**
-  * **[[:bn:obs:notes:key-terms:joseph ot|যোষেফ]]**
+  * **[[:bn:obs:notes:key-terms:joseph-ot|যোষেফ]]**
   * **[[:bn:obs:notes:key-terms:egypt|রমিশ]]**
   * **[[:bn:obs:notes:key-terms:nileriver|নিল নদ ]]**
-  * **** **[[https://door43.org/en/obe/kt/god|God]]** ****
-  * **আশির্বাদ করলেন **
-==== Translation Notes: ====
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:bless|আশির্বাদ করলেন ]]**
+==== অনুবাদিত টীকাসমূহ: ====
 
-  *
-
-**government official**  - This was a person who was part of the Egyptian government. Another way to say this would be, “a leader in Egypt's government.” **[[https://door43.org/en/obs/notes/frames/08-03|<<]] | [[https://door43.org/en/obs/notes/08|Up]] | [[https://door43.org/en/obs/notes/frames/08-05|>>]]**
+  * **সরকারী অফিসার**- ইনি মিশর সরকারের একজন ব্যক্তি ছিলেন৷ অন্যভাবে বললে এটি হবে, “মিশর সকারের একজন অধিকারী৷”
+  * **[[:bn:obs:notes:frames:08-03|<<]] | [[:bn:obs:notes:frames:08-04|Up]][[:bn:obs:notes:frames:08-04|]]| [[:bn:obs:notes:frames:08-05|>>]]**
