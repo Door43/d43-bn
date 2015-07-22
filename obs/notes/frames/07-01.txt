@@ -1,31 +1,18 @@
-===== The Boys Grew Up [07-01] =====
+===== ছেলেদুটো বেড়ে উঠলো [০৭-০১] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-01.jpg?nolink&}}
 
-As the boys grew up, **Jacob loved to stay at home**, but **Esau loved to hunt**. **Rebekah loved Jacob**, **but Isaac loved Esau**.
-===== Important Terms: =====
+যেমন ছেলে দুটো বেড়ে উঠলো, যাকোব গৃহে থাকতে ভালবাসতেন, কিন্তু এষৌ শিকার করা পছন্দ করতেন৷রিবিকা যাকোবকে বেশি স্নেহ করতেন, কিন্তু ইসহাক এষৌকে বেশি ভালবাসতেন৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/other/jacob|Jacob]]**
-  *
+  * ****[[:bn:obs:notes:key-terms:jacob|যাকোব]]****
+  * ****[[:bn:obs:notes:key-terms:esau|এষৌ]]****
+  * **[[:bn:obs:notes:key-terms:rebekah|রিবিকা]]**
+  * **[[:bn:obs:notes:key-terms:isaac|ইসহাক]]**
+===== অনুবাদিত টীকাসমূহ: =====
 
-**[[https://door43.org/en/obe/other/esau|Esau]]**
-  *
-
-**[[https://door43.org/en/obe/other/rebekah|Rebekah]]**
-  *
-
-**[[https://door43.org/en/obe/other/isaac|Isaac]]**
-===== Translation Notes: =====
-
-  *
-
-**loved to stay at home … loved to hunt**  - Some languages will use a word for “love” here that is different from the one used for, “Rebekah loved Jacob.” For example, this could be translated as, “liked to stay at home … liked to hunt” or, “preferred to stay at home … preferred to hunt.”
-  *
-
-**at home**  - This expression refers to the area around the family dwellings. Jacob preferred to stay close to the tents where they lived. Some languages have a special expression for, “at home.”
-  *
-
-**Rebekah loved Jacob, but Isaac loved Esau**  - This could be translated as, “Rebekah was more fond of Jacob, and Isaac was more fond of Esau.” This does not necessarily mean that Rebekah and Isaac did not love the other son, but that each parent had a favorite.
-**[[https://door43.org/en/obs/notes/frames/06-07|<<]] | [[https://door43.org/en/obs/notes/07|Up]] | [[https://door43.org/en/obs/notes/frames/07-02|>>]]**
+  * **গৃহে থাকতে পছন্দ করতেন শিকার করতে পছন্দ করতেন**- কিছু ভাষা এখানে “পছন্দ” শব্দটির জন্য কিছু ভিন্ন শব্দ প্রয়োগ করবে “রিবিকা যাকোব কে ভালবাসতেন” সেই শব্দটি থেকে আলাদা৷ উদাহরণস্বরূপ, এটিকে এভাবেও অনুবাদ করা যেতে পারে, “গৃহে থাকতে পছন্দ করতেন শিকার করতে পছন্দ করতেন” বা “গৃহে থাকাটা শ্রেয় মনে করতেন শিকার করাটা শ্রেয় মনে করতেন৷”
+  * **গৃহে**- এই অভিব্যক্তিটি উল্লেখ করে গৃহের চারধারের এলাকা৷ যাকোব তাম্বু যেখানে তারা বসবাস করতেন সেখানে কাছাকাছি থাকতে পছন্দ করতেন৷ কিছু ভাষায় একটি বিশেষ অভিব্যক্তি রয়েছে “গৃহ” শব্দটির জন্য৷
+  * **রিবিকা যাকোবকে স্নেহ করতেন, কিন্তু ইসহাক এষৌকে স্নেহ করতেন**- এটিকে এভাবেও অনুবাদ করা যেতে পারে, “যাকোবের প্রতি রিবিকা বেশি অনুরাগী ছিলেন আর ইসহাক এষৌর প্রতি বেশি অনুরাগী ছিলেন৷ এর অর্থ এমন নয় যে রিবিকা ও ইসহাক অন্য সন্তানটিকে ভালবাসতেন না, কিন্তু তাদের পছন্দের প্রিয় ব্যক্তি ছিল৷
+**[[:bn:obs:notes:frames:06-07|<<]] | [[:bn:obs:notes:frames:07-01|Up]] | [[:bn:obs:notes:frames:07-02|>>]]**
