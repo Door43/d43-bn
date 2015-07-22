@@ -1,28 +1,21 @@
-===== The Ram [05-09] =====
+===== পাঁঠা  [০৫-০৯] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-09.jpg?nolink&}}
 
-Nearby **Abraham** saw **a ram** that was stuck in a bush. **God had provided the ram** to be the **sacrifice** instead of **Isaac**. Abraham happily offered the ram as a sacrifice.
-===== Important Terms: =====
+কাছাকাছিতেই আব্রাহাম একটি পাঁঠাকে দেখতে পেলেন যা একটি ঝোঁপের মধ্যে আটকা গিয়েছিল৷ঈশ্বর একটি পাঁঠা সরবরাহ করেছিলেন ইসহাকের জায়গায় বলি দেওয়ার জন্য৷ আব্রাহাম আনন্দের সাথে পাঁঠাটিকে বলি দিয়েছিলেন৷
 
-  *
+**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font> **
+  * ****[[:bn:obs:notes:key-terms:abraham|আব্রাহাম]]****
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:sacrifice|বলি]]**
+  * ****[[:bn:obs:notes:key-terms:isaac|ইসহাক]]****
 
-**[[https://door43.org/en/obe/other/abraham|Abraham]]**
-  *
-
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
-
-**[[https://door43.org/en/obe/other/sacrifice|sacrifice]]**
-  *
-
-**[[https://door43.org/en/obe/other/isaac|Isaac]]**
 ===== Translation Notes: =====
 
   *
 
 **a ram**  - A ram is a male goat. Goats were one of the animals that people could sacrifice to God.
+
   *
 
-**God had provided the ram**  - Just at the right moment, God caused the ram to be stuck in the bush.
-**[[https://door43.org/en/obs/notes/frames/05-08|<<]] | [[https://door43.org/en/obs/notes/05|Up]] | [[https://door43.org/en/obs/notes/frames/05-10|>>]]**
+**God had provided the ram**  - Just at the right moment, God caused the ram to be stuck in the bush. **[[https://door43.org/en/obs/notes/frames/05-08|<<]] | [[https://door43.org/en/obs/notes/05|Up]] | [[https://door43.org/en/obs/notes/frames/05-10|>>]]**
