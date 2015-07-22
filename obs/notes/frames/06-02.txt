@@ -1,25 +1,14 @@
-===== Finding Rebekah [06-02] =====
+===== রিবিকার প্রাপ্তি [০৬-০২] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-02.jpg?nolink&}}
 
-After a very long journey to the land where **Abraham's** relatives lived, **God** led the **servant** to **Rebekah**. She was the **granddaughter of Abraham's brother**.
-===== Important Terms: =====
+সে স্থানে যেখানে আব্রাহামের আত্মীয়রা থাকত সেখানে বহু দুরের যাত্রা করার পর, ঈশ্বর চাকরটিকে রিবিকার কাছে নিয়ে যান৷  তিনি আব্রাহামের ভাইয়ের নাতনী ছিলেন৷
 
-  *
-
-**[[https://door43.org/en/obe/other/abraham|Abraham's]]**
-  *
-
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
-
-**[[https://door43.org/en/obe/other/servant|servant]]**
-  *
-
-**[[https://door43.org/en/obe/other/rebekah|Rebekah]]**
-===== Translation Notes: =====
-
-  *
-
-**granddaughter of Abraham's brother**  - Specifically, she was the daughter of Abraham's brother's son. Her grandfather was Abraham's brother.
-**[[https://door43.org/en/obs/notes/frames/06-01|<<]] | [[https://door43.org/en/obs/notes/06|Up]] | [[https://door43.org/en/obs/notes/frames/06-03|>>]]**
+**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font> **
+  * ****[[:bn:obs:notes:key-terms:abraham|আব্রাহামের]]****
+  * ****[[:bn:obs:notes:key-terms:god|ঈশ্বর]]****
+  * **[[:bn:obs:notes:key-terms:servant|চাকর]]**
+  * ****[[:bn:obs:notes:key-terms:rebekah|রিবিকা]]****
+**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font> **
+  * **আব্রাহামের ভাইয়ের নাতনী**- নির্দিষ্টভাবে, তিনি আব্রাহামের ভাইয়ের ছেলের মেয়ে ছিলেন৷ তার পিতামহ আব্রাহামের ভাই ছিলেন৷
+**[[:bn:obs:notes:frames:06-01|<<]] | [[:bn:obs:notes:frames:06-02|Up]] | [[:bn:obs:notes:frames:06-03|>>]]**
