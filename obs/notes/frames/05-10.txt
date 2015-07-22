@@ -1,14 +1,14 @@
 
 
-**<font 24px/inherit;;inherit;;inherit>আশির্বাদ [০৫-১০]</font> **
+**<font 24px/inherit;;inherit;;inherit>আশির্বাদ [০৫-১০]</font>    **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-10.jpg?nolink&}}
 
 তারপর ঈশ্বর আব্রাহামকে বলেন, “যেহেতু তুমি আমাকে তোমার সর্বস্ব দিতে রাজি হয়েছ এমনকি তোমার একমাত্র পুত্রকেও, আমি প্রতিজ্ঞা করছি তোমাকে আশির্বাদ করব৷ তোমার উত্তরাধিকারীরা আকাশের নক্ষত্রদের থেকেও বেশি হবে৷ কেননা তুনি আমার আজ্ঞাকারী হয়েছ, তোমার পরিবারের দ্বারা পৃথিবীর সকল পরিবার আশির্বাদ প্রাপ্ত হবে৷
 
-**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font> **
-  * ****[[:bn:obs:notes:key-terms:god|ঈশ্বর]]****
-  * ****[[:bn:obs:notes:key-terms:abraham|আব্রাহাম]]****
+**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font>    **
+  * [[:bn:obs:notes:key-terms:god|ঈশ্বর]]
+  * [[:bn:obs:notes:key-terms:abraham|আব্রাহাম]]
   * **[[:bn:obs:notes:key-terms:son|পুত্র]]**
   * **[[:bn:obs:notes:key-terms:promise|প্রতিজ্ঞা]]**
   * **[[:bn:obs:notes:key-terms:bless|আশির্বাদ]]**
@@ -16,7 +16,7 @@
   * **[[:bn:obs:notes:key-terms:obey|আজ্ঞাকারী]]**
 ===== অনুবাদিত টীকাসমূহ: =====
 
-  * **your only son**  - See explanation in **[[https://door43.org/en/obs/notes/frames/05-08|[05-08]]]**.
+  * **তোমার একমাত্র পুত্র**- ইশ্মায়েলও আব্রাহামের পুত্র ছিলেন কিন্তু ইসহাকই কেবল আব্রাহাম ও সারার পুত্র ছিলেন৷ ঈশ্বরের নিয়ম ইসহাকের সাথে ছিল আর ইসহাকের দ্বারা ঈশ্বর তার প্রতিজ্ঞা পূর্ণ করবেন৷**[[https://door43.org/en/obs/notes/frames/05-08|[05-08]]]**.
   * **the stars in the sky**  - See explanation in **[[https://door43.org/en/obs/notes/frames/04-05|[04-05]]]**.
   * **all the families of the world**  - Here, “families” refers to the larger distinct groups of people on earth, rather than to each set of parents and children.
   * **blessed through your family**  - Here, “family” refers to the many descendants that Abraham would have. The future generations of the world would be blessed through Abraham's descendants. The greatest blessing would come many generations later through God's chosen servant, the Messiah.
