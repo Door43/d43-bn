@@ -1,6 +1,6 @@
 
 
-**<font 24px/inherit;;inherit;;inherit>দুটি জাতি [০৬-০৬]</font> **
+**<font 24px/inherit;;inherit;;inherit>দুটি জাতি [০৬-০৬]</font>    **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-06.jpg?nolink&}}
 
@@ -8,24 +8,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * ****[[:bn:obs:notes:key-terms:god|ঈশ্বর]]****
-  * ****রিবিকা** **
-  * **পুত্র**
-===== Translation Notes: =====
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:rebekah|রিবিকা]]**
+  * **[[:bn:obs:notes:key-terms:son|পুত্র]]**
+===== অনুবাদিত টীকাসমূহ: =====
 
-  *
-
-**rom the two sons**  - That is, “from the descendants of the two sons.”
-
-  *
-
-**They will struggle with each other**  - Both the two sons and the nations that will come from them will continually fight with each other. Compare to **[[https://door43.org/en/obs/notes/frames/06-05|[06-05]]]**.
-
-  *
-
-**the older son**  - Even though the babies were twins, the baby that came out first would be treated as the older son.
-
-  *
-
-**serve the younger one**  – This could be translated as, “the older son will have to do what the younger one tells him to do.” **[[https://door43.org/en/obs/notes/frames/06-05|<<]] | [[https://door43.org/en/obs/notes/06|Up]] | [[https://door43.org/en/obs/notes/frames/06-07|>>]]**
+  * **দুটি পুত্র থেকে**- তা হল, “দুটি পুত্রের সন্তানদের থেকে৷”
+  * **তারা একেঅপরের সাথে সংঘর্ষ করবে**- পুত্র দুটি ও তাদের দ্বারা আগত সন্তানরা একেঅপরের সাথে অবিরাম লড়াই করবে৷[০৬-০৫]-এর সাথে তুলনা করুন৷
+  * **জ্যেষ্ঠ পুত্র**- যদিও সেই সন্তান দুটি যমজ ছিল, তবুও প্রথম শিশুটিকে জ্যেষ্ঠ বলে গন্য করা হয়৷
+  * **কনিষ্ঠজনের সেবা করবে**- এটিকে এভাবেও অনুবাদ করা যেতে পারে, “জ্যেষ্ঠজনকে সেই সব আজ্ঞা পালন করতে হবে যা কনিষ্ঠজন তাকে করার আদেশ দেবে৷”
+**[[:bn:obs:notes:frames:06-05|<<]] | [[:bn:obs:notes:frames:06-06|Up]] | [[:bn:obs:notes:frames:06-07|>>]]**
 
