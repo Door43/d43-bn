@@ -1,37 +1,20 @@
-===== Pharaoh's Dream [08-06] =====
+===== ফরৌনের স্বপ্ন [০৮-০৬] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-06.jpg?nolink&}}
 
-After two years, **Joseph** was still in prison, even though he was **innocent**. One night, the **Pharaoh**, which is what the **Egyptians** called their **kings**, had two **dreams** that **disturbed him greatly**. None of **his advisors** could tell him the **meaning of the dreams**.
-===== Important Terms: =====
+দু বছর পরও, যোষেফ তখনও জেলেই ছিলেন, যখনকি তিনি নির্দোষ ছিলেন৷এক রাতে ফরৌণ, যা মিশরবাসীরা তাদের রাজাদেরকে বলতেন, দুটি স্বপ্ন দেখলেন যা তাকেপ্রচুর পরিমানে বিচলিত করেছিল৷তার কোনোও মন্ত্রবেত্তাগন তাকে তার স্বপ্নগুলোর অর্থ বলতে পারল না৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/other/josephot|Joseph]]**
-  *
+  * **[[:bn:obs:notes:key-terms:joseph ot|যোষেফ]]**
+  * **__[[:bn:obs:notes:key-terms:innocent|নির্দোষ]]__**
+  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
+  * **[[:bn:obs:notes:key-terms:egypt|মিশরবাসী ]]**
+  * **[[:bn:obs:notes:key-terms:king|রাজাদের]]**
+  * **[[:bn:obs:notes:key-terms:dream|স্বপ্নগুলো ]]**
+==== অনুবাদিত টীকাসমূহ: ====
 
-**[[https://door43.org/en/obe/kt/innocent|innocent]]**
-  *
-
-**[[https://door43.org/en/obe/other/pharaoh|Pharaoh]]**
-  *
-
-**[[https://door43.org/en/obe/other/egypt|Egyptians]]**
-  *
-
-**[[https://door43.org/en/obe/other/king|kings]]**
-  *
-
-**[[https://door43.org/en/obe/other/dream|dreams]]**
-==== Translation Notes: ====
-
-  *
-
-**disturbed him greatly**  – This means that the king felt very afraid and confused (because of what he had seen in the dreams).
-  *
-
-**his advisors**  - These were men with special powers and knowledge who could sometimes tell what dreams meant. Some translations refer to them as, “wise men.”
-  *
-
-**meaning of the dreams**  - People in Egypt believed that dreams were messages from the gods telling them about what would happen in the future. God used Pharaoh's dreams to tell him what would happen.
-**[[https://door43.org/en/obs/notes/frames/08-05|<<]] | [[https://door43.org/en/obs/notes/08|Up]] | [[https://door43.org/en/obs/notes/frames/08-07|>>]]**
+  * **প্রচুর পরিমানে বিচলিত করেছিল**- এর অর্থ হল যে রাজা খুব ভয়ভীত হয়েছিলেন আর বিভ্রান্ত হয়েছিলেন (যা তিনি স্বপ্নে দেখেছিলেন তার জন্য)৷
+  * **তার মন্ত্রবেত্তাগন**- এই লোকগুলো বিশেষ শক্তিযুক্ত আর জ্ঞানবান ছিল যারা কোনো কোনো সময়ে স্বপ্নের অর্থ বলে দিতে পারতেন৷
+  * **স্বপ্নগুলোর অর্থ**- মিশরের লোকেরা বিশ্বাস করতেন যে স্বপ্ন হল দেবদেবীর কাছ থেকে আগত ভবিষ্যতে কি ঘটবে সে বিষয়ে সংবাদ৷
+**[[:bn:obs:notes:frames:08-05|<<]] | [[:bn:obs:notes:frames:08-06|Up]] | [[:bn:obs:notes:frames:08-07|>>]]**
