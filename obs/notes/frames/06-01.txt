@@ -1,31 +1,17 @@
-===== A Wife for Isaac [06-01] =====
+===== ইসহাকের জন্য স্ত্রী [০৬-০১] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-01.jpg?nolink&}}
 
-When **Abraham** was very old, his **son**, **Isaac**, had grown to be a man. So Abraham **sent one of his servants back to the land** where his relatives lived **to bring back a wife for his son**, **Isaac**.
-===== Important Terms: =====
+যখন আব্রাহাম অনেক বৃদ্ধ হয়ে গেলেন তখন তার পুত্র ইসহাক একজন প্রাপ্তবয়স্ক যুবক হয়ে উঠলেন৷ তাই আব্রাহাম তার সেবকদের একজনকে সেই ভূমিতে পাঠালেন যেখানে তার আত্মীয়রা বসবাস করত তার পুত্রের জন্য স্ত্রী নিয়ে আসার জন্য৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/other/abraham|Abraham]]**
-  *
-
-**[[https://door43.org/en/obe/kt/son|son]]**
-  *
-
-**[[https://door43.org/en/obe/other/isaac|Isaac]]**
-  *
-
-**[[https://door43.org/en/obe/other/servant|servants]]**
-===== Translation Notes: =====
-
-  *
-
-**sent one of his servants back**  – This could be translated as, “told one of his servants to go back.” The word “back” means that the servant would be going to the same place where Abraham used to live long ago before he came to Canaan. Make sure the translation of this phrase makes that clear.
-  *
-
-**to the land**  - This land was east of where Abraham was now living.
-  *
-
-**to bring back a wife for his son, Isaac**  - This could be translated as, “to bring back an unmarried woman for his son, Isaac, to marry”.
-**[[https://door43.org/en/obs/notes/frames/05-10|<<]] | [[https://door43.org/en/obs/notes/06|Up]] | [[https://door43.org/en/obs/notes/frames/06-02|>>]]**
+  * **[[:bn:obs:notes:key-terms:abraham|আব্রাহাম]]**
+  * **[[:bn:obs:notes:key-terms:son|পুত্র]]**
+  * ****[[:bn:obs:notes:key-terms:isaac|ইসহাক]]****
+  * ****[[:bn:obs:notes:key-terms:servant|চাকরবাকরদের]]****
+**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font> **
+  * **তার চাকরদের একজনকে পাঠালেন**- এটিকে এভাবেও অনুবাদ করা যেতে পারে, “তার একজন চাকরকে বললেন ফিরে যাও৷” “ফিরে যাও” শব্দটির অর্থ হল যে বহু বছর আগে কানানে আসার পূর্বে আব্রাহাম যে স্থানে বসবাস করতেন সেই স্থানে চাকরটিকে যেতে বললেন৷ নিশ্চিত হন যে এই অংশটির অনুবাদ সেই ভাবটিকে স্পষ্ট করে৷
+  * **সেই ভূমিতে**- আব্রাহামের বর্তমান স্থানের পূর্বে এই স্থানটি ছিল৷
+  * **ইসহাক, তার পুত্রের জন্য একটি স্ত্রী নিয়ে আসতে**- এটিকে এভাবেও অনুবাদ করা যেতে পারে, “একটি কুমারী কন্যা ইসহাকের সাথে বিবাহের জন্য নিয়ে এসো৷
+**[[:bn:obs:notes:frames:05-10|<<]] | [[:bn:obs:notes:frames:06-01|Up]] | [[:bn:obs:notes:frames:06-02|>>]]**
