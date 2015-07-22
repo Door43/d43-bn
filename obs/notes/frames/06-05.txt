@@ -6,9 +6,9 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * ****[[:bn:obs:notes:key-terms:isaac|ইসহাক]]****
-  * ****[[:bn:obs:notes:key-terms:rebekah|রিবিকা]]****
-  * ****[[:bn:obs:notes:key-terms:god|ঈশ্বর]]****
+  * **[[:bn:obs:notes:key-terms:isaac|ইসহাক]]**
+  * **[[:bn:obs:notes:key-terms:rebekah|রিবিকা]]**
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **রিবিকার গর্ভে**- তা হল, “তার ভিতরে৷”
