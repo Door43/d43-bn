@@ -1,37 +1,18 @@
-===== Twins Were Born [06-07] =====
+===== যমজ শিশুরা জন্মালো [০৬-০৭] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-06-07.jpg?nolink&}}
 
-When **Rebekah's babies were born**, **the older son** came out **red** and **hairy**, and they named him **Esau**. Then **the younger son** came out holding on to Esau's heel, and they named him **Jacob**.
-===== Important Terms: =====
+যখন রিবিকার সন্তানেরা জন্মালো, তখন জ্যেষ্ঠজন লালরঙের ও লোমযুক্ত হয়ে বেরিয়ে এলো আর তারা তার নাম এষৌ রাখলেন৷ তারপর কনিষ্ঠজন এষৌর গোড়ালি ধরে বেরিয়ে এলো আর তারা তার নাম যাকোব রাখলেন৷
 
-  *
-
-**[[https://door43.org/en/obe/other/rebekah|Rebekah's]]**
-  *
-
-**[[https://door43.org/en/obe/kt/son|son]]**
-  *
-
-**[[https://door43.org/en/obe/other/esau|Esau]]**
-  *
-
-**[[https://door43.org/en/obe/other/jacob|Jacob]]**
-===== Translation Notes: =====
-
-  *
-
-**Rebekah's babies were born**  - Some languages have a more indirect way of saying this such as, “when Rebekah saw and took them” or, “when Rebekah brought them to light.”
-  *
-
-**the older son … the younger son**  - This could be translated as, “the first son to come out … the second son to come out.” Make sure that the way “older” and “younger” are translated still communicates that the boys were twins.
-  *
-
-**red**  - This may mean that his skin was very red or that the hair on his body was red.
-  *
-
-**hairy**  - Esau had a lot of hair on his body. You could say, “the older son's body was red, with lots of hair.”
-  *
-
-//A Bible story from//  - These references may be slightly different in some Bible translations.
-**[[https://door43.org/en/obs/notes/frames/06-06|<<]] | [[https://door43.org/en/obs/notes/06|Up]] | [[https://door43.org/en/obs/notes/frames/07-01|>>]]**
+**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font> **
+  * ****[[:bn:obs:notes:key-terms:rebekah|রিবিকার]]****
+  * **[[:bn:obs:notes:key-terms:son|পুত্র]] **
+  * ****[[:bn:obs:notes:key-terms:esau|এষৌ]]****
+  * **[[:bn:obs:notes:key-terms:jacob|যাকোব]]**
+**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font> **
+  * **রিবিকার সন্তানদের জন্ম হল**- অন্য ভাষাগুলোতে এটিকে আরও একটু ঘুরিয়ে বলা হয়েছে, “যখন রিবিকা দেখলেন আর তাদের নিলেন” বা, “যখন রিবিকা তাদের আলোতে আনলেন৷
+  * **জ্যেষ্ঠ পুত্র \ কনিষ্ঠ পুত্র**- এটিকে এভাবেও অনুবাদ করা যেতে পারে, “প্রথমে বেরিয়ে আসা পুত্রটি\ পরে বেরিয়ে আসা সন্তানটি৷” নিশ্চিত হন যে “জ্যেষ্ঠ” আর “কনিষ্ঠ” শব্দটির অনুবাদ ভালোভাবে যেন এটি প্রকাশ করে যে শিশু দুটি যমজ ছিল৷
+  * **লাল**- এর অর্থ হতে পারে যে তার ত্বক খুব রক্তাক্ত বর্ণের ছিল বা তার শরীরের অতিরিক্ত লোমগুলোর রং লাল ছিল৷
+  * **লোমযুক্ত**- এষৌর শরীরে প্রচুর লোম ছিল৷ আপনি বলতে পারেন, “জ্যেষ্ঠজনের শরীর লালবর্ণের ছিল, প্রচুর লোমের সাথে৷
+  * //একটি বাইবেল কাহিনী-//  এইসব উল্লেখগুলো কিছু কিছু বাইবেল অনুবাদে সামান্য ভিন্ন হতে পারে৷
+**[[:bn:obs:notes:frames:06-06|<<]] | [[:bn:obs:notes:frames:06-07|Up]] | [[:bn:obs:notes:frames:07-01|>>]]**
