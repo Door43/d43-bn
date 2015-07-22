@@ -2,29 +2,18 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-08.jpg?nolink&}}
 
-যখন তারা বলির স্থানে পৌঁছেছিলেন, তখন আব্রাহাম তার পুত্র ইসহাককে বেঁধেছিলেন আর বেদির উপর শুইয়ে রেখেছিলেন৷  তিনি তার পুত্রকে মারতেই চলেছিলেন তখনই ঈশ্বর বললেন, “থামো! ছেলেটিকে আঘাত কর না! এখন আমি জানি যে তুমি আমার ভয় রাখো কেননা আমার জন্য তুমি নিজ পুত্রকেও রাখো নি৷”
+যখন তারা বলির স্থানে পৌঁছেছিলেন, তখন আব্রাহাম তার পুত্র ইসহাককে বেঁধেছিলেন আর বেদির উপর শুইয়ে রেখেছিলেন৷ তিনি তার পুত্রকে মারতেই চলেছিলেন তখনই ঈশ্বর বললেন, “থামো! ছেলেটিকে আঘাত কর না! এখন আমি জানি যে তুমি আমার ভয় রাখো কেননা আমার জন্য তুমি নিজ পুত্রকেও রাখো নি৷”
 
-**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font> **
+**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font>    **
   * **[[:bn:obs:notes:key-terms:sacrifice|বলি]]**
-  * ****আব্রাহাম** **
-  * **পুত্র**
-  * ****ইসহাক** **
-  * **বেদী**
-  * ****ঈশ্বর** **
-===== Translation Notes: =====
-
-  *
-
-**kill his son**  - God did not want human sacrifice. God wanted to see that Abraham loved God more than he loved his son and would obey God even when God told him to give his son back to God.
-
-  *
-
-**Stop! Do no hurt the boy!**  - God protected Isaac and kept Abraham from killing him.
-
-  *
-
-**you fear me**  - Abraham feared God, which included respect and reverence for God. Because of those things, he obeyed God.
-
-  *
-
-**your only son**  - Ishmael was also Abraham's son, but Isaac was the only son of Abraham and Sarah. God's covenant was with Isaac and it was through Isaac that God would fulfill his promise. **[[https://door43.org/en/obs/notes/frames/05-07|<<]] | [[https://door43.org/en/obs/notes/05|Up]] | [[https://door43.org/en/obs/notes/frames/05-09|>>]]**
+  * **[[:bn:obs:notes:key-terms:abraham|আব্রাহাম]]**
+  * **[[:bn:obs:notes:key-terms:son|পুত্র]]**
+  * **[[:bn:obs:notes:key-terms:isaac|ইসহাক]]**
+  * **[[:bn:obs:notes:key-terms:altar|বেদী]]**
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font> **
+  * **তার পুত্রকে মারা**- ঈশ্বর মনুষ্য বলি চেয়েছিলেন না৷ ঈশ্বর চয়েছিলেন দেখতে যে আব্রাহাম ঈশ্বরকে তার পুত্রকে ভালবাসার চেয়েও বেশি ভালোবাসেন কি না আর ঈশ্বরের আজ্ঞাকারী হবেন তখনও যখন ঈশ্বর তাকে বলবেন ঈশ্বরকে তার পুত্র ফিরিয়ে দিতে৷
+  * **থামো! ছেলেটিকে আঘাত কর না!**- ঈশ্বর ইসহাককে রক্ষা করেন আর আব্রাহামকে তাকে মারার থেকে থামান৷
+  * **তুমি আমার ভয় রাখো**- আব্রাহাম ঈশ্বরকে ভয় করতেন যা ঈশ্বরের প্রতি সন্মান ও আদরকে অন্তর্ভুক্ত করে৷ এই কারণেই তিনি ঈশ্বরের আজ্ঞাকারী হয়েছিলেন৷
+  * **তোমার একমাত্র পুত্র**- ইশ্মায়েলও আব্রাহামের পুত্র ছিলেন কিন্তু ইসহাকই কেবল আব্রাহাম ও সারার পুত্র ছিলেন৷ ঈশ্বরের নিয়ম ইসহাকের সাথে ছিল আর ইসহাকের দ্বারা ঈশ্বর তার প্রতিজ্ঞা পূর্ণ করবেন৷
+**[[:bn:obs:notes:frames:05-07|<<]] | [[:bn:obs:notes:frames:05-08|Up]] | [[:bn:obs:notes:frames:05-09|>>]]**
