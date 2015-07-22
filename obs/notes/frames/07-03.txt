@@ -4,27 +4,16 @@
 
 ইসহাক চেয়েছিলেন এষৌকে তার আশির্বাদ দিতে৷ কিন্তু তার মৃত্যুর পূর্বে, রিবিকা ও যাকোব তার সাথে ছল করেন যাকোব এষৌ হওয়ার ভান করে৷ ইসহাক বৃদ্ধ হয়েছিলেন আর চোখেও দেখতেন না৷ কিন্তু যাকোব এষৌর পোশাক পরিধান করেছিলেন আর ছাগলের লোমযুক্ত চামড়া গলায় ও হাতে পরেছিলেন৷
 
-**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font> **
-  * ****[[:bn:obs:notes:key-terms:isaac|ইসহাক]]****
+**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font>    **
+  * **[[:bn:obs:notes:key-terms:isaac|ইসহাক]]**
   * **[[:bn:obs:notes:key-terms:bless|আশির্বাদ]]**
-  * ****[[:bn:obs:notes:key-terms:esau|এষৌ]]****
-  * ****[[:bn:obs:notes:key-terms:rebekah|রিবিকা]]****
-  * ****[[:bn:obs:notes:key-terms:jacob|যাকোব]]****
-
+  * **[[:bn:obs:notes:key-terms:esau|এষৌ]]**
+  * **[[:bn:obs:notes:key-terms:rebekah|রিবিকা]]**
+  * **[[:bn:obs:notes:key-terms:jacob|যাকোব]]**
 ===== অনুবাদিত টীকাসমূহ: =====
 
-  *
-
-**give his blessing**  - It was customary for fathers to formally express their desire for good things to happen to their children. Normally the older son received the best promise. Isaac wanted this extra prosperity to happen to Esau.
-
-  *
-
-**tricked him**  - The word “trick” means to do something to deliberately deceive someone. Rebekah came up with a plan to deceive Isaac into giving Jacob the special blessing instead of Esau.
-
-  *
-
-**pretend**  - The word “pretend” shows how Jacob would deceive his father (who had very poor eyesight in his old age).
-
-  *
-
-**goatskins**  - The hairiness of the goatskins would make Jacob feel like Esau. **[[https://door43.org/en/obs/notes/frames/07-02|<<]] | [[https://door43.org/en/obs/notes/07|Up]] | [[https://door43.org/en/obs/notes/frames/07-04|>>]]**
+  * **তার আশির্বাদ দিতে**- এটা পরম্পরা ছিল যে পিতারা আনুষ্ঠানিকভাবে তাদের সন্তানদের উপর ঘটে এমন ভালো ইচ্ছাগুলো প্রকাশ করে৷  সাধারনত জ্যেষ্ঠপুত্রটি সবচাইতে উত্তম প্রতিজ্ঞাটি পেয়ে থাকে৷ ইসহাক চেয়েছিলেন যে এই অতিরিক্ত উন্নতিটি এষৌ পায়৷
+  * **ছল করেন**- “ছল” শব্দটির অর্থ হল জেনেবুঝে কাউকে প্রতারণা করা৷ রিবিকা ইসহাককে ছলনা করার একটি যোজনার সাথে এলেন যেন এষৌর জায়গায় যাকোবকে বিশেষ আশির্বাদ পাইয়ে দেন৷
+  * **ভান**- “ভান” শব্দটি দেখায় যে কিভাবে যাকোব তার পিতাকে প্রতারণা করেন (যার বৃদ্ধ বয়সে চক্ষুর দৃষ্টি খুবিই ক্ষীণ ছিল)৷
+  * **ছাগলের লোমযুক্ত চামড়া**- ছাগলের লোমযুক্ত চামড়া যাকোব এষৌর মত অনুভব দিতে পারবে৷
+**[[:bn:obs:notes:frames:07-02|<<]] | [[:bn:obs:notes:frames:07-03|Up]] | [[:bn:obs:notes:frames:07-04|>>]]**
