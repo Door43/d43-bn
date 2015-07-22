@@ -1,37 +1,19 @@
-===== God Renewed the Covenant [05-03] =====
+===== ঈশ্বর নিয়মকে নবায়িত করলেন [০৫-০৩] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-03.jpg?nolink&}}
 
-God said, “I am **God** Almighty. I will make a **covenant** with you.” Then **Abram** bowed to the ground. God also told Abram, “You will be the **father of many nations**. I will give you and your **descendants** the land of **Canaan** as their possession and **I will be their God** forever. You must **circumcise every male in your family**.”
-===== Important Terms: =====
+ঈশ্বর বলেলন, “আমি সর্বশক্তিমান ঈশ্বর৷ আমি তোমার সাথে একটি নিয়ম করব৷” তারপর আব্রাম ভূমিতে প্রণিপাত করলেন৷ ঈশ্বর অব্রামকে আরও বললেন, “তুমি বহু জাতির পিতা হবে৷ আমি তোমাকে ও তোমার বংশগনকে তাদের সম্পত্তি রূপে কানানভূমি দান করব আর আমি চিরকালের জন্য তাদের ঈশ্বর হব৷ তুমি কেবল তোমার পরিবারের প্রত্যেকটি পুরুষের ত্বকছেদ কর৷
 
-  *
+**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font> **
+  * ****[[:bn:obs:notes:key-terms:god|ঈশ্বর]]****
+  * **[[:bn:obs:notes:key-terms:covenant|নিয়ম]]**
+  * ****[[:bn:obs:notes:key-terms:abraham|আব্রাম]]****
+  * **[[:bn:obs:notes:key-terms:descendant|সন্তান-সন্ততি]]**
+  * ****[[:bn:obs:notes:key-terms:canaan|কানান]]****
+  * **[[:bn:obs:notes:key-terms:circumcise|ত্বকছেদ]]**
+===== অনুবাদিত টীকাসমূহ: =====
 
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
-
-**[[https://door43.org/en/obe/kt/covenant|covenant]]**
-  *
-
-**[[https://door43.org/en/obe/other/abraham|Abram]]**
-  *
-
-**[[https://door43.org/en/obe/other/descendant|descendants]]**
-  *
-
-**[[https://door43.org/en/obe/other/canaan|Canaan]]**
-  *
-
-**[[https://door43.org/en/obe/kt/circumcise|circumcise]]**
-===== Translation Notes: =====
-
-  *
-
-**father of many nations**  - Abram would have many descendants, and they would have their own lands and rule themselves. They and others would remember that Abram was their ancestor and would honor him.
-  *
-
-**I will be their God**  - Another way to say this is, “I will be the God that they will worship.”
-  *
-
-**every male in your family**  - This could be translated as, “every boy and man in your family.” This included Abram's servants and his descendants.
-**[[https://door43.org/en/obs/notes/frames/05-02|<<]] | [[https://door43.org/en/obs/notes/05|Up]] | [[https://door43.org/en/obs/notes/frames/05-04|>>]]**
+  * **বহু জাতির পিতা**- অব্রামের প্রচুর সন্তান হবে আর তাদের নিজস্ব ভূমি আর রাজত্ব হবে৷ তারা ও অন্যেরা স্বরণ করবে যে আব্রাম তাদের পূর্বপুরুষ ছিলেন আর তার সন্মান করবে৷
+  * **আমি তাদের ঈশ্বর হব**- অন্যভাবে এটাকে বললে, “আমি হব ঈশ্বর যাকে তারা আরাধনা করবে৷”
+  * **পরিবারের প্রত্যকটি পুরুষ**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “প্রত্যেক ছেলে ও পুরুষ তোমার পরিবারের৷”
+**[[:bn:obs:notes:frames:05-02|<<]] | [[:bn:obs:notes:frames:05-03|Up]] | [[:bn:obs:notes:frames:05-04|>>]]**
