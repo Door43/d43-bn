@@ -1,34 +1,28 @@
-===== Isaac Sent Jacob Away [07-06] =====
+===== ইসহাক যাকোবকে দূরে পাঠিয়ে দিলেন [০৭-০৬] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-06.jpg?nolink&}}
 
-But **Rebekah** heard of **Esau’s plan**. So **she and Isaac sent Jacob far away to live with her relatives**.
-===== Important Terms: =====
+কিন্তু রিবিকা এষৌর ষড়যন্ত্রটি শুনেছিলেন৷ তাই তিনি আর ইসহাক যাকোবকে দূরে তার আত্মীয়দের সাথে বসবাস করতে পাঠিয়ে দিলেন৷
 
-  *
+**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font> **
+  * ****[[:bn:obs:notes:key-terms:rebekah|রিবিকা]]****
+  * ****[[:bn:obs:notes:key-terms:esau|এষৌর]]****
+  * ****[[:bn:obs:notes:key-terms:isaac|ইসহাক]]****
+  * ****[[:bn:obs:notes:key-terms:jacob|যাকোব]]****
 
-**[[https://door43.org/en/obe/other/rebekah|Rebekah]]**
-  *
-
-**[[https://door43.org/en/obe/other/esau|Esau's]]**
-  *
-
-**[[https://door43.org/en/obe/other/isaac|Isaac]]**
-  *
-
-**[[https://door43.org/en/obe/other/jacob|Jacob]]**
-===== Translation Notes: =====
-
+**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font> **
   *
 
 **Esau's plan**  - Esau's plan was to kill Jacob after his father died.
+
   *
 
 **she and Isaac sent Jacob**  – Rebekah wanted to protect Jacob from Esau so she talked to Isaac about sending Jacob away.
+
   *
 
 **far away to live with her relatives**  - This was the same place where Rebekah was living when Abraham's servant got her to be Isaac's wife. To make this clear, you could add, “relatives in the same land where she used to live.” The land was to the east, several hundred miles away.
+
   *
 
-**her relatives**  - This could also be translated as, “their relatives.” Since Abraham's brother was Rebekah's grandfather, her relatives were also Isaac's relatives.
-**[[https://door43.org/en/obs/notes/frames/07-05|<<]] | [[https://door43.org/en/obs/notes/07|Up]] | [[https://door43.org/en/obs/notes/frames/07-07|>>]]**
+**her relatives**  - This could also be translated as, “their relatives.” Since Abraham's brother was Rebekah's grandfather, her relatives were also Isaac's relatives. **[[https://door43.org/en/obs/notes/frames/07-05|<<]] | [[https://door43.org/en/obs/notes/07|Up]] | [[https://door43.org/en/obs/notes/frames/07-07|>>]]**
