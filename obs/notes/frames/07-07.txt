@@ -6,14 +6,10 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * ****[[:bn:obs:notes:key-terms:jacob|যাকোব]]****
+  * **[[:bn:obs:notes:key-terms:jacob|যাকোব]]**
   * **[[:bn:obs:notes:key-terms:rebekah|রিবিকার]]**
-  * ****[[:bn:obs:notes:key-terms:god|ঈশ্বর]]****
-
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
 ===== অনুবাদিত টীকাসমূহ: =====
 
-  *
-
-**wealthy**  – This included money, large herds of animals and other possessions.
-
-**[[https://door43.org/en/obs/notes/frames/07-06|<<]] | [[https://door43.org/en/obs/notes/07|Up]] | [[https://door43.org/en/obs/notes/frames/07-08|>>]]**
+  * **সম্পন্নতা**- এটি ইঙ্গিত করে অর্থের দিক দিয়ে, প্রচুর গবাদি পশু ও সম্পত্তির দিক দিয়ে৷
+**[[:bn:obs:notes:frames:07-06|<<]] | [[:bn:obs:notes:frames:07-07|Up]] | [[:bn:obs:notes:frames:07-08|>>]]**
