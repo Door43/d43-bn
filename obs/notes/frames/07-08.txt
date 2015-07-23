@@ -1,22 +1,17 @@
-===== Jacob Returned Home [07-08] =====
+===== যাকোব গৃহে ফিরে আসেন [০৭-০৮] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-08.jpg?nolink&}}
 
-**After twenty years** away from his home in **Canaan**, **Jacob** returned there with his family, his **servants**, and all his herds of animals.
-===== Important Terms: =====
+কানানে তার গৃহ থেকে চলে আসার কুড়ি বছর পর, যাকোব সেখানে তার পরিবারের সাথে, তার চাকরবাকরের সাথে আর তার সকল গবাদিপশুদের সাথে ফিরেগেলেন৷
+
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
+
+  * ****[[:bn:obs:notes:key-terms:canaan|কানান]]****
+  * ****[[:bn:obs:notes:key-terms:jacob|যাকোব]]****
+  * ****[[:bn:obs:notes:key-terms:servant|চাকরবাকরদের]]****
+
+===== অনুবাদিত টীকাসমূহ: =====
 
   *
 
-**[[https://door43.org/en/obe/other/canaan|Canaan]]**
-  *
-
-**[[https://door43.org/en/obe/other/jacob|Jacob]]**
-  *
-
-**[[https://door43.org/en/obe/other/servant|servants]]**
-===== Translation Notes: =====
-
-  *
-
-**after twenty years**  - Jacob had lived for twenty years in the land where his mother was from. If that is not clear you could say, “After twenty years living in the land where his relatives were.”
-**[[https://door43.org/en/obs/notes/frames/07-07|<<]] | [[https://door43.org/en/obs/notes/07|Up]] | [[https://door43.org/en/obs/notes/frames/07-09|>>]]**
+**after twenty years**  - Jacob had lived for twenty years in the land where his mother was from. If that is not clear you could say, “After twenty years living in the land where his relatives were.” **[[https://door43.org/en/obs/notes/frames/07-07|<<]] | [[https://door43.org/en/obs/notes/07|Up]] | [[https://door43.org/en/obs/notes/frames/07-09|>>]]**
