@@ -1,34 +1,20 @@
-===== Joseph Interpreted the Dream [08-07] =====
+===== যোষেফ স্বপ্নগুলোর ব্যাখ্যা দেন [০৮-০৭] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-07.jpg?nolink&}}
 
-**God** had given **Joseph** the ability to **interpret dreams**, so **Pharaoh had Joseph brought to him** from the prison. Joseph interpreted the dreams for him and said, “**God is going to send** seven years of plentiful harvests, followed by seven years of **famine**.”
-===== Important Terms: =====
+ঈশ্বর যোষেফকে স্বপ্ন ব্যাখ্যা করার ক্ষমতা দিয়েছিলেন, তাই ফরৌণ যোষেফকে জেল থেকে তার কাছে এনে পাঠালেন৷যোষেফ তার জন্য সেই স্বপ্নগুলোর ব্যাখ্যা করে দিলেন আর বললেন, “ঈশ্বর আগামী সাত বছর সম্পন্নতার ফসল দেবেন আর তারপরের সাত বছর দুর্ভিক্ষ৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
+  * [[:bn:obs:notes:key-terms:god|শ্বরঈ]]
+  * [[:bn:obs:notes:key-terms:joseph ot|যোষেফ]]
+  * [[:bn:obs:notes:key-terms:dream|স্বপ্নগুলো]]
+  * [[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]
 
-**[[https://door43.org/en/obe/other/josephot|Joseph]]**
-  *
+==== অনুবাদিত টীকাসমূহ: ====
 
-**[[https://door43.org/en/obe/other/dream|dreams]]**
-  *
-
-**[[https://door43.org/en/obe/other/pharaoh|Pharaoh]]**
-==== Translation Notes: ====
-
-  *
-
-**interpret dreams**  - To “interpret” is to tell what something means. So Joseph was able to tell people what their dreams meant.
-  *
-
-**had Joseph brought to him**  - Another way to say this would be, “ordered his servants to bring Joseph to him.”
-  *
-
-**God is going to send**  - God will cause the crops to grow well for seven years, and after that He will cause them to produce very little food so that the people and animals will not have enough to eat.
-  *
-
-**famine**  - The gardens and fields would produce so little food that people and animals would not have enough to eat.
-**[[https://door43.org/en/obs/notes/frames/08-06|<<]] | [[https://door43.org/en/obs/notes/08|Up]] | [[https://door43.org/en/obs/notes/frames/08-08|>>]]**
+  * **স্বপ্নগুলোর ব্যাখ্যা**- “ব্যাখ্যা” হল কোনো কিছুর অর্থ বলা৷ তাই যোষেফ সক্ষম ছিলেন লোকেদের বলতে যে তাদের স্বপ্নের অর্থ কি৷
+  * **যোষেফকে তার কাছে এনে পাঠালেন**- এটিকে অন্যভাবে বললে এটি হবে, “তার চাকরদের আদেশ দিলেন তার কাছে যোষেফকে আনার জন্য৷”
+  * **ঈশ্বর পাঠাবেন**- ঈশ্বর সাত বছর ফসলের বেশি ফলন করিয়ে দেবেন, আর তারপর তিনি স্বাভাবিকের তুলনায় কম ফসল ফলন করিয়ে দেবেন যেন লোক ও পশুরা যথেষ্ট খাবার না পায়৷
+  * **দুর্ভিক্ষ**- যখন বাগিচা ও কৃষি ক্ষেত্র খুবিই কম উৎপাদন করে আর লোকেদের ও পশুদের যথেষ্ট খাবার হয় না৷
+  * **[[:bn:obs:notes:frames:08-06|<<]][[:bn:obs:notes:frames:08-06|]]| [[:bn:obs:notes:frames:08-07|Up]] | [[:bn:obs:notes:frames:08-08|>>]]**
