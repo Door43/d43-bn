@@ -1,25 +1,16 @@
-===== sau Hated Jacob [07-05] =====
+===== এষৌ যাকোবকে ঘৃনা করলেন [০৭-০৫] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-05.jpg?nolink&}}
 
-**Esau** hated **Jacob** because Jacob had stolen his **rights as oldest son** and also **his blessing**. So he planned to kill Jacob after their father died.
-===== Important Terms: =====
+এষৌ যাকোবকে ঘৃনা করলেন কেননা যাকোব তার জ্যেষ্ঠ পুত্র হওয়ার অধিকার ও তার আশির্বাদ চুরি করেছেন৷  তাই তিনি তার পিতার মৃত্যুর পর যাকোবকে হত্যা করার পরিকল্পনা করলেন৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/other/esau|Esau]]**
-  *
+  * **[[:bn:obs:notes:key-terms:esau|এষৌ]]**
+  * ****[[:bn:obs:notes:key-terms:jacob|যাকোব]]****
+  * **[[:bn:obs:notes:key-terms:bless|আশির্বাদ]]**
+===== অনুবাদিত টীকাসমূহ: =====
 
-**[[https://door43.org/en/obe/other/jacob|Jacob]]**
-  *
-
-**[[https://door43.org/en/obe/kt/bless|blessing]]**
-===== Translation Notes: =====
-
-  *
-
-**rights as oldest son**  - Jacob found a way to get the larger portion of their father's wealth that should have gone to Esau as the older son. See also note on **[[https://door43.org/en/obs/notes/frames/07-02|[07-02]]]**.
-  *
-
-**his blessing**  - Jacob also tricked their father into giving him the promise of extra prosperity that Isaac intended to give to Esau. See also note on **[[https://door43.org/en/obs/notes/frames/07-03|[07-03]]]**.
-**[[https://door43.org/en/obs/notes/frames/07-04|<<]] | [[https://door43.org/en/obs/notes/07|Up]] | [[https://door43.org/en/obs/notes/frames/07-06|>>]]**
+  * **জ্যেষ্ঠ পুত্র হওয়ার অধিকার**- যাকোব তাদের পিতার সম্পত্তির বেশি অংশ পাওয়ার একটি উপায় পেয়েছিলেন যা এষৌ, জ্যেষ্ঠ পুত্র হওয়ার জন্য তার কাছে চলে যাবে৷ [০৭-০২]-র টীকাটিকেও দেখুন৷
+  * **তার আশির্বাদ**- যাকোব তাদের পিতাকে প্রতারণা করেছিলেন তাকে অতিরিক্ত উন্নতির প্রতিজ্ঞা নিয়ে নেওয়ার মাধ্যমে যা ইসহাক এষৌকে দিতে চেয়েছিলেন৷ [০৭-০৩]-র টীকাটিকেও দেখুন৷
+  * **[[:bn:obs:notes:frames:07-04|<<]] | [[:bn:obs:notes:frames:07-05|Up]] | [[:bn:obs:notes:frames:07-06|>>]]**
