@@ -6,17 +6,9 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  *
-
-      *
-
-**[[:bn:obs:notes:key-terms:egypt|মিশর ]]**
-      *
-
-**[[:bn:obs:notes:key-terms:canaan|কানান]]**
-      *
-
-**[[:bn:obs:notes:key-terms:jacob|যাকোব]]**
+  * **[[:bn:obs:notes:key-terms:egypt|মিশর ]]**
+  * **[[:bn:obs:notes:key-terms:canaan|কানান]]**
+  * **[[:bn:obs:notes:key-terms:jacob|যাকোব]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * কেবল মিশরেই নয় কানানেও ছিল- কিছু ভাষাতে এটি স্পষ্ট হতে পারে বা আরো পরিষ্কার হতে পারে, “মিশর দেশই নয় বরং কাননের দেশও৷”
