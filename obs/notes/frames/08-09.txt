@@ -1,19 +1,14 @@
-===== Joseph Stored Up Food [08-09] =====
+===== যোষেফ খাদ্য সঞ্চয় করেন [০৮-০৯] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-09.jpg?nolink&}}
 
-**Joseph** told the people to **store up large amounts of food** during the seven years of good harvests. Then Joseph sold the food to the people when the seven years of **famine** came so they would have enough to eat.
-===== Important Terms: =====
+যোষেফ লোকেদের বললেন যে আগামী সাত বছরের ভালো ফলন থেকে প্রচুর পরিমানে খাদ্য সঞ্চয় করতে৷ তারপর যোষেফ সাত বছরের দুর্ভিক্ষে সেই খাদ্য লোকেদের বিক্রয় করলেন যেন তাদের কাছে যথেষ্ট খাদ্য হয়৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/other/josephot|Joseph]]**
-==== Translation Notes: ====
+  * **[[:bn:obs:notes:key-terms:joseph ot|যোষেফ]]**
+==== অনুবাদিত টীকাসমূহ: ====
 
-  *
-
-**store up large amounts of food**  - They took food from the abundant harvests to the cities and stored it there. The food then belonged to Pharaoh.
-  *
-
-**famine**  - See how you translated this in **[[https://door43.org/en/obs/notes/frames/08-07|[08-07]]]**.
-**[[https://door43.org/en/obs/notes/frames/08-08|<<]] | [[https://door43.org/en/obs/notes/08|Up]] | [[https://door43.org/en/obs/notes/frames/08-10|>>]]**
+  * প্রচুর পরিমানে খাদ্য- তারা অঢেল ফলন থেকে ফসল নগরে নগরে নিয়ে গেলেন আর তা সঞ্চিত করে রাখলেন৷ সেই খাদ্যসকল ফরৌনের ছিল৷
+  * দুর্ভিক্ষ- [০৮-০৭]-তে দেখুন আপনি কিভাবে অনুবাদ করেছেন৷
+  * **[[:bn:obs:notes:frames:08-08|<<]][[:bn:obs:notes:frames:08-08| ]]| [[:bn:obs:notes:frames:08-09|Up]] | [[:bn:obs:notes:frames:08-10|>>]]**
