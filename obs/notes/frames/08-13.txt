@@ -12,4 +12,4 @@
 
 //(এই কাঠামোটির জন্য কোনো টীকা নেই৷)//
 
-**[[:bn:obs:notes:frames:08-12|<<]] | [[:bn:obs:notes:frame:08-13|Up]] | [[:bn:obs:notes:frames:08-14|>>]]**
+**[[:bn:obs:notes:frames:08-12|<<]] | ** **[[:bn:obs:notes:frames:08-13|Up]]**** | [[:bn:obs:notes:frames:08-14|>>]]**
