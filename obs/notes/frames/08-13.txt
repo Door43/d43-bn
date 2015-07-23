@@ -1,18 +1,16 @@
-===== Joseph Was Alive [08-13] =====
+===== যোষেফ জীবিত ছিলেন \[০৮-১৩] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-13.jpg?nolink&}}
 
-When **Joseph's** brothers returned home and told their father, **Jacob**, that Joseph was still alive, he was very happy.
-===== Important Terms: =====
+তখন যোষেফের ভাইরা গৃহে ফিরে গেলেন আর তারা তাদের পিতা, যাকোবকে বললেন, যোষেফ জীবিত আছেন, তিনি খুবিই আনন্দিত হলেন৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/other/josephot|Joseph's]]**
-  *
+  * **[[:bn:obs:notes:key-terms:joseph ot|যোষেফের]]**
+  * **[[:bn:obs:notes:key-terms:jacob|যাকোব]]**
 
-**[[https://door43.org/en/obe/other/jacob|Jacob]]**
-==== Translation Notes: ====
+==== অনুবাদিত টীকাসমূহ: ====
 
-//(There are no notes for this frame.)//
+//(এই কাঠামোটির জন্য কোনো টীকা নেই৷)//
 
-**[[https://door43.org/en/obs/notes/frames/08-12|<<]] | [[https://door43.org/en/obs/notes/08|Up]] | [[https://door43.org/en/obs/notes/frames/08-14|>>]]**
+**[[:bn:obs:notes:frames:08-12|<<]] | [[:bn:obs:notes:frame:08-13|Up]] | [[:bn:obs:notes:frames:08-14|>>]]**
