@@ -7,9 +7,8 @@
 অনেক বছর পর, যখন যাকোব একজন বৃদ্ধ হলেন, তিনি তার প্রিয় পুত্র যোষেফকে তার ভাইদের যারা গবাদিপশু চড়াছিলেন দেখতে পাঠালেন৷
 
 **<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font>    **
-  * [[:bn:obs:notes:key-terms:jacob|যাকোব]]
-  * [[:bn:obs:notes:key-terms:joseph-ot|যোষেফ]]
-
+  * **[[:bn:obs:notes:key-terms:jacob|যাকোব]]**
+  * **[[:bn:obs:notes:key-terms:joseph-ot|যোষেফ]]**
 **<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font>    **
 
 **পাঠালেন**- এই শব্দটির অর্থ হল যে যাকোব যোষেফকে বললেন যাও আর যোষেফ গেলেন৷
