@@ -1,25 +1,16 @@
-===== The Brothers Bought Food [08-11] =====
+===== ভাইরা খাদ্য এনেছিল [০৮-১১] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-11.jpg?nolink&}}
 
-So **Jacob** sent **his older sons** to **Egypt** to buy food. The brothers **did not recognize Joseph** when they stood before him to buy food. But Joseph recognized them.
-===== Important Terms: =====
+তাই যাকোব তার বড় ছেলেদের মিশরে খাদ্য কিনতে পাঠালেন৷ভাইরা যোষেফকে চিনতে পারল না যখন তারা খাদ্য কেনার জন্য তার সম্মুক্ষে দাঁড়ালো৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/other/jacob|Jacob]]**
-  *
+  * **[[:bn:obs:notes:key-terms:jacob|যাকোব]]**
+  * **[[:bn:obs:notes:key-terms:egypt|মিশর ]]**
+  * **[[:bn:obs:notes:key-terms:joseph ot|যোষেফ]]**
+==== অনুবাদিত টীকাসমূহ: ====
 
-**[[https://door43.org/en/obe/other/egypt|Egypt]]**
-  *
-
-**[[https://door43.org/en/obe/other/josephot|Joseph]]**
-==== Translation Notes: ====
-
-  *
-
-**his older sons**  - These were Joseph's older brothers who had sold him into slavery.
-  *
-
-**did not recognize Joseph**  - They did not know that the man was Joseph, because now Joseph was much older than when they last saw him, and he was dressed as an Egyptian ruler.
-**[[https://door43.org/en/obs/notes/frames/08-10|<<]] | [[https://door43.org/en/obs/notes/08|Up]] | [[https://door43.org/en/obs/notes/frames/08-12|>>]]**
+  * তার বড় ছেলেদের- তারা হল যোষেফের ভাই যারা তাকে দাসত্বে বিক্রয় করেছিল৷
+  * যোষেফকে চিতে পারল না- তারা জানত না যে সেই ব্যক্তিটি যোষেফ, কেননা তাকে শেষবার দেখার পর যোষেফ এখন যথেষ্ট বড় হয়েছেন, আর একজন মিশরীয় পোশাক পরিধান করেছিলেন৷
+  * **[[:bn:obs:notes:frames:08-10|<<]][[:bn:obs:notes:frames:08-10| ]]| [[:bn:obs:notes:frames:08-11|Up]] | [[:bn:obs:notes:frames:08-12|>>]]**
