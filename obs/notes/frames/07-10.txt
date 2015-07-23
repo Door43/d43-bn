@@ -2,38 +2,24 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-10.jpg?nolink&}}
 
-কিন্তু এষৌ যাকোবকে আগেই ক্ষমা করে দিয়েছিলেন, আর তারা একেঅপরকে পুনরায় দেখে আনন্দিত হলেন৷ যাকোব তারপর কানানে শান্তিপূর্ণভাবে বসবাস করলেন৷ তারপর, ইসহাক মারা গেলেন আর যাকোব ও এষৌ তাকে কবর দিলেন৷  নিয়মের প্রতিজ্ঞা যা ঈশ্বর আব্রাহামকে দিয়েছিলেন এখন তা ইসহাক থেকে যাকোবের কাছে পৌঁছালো৷
+কিন্তু এষৌ যাকোবকে আগেই ক্ষমা করে দিয়েছিলেন, আর তারা একেঅপরকে পুনরায় দেখে আনন্দিত হলেন৷ যাকোব তারপর কানানে শান্তিপূর্ণভাবে বসবাস করলেন৷ তারপর, ইসহাক মারা গেলেন আর যাকোব ও এষৌ তাকে কবর দিলেন৷ নিয়মের প্রতিজ্ঞা যা ঈশ্বর আব্রাহামকে দিয়েছিলেন এখন তা ইসহাক থেকে যাকোবের কাছে পৌঁছালো৷
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * ****[[:bn:obs:notes:key-terms:esau|এষৌ]]****
-  * ********[[:bn:obs:notes:key-terms:forgive|ক্ষমাকরেদিয়েছিলেন]]********
+  * **[[:bn:obs:notes:key-terms:esau|এষৌ]]**
+  * **[[:bn:obs:notes:key-terms:forgive|ক্ষমাকরেদিয়েছিলেন]]**
   * **[[:bn:obs:notes:key-terms:jacob|যাকোব]]**
   * **[[:bn:obs:notes:key-terms:peace|শান্তিপূর্ণভাবে]]**
   * **[[:bn:obs:notes:key-terms:canaan|কানান]]**
-  * ****[[:bn:obs:notes:key-terms:isaac|ইসহাক]]****
-  * ****[[:bn:obs:notes:key-terms:covenant|নিয়ম]]****
+  * **[[:bn:obs:notes:key-terms:isaac|ইসহাক]]**
+  * **[[:bn:obs:notes:key-terms:covenant|নিয়ম]]**
   * **[[:bn:obs:notes:key-terms:promise|প্রতিজ্ঞাসমূহ]]**
-  * ****[[:bn:obs:notes:key-terms:god|ঈশ্বর]]****
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
   * **[[:bn:obs:notes:key-terms:abraham|আব্রাহাম]]**
-
-**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font> **
-  *
-
-**lived peacefully**  - This refers to the fact that Esau and Jacob were not angry at each other and did not fight with each other.
-
-  *
-
-**buried him**  - This could mean that they dug a hole in the ground, placed Isaac's body in it, and covered the hole with dirt or stones. Or it could mean that they placed Isaac's body in a cave and covered the opening.
-
-  *
-
-**covenant promises**  - These were the promises that God made in his covenant with Abraham.
-
-  *
-
-**passed on from Isaac to Jacob**  - The promises went from Abraham to his son Isaac, and now to Isaac's son Jacob. Esau did not receive the promises. See also **[[https://door43.org/en/obs/notes/frames/06-04|[06-04]]]**.
-
-  *
-
-//A Bible story from//  - These references may be slightly different in some Bible translations. **[[https://door43.org/en/obs/notes/frames/07-09|<<]] | [[https://door43.org/en/obs/notes/07|Up]] | [[https://door43.org/en/obs/notes/frames/08-01|>>]]**
+**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font>    **
+  * **শান্তিপূর্ণভাবে বসবাস**- এটি উল্লেখ করে যে এষৌ আর যাকোব একেঅপরের সাথে আর ক্রোধিত ছিলেন না আর লড়াইও করলেন না৷
+  * **কবর দিলেন**- এর অর্থ হতে পারে যে তারা মাটিতে একটি গর্ত খুঁড়লেন, সেখানে ইসহাকের দেহটি রেখেছিলেন আর সেই গর্তটি মাটি বা পাথর দিয়ে ঢেকে দিয়েছিলেন৷ অথবা এর অর্থ হতে পারে যে তারা ইসহাকের দেহটি একটি গুহায় রাখলেন আর গুহার দরজাটি ঢেকে দিয়েছিলেন৷
+  * **নিয়মের প্রতিজ্ঞাগুলো**- এগুলো ছিল সেই প্রতিজ্ঞাগুলো যা ঈশ্বর তার সেবক আব্রাহামের সাথে করেছিলেন৷
+  * **ইসহাক থেকে যাকোবের উপর চলে এসেছিল**- প্রতিজ্ঞাগুলো আব্রাহাম থেকে তার পুত্র ইসহাকের উপর চলে এসেছিল আর এখন ইসহাক থেকে যাকোবের উপর চলে এসেছিল৷ এষৌ কোনো প্রতিজ্ঞা পাননি৷ [০৬-০৪]-ও দেখুন৷
+  * //একটি বাইবেল কাহিনী-//  এইসব উল্লেখগুলো কিছু কিছু বাইবেল অনুবাদে সামান্য ভিন্ন হতে পারে৷
+**[[:bn:obs:notes:frames:07-09|<<]] | [[:bn:obs:notes:frames:07-10|Up]] | [[:bn:obs:notes:frames:08-01|>>]]**
