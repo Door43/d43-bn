@@ -6,11 +6,10 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * [[:bn:obs:notes:key-terms:god|শ্বরঈ]]
-  * [[:bn:obs:notes:key-terms:joseph-ot|যোষেফ]]
-  * [[:bn:obs:notes:key-terms:dream|স্বপ্নগুলো]]
-  * [[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]
-
+  * **[[:bn:obs:notes:key-terms:god|শ্বরঈ]]**
+  * **[[:bn:obs:notes:key-terms:joseph-ot|যোষেফ]]**
+  * **[[:bn:obs:notes:key-terms:dream|স্বপ্নগুলো]]**
+  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **স্বপ্নগুলোর ব্যাখ্যা**- “ব্যাখ্যা” হল কোনো কিছুর অর্থ বলা৷ তাই যোষেফ সক্ষম ছিলেন লোকেদের বলতে যে তাদের স্বপ্নের অর্থ কি৷
