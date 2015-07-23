@@ -1,28 +1,17 @@
-===== Isaac Blessed Jacob [07-04] =====
+===== ইসহাক যাকোবকে আশির্বাদ করেন [০৭-০৪] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-04.jpg?nolink&}}
 
-**Jacob came to Isaac** and said, “I am **Esau**. I have come so that you can **bless** me.” When Isaac felt the goat hair and smelled the clothes, **he thought it was Esau** and blessed him.
-===== Important Terms: =====
+যাকোব ইসহাকের কাছে এলেন আর বললেন, “আমি এষৌ৷ আমি এসেছি যে আপনি আমাকে আশির্বাদ করেন৷” যখন ইসহাক ছাগলের লোম অনুভব করলেন আর তার পোশাক শুঁকলেন, তখন তিনি ভাবলেন এ এষৌ আর তাকে আশির্বাদ দিলেন৷
 
-  *
+===== রুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/other/jacob|Jacob]]**
-  *
+  * ****[[:bn:obs:notes:key-terms:jacob|যাকোব]]****
+  * **[[:bn:obs:notes:key-terms:isaac|ইসহাক]]**
+  * **[[:bn:obs:notes:key-terms:esau|এষৌ]]**
+  * **[[:bn:obs:notes:key-terms:bless|আশির্বাদ]]**
+===== অনুবাদিত টীকাসমূহ: =====
 
-**[[https://door43.org/en/obe/other/isaac|Isaac]]**
-  *
-
-**[[https://door43.org/en/obe/other/esau|Esau]]**
-  *
-
-**[[https://door43.org/en/obe/kt/bless|bless]]**
-===== Translation Notes: =====
-
-  *
-
-**Jacob came to Isaac**  - In some languages it might be more natural to say, “Jacob went to Isaac.”
-  *
-
-**he thought it was Esau**  - He thought that the person he was touching and smelling was Esau.
-**[[https://door43.org/en/obs/notes/frames/07-03|<<]] | [[https://door43.org/en/obs/notes/07|Up]] | [[https://door43.org/en/obs/notes/frames/07-05|>>]]**
+  * **যাকোব ইসহাকের কাছে এলেন**- কিছু ভাষাতে এটিকে আরো ভালো ভাবে বলা যায়, “যাকোব ইসহাকের কাছে গিয়েছিলেন৷”
+  * **তিনি ভাবলেন যে এ এষৌ**- তিনি ভেবেছিলেন যে যেই ব্যক্তিকে তিনি স্পর্শ করছেন  আর শুঁকেছেন তিনি এষৌ৷
+**[[:bn:obs:notes:frames:07-03|<<]] | [[:bn:obs:notes:frames:07-04|Up]] | [[:bn:obs:notes:frames:07-05|>>]]**
