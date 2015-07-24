@@ -1,25 +1,16 @@
-===== Jacob Went to Egypt [08-14] =====
+===== যাকোব মিশরে গেলেন [০৮-১৪] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-14.jpg?nolink&}}
 
-**Even though Jacob was an old man, he moved to Egypt** with all of his family, and they all lived there. **Before Jacob died**, he **blessed** each of his sons.
-===== Important Terms: =====
+যদিও যাকোব একজন বৃদ্ধ ছিলেন, তবুও তিনি তার সকল পরিবাদের সাথে মিশরে গেলেন, আর তারা সেখানে বসবাস করল৷যাকোবের মৃত্যুর পূর্বে, তিনি তার প্রত্যেক পুত্রকে আশির্বাদ দিলেন৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/other/jacob|Jacob]]**
-  *
+  * **[[:bn:obs:notes:key-terms:jacob|যাকোব]]**
+  * **[[:bn:obs:notes:frames:08-14:bn:obe:other:egypt|মিশর]] **
+  * **[[:bn:obs:notes:frames:08-14:bn:obe:kt:bless|আশির্বাদ দিলেন]]**____
+==== অনুবাদিত টীকাসমূহ: ====
 
-**[[https://door43.org/en/obe/other/egypt|Egypt]]**
-  *
-
-**[[https://door43.org/en/obe/kt/bless|blessed]]**
-==== Translation Notes: ====
-
-  *
-
-**Even though Jacob was an old man, he moved to Egypt**  - Egypt was a great distance away from Canaan, and it would have been difficult for an elderly man to walk or ride a cart that far.
-  *
-
-**Before Jacob died**  - Jacob died in Egypt. He did not get to return to Canaan, the land God had promised to give to him and his descendants.
-**[[https://door43.org/en/obs/notes/frames/08-13|<<]] | [[https://door43.org/en/obs/notes/08|Up]] | [[https://door43.org/en/obs/notes/frames/08-15|>>]]**
+  * যদিও যাকোব একজন বৃদ্ধ ছিলেন, তবুও তিনি মিশরে গেলেন- কানান থেকে মিশরের দূরত্ব অনেক ছিল আর একজন বৃদ্ধের জন্য হেঁটে বা এক্কা গাড়িতে চেপে এতটা দূরে যাওয়াটা খুবিই কষ্টকর ছিল৷
+  * যাকোবের মৃত্যুর পূর্বে- যাকোব মিশরে মারা গিয়েছিলেন৷তিনি কাননে ফিরে আসতে পারেন নি, সেই ভূমি যাকে ঈশ্বর তাকে ও তার বংশধরদের দেওয়ার প্রতিজ্ঞা করেছিলেন৷
+  * **[[:bn:obs:notes:frames:08-13|<<]][[:bn:obs:notes:frames:08-13| ]]| [[:bn:obs:notes:frames:08-14|Up]] | [[:bn:obs:notes:frames:08-15|>>]]**
