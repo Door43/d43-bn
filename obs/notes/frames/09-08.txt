@@ -1,31 +1,18 @@
-===== An Egyptian Beat a Slave [09-08] =====
+===== একটি মিশরীয় ব্যক্তি একটি দাসকে আঘাত করছিল [০৯-০৮] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-08.jpg?nolink&}}
 
-One day, when **Moses** had grown up, he saw an **Egyptian** beating an **Israelite slave**. Moses tried to **save** his **fellow Israelite**.
-===== Important Terms: =====
+একদিন, তখন মোশী প্রাপ্তবয়স্ক হয়ে উঠেছিলেন, তিনি দেখলেন একটি মিশরীয় একটি ইস্রায়েলীয় দাসকে আঘাত করছে৷ মোশী তার সহ ইস্রায়েলীয়কে রক্ষা করতে চেষ্টা করেছিলেন৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/other/moses|Moses]]**
-  *
+  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
+  * **[[:bn:obs:notes:key-terms:egypt|মিশরবাসী]]**
+  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
+  * **[[:bn:obs:notes:key-terms:servant|দাস]]**
+  * **[[:bn:obs:notes:key-terms:save|রক্ষা]]**
+==== অনুবাদিত টীকাসমূহ: ====
 
-**[[https://door43.org/en/obe/other/egypt|Egyptian]]**
-  *
-
-**[[https://door43.org/en/obe/other/israel|Israelite]]**
-  *
-
-**[[https://door43.org/en/obe/other/servant|slave]]**
-  *
-
-**[[https://door43.org/en/obe/kt/save|save]]**
-==== Translation Notes: ====
-
-  *
-
-**grown up**  - Another way to say this would be, “grown into a man.”
-  *
-
-**fellow Israelite**  - This phrase refers to the Israelite slave. The word “fellow” here indicates that Moses was also an Israelite. Although the daughter of the Egyptian Pharaoh raised Moses, Moses remembered that he was really an Israelite.
-**[[https://door43.org/en/obs/notes/frames/09-07|<<]] | [[https://door43.org/en/obs/notes/09|Up]] | [[https://door43.org/en/obs/notes/frames/09-09|>>]]**
+  * **প্রাপ্তবয়স্ক হয়ে উঠেছিলেন**- এটিকে অন্যভাবে বললে এটি হবে, “একটি পুরুষ হয়ে উঠেছিলেন৷”
+  * **সহ-ইস্রায়েলীয়**-এই বাক্যাংশটি ইস্রায়েলীয় দাসকে উল্লেখ করছে৷ “সহ” শব্দটি এখানে ইঙ্গিত করছে যে মোশী একজন ইস্রায়েলীয় ছিলেন৷ যদিও মোশীকে ফরৌনের কন্যা লালনপালন করেছিলেন, তবুও মোশী স্বরণ রেখেছিলেন যে তিনি আসলে একজন ইস্রায়েলীয়৷
+**[[:bn:obs:notes:frames:09-07|<<]] | [[:bn:obs:notes:frames:09-08|Up]] | [[:bn:obs:notes:frames:09-09|>>]]**
