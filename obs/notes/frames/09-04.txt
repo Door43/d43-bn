@@ -1,22 +1,14 @@
-===== Kill the Baby Boys [09-04] =====
+===== বালক শিশুদের হত্যা [০৯-০৪] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-04.jpg?nolink&}}
 
-**Pharaoh saw** that the **Israelites** were having many babies, so he ordered his people to kill all Israelite baby boys by throwing them into the **Nile River**.
-===== Important Terms: =====
+ফরৌণ দেখলেন যে ইস্রায়েলীয়দের প্রচুর শিশু হচ্ছে, তাই তিনি আদেশ দিলেন সকল ইস্রায়েলীয়দের বালক শিশুদের নিল নদে নিক্ষেপ করে হত্যা করা হোক৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/other/pharaoh|Pharaoh]]**
-  *
-
-**[[https://door43.org/en/obe/other/israel|Israelites]]**
-  *
-
-**[[https://door43.org/en/obe/other/nileriver|Nile River]]**
-==== Translation Notes: ====
-
-  *
-
-**saw**  – Another way to say this would be, “realized” or, “knew.”
-**[[https://door43.org/en/obs/notes/frames/09-03|<<]] | [[https://door43.org/en/obs/notes/09|Up]] | [[https://door43.org/en/obs/notes/frames/09-05|>>]]**
+  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
+  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
+  * **[[:bn:obs:notes:key-terms:nile river|নিল নদে]]**
+**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font> **
+  * **দেখলেন**- এটিকে অন্যভাবে বললে এটি হবে, “উপলব্ধি করলেন” বা “জেনে নিলেন৷”
+**[[:bn:obs:notes:frames:09-03|<<]] | [[:bn:obs:notes:frames:09-04|Up]] | [[:bn:obs:notes:frames:09-05|>>]]**
