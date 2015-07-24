@@ -1,34 +1,30 @@
-===== Aaron Helped Moses [09-15] =====
+===== হারোণ মোশীকে সাহায্য করেন [০৯-১৫] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-15.jpg?nolink&}}
 
-**Moses was afraid and did not want to go to Pharaoh** because he thought he could not speak well, so **God** sent **Moses’ brother**, **Aaron**, to help him. God warned Moses and Aaron that Pharaoh would be **stubborn**.
-===== Important Terms: =====
+মোশী ভয়ভীত ছিলেন আর ফরৌনের কাছে যেতে চাননি কেননা তিনি মনে করেছিলেন তিনি ভালোভাবে কথা বলতে পারবেন না, তাই ঈশ্বর মোশীর ভাই, হারোণকে তাকে সাহায্য করতে পাঠিয়ে দিলেন৷ ঈশ্বর মোশীকে আর হারোণকে সতর্ক করেদিলেন যে ফরৌণ হৃদয় কঠিন করবেন৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/other/moses|Moses]]**
-  *
+  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
+  * ****[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]****
+  * ****[[:bn:obs:notes:key-terms:god|ঈশ্বর]]****
+  * ****[[:bn:obs:notes:key-terms:aaron|হারোণ]]****
 
-**[[https://door43.org/en/obe/other/pharaoh|Pharaoh]]**
-  *
-
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
-
-**[[https://door43.org/en/obe/other/aaron|Aaron]]**
 ==== Translation Notes: ====
 
   *
 
 **was afraid and did not want to go**  - Moses knew that Pharaoh wanted to kill him, and he did not believe that he could do what God wanted him to do.
+
   *
 
 **Moses' brother, Aaron**  - Aaron was Moses's actual brother from his Israelite mother and father. Aaron would have been at least several years older than Moses.
+
   *
 
 **stubborn**  - This means the Pharaoh would refuse to obey God. You may also want to add, “stubborn and refuse to listen (or obey).”
+
   *
 
-//A Bible story from//  - These references may be slightly different in some Bible translations.
-**[[https://door43.org/en/obs/notes/frames/09-14|<<]] | [[https://door43.org/en/obs/notes/09|Up]] | [[https://door43.org/en/obs/notes/frames/10-01|>>]]**
+//A Bible story from//  - These references may be slightly different in some Bible translations. **[[https://door43.org/en/obs/notes/frames/09-14|<<]] | [[https://door43.org/en/obs/notes/09|Up]] | [[https://door43.org/en/obs/notes/frames/10-01|>>]]**
