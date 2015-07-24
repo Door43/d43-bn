@@ -2,17 +2,14 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-11.jpg?nolink&}}
 
-মোশী মিশর থেকে দুরে নির্জন-প্রদেশে একজন মেষপালক হলেন৷  সেই অঞ্চলের এক মহিলাকে তিনি বিবাহ করলেন আর তার দুটি পুত্র হল৷
+মোশী মিশর থেকে দুরে নির্জন-প্রদেশে একজন মেষপালক হলেন৷ সেই অঞ্চলের এক মহিলাকে তিনি বিবাহ করলেন আর তার দুটি পুত্র হল৷
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[https://door43.org/en/obe/other/moses|Moses]]**
-  * **[[https://door43.org/en/obe/other/shepherd|shepherd]]**
-  * **[[https://door43.org/en/obe/other/egypt|Egypt]]**
+  * ****[[:bn:obs:notes:key-terms:moses|মোশী]]****
+  * **[[:bn:obs:notes:key-terms:shepherd|মেষপালক]]**
+  * ****[[:bn:obs:notes:key-terms:egypt|মিশর]]****
 ==== অনুবাদিত টীকাসমূহ: ====
 
-  *
-
-**wilderness**  - See how you translated this in **[[https://door43.org/en/obs/notes/frames/09-10|[09-10]]]**.
-
+  * **নির্জন-প্রদেশ**- নির্জন-প্রদেশ হল একটি বিরাট স্থান যা পাথরময় ও শুকনো ছিল৷ সেই অঞ্চলটি খাদ্য উৎপাদনের জন্য ভালো ছিল না আর খুব কম লোক সেখানে বসবাস করত৷ **[[https://door43.org/en/obs/notes/frames/09-10|[09-10]]]**.
 **[[:bn:obs:notes:frames:09-10|<<]] | [[:bn:obs:notes:frames:09-11|Up]] | [[:bn:obs:notes:frames:09-12|>>]]**
