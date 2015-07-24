@@ -1,28 +1,17 @@
-===== Pharaoh's Daughter [09-07] =====
+===== ফরৌনের কন্যা [০৯-০৭] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-07.jpg?nolink&}}
 
-A daughter of **Pharaoh** saw the basket and looked inside. When she saw the baby, she **took him as her own son**. She hired an **Israelite** woman **to nurse him** without realizing the woman was the baby’s own mother. When the child was old enough that he no longer needed his mother's milk, she returned him to Pharaoh’s daughter, who named him **Moses**.
-===== Important Terms: =====
+ফরৌনের এক কন্যা ঝুড়িটিকে দেখতে পেলেন আর তার ভিতর দেখলেন৷ যখন তিনি শিশুটিকে দেখলেন, তখন তিনি তাকে নিজের পুত্র করে নিলেন৷  তিনি একটি ইস্রায়েলীয় মহিলাকে তার দেখাশোনার জন্য নিযুক্ত করলেন এটা না জেনে যে সেই মহিলাই ছিলেন শিশুটির মাতা৷ যখন বাচ্চাটি যথেষ্ট বড় হলেন যে তার আর তার মাতার দুধের প্রয়োজন হল না, তখন তিনি তাকে ফরৌনের কন্যার কাছে ফিরিয়ে দিলেন, যিনি তার নাম মোশী রাখলেন৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/other/pharaoh|Pharaoh]]**
-  *
+  * ****[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]****
+  * **[[:bn:obs:notes:key-terms:son|পুত্র]]**
+  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
+  * ****[[:bn:obs:notes:key-terms:moses|মোশী]]****
+==== অনুবাদিত টীকাসমূহ: ====
 
-**[[https://door43.org/en/obe/kt/son|son]]**
-  *
-
-**[[https://door43.org/en/obe/other/israel|Israelite]]**
-  *
-
-**[[https://door43.org/en/obe/other/moses|Moses]]**
-==== Translation Notes: ====
-
-  *
-
-**took him as her own son**  - She was a princess. When she made him her son, he became a prince of Egypt.
-  *
-
-**to nurse him**  - Another way to say this would be, “to breastfeed him.”
-**[[https://door43.org/en/obs/notes/frames/09-06|<<]] | [[https://door43.org/en/obs/notes/09|Up]] | [[https://door43.org/en/obs/notes/frames/09-08|>>]]**
+  * **তাকে নিজের পুত্র করে নিলেন**- তিনি একজন রাজ কন্যা ছিলেন৷ যখন থেকে তিনি তাকে তার পুত্র করলেন, তখন থেকে তিনি মিশরের একজন রাজকুমার হলেন৷
+  * **তার দেখাশোনার জন্য**- এটিকে অন্যভাবে বললে এটি হবে, “তাকে স্তনপান করানোর জন্য৷”
+**[[:bn:obs:notes:frames:09-06|<<]] | [[:bn:obs:notes:frames:09-07|Up]] | [[:bn:obs:notes:frames:09-08|>>]]**
