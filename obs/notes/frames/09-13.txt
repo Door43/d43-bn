@@ -2,22 +2,22 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-13.jpg?nolink&}}
 
-ঈশ্বর বললেন, “আমি আমার প্রজাদের যন্ত্রণা দেখেছি৷  আমি তোমাকে ফরৌনের কাছে প্রেরণ করব যাতে তুমি ইস্রায়েলীয়দের মিশরে তাদের দাসত্ব থেকে ছাড়িয়ে আনতে পার৷   আমি তাদের কানান দেশ দিব, যে ভূমির বিষয়ে আব্রাহাম, ইসহাক, আর যাকোবকে আমি প্রতিজ্ঞা করেছিলাম৷”
+ঈশ্বর বললেন, “আমি আমার প্রজাদের যন্ত্রণা দেখেছি৷ আমি তোমাকে ফরৌনের কাছে প্রেরণ করব যাতে তুমি ইস্রায়েলীয়দের মিশরে তাদের দাসত্ব থেকে ছাড়িয়ে আনতে পার৷ আমি তাদের কানান দেশ দিব, যে ভূমির বিষয়ে আব্রাহাম, ইসহাক, আর যাকোবকে আমি প্রতিজ্ঞা করেছিলাম৷”
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * ****[[:bn:obs:notes:key-terms:god|ঈশ্বর]]****
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
   * **[[:bn:obs:notes:key-terms:suffer|দুঃখভোগ]]**
-  * ****[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]****
+  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
   * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
   * **[[:bn:obs:notes:key-terms:servant|দাসত্ব]]**
-  * ****[[:bn:obs:notes:key-terms:egypt|মিশর]]****
-  * ****[[:bn:obs:notes:key-terms:canaan|কানান]]****
-  * ****[[:bn:obs:notes:key-terms:promise|প্রতিজ্ঞাসমূহ]]****
-  * ****আব্রাহাম** **
-  * **ইসহাক**
-  * ****যাকোব** **
-==== Translation Notes: ====
+  * **[[:bn:obs:notes:key-terms:egypt|মিশর]]**
+  * **[[:bn:obs:notes:key-terms:canaan|কানান]]**
+  * **[[:bn:obs:notes:key-terms:promise|প্রতিজ্ঞাসমূহ]]**
+  * **[[:bn:obs:notes:key-terms:abraham|আব্রাহাম]]**
+  * **[[:bn:obs:notes:key-terms:isaac|ইসহাক]]**
+  * **[[:bn:obs:notes:key-terms:jacob|যাকোব]]**
+==== অনুবাদিত টীকাসমূহ: ====
 
   *
 
