@@ -1,15 +1,15 @@
-===== Moses in a Basket [09-06] =====
+===== ঝুড়িতে মোশী [০৯-০৬] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-06.jpg?nolink&}}
 
-When the boy's parents could no longer hide him, they put him in a **floating basket among the reeds along the edge of the Nile River** in order to save him from being killed. His older sister watched to see what would happen to him.
-===== Important Terms: =====
+যখন শিশুটির পিতামাতা আর তাকে লুকিয়ে রাখতে পারলেন না, তখন তারা তাকে একটি ভাসমান ঝুড়িতে রেখে নিল নদের কিনারে খাগড়া নলের মধ্যে ছেড়ে দিলেন যেন তাকে হত্যা থেকে বাঁচাতে পারেন৷ তার বড় বোন দেখতে ছিলেন যে তার সাথে কি হয়৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/other/nileriver|Nile River]]**
-==== Translation Notes: ====
+  * **[[:bn:obs:notes:key-terms:nile river|নিল নদে]]**
 
-* //(There are no notes for this frame.)//
+==== অনুবাদিত টীকাসমূহ: ====
 
-**[[https://door43.org/en/obs/notes/frames/09-05|<<]] | [[https://door43.org/en/obs/notes/09|Up]] | [[https://door43.org/en/obs/notes/frames/09-07|>>]]**
+//(এই কাঠামোটির জন্য কোনো টীকা নেই৷)//
+
+**[[:bn:obs:notes:frames:09-05|<<]] | [[:bn:obs:notes:frames:09-06|Up]] | [[:bn:obs:notes:frames:09-07|>>]]**
