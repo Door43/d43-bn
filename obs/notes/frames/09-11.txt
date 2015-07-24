@@ -1,22 +1,18 @@
-===== Moses in the Wilderness [09-11] =====
+===== নির্জন-প্রদেশে মোশী [০৯-১১] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-11.jpg?nolink&}}
 
-**Moses** became a **shepherd** in the **wilderness** far away from **Egypt**. He married a woman from that place and had two sons.
-===== Important Terms: =====
+মোশী মিশর থেকে দুরে নির্জন-প্রদেশে একজন মেষপালক হলেন৷  সেই অঞ্চলের এক মহিলাকে তিনি বিবাহ করলেন আর তার দুটি পুত্র হল৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/other/moses|Moses]]**
-  *
-
-**[[https://door43.org/en/obe/other/shepherd|shepherd]]**
-  *
-
-**[[https://door43.org/en/obe/other/egypt|Egypt]]**
-==== Translation Notes: ====
+  * **[[https://door43.org/en/obe/other/moses|Moses]]**
+  * **[[https://door43.org/en/obe/other/shepherd|shepherd]]**
+  * **[[https://door43.org/en/obe/other/egypt|Egypt]]**
+==== অনুবাদিত টীকাসমূহ: ====
 
   *
 
 **wilderness**  - See how you translated this in **[[https://door43.org/en/obs/notes/frames/09-10|[09-10]]]**.
-**[[https://door43.org/en/obs/notes/frames/09-10|<<]] | [[https://door43.org/en/obs/notes/09|Up]] | [[https://door43.org/en/obs/notes/frames/09-12|>>]]**
+
+**[[:bn:obs:notes:frames:09-10|<<]] | [[:bn:obs:notes:frames:09-11|Up]] | [[:bn:obs:notes:frames:09-12|>>]]**
