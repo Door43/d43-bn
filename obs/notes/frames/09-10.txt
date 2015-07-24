@@ -1,22 +1,14 @@
-===== Moses Fled from Egypt [09-10] =====
+===== মোশী মিশর থেকে পালিয়ে যান [০৯-১০] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-10.jpg?nolink&}}
 
-When **Pharaoh** heard what **Moses** had done, he tried to kill him. Moses ran away from **Egypt** to the **wilderness** where he would be safe from Pharaoh's soldiers.
-===== Important Terms: =====
+যখন ফরৌণ শুনলেন মোশী কি করেছিলেন, তখন তিনি তাকে হত্যা করতে চেষ্টা করলেন৷ মোশী মিশর থেকে নির্জন-প্রদেশে পালিয়ে যান যেখানে তিনি ফরৌনের সেনা থেকে রক্ষা পেয়েছিলেন৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/other/pharaoh|Pharaoh]]**
-  *
-
-**[[https://door43.org/en/obe/other/moses|Moses]]**
-  *
-
-**[[https://door43.org/en/obe/other/egypt|Egypt]]**
-==== Translation Notes: ====
-
-  *
-
-**wilderness**  - The wilderness was a large area that was rocky and dry. The land there was not good for growing food and few people lived there.
-**[[https://door43.org/en/obs/notes/frames/09-09|<<]] | [[https://door43.org/en/obs/notes/09|Up]] | [[https://door43.org/en/obs/notes/frames/09-11|>>]]**
+  * ****ফরৌণ** **
+  * ****মোশী** **
+  * ****মিশর** **
+**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font> **
+  * **নির্জন-প্রদেশ**-  নির্জন-প্রদেশ হল একটি বিরাট স্থান যা পাথরময় ও শুকনো ছিল৷ সেই অঞ্চলটি খাদ্য উৎপাদনের জন্য ভালো ছিল না আর খুব কম লোক সেখানে বসবাস করত৷
+**[[:bn:obs:notes:frames:09-09|<<]] | [[:bn:obs:notes:frames:09-10|Up]] | [[:bn:obs:notes:frames:09-11|>>]]**
