@@ -1,42 +1,20 @@
-===== The Name of God [09-14] =====
+===== ঈশ্বরের নাম [০৯-১৪] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-14.jpg?nolink&}}
 
-**Moses** asked, “What if **the people** want to know who sent me, what should I say?” **God** said, “**I AM WHO I AM**. Tell them, ‘**I AM** has sent me to you.’ Also tell them, 'I am **Yahweh**, the God of your ancestors **Abraham**, **Isaac**, and
+মোশী জিজ্ঞেসা করলেন, “কি হবে যদি লোকেরা জানতে চায় যে কে আমাকে পাঠিয়েছেন, তাহলে আমি কি বলব? ঈশ্বর বললেন, “আমি আছি সেই আছি৷ তাদের বলো, আমি আছি আমাকে তোমাদের কাছে পাঠিয়েছেন৷ তাদের আরও বলো, আমি যিহোবা, তোমাদের পূর্বপুরুষ আব্রাহাম, ইসহাক আর যাকোবের ঈশ্বর৷ এটি হল আমার চিরকালের নাম৷”
 
-**Jacob**.' This is **my name** forever.”
-===== Important Terms: =====
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  *
-
-**[[https://door43.org/en/obe/other/moses|Moses]]**
-  *
-
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
-
-**[[https://door43.org/en/obe/kt/yahweh|Yahweh]]**
-  *
-
-**[[https://door43.org/en/obe/other/abraham|Abraham]]**
-  *
-
-**[[https://door43.org/en/obe/other/isaac|Isaac]]**
-  *
-
-**[[https://door43.org/en/obe/other/jacob|Jacob]]**
-==== Translation Notes: ====
-
-  *
-
-**the people**  - See “my people” in **[[https://door43.org/en/obs/notes/frames/09-13|[09-13]]]**.
-  *
-
-**I AM WHO I AM**  - This description shows that God can only be defined by himself, not by anything else that we know of, and he cannot be compared to anyone else.
-  *
-
-**I AM**  - This name emphasizes that God is the only one who has always lived and always will live.
-  *
-
-**my name**  - The name that God told Moses and all of Israel to use for him is “Yahweh,” which is related to “I AM” and appears to mean, “HE IS.”
-**[[https://door43.org/en/obs/notes/frames/09-13|<<]] | [[https://door43.org/en/obs/notes/09|Up]] | [[https://door43.org/en/obs/notes/frames/09-15|>>]]**
+  * ****[[:bn:obs:notes:key-terms:moses|মোশী]]****
+  * ****[[:bn:obs:notes:key-terms:god|ঈশ্বর]]****
+  * ****[[:bn:obs:notes:key-terms:yahweh|যিহোবা]]****
+  * ****[[:bn:obs:notes:key-terms:abraham|আব্রাহাম]]****
+  * **[[:bn:obs:notes:key-terms:isaac|ইসহাক]]**
+  * **[[:bn:obs:notes:key-terms:jacob|যাকোব]]**
+**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font> **
+  * **আমার প্রজাদের**-এটি ইস্রায়েলীয়দের উল্লেখ করে৷ ঈশ্বর আব্রাহাম ও তার উত্তরাধিকারীদের সাথে একটি নিয়ম স্থাপন করেছিলেন যে তিনি তাদের আশির্বাদ করবেন আর তাদের একটি মহান জাতি করবেন৷ এই নিয়মটির দরুন, ইস্রায়েলীয়রা ঈশ্বরের নিজ প্রজা হয়েছিলেন৷ **[[https://door43.org/en/obs/notes/frames/09-13|[09-13]]]**.
+  * **আমি আছি সেই আছি**- এই বর্ণনাটি ব্যক্ত করছে যে ঈশ্বরই কেবল সয়ংয়ের ব্যাখ্যা দিতে পারেন, অন্য কিছু না যা আমরা জানতে পারি আর অন্য কিছুর সাথে তার তুলনা হয় না৷
+  * **আমি**- এই নামটি জোর দেয় যে ঈশ্বর হলেন কেবল একজন যিনি চিরকাল আছেন আর চিরিকাল থাকবেন৷
+  * **আমার নাম**- নাম যা ঈশ্বর মোশীকে আর সকল ইস্রায়েলকে তার জন্য প্রয়োগ করতে বলেছিলেন তা হল “যিহোবা,” যা “আমি”-র সাথে জড়িত আর তার অর্থ হল, “তিনি হলেন৷”
+**[[:bn:obs:notes:frames:09-13|<<]] | [[:bn:obs:notes:frames:09-14|Up]] | [[:bn:obs:notes:frames:09-15|>>]]**
