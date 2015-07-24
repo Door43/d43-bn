@@ -8,8 +8,7 @@
 
 **<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font>    **
   * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * [[:bn:obs:notes:key-terms:good|উত্তমতায়]]
-
+  * **[[:bn:obs:notes:key-terms:good|উত্তমতায়]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **ষষ্ট দিন**- দিনগুলোর আর সৃজনশীল কার্যগুলোর একটি অবিরত, সুশৃঙ্খল অগ্রগতিতে আগামী ঘটনা৷
