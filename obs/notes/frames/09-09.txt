@@ -1,18 +1,16 @@
-===== Moses Killed an Egyptian [09-09] =====
+===== মোশী একটি মিশরীয়কে হত্যা করেন [০৯-০৯] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-09.jpg?nolink&}}
 
-When **Moses** thought nobody would see, he killed the **Egyptian** and buried his body. But someone saw what Moses had done.
-===== Important Terms: =====
+যখন মোশী ভেবেছিলেন যে কেউ তাকে দেখছে না, তখন তিনি মিশরীয়টিকে হত্যা করেন আর তার শরীর মাটি চাপা দেন৷ কিন্তু কেউ দেখেছিল যে মোশী কি করেছিলেন৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/other/moses|Moses]]**
-  *
+  * ****[[:bn:obs:notes:key-terms:moses|মোশী]]****
+  * **[[:bn:obs:notes:key-terms:egypt|মিশরবাসী]]**
 
-**[[https://door43.org/en/obe/other/egypt|Egyptian]]**
-==== Translation Notes: ====
+**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font> **
 
-* //(There are no notes for this frame.)//
+//(এই কাঠামোটির জন্য কোনো টীকা নেই৷)//
 
-**[[https://door43.org/en/obs/notes/frames/09-08|<<]] | [[https://door43.org/en/obs/notes/09|Up]] | [[https://door43.org/en/obs/notes/frames/09-10|>>]]**
+**[[:bn:obs:notes:frames:09-08|<<]] | [[:bn:obs:notes:frames:09-09|Up]] | [[:bn:obs:notes:frames:09-10|>>]]**
