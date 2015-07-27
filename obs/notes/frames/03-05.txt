@@ -12,4 +12,4 @@
 
 //(এই কাঠামোটির জন্য কোনো টীকা নেই৷) //
 
-**[[https://door43.org/en/obs/notes/frames/03-04|<<]] | [[https://door43.org/en/obs/notes/03|Up]] | [[https://door43.org/en/obs/notes/frames/03-06|>>]]**
+**[[:bn:obs:notes:frames:03-04|<<]] | [[:bn:obs:notes:frames:03-05|Up]] | [[:bn:obs:notes:frames:03-06|>>]]**
