@@ -11,4 +11,4 @@
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **জাহাজ**- জাহাজটি আট জন লোক, সকল ধরনের পশুদের দুটি পশু, আর এক বছরের জন্য তাদের খাবারের সঞ্চিতিকে রাখার জন্য যথেষ্ট বড় ছিল৷
-**[[https://door43.org/en/obs/notes/frames/03-02|<<]] | [[https://door43.org/en/obs/notes/03|Up]] | [[https://door43.org/en/obs/notes/frames/03-04|>>]]**
+**[[:bn:obs:notes:frames:03-02|<<]] | [[:bn:obs:notes:frames:03-03|Up]] | [[:bn:obs:notes:frames:03-04|>>]]**
