@@ -1,44 +1,22 @@
-<font 24px/inherit;;inherit;;inherit>** আমার লোকেদের যেতে দাও **  ** ! [10-01] **</font>
+<font 24px/inherit;;inherit;;inherit>** আমার লোকেদের যেতে দাও  **  ** ! [10-01]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?nolink&}}
 
-মোশী ও হারোণ ফরৌনের কাছে গেলেন৷  তারা বললেন, “ইসরাইলের ঈশ্বর এই বলেন, ‘আমার প্রজাদের যেতে দেও!’” কিন্তু ফরৌণ তাতে কান দিলেন না৷ ইস্রায়লীয়দের মুক্ত করার চেয়ে, তিনি তাদের আরও কঠিন কাজ করতে বাধ্য করলেন৷
+মোশী ও হারোণ ফরৌনের কাছে গেলেন৷ তারা বললেন, “ইসরাইলের ঈশ্বর এই বলেন, ‘আমার প্রজাদের যেতে দেও!’” কিন্তু ফরৌণ তাতে কান দিলেন না৷ ইস্রায়লীয়দের মুক্ত করার চেয়ে, তিনি তাদের আরও কঠিন কাজ করতে বাধ্য করলেন৷
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  *
-
-**মোশী**
-  *
-
-**হারুন**
-  *
-
-**ফরৌণ**
-  *
-
-**ঈশ্বর**
-  *
-
-**ইসরাইল**
-  *
-
-**ইস্রায়েলীয়**
+  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
+  * **[[:bn:obs:notes:key-terms:aaron|হারুন]]**
+  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:israel|ইসরাইল]]**
+  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
-  *
-
-**to Pharaoh**  – It may be clearer to say, “to Pharaoh's palace to talk to him.”
-  *
-
-**God of Israel**  - This could be translated as, “God, who chose the Israelites to be his people” or, “God, who rules the people of Israel” or, “the God whom the Israelites worship.”
-  *
-
-**Let My people go**  – Another way to say this would be, “Allow My people to go free” or, “Free My people to leave Egypt.”
-  *
-
-**my people**  - See “my people” in **[[https://door43.org/en/obs/notes/frames/09-13|[09-13]]]**.
-  *
-
-**listen to**  – This could be translated as “heed” or, “obey.”
+  * **ফরৌনের কাছে**- এটা বললে স্পষ্ট হতে পারে, “ফরৌনের প্রাসাদে তার সাথে কথা বলতে৷”
+  * **ইস্রায়েলের ঈশ্বর**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “ঈশ্বর, যিনি ইস্রায়েলীয়দের তার নিজ প্রজা হওয়ার জন্য নির্বাচন করেছিলেন” অথবা, “ঈশ্বর, যিনি ইস্রায়েলীয়দের উপর প্রভুত্ব করেন” অথবা, “সেই ঈশ্বর যাকে ইস্রায়েলীয়রা আরাধনা করত৷”
+  * **আমার লোকেদের যেতে দাও**- অন্যভাবে এটাকে বললে তা হবে, “আমার লোকেদের/প্রজাদের যেতে স্বতন্ত্র কর” বা, “আমার লোকেদের/প্রজাদের মিশর ছেড়ে যেতে স্বতন্ত্র কর৷”
+  * **আমার লোক**- [০৯-১৩]-তে “আমার প্রজা বা লোক” দেখুন৷
+  * **কান দেন নি**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “তা গ্রাহ্য করেন নি” বা “তা মানেন নি৷”
 **[[https://door43.org/en/obs/notes/frames/09-15|<<]] | [[https://door43.org/en/obs/notes/10|Up]] | [[https://door43.org/en/obs/notes/frames/10-02|>>]]**
