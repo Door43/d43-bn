@@ -1,4 +1,4 @@
-<font 24px/inherit;;inherit;;inherit>** আমার লোকেদের যেতে দাও  **  ** ! [10-01]  **</font>
+<font 24px/inherit;;inherit;;inherit>** আমার লোকেদের যেতে দাও  **  ** !  **</font>    **<font 24px/inherit;;inherit;;inherit>[১০-০১]</font> ** <font 24px/inherit;;inherit;;inherit>**  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?nolink&}}
 
