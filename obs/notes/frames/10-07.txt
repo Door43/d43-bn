@@ -1,28 +1,17 @@
-===== **বেদনাময় স্ফোটক** [১০-০৭] =====
+===== বেদনাময় স্ফোটক [১০-০৭] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-07.jpg?nolink&}}
 
-Then **God** told **Moses** to throw ashes into the air in front of **Pharaoh**. When he did, painful skin sores appeared on the **Egyptians**, but not on the **Israelites**. **God hardened Pharaoh's heart**, and Pharaoh would not let the Israelites go free.
-===== Important Terms: =====
+তারপর ঈশ্বর মোশীকে ফরৌনের সামনে বাতাসে ছাই ফেলতে বললেন৷ যখন তিনি তা করলেন, তখন মিশরবাসীদের ত্বকে বেদনাময় স্ফোটক দেখা দিল, কিন্তু ইস্রায়লীয়দের কিছু হল না৷ ঈশ্বর ফরৌনের হৃদয় কঠোর করেছিলেন, আর ফরৌণ ইস্রায়লীয়দের যেতে দিলেন না৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
+  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
+  * **[[:bn:obs:notes:key-terms:egypt|মিশরবাসী]]**
+  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
+==== অনুবাদিত টীকাসমূহ: ====
 
-**[[https://door43.org/en/obe/other/moses|Moses]]**
-  *
-
-**[[https://door43.org/en/obe/other/pharaoh|Pharaoh]]**
-  *
-
-**[[https://door43.org/en/obe/other/egypt|Egyptians]]**
-  *
-
-**[[https://door43.org/en/obe/other/israel|Israelites]]**
-==== Translation Notes: ====
-
-  *
-
-**God hardened Pharaoh's heart**  - God caused Pharaoh to continue to be stubborn. See also note in **[[https://door43.org/en/obs/notes/frames/10-04|[10-04]]]**.
-**[[https://door43.org/en/obs/notes/frames/10-06|<<]] | [[https://door43.org/en/obs/notes/10|Up]] | [[https://door43.org/en/obs/notes/frames/10-08|>>]]**
+  * **ঈশ্বর ফরৌনের হৃদয় কঠোর করেছিলেন**-ঈশ্বর ফরৌনের হৃদয়কে কঠিন করা বজায় রাখলেন৷ আরও দেখুন [১০-০৪]-র টীকাটিকে৷
+**[[:pa:obs:notes:frames:10-06|<<]] | [[:bn:obs:notes:frames:10-07|Up]] | [[https://door43.org/en/obs/notes/frames/10-08|>>]]**
