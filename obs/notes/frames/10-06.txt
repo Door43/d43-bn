@@ -7,9 +7,9 @@
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
   * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **মিশরবাসী**
-  * **ফরৌনের**
-  * **ইস্রায়েলীয়**
+  * **[[:bn:obs:notes:key-terms:egypt|মিশরবাসী]]**
+  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌনের]]**
+  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   *
