@@ -1,4 +1,4 @@
-<font 24px/inherit;;inherit;;inherit>** আমার লোকেদের যেতে দাও  **  ** !  **</font>    **<font 24px/inherit;;inherit;;inherit>[১০-০১]</font> ** <font 24px/inherit;;inherit;;inherit>**  **</font>
+<font 24px/inherit;;inherit;;inherit>** আমার লোকেদের যেতে দাও  **  ** !  **</font>    **<font 24px/inherit;;inherit;;inherit>[১০-০১]</font>    **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?nolink&}}
 
@@ -19,4 +19,4 @@
   * **আমার লোকেদের যেতে দাও**- অন্যভাবে এটাকে বললে তা হবে, “আমার লোকেদের/প্রজাদের যেতে স্বতন্ত্র কর” বা, “আমার লোকেদের/প্রজাদের মিশর ছেড়ে যেতে স্বতন্ত্র কর৷”
   * **আমার লোক**- [০৯-১৩]-তে “আমার প্রজা বা লোক” দেখুন৷
   * **কান দেন নি**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “তা গ্রাহ্য করেন নি” বা “তা মানেন নি৷”
-**[[:bn:obs:notes:frames:09-15|<<]] | [[:bn:obs:notes:frames:10-01|Up]] | [[https://door43.org/en/obs/notes/frames/10-02|>>]]**
+**[[:bn:obs:notes:frames:09-15|<<]] | [[:bn:obs:notes:frames:10-01|Up]] | [[:bn:obs:notes:frames:10-02|>>]]**
