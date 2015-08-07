@@ -2,24 +2,19 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?nolink&}}
 
-**God turned the Nile River into blood**, but **Pharaoh** still would not let the **Israelites** go.
-===== Important Terms: =====
+ঈশ্বর নিল নদকে রক্তে পরিনত করলেন, কিন্তু তবুও ফরৌণ ইস্রায়লীয়দের যেতে দিলেন না৷
+
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
+
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:nile river|নিল নদের]]**
+  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
+  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
+
+<font 18px/inherit;;inherit;;inherit>** অনুবাদিত টীকাসমূহ: **</font>
 
   *
 
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
+রক্তে পরিনত হল- বাক্যটিকে ব্যক্ত করার জন্য কিছু কিছু ভাষার প্রয়োজন হতে পারে, “নিল নদের জল রক্তে পরিনত করলেন৷” নদটিতে জলের জায়গায় রক্ত প্রভাবিত হচ্ছিল, তাই মাছ সকল মারা গিয়েছিল আর লোকেদের কাছে পানীয় জল ছিল না৷
 
-**[[https://door43.org/en/obe/other/nileriver|Nile River]]**
-  *
-
-**[[https://door43.org/en/obe/other/pharaoh|Pharaoh]]**
-  *
-
-**[[https://door43.org/en/obe/other/israel|Israelites]]**
-==== Translation Notes: ====
-
-  *
-
-**turned the Nile River into blood**  - Some languages may need to say, “turned the water in the Nile River into blood.” Instead of water in the river there was blood, so the fish died and the people had no water to drink.
-**[[https://door43.org/en/obs/notes/frames/10-02|<<]] | [[https://door43.org/en/obs/notes/10|Up]] | [[https://door43.org/en/obs/notes/frames/10-04|>>]]**
+**[[:bn:obs:notes:frames:10-02|<<]] | [[:bn:obs:notes:frames:10-03|Up]] | [[https://door43.org/en/obs/notes/frames/10-04|>>]]**
