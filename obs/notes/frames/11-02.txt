@@ -1,4 +1,4 @@
-===== **বলি [০৫-০৮]**  =====
+===== বলি [০৫-০৮] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-02.jpg?nolink&}}
 
@@ -6,27 +6,13 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  *
-
-**[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  *
-
-**[[:bn:obs:notes:key-terms:save|রক্ষা]]**
-  *
-
-**[[:bn:obs:notes:key-terms:son|পুত্র]]**
-  *
-
-**[[:bn:obs:notes:key-terms:believe|বিশ্বাস করেছিলেন]]**
-  *
-
-**[[:bn:obs:notes:key-terms:lamb|মেষ]]**
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:save|রক্ষা]]**
+  * **[[:bn:obs:notes:key-terms:son|পুত্র]]**
+  * **[[:bn:obs:notes:key-terms:believe|বিশ্বাস করেছিলেন]]**
+  * **[[:bn:obs:notes:key-terms:lamb|মেষ]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
-  *
-
-**God provided**  – God is the only one who could provide the way to save the Israelites' sons from death.
-  *
-
-**perfect lamb**  - That is, “a young sheep or goat that had no blemishes or defects.”
-**[[https://door43.org/en/obs/notes/frames/11-01|<<]] | [[https://door43.org/en/obs/notes/11|Up]] | [[https://door43.org/en/obs/notes/frames/11-03|>>]]**
+  * **ঈশ্বর প্রদান করলেন**- “ইস্রায়েলীয়দের প্রথম পুত্র সন্তানদের বাঁচানোর জন্য ঈশ্বর হলেন একমাত্র উপায়কর্তা৷
+  * **নিখুঁত মেষ**- এটি হল, “খুঁত বা দোষ ছাড়া একটি ভেড়ার বা ছাগলের ছোট বাচ্চা৷”
+**[[:bn:obs:notes:frames:11-01|<<]] | [[:bn:obs:notes:frames:11-02|Up]] | [[https://door43.org/en/obs/notes/frames/11-03|>>]]**
