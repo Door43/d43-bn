@@ -1,4 +1,4 @@
-===== **শোকার্ত মিশর** [১১-০৭] =====
+===== শোকার্ত মিশর [১১-০৭] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-07.jpg?nolink&}}
 
@@ -6,18 +6,10 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  *
-
-**[[:bn:obs:notes:key-terms:egypt|মিশরবাসী]]**
-  *
-
-**[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
-  *
-
-**[[:bn:obs:notes:key-terms:egypt|মিশর]]**
+  * **[[:bn:obs:notes:key-terms:egypt|মিশরবাসী]]**
+  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
+  * **[[:bn:obs:notes:key-terms:egypt|মিশর]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
-  *
-
-**from the firstborn of the prisoner in jail, to the firstborn of Pharaoh**  - This is a way of saying that everyone's firstborn son died–from the son of the least important person to the son of the most important person, and everyone in between.
-**[[https://door43.org/en/obs/notes/frames/11-06|<<]] | [[https://door43.org/en/obs/notes/11|Up]] | [[https://door43.org/en/obs/notes/frames/11-08|>>]]**
+  * **জেলে বন্দীদের প্রথমজাত সন্তানদের থেকে ফরৌনের প্রথম পুত্র পর্যন্ত সকলই মারা গেল**- এটি হল একটি পদ্ধতি বলার জন্য যে সকলের প্রথম পুত্র মারা গেল, কম মহত্বপূর্ণ ব্যক্তি থেকে আরম্ভ করে বিশিষ্ট ব্যক্তি পর্যন্ত আর এই সকলের মধ্যেকার শ্রেণীর লোকেদেরও প্রথম পুত্র মারা গিয়েছিল৷
+**[[:bn:obs:notes:frames:11-06|<<]] | [[:bn:obs:notes:frames:11-07|Up]] | [[https://door43.org/en/obs/notes/frames/11-08|>>]]**
