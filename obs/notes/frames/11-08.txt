@@ -1,4 +1,4 @@
-===== **চলে যাও!** [১১-০৮] =====
+===== চলে যাও! [১১-০৮] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-08.jpg?nolink&}}
 
@@ -6,30 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  *
-
-**[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
-  *
-
-**[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  *
-
-**[[:bn:obs:notes:key-terms:aaron|হারুন]]**
-  *
-
-**[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  *
-
-**[[:bn:obs:notes:key-terms:egypt|মিশর]]**
+  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
+  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
+  * **[[:bn:obs:notes:key-terms:aaron|হারুন]]**
+  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
+  * **[[:bn:obs:notes:key-terms:egypt|মিশর]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
-  *
-
-**called for**  – This means that Pharaoh told his servants to tell Moses and Aaron to come to him.
-  *
-
-**and said**  – Pharaoh said the following words to Moses and Aaron after they came to him. In some languages this would be translated as, “and said to them,” or, “After they came, Pharaoh said to them.”
-  *
-
-//A Bible story from//  - These references may be slightly different in some Bible translations.
-**[[https://door43.org/en/obs/notes/frames/11-07|<<]] | [[https://door43.org/en/obs/notes/11|Up]] | [[https://door43.org/en/obs/notes/frames/12-01|>>]]**
+  * **ডাকলেন**- এর অর্থ হল যে ফরৌণ তার চাকরদের বলেছিলেন যে মোশী আর হারুনকে বল আমার কাছে আসতে৷
+  * **আর বললেন**- ফরৌণ এই কথাগুলো মোশী আর হারুনকে বললেন তারা তার কাছে আসার পর৷ কিছু কিছু ভাষায় এটিকে এভাবে অনুবাদ করা যেতে পারে, “আর তাদেরকে বলেছিলেন,” বা, “তাদের আসবার পর, ফরৌণ তাদের বলেছিলেন৷”
+  * //একটি বাইবেল কাহিনী-//  এইসব উল্লেখগুলো কিছু কিছু বাইবেল অনুবাদে সামান্য ভিন্ন হতে পারে৷
+**[[:bn:obs:notes:frames:11-07|<<]] | [[:bn:obs:notes:frames:11-08|Up]] | [[https://door43.org/en/obs/notes/frames/12-01|>>]]**
