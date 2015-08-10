@@ -1,4 +1,4 @@
-===== **নিস্তারপর্বের আহার** [১১-০৪] =====
+===== নিস্তারপর্বের আহার [১১-০৪] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-11-04.jpg?nolink&}}
 
@@ -6,18 +6,10 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  *
-
-**[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  *
-
-**[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  *
-
-**[[:bn:obs:notes:key-terms:egypt|মিশর]]**
+  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:egypt|মিশর]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
-  *
-
-**every firstborn son**  - This means every firstborn son of families who had not made the blood sacrifice, that is, the Egyptians. To make this clear you may want to add, “Every Egyptian firstborn son” (since all the Israelite families had put the blood on their doorposts).
-**[[https://door43.org/en/obs/notes/frames/11-03|<<]] | [[https://door43.org/en/obs/notes/11|Up]] | [[https://door43.org/en/obs/notes/frames/11-05|>>]]**
+  * **প্রত্যেক প্রথমজাত পুত্র**- এর অর্থ হল পরিবারের প্রত্যেক প্রথম পুত্র সন্তান যারা রক্তের বলি দেয় নি আর তারা হল মিশরের লোক৷ এটিকে স্পষ্ট করতে আপনাকে এতে অতিরিক্ত বাক্য যুক্ত করতে হবে, “প্রত্যেক মিশরীয় প্রথমজাত পুত্র” (যেহেতু ইস্রায়েলীয় সকল পরিবারগুলো তাদের দরজার চারধারে রক্ত লাগিয়ে ছিল)৷
+**[[:bn:obs:notes:frames:11-03|<<]] | [[:bn:obs:notes:frames:11-04|Up]] | [[https://door43.org/en/obs/notes/frames/11-05|>>]]**
