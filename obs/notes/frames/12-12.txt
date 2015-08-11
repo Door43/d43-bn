@@ -1,4 +1,4 @@
-===== **ইস্রায়েলীয়রা ঈশ্বরের উপর বিশ্বাস করলেন ** [১২-১২] =====
+===== ইস্রায়েলীয়রা ঈশ্বরের উপর বিশ্বাস করলেন  [১২-১২] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-12-12.jpg?nolink&}}
 
@@ -6,15 +6,13 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **ইস্রায়েলীয়**
-  * **মিশরবাসী**
-  * **ঈশ্বর**
-  * **বিশ্বাস করেছিলেন**
-  * **মোশী**
-  * **ভাববাদী**
-==== Translation Notes: ====
+  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
+  * **[[:bn:obs:notes:key-terms:egypt|মিশরবাসী]]**
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:believe|বিশ্বাস করেছিলেন]]**
+  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
+  * **[[:bn:obs:notes:key-terms:prophet|ভাববাদী]]**
+==== অনুবাদিত টীকাসমূহ: ====
 
-  *
-
-**trusted in God**  - In other words, the people now trusted that God was powerful and could protect them.
-**[[https://door43.org/en/obs/notes/frames/12-11|<<]] | [[https://door43.org/en/obs/notes/12|Up]] | [[https://door43.org/en/obs/notes/frames/12-13|>>]]**
+  * **ঈশ্বরের উপর বিশ্বাস**- অন্য শব্দে, লোকেরা এখন বিশ্বাস করলেন যে ঈশ্বর শক্তিশালী ছিলেন আর তাদের রক্ষার্থে যোগ্য ছিলেন৷
+**[[:bn:obs:notes:frames:12-11|<<]] | [[:bn:obs:notes:frames12-12|Up]] | [[https://door43.org/en/obs/notes/frames/12-13|>>]]**
