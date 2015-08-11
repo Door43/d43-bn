@@ -1,4 +1,4 @@
-===== **আমি হলাম তোমাদের ঈশ্বর** [১৩-০৪] =====
+===== আমি হলাম তোমাদের ঈশ্বর [১৩-০৪] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-04.jpg?nolink&}}
 
@@ -12,18 +12,11 @@
   * **[[:bn:obs:notes:key-terms:save|রক্ষা করেছিলেন]]**
   * **[[:bn:obs:notes:key-terms:servant|দাসত্ব]]**
   * **[[:bn:obs:notes:key-terms:egypt|মিশর]]**
-  * **[[:bn:obs:notes:key-terms:worship|আরাধনা]] **
-  * **[[:bn:obs:notes:key-terms:false god|দেবদেবী]]**
-
+  * **[[:bn:obs:notes:key-terms:worship|আরাধনা]]**
+  * **[[:bn:obs:notes:key-terms:false-god|দেবদেবী]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
-  *
-
-**Then God gave them the covenant and said**  - What God says next is the content of the covenant, that is, he tells the people the things that they must obey. This could be translated as, “Then God told them His covenant. He said” or, “Then God made this covenant with them:”
-  *
-
-**Yahweh your God**  - In some languages it might be more natural to change the order and say “your God Yahweh.” Make sure it does not sound like the Israelites had more than one God. It should be clear that Yahweh is the only God. Another way to translate this would be, “Yahweh, who is your God” or, “your God, whose name is Yahweh.”
-  *
-
-**who saved you from slavery**  - This could be translated as, “I freed you from slavery.”
+  * **তখন ঈশ্বর তাদের নিয়ম দিলেন আর বললেন**- যা কিছু ঈশ্বর এর পর বললেন তা হল নিয়মের বিষয়বস্তু, তা হল, তিনি লোকেদের যা বললেন তা তাদের মানতে হবে৷এটিকে এভাবে অনুবাদ করা যেতে পারে, “তারপর ঈশ্বর তার নিয়ম তাদের বললেন৷ তিনি বললেন” বা, “তারপর ঈশ্বর তার নিয়ম তাদের সাথে স্থির করলেন৷”
+  * **যীহোবা, তোমাদের ঈশ্বর**- কিছু কিছু ভাষায় এটা আরও প্রাকৃতিক হতে পারে যদি ক্রমটিকে পরিবর্তন করা হয়, যেমন “তোমাদের ঈশ্বর, যীহোবা৷” নিশ্চিত হন যেন এটি এমন না শোনায় যে ইস্রায়েলীয়রা একের বেশি ঈশ্বর বানিয়েছিল৷ এটা যেন স্পষ্ট হয় যে যীহোবা হল কেবল ঈশ্বর৷ অন্য ভাবে এটিকে অনুবাদ করলে এটি হবে, “যীহোবা, যিনি হলেন তোমাদের ঈশ্বর” বা, “তোমাদের ঈশ্বর, যার নাম হল যীহোবা৷”
+  * **যিনি মিশর দেশের দাসত্ব থেকে তোমাদের মুক্তি দিয়েছেন**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “আমি তোমাদের দাসত্ব থেকে মুক্তি দিয়েছি৷”
 **[[https://door43.org/en/obs/notes/frames/13-03|<<]] | [[https://door43.org/en/obs/notes/13|Up]] | [[https://door43.org/en/obs/notes/frames/13-05|>>]]**
