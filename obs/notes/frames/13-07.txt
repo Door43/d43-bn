@@ -1,4 +1,4 @@
-===== **পাথরের ফলক** [১৩-০৭] =====
+===== পাথরের ফলক [১৩-০৭] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-07.jpg?nolink&}}
 
@@ -9,25 +9,16 @@
   * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
   * **[[:bn:obs:notes:key-terms:tencommandments|দশাজ্ঞা]]**
   * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:law of moses|নিয়মবিধিগুলো]]**
+  * **[[:bn:obs:notes:key-terms:law-of-moses|নিয়মবিধিগুলো]]**
   * **[[:bn:obs:notes:key-terms:obey|আজ্ঞাকারী হয়েছিলেন]]**
   * **[[:bn:obs:notes:key-terms:promise|প্রতিজ্ঞা]]**
   * **[[:bn:obs:notes:key-terms:bless|আশির্বাদিত]]**
   * **[[:bn:obs:notes:key-terms:disobey|অনাজ্ঞাকারী]]**
   * **[[:bn:obs:notes:key-terms:punish|শাস্তি]]**
-
 ==== অনুবাদিত টীকাসমূহ: ====
 
-  *
-
-**these Ten Commandments**  - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[https://door43.org/en/obs/notes/frames/13-05|[13-05]]]** and **[[https://door43.org/en/obs/notes/frames/13-06|[13-06]]]**.
-  *
-
-**stone tablets**  - These were flat pieces of stone.
-  *
-
-**God also gave**  - This can be translated as, “God also told them.”
-  *
-
-**to follow**  - This can be translated as, “that they must obey” or, “that they must keep.”
-**[[https://door43.org/en/obs/notes/frames/13-06|<<]] | [[https://door43.org/en/obs/notes/13|Up]] | [[https://door43.org/en/obs/notes/frames/13-08|>>]]**
+  * **সেই দশাজ্ঞাগুলো**- ইস্রায়েলীয়দের আজ্ঞাকারী হতে মোশীকে দেওয়া ঈশ্বরের আদেশগুলোকে এটি উল্লেখ করে৷ }\[১৩-০৫][১০} আর [১৪}\[১৩-০৬] সেগুলোকে তালিকাভুক্ত করা হয়েছে৷
+  * **পাথরের ফলক**- এগুলো হল পাথরের সমতল টুকরো৷
+  * **আরও অন্যান্য নিয়ম ও বিধি দিলেন**- এটিকে এভাবেও অনুবাদ করা যেতে পারে, “ঈশ্বর তাদের আরও বললেন৷”
+  * **অনুসরণ করার জন্য**- এটিকে এভাবেও অনুবাদ করা যেতে পারে, “যা তাদের মানতেই হবে” বা, “যা তাদের পালন করতেই হবে৷”
+**[[:bn:obs:notes:frames:13-06|<<]] | [[:bn:obs:notes:frames:13-07|Up]] | [[https://door43.org/en/obs/notes/frames/13-08|>>]]**
