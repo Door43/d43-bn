@@ -1,4 +1,4 @@
-===== **মিলনতাম্বু ** [১৩-০৮] =====
+===== মিলনতাম্বু  [১৩-০৮] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-08.jpg?nolink&}}
 
@@ -10,19 +10,10 @@
   * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
   * **[[:bn:obs:notes:key-terms:tentofmeeting|মিলন তাম্বু]]**
   * **[[:bn:obs:notes:key-terms:highpriest|মহাযাজক]]**
-
 ==== অনুবাদিত টীকাসমূহ: ====
 
-  *
-
-**a detailed description**  - This could be translated as, “God described it in detail” or, “God told them exactly how He wanted them to make it.”
-  *
-
-**It was called**  - This could be translated as, “They called it” or, “Moses called it.”
-  *
-
-**the room behind the curtain**  - This room was hidden by the curtain. Some languages would call this room, “the room in front of the curtain.”
-  *
-
-**God lived there**  - If this phrase would lead people to think that God was limited to living in the tent, here are some ways of translating it: “God was there” or, “God revealed Himself to humans there.”
-**[[https://door43.org/en/obs/notes/frames/13-07|<<]] | [[https://door43.org/en/obs/notes/13|Up]] | [[https://door43.org/en/obs/notes/frames/13-09|>>]]**
+  * **তার একটি পূর্ণ বর্ণনাও দিলেন**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “ঈশ্বর তার খুটিনাটি বর্ণনা দিলেন” বা, “ঈশ্বর ঠিক কেমনটি তিনি চান, নির্মান করতে, তা তাদের বললেন৷”
+  * **এটিকে মিলনতাম্বু বলা হত**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “তারা তা বলত” বা, “মোশী তা বলতেন৷”
+  * **পর্দার পেছনের কক্ষে**- সেই কক্ষটি পর্দা দিয়ে ঢাকা থাকত৷ কিছু কিছু ভাষায় এই কক্ষটিকে বলা হয়, “পর্দার সামনের কক্ষ৷”
+  * **সেখানে ঈশ্বর নিবাস করতেন**- যদি এই বাক্যাংশটি লোকেদের এমনটি ভাবায় যে ঈশ্বর কেবল তাম্বুতে সীমিত, তাহলে এটি এমন কিছু পদ্ধতিতে অনুবাদ করা যেতে পারে: ““ঈশ্বর সেখানে ছিলেন” বা, “সেখানে ঈশ্বর নিজেকে মনুষ্যদের সামনে প্রকাশ করেছিলেন৷
+**[[:bn:obs:notes:frames:13-07|<<]] | [[:bn:obs:notes:frames:13-08|Up]] | [[https://door43.org/en/obs/notes/frames/13-09|>>]]**
