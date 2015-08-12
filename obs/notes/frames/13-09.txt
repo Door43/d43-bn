@@ -1,13 +1,13 @@
-===== **বেদী** [১৩-০৯] =====
+===== বেদী [১৩-০৯] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-09.jpg?nolink&}}
 
-যেকেউ ঈশ্বরের নিয়মবিধির অমান্য করতেন সে একটি পশুকে মিলন তাম্বুর সামনে ঈশ্বরের কাছে উৎসর্গ করতেন৷  এক যাজক পশুটিকে বলি দিতেন আর তা বেদির অগ্নিতে নিক্ষেপ করতেন৷ বলি হওয়া পশুটির রক্ত সেই ব্যক্তির পাপকে ঢেকে দিত আর তাকে ঈশ্বরের দৃষ্টিতে শুদ্ধ করত৷ ঈশ্বর মোশীর ভাই হারুন আর হারুনের বংশকে তার [ঈশ্বরের] যাজক রূপে নির্বাচন করলেন৷
+যেকেউ ঈশ্বরের নিয়মবিধির অমান্য করতেন সে একটি পশুকে মিলন তাম্বুর সামনে ঈশ্বরের কাছে উৎসর্গ করতেন৷ এক যাজক পশুটিকে বলি দিতেন আর তা বেদির অগ্নিতে নিক্ষেপ করতেন৷ বলি হওয়া পশুটির রক্ত সেই ব্যক্তির পাপকে ঢেকে দিত আর তাকে ঈশ্বরের দৃষ্টিতে শুদ্ধ করত৷ ঈশ্বর মোশীর ভাই হারুন আর হারুনের বংশকে তার [ঈশ্বরের] যাজক রূপে নির্বাচন করলেন৷
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
   * **[[:bn:obs:notes:key-terms:disobey|অনাজ্ঞাকারী]]**
-  * **[[:bn:obs:notes:key-terms:law of moses|ঈশ্বরের নিয়মবিধি]]**
+  * **[[:bn:obs:notes:key-terms:law-of-moses|ঈশ্বরের নিয়মবিধি]]**
   * **[[:bn:obs:notes:key-terms:tentofmeeting|মিলন তাম্বু]]**
   * **[[:bn:obs:notes:key-terms:sacrifice|বলি]]**
   * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
@@ -18,19 +18,10 @@
   * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
   * **[[:bn:obs:notes:key-terms:aaron|হারুন]]**
   * **[[:bn:obs:notes:key-terms:descendant|উত্তরাধিকার]]**
-
 ==== অনুবাদিত টীকাসমূহ: ====
 
-  *
-
-**God's law**  - This refers to all the commandments and instructions that God had told the Israelites to obey.
-  *
-
-**to the Tent of Meeting**  - They did not bring the animal inside the Tent of Meeting, but to the altar in front of the Tent of Meeting. Be sure not to use an expression that means that they brought it inside.
-  *
-
-**covered the person's sin**  - When people brought animals to sacrifice, God chose to see the blood of the animals as a covering over their sin. This is like hiding something that is ugly or dirty by covering it.
-  *
-
-**clean in God's sight**  - This could be translated as, “as if he did not have the sin according to God” or, “free of the punishment for breaking God's law.”
-**[[https://door43.org/en/obs/notes/frames/13-08|<<]] | [[https://door43.org/en/obs/notes/13|Up]] | [[https://door43.org/en/obs/notes/frames/13-10|>>]]**
+  * **ঈশ্বরের নিয়মবিধি**- এটি উল্লেখ করে সেই সকল আদেশ ও নির্দেশনাগুলোকে যা ঈশ্বর ইস্রায়েলীয়দের পালন করতে বলেছিলেন৷
+  * **মিলন তাম্বুর সামনে**- তারা পশুটিকে মিলনতাম্বুর ভিতরে আনত না, কিন্তু তার সামনে রাখা সেই বেদীটিতে আনত৷ নিশ্চিত হন যে এমন একটি অভিব্যক্তি না হয় যে তারা তা ভিতরে নিয়ে আসত৷
+  * **সেই ব্যক্তির পাপকে ঢেকে দিত**- যখন লোকেরা বলি নিয়ে আসত, ঈশ্বর সেই লোকেদের পাপকে সেই পশুর রক্তের দ্বারা ঢেকে দিতেন৷ এটি হল যেমন কোনো কিছু খারাপ বা বিশ্রী জিনিসকে ঢেকে দেওয়া৷
+  * **ঈশ্বরের দৃষ্টিতে শুদ্ধ**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “যেমন ঈশ্বরের অনুসারে তার কাছে সেই পাপ নেই” বা, “ঈশ্বরের নিয়মবিধির অনাজ্ঞাকারী হওয়ার দণ্ড থেকে মুক্ত হওয়া৷”
+**[[:bn:obs:notes:frames:13-08|<<]] | [[:bn:obs:notes:frames:13-09|Up]] | [[https://door43.org/en/obs/notes/frames/13-10|>>]]**
