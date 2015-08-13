@@ -1,34 +1,19 @@
-===== **ঈশ্বর বললেন** [১৪-০৮] =====
+===== ঈশ্বর বললেন [১৪-০৮] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-08.jpg?nolink&}}
 
-**God was very angry** and **came to** the **Tent of Meeting**. **God** said, “Because you have rebelled against me, all of the people will have to **wander in the wilderness**. Except for **Joshua** and **Caleb**, everyone who is twenty years or older will die there and never enter the **Promised Land**.”
-===== Important Terms: =====
+ঈশ্বর অতন্ত্য রুষ্ট হলেন আর মিলন তাম্বুতে এলেন৷ঈশ্বর বললেন, “কেননা তোমরা আমরা বিরুদ্ধে বিদ্রোহ করেছ, তোমরা সকল লোক এই নির্জনপ্রদেশেই ঘুরে বেড়াবে৷ কেবল কালেব আর যিহোশূয়কে ছাড়া, প্রত্যেকে যারা কুড়ি বছর বা তার উপর সেখানেই মরবে আর কখনও প্রতিজ্ঞার ভূমিতে প্রবেশ করতে পারবে না৷”
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:tentofmeeting|মিলন তাম্বু]]**
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:joshua|যিহোশূয়]]**
+  * **[[:bn:obs:notes:key-terms:caleb|কলেব]]**
+  * **[[:bn:obs:notes:key-terms:promisedland|প্রতিজ্ঞার ভূমি]]**
+==== অনুবাদিত টীকাসমূহ: ====
 
-**[[https://door43.org/en/obe/other/tentofmeeting|Tent of Meeting]]**
-  *
-
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
-
-**[[https://door43.org/en/obe/other/joshua|Joshua]]**
-  *
-
-**[[https://door43.org/en/obe/other/caleb|Caleb]]**
-  *
-
-**[[https://door43.org/en/obe/kt/promisedland|Promised Land]]**
-==== Translation Notes: ====
-
-  *
-
-**came to**  - God did not appear as a person, but came in some other form that showed his glory and power.
-  *
-
-**wander in the wilderness**  - God would lead the people around in the wilderness with no specific destination until all of the adults who rebelled against him died.
-**[[https://door43.org/en/obs/notes/frames/14-07|<<]] | [[https://door43.org/en/obs/notes/14|Up]] | [[https://door43.org/en/obs/notes/frames/14-09|>>]]**
+  * **এলেন**- ঈশ্বর একজন ব্যক্তির আকারে আভির্ভূত হলেন না, কিন্তু অন্য এক আকারে যা তার মহিমা ও শক্তিকে প্রকাশ করে৷
+  * **নির্জনপ্রদেশেই ঘুরে বেড়াবে**- ঈশ্বর তাদের নির্জনপ্রদেশে উদ্দেশ্যেহীন ভাবে ঘুরাতে থাকবেন যত দিন না সকল বয়স্কপ্রাপ্ত ব্যক্তিরা মারা যায় যারা তার বিরুদ্ধে বিদ্রোহ করেছিল৷
+**[[:bn:obs:notes:frames:14-07|<<]] | [[:bn:obs:notes:frames:14-08|Up]] | [[https://door43.org/en/obs/notes/frames/14-09|>>]]**
