@@ -12,17 +12,9 @@
   * **[[:bn:obs:notes:key-terms:jericho|যিরীহো]]**
   * **[[:bn:obs:notes:key-terms:obey|আজ্ঞাকারী হয়েছিলেন]]**
   * **[[:bn:obs:notes:key-terms:priest|যাজকগন]]**
-
 ==== অনুবাদিত টীকাসমূহ: ====
 
-  *
-
-**After the people crossed the Jordan River**  – In some languages it is better to say, “The people crossed the Jordan River and then…”
-
-  *
-
-**how to attack**  – This could be translated as, “exactly what he should do to attack.”
-
-  *
-
-**once a day for six days**  - That is, they went around the city one time every day for a total of six days. **[[https://door43.org/en/obs/notes/frames/15-02|<<]] | [[https://door43.org/en/obs/notes/15|Up]] | [[https://door43.org/en/obs/notes/frames/15-04|>>]]**
+  * **লোকেদের যর্দ্দন নদী পার হওয়ার পর**- কিছু কিছু ভাষায় এটা বলা ভালো হবে, “লোকেদের যর্দ্দন নদী অতিক্রম করার পর আর তখন৷”
+  * **কিভাবে আক্রমন করতে হবে**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “সঠিক কি তাকে করতে হবে তাদের আক্রমন করার জন্য৷”
+  * **দিনে একবার করে ছয় দিন**- তা হল, তারা এক দিনে একবার করে শহরটির প্রদক্ষিন করবে মোট ছয় দিন৷
+**[[:bn:obs:notes:frames:15-02|<<]] | [[:bn:obs:notes:frames:15-03|Up]] | [[https://door43.org/en/obs/notes/frames/15-04|>>]]**
