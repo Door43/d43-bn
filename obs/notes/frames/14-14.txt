@@ -1,4 +1,4 @@
-===== **প্রতিজ্ঞার ভূমিতে** [১৪-১৪] =====
+===== প্রতিজ্ঞার ভূমিতে [১৪-১৪] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-14-14.jpg?nolink&}}
 
@@ -6,9 +6,7 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  *
-
-**[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
+  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
   * **[[:bn:obs:notes:key-terms:rebel|বিদ্রোহ]]**
   * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
   * **[[:bn:obs:notes:key-terms:promisedland|প্রতিজ্ঞার ভূমি]]**
@@ -16,19 +14,10 @@
   * **[[:bn:obs:notes:key-terms:joshua|যিহোশূয়]]**
   * **[[:bn:obs:notes:key-terms:promise|প্রতিজ্ঞা]]**
   * **[[:bn:obs:notes:key-terms:prophet|ভাববাদী]]**
-
 ==== অনুবাদিত টীকাসমূহ: ====
 
-  *
-
-**who had rebelled against God**  - This could be translated, “who had refused to obey God when he told them to go into the Promised Land.”
-  *
-
-**the people**  - That is, the children of the generation that died.
-  *
-
-**one day**  - This means, “some time in the future.”
-  *
-
-**another prophet like Moses**  - Like Moses, this man would be an Israelite, he would speak God's words to the people, and he would lead the people.
-**[[https://door43.org/en/obs/notes/frames/14-13|<<]] | [[https://door43.org/en/obs/notes/14|Up]] | [[https://door43.org/en/obs/notes/frames/14-15|>>]]**
+  * **যারা ঈশ্বরের প্রতি বিদ্রোহ করেছিল**- এটিকে এমনভাবে অনুবাদ করা যেতে পারে, “যারা তিরস্কার করেছিল ঈশ্বরের আজ্ঞাকারী হতে যখন তিনি তাদের প্রতিজ্ঞার ভূমিতে যেতে বলেছিলেন৷”
+  * **লোকেরা**- এরা হল, মারা যাওয়া লোকেদের প্রজন্ম৷
+  * **এক দিন**- এর অর্থ হল, “ভবিষ্যতে কোনো এক সময়৷”
+  * **মোশীর মত একজন ভাববাদীকে পাঠাবেন**- মোশীর মত, এই লোকটি হবেন একজন ইস্রায়েলীয়, তিনি লোকেদের ঈশ্বরের বাক্য বলবেন আর তিনি লোকেদের নেতৃত্ব দেবেন৷
+**[[:bn:obs:notes:frames:14-13|<<]] | [[:bn:obs:notes:frames:14-14|Up]] | [[https://door43.org/en/obs/notes/frames/14-15|>>]]**
