@@ -1,4 +1,4 @@
-===== **প্রতিজ্ঞার ভূমির বিভক্তকরণ ** [১৫-১২] =====
+===== প্রতিজ্ঞার ভূমির বিভক্তকরণ [১৫-১২] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-15-12.jpg?nolink&}}
 
@@ -10,13 +10,8 @@
   * **[[:bn:obs:notes:key-terms:israel|ইসরাইল ]]**
   * **[[:bn:obs:notes:key-terms:promisedland|প্রতিজ্ঞার ভূমি ]]**
   * **[[:bn:obs:notes:key-terms:peace|শান্তি]]**
-
 ==== অনুবাদিত টীকাসমূহ: ====
 
-  *
-
-**God gave…Land**  – this could be translated as, “God appointed each tribe its own plot of land” or, “God decided which part of the Promised Land each tribe of Israel would live on.”
-  *
-
-**gave Israel peace along all its borders**  – This could be translated as, “God allowed the Israelites to experience peace with the other people groups that surrounded them” or. “the other countries around Israel.”
-**[[https://door43.org/en/obs/notes/frames/15-11|<<]] | [[https://door43.org/en/obs/notes/15|Up]] | [[https://door43.org/en/obs/notes/frames/15-13|>>]]**
+  * **ঈশ্বর দেশ থেকে/ তাদের দিলেন**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “ঈশ্বর ইসরাইলের প্রত্যেক গোত্রকে প্রতিজ্ঞার দেশ থেকে তাদের নিজস্ব ভাগ দিলেন” বা, “ঈশ্বর নির্ণয় নিলেন ভূমিটির কোন অংশ কোন গোত্রকে দেবেন বসবাস করার জন্য৷”
+  * **ইস্রায়লীয়দের তাদের সকল সীমান্ত থেকে শান্তি দিলেন**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “ঈশ্বর ইস্রায়েলীয়দের অন্যান্য লোকেদের গোষ্টি যারা তাদের চারপাশে থাকতো তাদের থেকে শান্তির অভিজ্ঞতা দান করলেন৷”
+**[[:bn:obs:notes:frames:15-11|<<]] | [[:bn:obs:notes:frames:15-12|Up]] | [[https://door43.org/en/obs/notes/frames/15-13|>>]]**
