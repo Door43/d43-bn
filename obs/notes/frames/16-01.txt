@@ -1,8 +1,8 @@
-===== **ইস্রায়েলীয়রা মূর্তির আরাধনা করলো** [১৬-০১] =====
+===== ইস্রায়েলীয়রা মূর্তির আরাধনা করলো [১৬-০১] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-01.jpg?nolink&}}
 
-যিহোশূয়ের মৃত্যুর পর, ইস্রায়লীয়রা ঈশ্বরের অনাজ্ঞাকারী হল আর কানানীয়দের বাকি লোকেদের বেরও করল না অথবা নাহি তারা ঈশ্বরের ব্যবস্থা পালন করল৷  ইস্রায়লীয়রা সত্য পরমেশ্বর যীহোবা ঈশ্বরের বিপরীতে কানানীয় দেবতাদের আরাধনা করা শুরু করে দিল৷  ইস্রায়লীয়দের কোনো রাজা ছিল না, তাই প্রত্যেকে তাদের জন্য যা ভালো মনে করত তাই করত৷
+যিহোশূয়ের মৃত্যুর পর, ইস্রায়লীয়রা ঈশ্বরের অনাজ্ঞাকারী হল আর কানানীয়দের বাকি লোকেদের বেরও করল না অথবা নাহি তারা ঈশ্বরের ব্যবস্থা পালন করল৷ ইস্রায়লীয়রা সত্য পরমেশ্বর যীহোবা ঈশ্বরের বিপরীতে কানানীয় দেবতাদের আরাধনা করা শুরু করে দিল৷ ইস্রায়লীয়দের কোনো রাজা ছিল না, তাই প্রত্যেকে তাদের জন্য যা ভালো মনে করত তাই করত৷
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
@@ -13,27 +13,16 @@
   * **[[:bn:obs:notes:key-terms:canaan|কানানীয়দের]]**
   * **[[:bn:obs:notes:key-terms:obey|আজ্ঞাকারী]]**
   * **[[:bn:obs:notes:key-terms:lawofmoses|ঈশ্বরের ব্যবস্থা]]**
-  * **[[:bn:obs:notes:key-terms:worship|আরাধনা]] **
+  * **[[:bn:obs:notes:key-terms:worship|আরাধনা]]**
   * **[[:bn:obs:notes:key-terms:falsegod|দেবদেবী]]**
   * **[[:bn:obs:notes:key-terms:yahweh|যীহোবা]]**
   * **[[:bn:obs:notes:key-terms:true|সত্য]]**
   * **[[:bn:obs:notes:key-terms:king|রাজা]]**
+==== অনুবাদিত টীকাসমূহ: ====
 
-==== Translation Notes: ====
-
-  *
-
-**and did not drive out**  – This tells how they disobeyed God, so in some languages it may be better to start this as a new sentence, “They did not.”
-  *
-
-**drive out the rest of the Canaanites**  - This can be translated, “fight with the rest of the Canaanites to force them to leave the land.”
-  *
-
-**or obey God's laws**  - This means that the people also disobeyed the laws that God gave to the Israelites at Mount Sinai.
-  *
-
-**the true God**  - That is, “the only real God.” Yahweh is the only one that people should worship.
-  *
-
-**what they thought was right for them**  – This means that they all did whatever they wanted to do, including many evil things.
-**[[https://door43.org/en/obs/notes/frames/15-13|<<]] | [[https://door43.org/en/obs/notes/16|Up]] | [[https://door43.org/en/obs/notes/frames/16-02|>>]]**
+  * **কানানীয়দের বাকি লোকেদের বেরও করল না**- এটি প্রকাশ করে যে তারা কিভাবে ঈশ্বরের অনাজ্ঞাকারী হয়েছিল, কিছু কিছু ভাষায় এটা উত্তম হবে এই উক্তিটির সাথে আরম্ভ করা, “তারা করেনি৷”
+  * **কানানীয়দের বাকি লোকেদের**- এটি এভাবে অনুবাদ করা যেতে পারে, “বাকি কানানীয়দের সাথে যদ্ধ করে তাদের দেশ থেকে তাড়িয়ে দেওয়া৷”
+  * **নাহি তারা ঈশ্বরের ব্যবস্থা পালন করল**- এর অর্থ হল যে লোকেরা সেই নিয়মের যা ঈশ্বর তাদের সীনয় পর্বতে দিয়েছিলেন তাও মানলো না৷
+  * **সত্য পরমেশ্বর যীহোবা ঈশ্বরের**- তা হল, “কেবল একমাত্র সত্য ঈশ্বর৷” যীহোবা’ই হলেন একমাত্র ঈশ্বর যার আরাধনা লোকেদের করা উচিত৷
+  * **যা ভালো মনে করত তাই করত**- “এর অর্থ হল যে তারা সকল কিছু করত যা তারা চাইত, যার মধ্যে অনেক দুষ্ট কার্যও অন্তর্ভুক্ত ছিল৷
+**[[:bn:obs:notes:frames:15-13|<<]] | [[:bn:obs:notes:frames:16-01|Up]] | [[https://door43.org/en/obs/notes/frames/16-02|>>]]**
