@@ -2,39 +2,20 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-16-09.jpg?nolink&}}
 
-For the first **sign**, **Gideon** laid a **sheep skin** on the ground and asked **God** to **let the morning dew fall** only on the sheep skin and not on the ground. **God did that**. The next night, he asked that the ground be wet but that the sheep skin be dry. God did that too. These two signs convinced Gideon that God would use him to **save Israel** from the **Midianites**.
-===== Important Terms: =====
+প্রথম চিহ্ন স্বরূপ, গিদিয়োন একটি কাপড় ভূমিতে রাখলেন আর ঈশ্বরের কাছে চাইলেন যেন পর দিন সকালে শিশির সেই কাপড়টিকেই শুধু ভেজায় ভূমিকে নয়৷ ঈশ্বর তাই করলেন৷ পর রাতে, তিনি চাইলেন যেন ভূমি ভেজে কিন্তু কাপড়টি নয়৷  ঈশ্বর তাও করলেন৷ এই দুই চিহ্ন গিদিয়োনকে নিশ্চিত করল যে মিদিয়নীয়দের থেকে ইস্রায়লীয়দের রক্ষা করতে ঈশ্বর তাকে ব্যবহার করবেন৷
 
-  *
+===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-**[[https://door43.org/en/obe/other/gideon|Gideon]]**
-  *
+  * **[[:bn:obs:notes:key-terms:gideon|গিদিয়োন]]**
+  * **[[https://door43.org/en/obe/other/sheep|sheep]]**
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:save|রক্ষা]]**
+  * **[[:bn:obs:notes:key-terms:israel|ইসরাইল]]**
+  * **[[:bn:obs:notes:key-terms:midian|মিদিয়নীয়দের]]**
+==== অনুবাদিত টীকাসমূহ: ====
 
-**[[https://door43.org/en/obe/other/sheep|sheep]]**
-  *
-
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
-
-**[[https://door43.org/en/obe/kt/save|save]]**
-  *
-
-**[[https://door43.org/en/obe/other/israel|Israel]]**
-  *
-
-**[[https://door43.org/en/obe/other/midian|Midianites]]**
-==== Translation Notes: ====
-
-  *
-
-**sign**  - This could be translated as, “miracle” or, “impossible thing.”
-  *
-
-**sheep skin**  - This is the skin of a sheep that has all of the wool on it. Wool is a very thick and curly hair that would hold a lot of water. Translate this so that it is clear that this skin is covered with thick, soft hair.
-  *
-
-**let the morning dew fall**  - This can be translated as, “make the morning dew appear” or, “make the morning dew come up.” “Dew” refers to the drops of water that appear on the ground in the morning. Dew naturally covers everything equally.
-  *
-
-**God did that**  - This could be translated as, “God did what Gideon asked him to do.”
-**[[https://door43.org/en/obs/notes/frames/16-08|<<]] | [[https://door43.org/en/obs/notes/16|Up]] | [[https://door43.org/en/obs/notes/frames/16-10|>>]]**
+  * **চিহ্ন**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “চমৎকার” বা “অসম্ভব জিনিস৷”
+  * **sheep skin**  - This is the skin of a sheep that has all of the wool on it. Wool is a very thick and curly hair that would hold a lot of water. Translate this so that it is clear that this skin is covered with thick, soft hair.
+  * **পর দিন সকালে শিশির**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “সকালের শিশির এটিতে আবির্ভূত হোক” বা, “সকালের শিশির আসুক৷” “শিশির” উল্লেখ করে জলের ফোঁটা যা সকালে ভূমির উপর পরে৷ শিশির সাধারণতঃ সকল কিছুকে একই মাত্রায় ভেজায়৷
+  * **ঈশ্বর তাই করলেন**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “ঈশ্বর তাই করলেন যা গিদিয়োন তাকে করতে বলেছিলেন৷”
+**[[:bn:obs:notes:frames:16-08|<<]] | [[:bn:obs:notes:frames:16-09|Up]] | [[https://door43.org/en/obs/notes/frames/16-10|>>]]**
