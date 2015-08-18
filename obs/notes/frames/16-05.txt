@@ -12,20 +12,10 @@
   * **[[:bn:obs:notes:key-terms:yahweh|যীহোবা]]**
   * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
   * **[[:bn:obs:notes:key-terms:israel|ইসরাইল]]**
-==== Translation Notes: ====
+==== অনুবাদিত টীকাসমূহ: ====
 
-  *
-
-**One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-
-  *
-
-**threshing grain**  - The grain was wheat, which has a head of many small grains, or seeds, on the top of a thin stalk. “Threshing” is separating the seeds of the plant from the stalks by beating the heads of grain. The seeds are food, but the stalks are not.
-
-  *
-
-**secretly**  - Gideon was threshing the grain in a hidden location, so the Midianites would not see him.
-
-  *
-
-**God is with you**  – This means, “God is present with you in a special way” or, “God has plans to use you in a special way.” **[[https://door43.org/en/obs/notes/frames/16-04|<<]] | [[https://door43.org/en/obs/notes/16|Up]] | [[https://door43.org/en/obs/notes/frames/16-06|>>]]**
+  * **একদিন**- এই বাক্যাংশটি একটি ঘটনার পরিচয় দেয় যা অতীতে ঘটেছিল, কিন্তু যার নির্দিষ্ট সময় বলা হয়নি৷ কিছু কিছু ভাষায় একই রকম মাধ্যম প্রয়োগ করা হয় একটি সত্য কাহিনী আরম্ভ করার জন্য৷
+  * **গম ঝার ছিলেন**- ফসলটি ছিল গম, যা হল সকল ফসলের বা বীজের প্রধান, যা  একটি পাতলা ফলবৃন্তে ফলে বা ধরে৷ “ঝারা” যা হল বীজগুলোকে গাছ বা পোয়াল থেকে আঘাত করার মাধ্যমে আলাদা করা৷ বীজগুলো হল খাদ্য কিন্তু পোয়াল নয়৷
+  * **গোপনে**- গিদিয়োন গোপন স্থানে গম ঝারছিলেন, যেন মিদিয়নীয়রা তাকে দেখতে না পায়৷
+  * **ঈশ্বর তোমার সহবর্তী**- এর অর্থ হল “ঈশ্বর তোমার সাথে এক বিশেষ মাধ্যমে উপস্থিত আছেন” বা, “ঈশ্বরের কাছে তোমাকে ব্যবহার করার একটি বিশেষ পরিকল্পনা রয়েছে৷”
+**[[:bn:obs:notes:frames:16-04|<<]] | [[:bn:obs:notes:frames:16-05|Up]] | [[https://door43.org/en/obs/notes/frames/16-06|>>]]**
