@@ -1,4 +1,4 @@
-===== **ঈশ্বর দায়ূদকে প্রতিজ্ঞা করেন** [১৭-০৭] =====
+===== ঈশ্বর দায়ূদকে প্রতিজ্ঞা করেন [১৭-০৭] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-17-07.jpg?nolink&}}
 
@@ -6,54 +6,32 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  *
-
-**[[https://door43.org/en/obe/kt/god|God]]**
-  *
-
-**[[https://door43.org/en/obe/kt/prophet|prophet]]**
-  *
-
-**[[https://door43.org/en/obe/other/nathan|Nathan]]**
-  *
-
-**[[https://door43.org/en/obe/other/david|David]]**
-  *
-
-**[[https://door43.org/en/obe/kt/temple|Temple]]**
-  *
-
-**[[https://door43.org/en/obe/kt/son|son]]**
-  *
-
-**[[https://door43.org/en/obe/kt/bless|bless]]**
-  *
-
-**[[https://door43.org/en/obe/other/king|king]]**
-  *
-
-**[[https://door43.org/en/obe/other/israel|Israel]]**
-  *
-
-**[[https://door43.org/en/obe/kt/christ|Messiah]]**
-  *
-
-**[[https://door43.org/en/obe/other/descendant|descendants]]**
-  *
-
-**[[https://door43.org/en/obe/kt/sin|sin]]**
-==== Translation Notes: ====
+  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obs:notes:key-terms:prophet|ভাববাদী]]**
+  * **[[:bn:obs:notes:key-terms:nathan|দায়ূদ]]**
+  * **[[:bn:obs:notes:key-terms:david|দায়ূদ]]**
+  * **[[:bn:obs:notes:key-terms:temple|মন্দির]]**
+  * **[[:bn:obs:notes:key-terms:son|পুত্র]]**
+  * **[[:bn:obs:notes:key-terms:bless|আশির্বাদিত]]**
+  * **[[:bn:obs:notes:key-terms:king|রাজা]]**
+  * **[[:bn:obs:notes:key-terms:israel|ইসরাইল]]**
+  * **[[:bn:obs:notes:key-terms:christ|মশীহ বা খ্রীষ্ট]]**
+  * **[[:bn:obs:notes:key-terms:descendant|উত্তরাধিকার]]**
+  * **[[:bn:obs:notes:key-terms:sin|পাপ]]**
+==== অনুবাদিত টীকাসমূহ: ====
 
   *
 
 **the prophet Nathan**  – It may be more natural in some languages to say, “a prophet named Nathan.”
+
   *
 
 **man of war**  - That is, “man who fights battles.” David killed many, many people in battle against the Israelites' enemies. God wasn't punishing David, but God wanted a man of peace to build the Temple where people would worship him.
+
   *
 
 **this Temple**  - That is, “this building for worship” or, “this place of worship.”
+
   *
 
-**from sin**  - That is, “from the terrible consequences of their sin.”
-**[[https://door43.org/en/obs/notes/frames/17-06|<<]] | [[https://door43.org/en/obs/notes/17|Up]] | [[https://door43.org/en/obs/notes/frames/17-08|>>]]**
+**from sin**  - That is, “from the terrible consequences of their sin.” **[[https://door43.org/en/obs/notes/frames/17-06|<<]] | [[https://door43.org/en/obs/notes/17|Up]] | [[https://door43.org/en/obs/notes/frames/17-08|>>]]**
