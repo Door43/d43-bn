@@ -1,4 +1,4 @@
-===== **বালের ভাববাদীদের নিহনন** [১৯-১২] =====
+===== বালের ভাববাদীদের নিহনন [১৯-১২] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-12.jpg?nolink&}}
 
@@ -9,7 +9,7 @@
   * **[[:bn:obs:notes:key-terms:elijah|এলিয়]]**
   * **[[:bn:obs:notes:key-terms:prophet|ভাববাদীদের]]**
   * **[[:bn:obs:notes:key-terms:baal|বাল]]**
-**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font> **
+**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font>    **
   * **পালাতে**- বালের ভাববাদীরা তাদের দেবতা মিথ্যে প্রমানিত হওয়ার পর পালানোর চেষ্টা করল৷
   * **ধরল**- তা হল, “গ্রেফতার করল” বা “জব্দ করল৷”
 **[[:bn:obs:notes:frames:19-11|<<]] | [[:bn:obs:notes:frames:19-12|Up]] | [[https://door43.org/en/obs/notes/frames/19-13|>>]]**
