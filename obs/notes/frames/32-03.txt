@@ -2,15 +2,13 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-32-03.jpg?nolink&}}
 
-This man was so strong that nobody could control him. People had even **fastened** his arms and legs with chains, but he **kept breaking them**.
-===== Important Terms: =====
+এই ব্যক্তিটি এতই শক্তিশালী ছিল যে কেউ তাকে নিয়ন্ত্রণ করে রাখতে পারত না৷ লোকেরা বহু বার তাকে শিকল দিয়ে হাত পা বেঁধে রাখত, কিন্তু সে তাও ভেঙ্গে ফেলত৷
 
-===== Translation Notes: =====
+গুরুত্বপূর্ণ শব্দসমূহ:
 
-  *
+অনুবাদিত টীকাসমূহ:
 
-**fastened his arms and legs**  - That is, “restrained” or, “bound.”
-  *
+  * তাকে শিকল দিয়ে হাত পা বেঁধে রাখত- তা হল, “নিয়ন্ত্রিত করার জন্য” বা, “বেঁধে রাখার জন্য৷”
+  * সে তাও ভেঙ্গে ফেলত- কিছু কিছু ভাষায় বলার প্রয়োজন হতে পারে, “শিকল ভেঙ্গে দিত৷”
 
-**kept breaking them**  - Some languages may need to say, “kept breaking the chains.”
 **[[https://door43.org/en/obs/notes/frames/32-02|<<]] | [[https://door43.org/en/obs/notes/32|Up]] | [[https://door43.org/en/obs/notes/frames/32-04|>>]]**
