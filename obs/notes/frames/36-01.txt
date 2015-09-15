@@ -1,4 +1,4 @@
-<font 24px/inherit;;inherit;;inherit>** পর্বতে  **  ** [36-01] **</font>
+<font 24px/inherit;;inherit;;inherit>** পর্বতে  **  ** [36-01]  **</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-01.jpg?nolink&}}
 
@@ -13,10 +13,6 @@
   * **বাপ্তিস্ম **
 ===== অনুবাদিত টীকাসমূহ: =====
 
-  *
-
-**One day**  - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  *
-
-**James**  - This is a different James than the one who wrote the Book of James in the Bible. To make this clear, some languages may need to use two slightly different names or to spell them differently.
+  * **একদিন**- এই বাক্যাংশটি একটি ঘটনার পরিচয় দেয় যা অতীতে ঘটেছিল, কিন্তু যার নির্দিষ্ট সময় বলা হয়নি৷ কিছু কিছু ভাষায় একই রকম মাধ্যম প্রয়োগ করা হয় একটি সত্য কাহিনী আরম্ভ করার জন্য৷
+  * **যোহন**- এই যোহন বাইবেলে যোহনের লেখা পত্র-এর লেখক, যোহন থেকে আলাদা৷ এটিকে স্পষ্ট করতে, কিছু কিছু ভাষায় হয়ত দুটি অল্প ভিন্ন নামের প্রয়োগ করা হয়ে থাকতে পারে বা তদের বানান ভিন্ন হতে পারে৷
 **[[https://door43.org/en/obs/notes/frames/35-13|<<]] | [[https://door43.org/en/obs/notes/36|Up]] | [[https://door43.org/en/obs/notes/frames/36-02|>>]]**
