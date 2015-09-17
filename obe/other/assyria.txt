@@ -17,9 +17,9 @@
 
 ===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:20-02|[20-02]]]** So God punished both kingdoms by allowing their enemies to destroy them. The kingdom of Israel was destroyed by the **Assyrian Empire**, a powerful, cruel nation. The **Assyrians**  killed many people in the kingdom of Israel, took away everything of value, and burned much of the country.
-  * **[[:bn:obs:notes:frames:20-03|[20-03]]]** The **Assyrians**  gathered all the leaders, the rich people, and the people with skills and took them to **Assyria**.
-  * **[[:bn:obs:notes:frames:20-04|[20-04]]]** Then the **Assyrians**  brought foreigners to live in the land where the kingdom of Israel had been.
+  * __[২০-০২] __ তাই ঈশ্বর দু রাজ্যকেই তাদের শত্রুদের দ্বারা বিনাশ করতে অনুমতি দিলেন৷ অশুরিয় সাম্রাজ্য, এক শক্তিশালী, নিষ্টুর রাষ্ট্র ইসরাইল রাজ্যকে বিনাশ করল৷ অশুরিয়রা ইসরাইল রাজ্যের বহু লোকেদের মেরে ফেলল, সকল দামী সামগ্রী লুট করল আর দেশের অধিকাংশ জ্বালিয়ে দিল৷
+  * __[২০-০৩] __ অশুরিয়রা সকল নেতাদের, ধনী ব্যক্তিদের আর কলাকৌশলে নিপুন ব্যক্তিদের একত্র করে অশুরদেশে নিয়ে গেল৷
+  * __[২০-০৪] __ তারপর অশুরিয়রা বিদেশীদের সে দেশে নিয়ে এলো বসবাস করার জন্য যেখানে ইস্রায়েল রাজ্যের লোকেরা বসবাস করত৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
