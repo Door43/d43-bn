@@ -1,32 +1,32 @@
-====== Abraham, Abram ======
+====== (আব্রাহাম, আব্রাম) ======
 
-===== Facts: =====
+===== তথ্যসমূহ: =====
 
-Abraham was the person that God chose to start the family that would grow into the people known as the Israelites.
+আব্রাহাম ছিলেন সেই ব্যক্তি যাকে ঈশ্বর নির্বাচন করেছিলেন পরিবার আরম্ভ করার জন্য যা বৃদ্ধি পেয়ে পরবর্তিতে ইস্রায়েল নামে পরিচিত হবে৷
 
-  * God promised Abraham that he would have many descendants and that they would become a great nation.
-  * God made his covenant with Abraham and promised to uphold it with his descendants forever.
-  * Abraham believed God and obeyed him.
-  * Abraham's name was originally "Abram," but God changed it to Abraham.
-  * Abram means, "exalted father," and Abraham means, "father of many."
+  * ঈশ্বর আব্রাহামকে প্রতিজ্ঞা করেছিলেন যে তার প্রচুর বংশধর হবে আর তারা একটি মহান জাতি হবে৷
+  * ঈশ্বর তার নিয়ম আব্রাহামের সাথে স্থাপন করলেন আর প্রতিজ্ঞা করলেন যে তিনি এই নিয়মটি তার উত্তরাধিকারীদের সাথে চিরকাল রাখবেন৷
+  * আব্রাহাম ঈশ্বরের উপর বিশ্বাস রাখলেন আর তার আজ্ঞাকারী হলেন৷
+  * আব্রাহামের আসল নাম ছিল “আব্রাম,” কিন্তু ঈশ্বর তা বদলে আব্রাহাম রেখে দিলেন৷
+  * আব্রামের অর্থ হল, “উচ্চকৃত পিতা,” আর আব্রাহামের অর্থ হল, “বহুলোকের পিতা৷”
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[:bn:obe:other:sarah|Sarah, Sarai]], [[:bn:obe:other:isaac|Isaac]])
+[আরও দেখুন: __সারা__, __ইসহাক]__)
 
 ===== Bible References: =====
 
 {{topic>:en:bible?abraham&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:04-06|[04-06]]]** When **Abram**  arrived in Canaan, God said, "Look all around you. I will give to you and your descendants all the land that you can see as an inheritance."
-  * **[[:bn:obs:notes:frames:05-04|[05-04]]]** Then God changed **Abram**'s name to **Abraham**, which means "father of many."
-  * **[[:bn:obs:notes:frames:05-05|[05-05]]]** About a year later, when **Abraham**  was 100 years old and Sarah was 90, Sarah gave birth to Abraham's son.
-  * **[[:bn:obs:notes:frames:05-06|[05-06]]]** When Isaac was a young man, God tested **Abraham's**  faith by saying, "Take Isaac, your only son, and kill him as a sacrifice to me."
-  * **[[:bn:obs:notes:frames:06-01|[06-01]]]** When **Abraham**  was very old and his son, Isaac, had grown to be a man, **Abraham**  sent one of his servants back to the land where his relatives lived to find a wife for his son, Isaac.
-  * **[[:bn:obs:notes:frames:06-04|[06-04]]]** After a long time, **Abraham**  died and all of the promises that God had made to him in the covenant were passed on to Isaac.
-  * **[[:bn:obs:notes:frames:21-02|[21-02]]]** God promised **Abraham**  that through him all people groups of the world would receive a blessing.
+  * **[০৪-০৬]**____ যখন আব্রাম কানান দেশে পৌঁছেছিলেন, তখন ঈশ্বর বললেন “তোমার চারিদিকে দেখো৷ এই সকল ভূমি যা তুমি দেখতে পারছ তা আমি তোমাকে ও তোমার উত্তরাধিকারীদের উত্তরাধিকার স্বরূপ প্রদান করব৷
+  * __[০৫-০৪] __ তারপর ঈশ্বর অব্রামের নাম বদলে আব্রাহাম করলেন, যার অর্থ হল “বহুজনের পিতা৷”
+  * __[০৫-০৫] __ প্রায় এক বছর পর, যখন আব্রাহাম ১০০ বছরের আর সারা ৯০ বছরের হলেন, তখন সারা আব্রাহামের জন্য একটি পুত্র সন্তানের জন্ম দিলেন৷
+  * __[০৫-০৬] __ যখন ইসহাক বাল্যবয়সী ছিলেন, তখন ঈশ্বর আব্রাহামের বিশ্বাসকে এ বলে পরীক্ষা করলেন, “তোমার একমাত্র সন্তান, ইসহাককে নাও আর তাকে আমার জন্য একটি বলিরূপে হত্যা কর৷”
+  * __[০৬-০১] __ যখন আব্রাহাম অনেক বৃদ্ধ হয়ে গেলেন তখন তার পুত্র ইসহাক একজন প্রাপ্তবয়স্ক যুবক হয়ে উঠলেন৷ তাই আব্রাহাম তার পুত্রের জন্য স্ত্রী নিয়ে আসার জন্য তার সেবকদের মধ্যে একজনকে সেই ভূমিতে পাঠালেন যেখানে তার আত্মীয়রা বসবাস করত৷
+  * __[০৬-০৪] __ বহু বছর পর আব্রাহাম মারা গেলেন আর নিয়মে স্থিত তার সাথে স্থাপন করা ঈশ্বরের প্রতিজ্ঞাগুলো ইসহাকের কাছে চলে গেল৷
+  * __[২১-০২] __ ঈশ্বর আব্রাহামকে প্রতিজ্ঞা করেন যে তার দ্বারা পৃথিবীর সকল জাতি অশির্বাদিত হবে৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
