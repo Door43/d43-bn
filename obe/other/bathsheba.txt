@@ -11,19 +11,19 @@
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
-[আরও দেখুন: [[:bn:obe:other:uriah|Uriah]], [[:bn:obe:other:david|David]], [[:bn:obe:other:solomon|Solomon]])
+[আরও দেখুন: __**উরিয়, দায়ূদ, শলোমন**]__
 
 ===== Bible References: =====
 
 {{topic>:en:bible?bathsheba&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:17-10|[17-10]]]** One day, when all of David's soldiers were away from home fighting battles, he got up from an afternoon nap and saw a beautiful woman bathing. Her name was **Bathsheba**.
-  * **[[:bn:obs:notes:frames:17-11|[17-11]]]** A short time later **Bathsheba**  sent a message to David saying that she was pregnant.
-  * **[[:bn:obs:notes:frames:17-12|[17-12]]]****Bathsheba's**  husband, a man named Uriah, was one of David's best soldiers.
-  * **[[:bn:obs:notes:frames:17-13|[17-13]]]** After Uriah was killed, David married **Bathsheba**.
-  * **[[:bn:obs:notes:frames:17-14|[17-14]]]** Later, David and **Bathsheba**  had another son, and they named him Solomon.
+  * __[১৭-১০] __ একদিন, যখন দায়ূদের সৈন্য যুদ্ধে গিয়েছিল, তখন তিনি তার রাজপ্রাসাদ থেকে বাইরে দেখছিলেন আর তিনি এক সুন্দরী মহিলাকে স্নান করতে দেখলেন৷ তার নাম ছিল বৎশেবা৷
+  * __[১৭-১১] __ কিছু কাল পর বৎশেবা দায়ূদকে সংবাদ পাঠালেন যে তিনি গর্ভবতী৷
+  * __[১৭-১২] __ বৎশেবার স্বামী ছিলেন দায়ূদের শ্রেষ্ট সৈন্যদের মধ্যে একজন যার নাম ছিল উরিয়৷
+  * __[১৭-১৩] __ উরিয়ের হত্যার পর, দায়ূদ বৎশেবাকে বিবাহ করলেন৷
+  * __[১৭-১৪] __ পরে, দায়ূদ আর বৎশেবার অন্য একটি পুত্র হয় আর তারা তার নাম রাখেন শলোমন৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
