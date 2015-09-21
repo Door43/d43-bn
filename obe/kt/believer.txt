@@ -1,0 +1,31 @@
+====== বিশ্বাসী ======
+
+===== সংজ্ঞাসমূহ: =====
+
+একজন বিশ্বাসী হল একটি ব্যক্তি যিনি সম্পূর্ণরূপে একটি ব্যক্তি বা একটি বিচারের উপর ভরসা করেন৷
+
+  * বাইবেলে, “বিশ্বাসী” বিশেষত সেই ব্যক্তিটিকে উল্লেখ করে যিনি প্রভু যীশুর উপর বিশ্বাস করেন৷
+  * “খ্রিস্টান” শব্দটি হল বিশেষ করে একটি প্রধান নাম যা বিশ্বাসীদের জন্য দেওয়া হয়েছিল কেননা এটি উল্লেখ করে যে তারা খ্রীষ্টের উপর বিশ্বাস করে৷
+
+===== Translation Suggestions: =====
+
+  * This term could be translated by a word or phrase that means, "one who trusts in Jesus" or "someone who knows Jesus and lives for him."
+  * Other ways to translate "believer" could be, "follower of Jesus" or, "people who know and obey Jesus."
+  * The term "believer" is a general term for any believer in Christ, while "disciple" and "apostle" were used more specifically for people who knew Jesus while he was alive. It is best to translate these terms in different ways, in order to keep them distinct.
+
+(See also: [[:bn:obe:kt:believe|believe, believe in]], [[:bn:obe:kt:christian|Christian]], [[:bn:obe:kt:disciple|disciple]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?believer&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * **[[:bn:obs:notes:frames:43-01|[43-01]]]** After Jesus returned to heaven, the disciples stayed in Jerusalem as Jesus had commanded them to do. The **believers**  there constantly gathered together to pray.
+  * **[[:bn:obs:notes:frames:43-03|[43-03]]]** While the **believers**  were all together, suddenly the house where they were was filled with a sound like a strong wind. Then something that looked like flames of fire appeared over the heads of all the **believers**.
+  * **[[:bn:obs:notes:frames:43-13|[43-13]]]** Every day, more people became **believers**.
+  * **[[:bn:obs:notes:frames:46-06|[45-06]]]** That day many people in Jerusalem started persecuting the followers of Jesus, so the **believers**  fled to other places. But in spite of this, they preached about Jesus everywhere they went.
+  * **[[:bn:obs:notes:frames:46-01|[46-01]]]** Saul was the young man who guarded the robes of the men who killed Stephen. He did not believe in Jesus, so he persecuted the **believers**.
+  * **[[:bn:obs:notes:frames:46-09|[46-09]]]** Some **believers**  who fled from the persecution in Jerusalem went far away to the city of Antioch and preached about Jesus…It was at Antioch that **believers**  in Jesus were first called "Christians."
+  * **[[:bn:obs:notes:frames:47-14|[47-14]]]** They also wrote many letters to encourage and teach the **believers**  in the churches.
+~~DISCUSSION~~{{tag>publish ktobs}}
