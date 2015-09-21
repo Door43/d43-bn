@@ -1,0 +1,44 @@
+====== বিশ্বাস,
+
+এ
+বিশ্বাস
+,
+বিশ্বাস   ======
+
+===== সংজ্ঞা: =====
+
+“বিশ্বাস”-শব্দটির দুটো ভিন্ন ভিন্ন অর্থ হতে পারে:
+
+=== ১. বিশ্বাস ===
+
+  * কোনো কিছুর উপর বিশ্বাস করার অর্থ হল  যে তা সত্য আর তাকে সত্য রূপে গ্রহণ করা বা আস্থা রাখা৷
+  * কারো উপর বিশ্বাস করাটা হল স্বীকার করা যে সেই ব্যক্তিটি যা বলে বা বলেছে তা সত্য৷
+
+=== ২. বিশ্বাস রাখা ===
+
+  * কারো উপর বিশ্বাস রাখাটা হল আস্থা রাখা যে সেই ব্যক্তিটি নির্ভরযোগ্য বা বিশ্বাসযোগ্য৷ অন্য শব্দে, এটা হল ভরসা করা যে সেই ব্যক্তি যা বলে সে নিজেও ঠিক তেমন, যে সর্বসময় সত্য কথা বলে, আর সে তা করবে যা সে প্রতিজ্ঞা করেছে৷
+  * যখন একজন ব্যক্তি সত্যি সত্যিই কিছুর উপর বিশ্বাস করে, তখন সেই ব্যক্তিটি সেই মত কার্যও করবে যেন তার বিশ্বাস তার কার্যের দ্বারা প্রকাশিত হয়৷
+  * The phrase "have faith in" usually has the same meaning as "believe in."
+  * To "believe in Jesus" means to believe that he is the Son of God, that he is God himself who also became human and who died as a sacrifice to pay for our sins. It means to trust him as Savior and live in a way that honors him.
+
+===== Translation Suggestions: =====
+
+  * To "believe" could be translated as to "know to be true" or "know to be right."
+  * To "believe in" could be translated as, "trust completely" or "rely on and know to be true."
+
+[আরও দেখুন:__ আস্থা, বিশ্বাসী] __
+
+===== Bible References: =====
+
+{{topic>:en:bible?believe&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * **[[:bn:obs:notes:frames:03-04|[03-04]]]** Noah warned the people about the coming flood and told them to turn to God, but they did not **believe**  him.
+  * **[[:bn:obs:notes:frames:04-08|[04-08]]]** Abram **believed**  God's promise. God declared that Abram was righteous because he **believed**  God's promise.
+  * **[[:bn:obs:notes:frames:11-02|[11-02]]]** God provided a way to save the firstborn of anyone who **believed in**  him.
+  * **[[:bn:obs:notes:frames:11-06|[11-06]]]** But the Egyptians did not **believe**  God or obey his commands.
+  * **[[:bn:obs:notes:frames:37-05|[37-05]]]** Jesus replied, "I am the Resurrection and the Life. Whoever **believes in**  me will live, even though he dies. Everyone who **believes in**  me will never die. Do you **believe**  this?"
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
