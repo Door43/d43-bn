@@ -5,7 +5,7 @@
 কাউকে বা কোন কিছুকে “আশির্বাদ” দেওয়াটা হল তাদের সাথে কোনো কিছু ভালো বা মুনাফার কিছু ঘটার ইচ্ছে প্রকাশ করা৷
 
   * কারোর সাথে বা কোনো কিছুর সাথে লাভের কিছু ঘটানো৷
-  * In Bible times, a father would often pronounce a formal blessing on his children.
+  * একজন পিতা প্রায়ই তার সন্তানদের প্রতি আনুষ্ঠানিকভাবে আশীর্বাদের শব্দ উচ্চারণ করেন৷
   * When people 'bless" God or express a desire that God be blessed, this means they are praising him.
 
 ===== Translation Suggestions: =====
@@ -16,19 +16,19 @@
   * "Blessed is the person who" could be translated as "How good it is for the person who."
   * Expressions like, "blessed be the Lord" could be translated as, "May the Lord be praised" or "Praise the Lord" or "I praise the Lord."
 
-(See also: [[:bn:obe:other:praise|praise]])
+[আরও দেখুন:: অভিশাপ]
 
 ===== Bible References: =====
 
 {{topic>:en:bible?bless&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:01-07|[01-07]]]** God saw that it was good and he **blessed**  them.
-  * **[[:bn:obs:notes:frames:01-15|[01-15]]]** God made Adam and Eve in his own image. He **blessed**  them and told them, "Have many children and grandchildren and fill the earth."
-  * **[[:bn:obs:notes:frames:01-16|[01-16]]]** So God rested from all he had been doing. He **blessed**  the seventh day and made it holy, because on this day he rested from his work.
-  * **[[:bn:obs:notes:frames:04-04|[04-04]]]**"I will make your name great. I will **bless**  those who **bless**  you and curse those who curse you. All families on earth will be **blessed**  because of you."
-  * **[[:bn:obs:notes:frames:04-07|[04-07]]]** Melchizedek **blessed**  Abram and said, "May God Most High who owns heaven and earth **bless**  Abram."
-  * **[[:bn:obs:notes:frames:07-03|[07-03]]]** Isaac wanted to give his **blessing**  to Esau.
-  * **[[:bn:obs:notes:frames:08-05|[08-05]]]** Even in prison, Joseph remained faithful to God, and God **blessed**  him.
+  * __[০১-০৭] __ ঈশ্বর দেখলেন যে এটি উত্তম হয়েছে আর তিনি সেগুলোকে আশির্বাদ করলেন৷
+  * __[০১-১৫] __ ঈশ্বর পুরুষ ও স্ত্রীকে তার নিজ স্বরূপে বানিয়েছেন৷ তিনি তাদের আশির্বাদ করলেন আর বললেন, “প্রচুর সন্তান সন্ততির দ্বারা পৃথিবী পরিপূর্ণ কর৷”
+  * __[০১-১৬] __ তাই ঈশ্বর বিরত হলেন যা কিছু তিনি করছিলেন৷ তিনি সপ্তম দিনটিকে অশির্বাদিত করলেন আর সেটিকে পবিত্র করলেন, কেননা এই দিনটিতে তিনি তার কার্য থেকে বিশ্রাম নিয়েছিলেন৷
+  * __[০৪-০৪] __ আমি তোমার নাম মহান করব৷ আমি তাদের আশির্বাদ করব যারা তোমাকে আশির্বাদ করবে আর তাদের অভিশপ্ত করব যারা তোমাকে অভিশাপ দেবে৷ পৃথিবীর সকল জাতি তোমার কারণে অশির্বাদিত হবে৷”
+  * __[০৪-০৭] __ মল্কীযেদক অব্রামকে আশির্বাদ করলেন আর বললেন, “সর্বশক্তিমান ঈশ্বর যিনি স্বর্গ ও পৃথিবীর কর্তা আপনাকে আশির্বাদ করুন৷”
+  * __[০৭-০৩] __ ইসহাক চেয়েছিলেন এষৌকে তার আশির্বাদ দিতে৷
+  * __[০৮-০৫] __ যদিও জেলে, যোষেফ ঈশ্বরের প্রতি বিশ্বাসযোগ্য রইলেন আর ঈশ্বর তাকে আশির্বাদ দিলেন৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
