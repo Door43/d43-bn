@@ -1,23 +1,23 @@
 ====== প্রতারণা, প্রতারক ======
 
-===== Definition: =====
+===== সংজ্ঞা: =====
 
-The term "betray" means to act in a way that deceives or harms someone who was trusting him. A "betrayer" is the one who betrays that friend.
+কাউকে প্রতারণা করাটা হল কারো ভরসা জেতা, কিন্তু তারপর এমনভাবে কার্য করা যা সেই ব্যক্তিকে ঠকায় বা কোনভাবে সেই ব্যক্তিকে ক্ষতি করে৷
 
-  * Judas was "the betrayer" because he told the Jewish leaders how to capture Jesus.
-  * The betrayal by Judas was especially evil because he was an apostle of Jesus who received money in exchange for giving the Jewish leaders information that would result in Jesus' unjust death,
+  * যিহুদা ছিল সেই “প্রতারক” কারণ কিভাবে যীশুকে ধরা যাবে তা সে ইহুদি নেতাদের বলে দিয়েছিল৷
+  * যিহুদার করা প্রতারণাটি খুবিই দুষ্টতাপূর্ণ ছিল কেননা সে প্রভু যীশুর প্রেরিতদের একজন ছিল, সে টাকার জন্য যীশুকে প্রতারিত করে, আর তার প্রতারনাটির দরুন যীশুকে হত্যা করা হয়৷
 
 ===== Translation Suggestions: =====
 
   * Depending on the context, this could be translated as "deceive and cause harm to" or "turn over to the enemy" or "deal treacherously with."
 
-(See also: [[:bn:obe:other:judasiscariot|Judas Iscariot]], [[:bn:obe:other:jewishleaders|Jewish leaders, religious leaders]], [[:bn:obe:kt:apostle|apostle, the twelve, the eleven]])
+[আরও দেখুন: [[:bn:obe:other:judasiscariot|Judas Iscariot]], [[:bn:obe:other:jewishleaders|Jewish leaders, religious leaders]], [[:bn:obe:kt:apostle|apostle, the twelve, the eleven]])
 
 ===== Bible References: =====
 
 {{topic>:en:bible?betray&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
   * **[[:bn:obs:notes:frames:21-11|[21-11]]]** Other prophets foretold that those who killed the Messiah would gamble for his clothes and he would be **betrayed**  by a friend. The prophet Zechariah foretold that the friend would be paid thirty silver coins as payment for **betraying**  the Messiah.
   * **[[:bn:obs:notes:frames:38-02|[38-02]]]** After Jesus and the disciples arrived in Jerusalem, Judas went to the Jewish leaders and offered to **betray**  Jesus to them in exchange for money.
