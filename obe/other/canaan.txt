@@ -1,0 +1,27 @@
+====== কানান, Canaanite ======
+
+===== Facts: =====
+
+এটি ছিল মধ্য পূর্বের ভূমির একটি এলাকা যা যর্দ্দন নদীর উপত্যকা থেকে ভূমধ্যসাগর পর্যন্ত বিস্তির্ণ ছিল৷
+
+  * ঈশ্বর আব্রাহাম ও তার বংশধরদের যা হল ইস্রায়েলীয়বাসী, তাদের এই ভূমিটিকে দেওয়ার প্রতিজ্ঞা করেছিলেন৷
+  * বর্তমানে এই ভূমিটির দেশসমূহ ও অঞ্চলগুলো হল ইস্রায়েল, লেবানন, যর্দ্দন দেশের কিছু অংশ, সিরিয়ার কিছু অংশ আর প্যালেসটিন৷
+
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+[আরও দেখুন: __প্রতিজ্ঞার ভূমি]__, [[:bn:obe:other:ham|Ham]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?canaan&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[০৪-০৫] __ তিনি (আব্রাহাম) তার স্ত্রী সারীকে, তার চাকরদের আর যা কিছু তিনি অধিকার করতেন সঙ্গে নিলেন আর ঈশ্বরের দেখানো দেশে যা ছিল কানান দেশ, চললেন৷
+  * **[[:bn:obs:notes:frames:04-06|[04-06]]]** When Abram arrived in **Canaan**  God said, "Look all around you. I will give to you and your descendants all the land that you can see as an inheritance."
+  * **[[:bn:obs:notes:frames:04-09|[04-09]]]**"I give the land of **Canaan**  to your descendants."
+  * **[[:bn:obs:notes:frames:05-03|[05-03]]]**"I will give you and your descendants the land of **Canaan**  as their possession and I will be their God forever."
+  * **[[:bn:obs:notes:frames:07-08|[07-08]]]** After twenty years away from his home in **Canaan**, Jacob returned there with his family, his servants, and all his herds of animals.
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
