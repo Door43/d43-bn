@@ -1,0 +1,36 @@
+====== রক্ত ======
+
+===== সংজ্ঞা: =====
+
+রক্ত হল আমাদের দেহের তরল পদার্থ যা প্রবাহিত হয় আর যখন আমাদের আঘাত লাগে বা ক্ষত হয় তখন তা নির্গত হয়৷ লোকেদের আর পশুদের বাঁচার জন্য তাদের শরীরে রক্তের প্রয়োজন হয়৷
+
+  * তাই রক্তকে প্রায়ই জীবনের চিহ্নস্বরূপ দেখা হয়৷কিন্তু রক্ত মৃত্যুরও চিহ্ন যেহেতু যদি কারো ভিতর থেকে অতিরিক্ত রক্ত ক্ষরণ হয় (কোনো আঘাত বা ক্ষতের জন্য), তাহলে সেই ব্যক্তির বা প্রাণীর মৃত্যু হয়৷
+  * যখন লোকেরা ঈশ্বরের প্রতি বলি উৎসর্গ করত, তখন তারা একটি পশুকে বলি দিত আর তার রক্ত বেদিতে অর্পণ করত৷ ঈশ্বর তাদের বলেছিল তাদের জায়গায় একটি পশুকে হত্যা করতে যেন তাদেরকে তাদের পাপের শাস্তি স্বরূপে হত্যা করা না হয়৷
+  * Through his death on the cross, Jesus' blood symbolically cleanses people from their sins and pays for the punishment they deserve for those sins.
+  * The phrase "flesh and blood" is an idiom that refers to human beings.
+  * The idiom "own flesh and blood" refers to people who are biologically related.
+
+===== Translation Suggestions: =====
+
+  * This term should be translated with the term that is used for blood in the target language
+  * The idiom "flesh and blood" could be translated as "people" or "human beings."
+  * Depending on the context, the idiom "my own flesh and blood" could be translated as "my own family" or "my own relatives" or "my own people."
+  * If there is an idiom in the target language that is used with this meaning, that idiom could be used to translate "flesh and blood."
+
+(See: [[:bn:obe:kt:flesh|flesh]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?blood&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * __[০৮-০৩] __ যোষেফের ভাইরা গৃহে ফেরার পূর্বে, তারা যোষেফের পোশাক ছিঁড়ল আর সেটিকে একটি ছাগলের রক্তে ডুবাল৷
+  * __[১০-০৩] __ ঈশ্বর নিল নদের জল রক্তে পরিনত করেছিলেন, কিন্তু ফরৌণ তবুও ইস্রায়েলীয়দের যেতে দিলেন না৷
+  * __[১১-০৫] __ ইস্রায়লীয়দের প্রত্যেক বাড়ির দরজায় রক্ত ছিল, তাই ঈশ্বর সেসব ঘরগুলোকে এড়িয়ে গেলেন৷ সেগুলোর ভিতরের সকল প্রাণী রক্ষা পেল৷ তারা মেষ শাবকের রক্তের জন্য রক্ষা পেল৷
+  * __[১৩-০৯] __ বলি হওয়া পশুটির রক্ত সেই ব্যক্তির পাপকে ঢেকে দিত আর তাকে ঈশ্বরের দৃষ্টিতে শুদ্ধ করত৷
+  * __[৩৮-০৫] __ তারপর যীশু একটি কাপ তুললেন আর বললেন, “এটির থেকে পান কর৷ এটি হল আমার রক্ত নতুন নিয়মের যা তোমাদের পাপের ক্ষমাপ্রাপ্তির জন্য ঢালা হয়েছে৷
+  * __[৪৮-১০] __ যখন কেউ যীশুর উপর বিশ্বাস করে, তখন যীশুর রক্ত সেই ব্যক্তির পাপের মূল্য চুকিয়ে দেয় আর ঈশ্বরের দন্ড তার উপর হয় না৷
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
