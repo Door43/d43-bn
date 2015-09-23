@@ -1,0 +1,35 @@
+====== খ্রিস্টান ======
+
+===== সংজ্ঞা: =====
+
+প্রভু যীশুর স্বর্গারোহন হবার পর, লোকেরা তার অনুগামীদের “খ্রিস্টান” নামে ডাকা আরম্ভ করল কেননা তারা খ্রীষ্টের অনুগামী ছিল, খ্রীষ্ট শব্দের অন্য শব্দটি হল “মশীহ৷”
+
+  * একটি খ্রিস্টান হল সেই ব্যক্তি যিনি খ্রীষ্টকে অনুসরণ করেন৷ তিনি বিশ্বাস করেন যে প্রভু যীশু হলেন ঈশ্বরের পুত্র, আর বিশ্বাস করেন যে প্রভু যীশু তাকে তার পাপ থেকে রক্ষা করেছেন৷
+  * লোকেরা কখনো কখনো তাদেরকেউ “খ্রিস্টান” বলে আখ্যায়িত করে যারা শুধু বিশ্বাস করে যে খ্রিস্টানধর্ম একটি ভালো ধর্ম৷ বাইবেলের “খ্রিস্টান” শব্দটির সঠিক অর্থ এমন নয়৷
+  * বাইবেলে, “খিস্টান” সবসময় তাকে উল্লেখ করে যিনি সত্যি সত্যিই প্রভু যীশুকে বিশ্বাস করেন৷ সেই কারণে, “খ্রিস্টানদের” প্রায়ই “বিশ্বাসী” বলা হয়৷
+
+===== Translation Suggestions: =====
+
+  * This term could be translated as "Christ-follower" or "follower of Christ" or perhaps something like, "Christ-person."
+  * Make sure that the translation of this term is distinct from terms used for disciple or apostle.
+  * সতর্কতার সাথে এই শব্দটির অনুবাদ করুন সেই শব্দের দ্বারা যা সকলকে উল্লেখ করতে পারে যারা প্রভু যীশুর উপর বিশ্বাস করে, কেবল মাত্র কোনো দলকে যেন না উল্লেখ করে৷
+  * Also consider how this term is translated in a Bible translation in a local or national language. (See: [[:bn:ta:translate:translateunknowns|How to Translate Unknowns]])
+
+[আরও দেখুন: [[:bn:obe:kt:church|church, Church]], [[:bn:obe:kt:disciple|disciple]], [[:bn:obe:kt:believer|believer]], [[:bn:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:bn:obe:kt:sonofgod|Son of God, the Son]], Christ, Messiah other)
+
+===== Bible References: =====
+
+{{topic>:en:bible?christian&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[৪৬-০৯] __ আন্তিয়খিয়াতেই প্রথম যীশুর উপর বিশ্বাসকারীদের “খ্রিস্টান” বলা হয়েছিল৷
+  * __\[৪৭-১৪] __ পৌল আর অন্যান্য খ্রিস্টান নেতারা বহু শহরে যাত্রা করল আর যীশুর সুসমাচার লোকেদের প্রচার করল আর শেখাল৷
+  * **[[:bn:obs:notes:frames:49-15|[49-15]]]** If you believe in Jesus and what he has done for you, you are a **Christian**!
+  * **[[:bn:obs:notes:frames:49-16|[49-16]]]** If you are a **Christian**, God has forgiven your sins because of what Jesus did.
+  * **[[:bn:obs:notes:frames:49-17|[49-17]]]** Even though you are a **Christian**, you will still be tempted to sin.
+  * **[[:bn:obs:notes:frames:50-03|[50-03]]]** Before he returned to heaven, Jesus told **Christians**  to proclaim the good news to people who have never heard it.
+  * **[[:bn:obs:notes:frames:50-11|[50-11]]]** When Jesus returns, every **Christian**  who has died will rise from the dead and meet him in the sky.
+~~DISCUSSION~~{{tag>publish ktobs k}}
+
+~~NOCACHE~~
