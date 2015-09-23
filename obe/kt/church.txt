@@ -1,0 +1,33 @@
+====== চার্চ, মন্ডলী ======
+
+===== সংজ্ঞা: =====
+
+In the Bible, the term "church" refers to a local group of believers in Jesus who regularly meet together to pray and hear God's word preached. It can also refer to all Christians.
+
+  * When this term is used to refer to all believers everywhere in the whole body of Christ, some Bible translations capitalize it (Church) to distinguish it from the local church.
+  * বাইবেলে “চার্চ” শব্দটির আসল অর্থ হল “যাদের ডাকা হয়েছে (একত্র হওয়ার জন্য)৷” It refers to an assembly or gathering of people for a special purpose.
+  * In the Bible, "church" does not refer to a building.
+
+===== Translation Suggestions: =====
+
+  * The term "church" could be translated as a "gathering together" or "assembly" or "congregation" or "ones who meet together."
+  * The word or phrase that is used to translate this term should also be able to refer to all believers, not just one small group.
+  * Make sure that the translation of "church" does not just refer to a building.
+  * Also consider how it is translated in a local or national Bible translation. (See: [[:bn:ta:translate:translateunknowns|How to Translate Unknowns]].)
+
+[আরও দেখুন: [[:bn:obe:kt:christian|খ্রিস্টান]], [[:bn:obe:kt:believer|বিশ্বাসী]], [[:bn:obe:kt:assembly|assembly]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?church&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[৪৩-১২] __ প্রায় ৩০০০ লোক পিতরের কোথায় বিশ্বাস করল আর যীশুর অনুগামী হল৷ তারা বাপ্তিস্ম নিল আর যেরুশালেম চার্চের সদস্য হল৷
+  * __[৪৬-০৯] __ আন্তিয়খিয়ার বেশির ভাগ লোকেরা ইহুদি ছিলেন না, কিন্তু প্রথম বারই তারা প্রচুর মাত্রায় বিশ্বাসী হয়েছিল৷ বার্ণবা আর শৌল সেখানে গেলেন যেন এই নতুন বিশ্বাসীদের যীশুর বিষয়ে আরো শিক্ষা দিতে পারেন আর চার্চটিকে আরো মজবুত করতে পারেন৷
+  * __[৪৬-১০] __ তাই আন্তিয়খিয়ার চার্চ বার্ণবা আর শৌলের উপর হাত রেখে প্রার্থনা করল৷ তারপর তারা যীশুর সুসমাচার অন্যত্রও প্রচার করতে তাদের পাঠিয়ে দিলেন৷
+  * __[৪৭-১৩] __ যীশুর সুসমাচার চারিদিকে ছড়াতে লাগলো আর চার্চ বৃদ্ধি পেতে থাকলো৷
+  * __[৫০-০১] __ প্রায় ২০০০ বছর ধরে, পৃথিবীর চারদিকের বহু লোকেরা খ্রীষ্ট যীশুর বিষয়ে শুনেছে৷ চার্চ বৃদ্ধি হয়ে চলেছে৷
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
