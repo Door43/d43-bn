@@ -1,11 +1,15 @@
-====== ত্বকছেদ, circumcision ======
+======
 
-===== Definition: =====
+সুন্নৎ করা  ,
 
-The term "circumcise" means to cut off the foreskin of a man or male child. A circumcision ceremony may be performed in connection with this.
+সুন্নৎ   ======
 
-  * God commanded Abraham to circumcise every male among his family and servants as a sign of God's covenant with them.
-  * God also commanded Abraham's descendants to continue to do this for every baby boy born into their households.
+===== সংজ্ঞা: =====
+
+কাউকে ত্বকছেদ করার অর্থ হল কোনো পুরুষের বা ছেলে শিশুর লিঙ্গের অগ্রভাগের আবরক ত্বক কেটে দেওয়া৷ A circumcision ceremony may be performed in connection with this.
+
+  * ঈশ্বর আব্রাহামের পরিবারকে আদেশ দিয়েছিলেন তার পরিবারের আর তার দাসদের পরিবারের প্রত্যেক পুরুষের ত্বকছেদ করতে তার [ঈশ্বরের] সাথে তাদের স্থাপিত নিয়মের একটি চিহ্নরূপে তা পালন করতে৷
+  * ঈশ্বর আব্রাহামের বংশধরদেরও প্রত্যেক পুত্র শিশু যে তাদের গৃহে জন্মাবে তার ত্বকছেদ করার দ্বারা ত্বকছেদ করার নিয়মটিকে নিরন্তর বহাল রাখতে আদেশ দিয়েছিলেন৷
   * The phrase, "circumcision of the heart" refers figuratively to the "cutting away" or removal of sin from a person.
   * In a spiritual sense, "the circumcised" refers to people whom God has purified from sin through the blood of Jesus and who are his people.
   * The term "uncircumcised" refers to those who have not been circumcised physically. It can also refer figuratively to those who have not been circumcised spiritually, who do not have a relationship with God.
@@ -22,10 +26,10 @@ The term "circumcise" means to cut off the foreskin of a man or male child. A ci
 
 {{topic>:en:bible?circumcise&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:05-03|[05-03]]]**"You must **circumcise**  every male in your family."
-  * **[[:bn:obs:notes:frames:05-05|[05-05]]]** That day Abraham **circumcised**  all the males in his household.
+  * __[০৫-০৩] __ তুমি কেবল তোমার পরিবারের প্রত্যেকটি পুরুষের ত্বকছেদ কর৷
+  * __[০৫-০৫] __ সেই দিন আব্রাহাম তার গৃহের সকল পুরুষের ত্বকছেদ করলেন৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
