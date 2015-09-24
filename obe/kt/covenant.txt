@@ -23,13 +23,13 @@
 
 {{topic>:en:bible?covenant&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:04-09|[04-09]]]** Then God made a **covenant**  with Abram. A **covenant**  is an agreement between two parties.
-  * **[[:bn:obs:notes:frames:05-04|[05-04]]]**"I will make Ishmael a great nation, too, but my **covenant**  will be with Isaac."
-  * **[[:bn:obs:notes:frames:06-04|[06-04]]]** After a long time, Abraham died and all of the promises that God had made to him in the **covenant**  were passed on to Isaac.
-  * **[[:bn:obs:notes:frames:07-10|[07-10]]]** The **covenant**  promises God had promised to Abraham and then to Isaac now passed on to Jacob."
-  * **[[:bn:obs:notes:frames:13-02|[13-02]]]** God said to Moses and the people of Israel, "If you will obey my voice and keep my **covenant**, you will be my prized possession, a kingdom of priests, and a holy nation."
-  * **[[:bn:obs:notes:frames:13-04|[13-04]]]** Then God gave them the **covenant**  and said, "I am Yahweh, your God, who saved you from slavery in Egypt. Do not worship other gods."
-  * **[[:bn:obs:notes:frames:15-13|[15-13]]]** Then Joshua reminded the people of their obligation to obey the **covenant**  that God had made with the Israelites at Sinai.
+  * __[০৪-০৯] __ তারপর ঈশ্বর অব্রামের সাথে একটি নিয়ম স্থির করলেন৷ নিয়মটি হল দুটি দলের মধ্যে একটি সম্মতি৷ য়মটি হল দুটি দলের মধ্যে একটি সম্মতি৷
+  * __[০৫-০৪] “__ আমি ইশ্মায়েলকেও একটি মহান জাতি করব কিন্তু আমার নিয়ম ইসহাকের সাথে স্থির হবে৷”
+  * __[০৬-০৪] __ বহু বছর পর আব্রাহাম মারা গেলেন আর নিয়মে স্থিত তার সাথে স্থাপন করা ঈশ্বরের প্রতিজ্ঞাগুলো ইসহাকের কাছে চলে গেল৷
+  * __[০৭-১০] __ নিয়মের প্রতিজ্ঞাগুলো যা ঈশ্বর আব্রাহামের সাথে স্থাপন করেছিলেন তা এখন ইসহাক থেকে যাকোবের উপর চলে এসেছিল৷
+  * __[১৩-০২] __ ঈশ্বর মোশীকে আর ইস্রায়লীয় লোকেদের বললেন, “যদি তোমরা আমার ও আমার নিয়মের প্রতি আজ্ঞাকারী হও, তবে তোমরা আমার নিজ ভাগ, একটি রাজকীয় যাজকবর্গ আর একটি পবিত্র জাতি হবে৷
+  * __[১৩-০৪] __ তখন ঈশ্বর তাদের নিয়ম দিলেন আর বললেন, “আমি যীহোবা, তোমাদের ঈশ্বর, যিনি মিশর দেশের দাসত্ব থেকে তোমাদের মুক্তি দিয়েছেন৷ অন্য দেব-দেবীর উপাসনা কর না৷”
+  * __[১৫-১৩] __ তারপর যিহোশূয় লোকেদের তাদের নিয়মের প্রতি আজ্ঞাবহতা যা ঈশ্বর সীনয় পর্বতে ইস্রালিলীয়দের সাথে স্থাপন করেছিলেন তা স্বরণ করলেন৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
