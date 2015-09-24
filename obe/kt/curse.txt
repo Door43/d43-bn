@@ -24,11 +24,11 @@
 
 {{topic>:en:bible?curse&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:02-09|[02-09]]]** God said to the snake, "You are **cursed**!"
-  * **[[:bn:obs:notes:frames:02-11|[02-11]]]**"Now the ground is **cursed**, and you will need to work hard to grow food."
-  * **[[:bn:obs:notes:frames:04-04|[04-04]]]**"I will bless those who bless you and **curse**  those who **curse**  you."
-  * **[[:bn:obs:notes:frames:39-07|[39-07]]]** Then Peter vowed, saying, "May God **curse**  me if I know this man!"
-  * **[[:bn:obs:notes:frames:50-16|[50-16]]]** Because Adam and Eve disobeyed God and brought sin into this world, God **cursed**  it and decided to destroy it.
+  * __[০২-০৯] __ ঈশ্বর সাপটিকে বললেন, “তুমি অভিশপ্ত!
+  * __[০২-১১] “__ এখন ভূমি অভিশাপগ্রস্ত হয়েছে আর খাদ্য উৎপাদন করতে তোমাকে কঠিন প্ররিশ্রম করতে হবে৷”
+  * __[০৪-০৪] __ আমি তাদের আশির্বাদ করব যারা তোমাকে আশির্বাদ করবে আর তাদের অভিশপ্ত করব যারা তোমাকে অভিশাপ দেবে৷
+  * __[৩৯-০৭] __ তখন পিতর শপথগ্রহণ করলেন আর বললেন, “ঈশ্বর আমাকে অভিশপ্ত করুক যদি আমি সেই লোকটিকে চিনে থাকি!”
+  * __[৫০-১৬] __ কারণ আদম আর হবা ঈশ্বরের অনাজ্ঞাকারী হয়েছিল আর এই পৃথিবীতে পাপ নিয়ে এসেছিল, কিন্তু ঈশ্বর সেটিকে শাপ দিয়েছিলেন আর নির্ণয় নিয়েছিলেন তা নষ্ট করবেন৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
