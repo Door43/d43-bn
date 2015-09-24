@@ -1,0 +1,32 @@
+====== ক্রুশ ======
+
+===== সংজ্ঞা: =====
+
+একটি ক্রুশ হল ভূমির উপর লম্বা দাঁড় করানো কোনো কাঠের টুকরো যার ঠিক উপরের দিকে আড়াআড়িভাবে আরেকটি আকারে ছোট কাঠের টুকরো লাগানো হয়৷
+
+  * রোমান সরকার অপরাধীদের তার উপর বেঁধে বা পেরেক ঠুকে টাঙ্গিয়ে দিত আর মরার জন্য ছেড়ে দিত৷
+  * প্রভু যীশুকে মিথ্যে অপবাদ দেওয়া হয়েছিল আর সেই অপরাধগুলোর জন্য বিচার করা হয়েছিল যা তিনি করেন নি৷ রোমানরা তাকে একটি ক্রুশে হত্যা করেছিল৷
+  * Note that this is a completely different word from the verb "to cross (a river)" or "to cross over."
+
+===== Translation Suggestions: =====
+
+  * This term could be translated using a term in the target language that refers to the shape of a cross.
+  * Consider describing the cross as the thing on which people were killed, using phrases such as "execution post" or "tree of death."
+  * Also consider how this word is translated in a Bible translation in a local or national language. (See: [[:bn:ta:translate:translateunknowns|How to Translate Unknowns]])
+
+[আরও দেখুন: ক্রুশে চড়ানো, রোম]
+
+===== Bible References: =====
+
+{{topic>:en:bible?cross&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[৪০-০১]__ সৈন্যরা যীশুকে ঠাট্টা করার পর, তারা তাকে ক্রুশে চড়ানোর জন্য নিয়ে গেল৷ তারা তাকে ক্রুশ বহন করতে বাধ্য করল যার উপর তাকে মরতে হবে৷
+  * __[৪০-০২] __ সৈন্যরা তাকে “মাথার খুলি” নামক এক জায়গায় নিয়ে এলো আর কাঠের ক্রুশের সাথে তার পায়ে ও হাতে পেরেক মারল৷
+  * **[[:bn:obs:notes:frames:40-05|[40-05]]]** The Jewish leaders and the other people in the crowd mocked Jesus. They said to him, "If you are the Son of God, come down from the **cross**  and save yourself! Then we will believe you."
+  * **[[:bn:obs:notes:frames:49-10|[49-10]]]** When Jesus died on the **cross**, he received your punishment.
+  * **[[:bn:obs:notes:frames:49-12|[49-12]]]** You must believe that Jesus is the Son of God, that he died on the **cross**  instead of you, and that God raised him to life again.
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
