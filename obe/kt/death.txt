@@ -1,0 +1,48 @@
+====== মৃত্যু, মরা, মৃত ======
+
+===== সংজ্ঞা: =====
+
+“মৃত্যু” শব্দটিকে বাইবেলে দুটি ভিন্ন অর্থে প্রয়োগ করা হয়েছে৷ Physically, এটির দ্বারা কখনো কখনো উল্লেখ করা হয়েছে সেই মৃত্যুকে যখন কোনো শারীরিক দেহ বাঁচা বন্ধ করে দেয়৷ এটি আরও উল্লেখ করে আত্মিক বিচ্ছেদকে যখন কোনো পাপী পবিত্র ঈশ্বরের থেকে আলাদা হয়ে যায়৷
+
+  * “মৃত্যু”র বিপরীত শব্দ হল “জীবন৷”
+  * বাইবেলে, শারীরিক জীবন ও মৃত্যুকে আত্মিক জীবন ও মৃত্যুর সাথে প্রায়ই তুলনা করা হয়েছে৷
+
+=== ১. শারীরিক মৃত্যু ===
+
+  * মারা যাওয়া হল বাঁচা বন্ধ হওয়া৷ মৃত্যু হল জীবনের শেষ৷
+  * যখন কেউ মারা যায় সেই ব্যক্তির আত্মা তার দেহ ছেড়ে দেয়৷
+  * আত্মিক মৃত্যু হল আদম আর হবার পাপের পরিনাম৷
+
+=== ২. আত্মিক মৃত্যু ===
+
+  * আত্মিক মৃত্যুর অর্থ হল ঈশ্বরের থেকে কোনো ব্যক্তির বিচ্ছেদ হওয়া৷
+  * আদম তখন আত্মিকরূপে মারা গিয়েছিলেন যখন সে ঈশ্বরের অনাজ্ঞাকারী হয়েছিলেন৷ তিনি লজ্জিত হয়েছিলেন আর ঈশ্বরের কাছ থেকে লুকিয়ে ছিলেন৷
+  * আদমের প্রত্যেক সন্তানই একজন পাপী আর আত্মিকরূপে মৃত৷ ঈশ্বর আমাদের আত্মিকরূপে জীবিত করেন তখন যখন আমরা প্রভু যীশুর উপর বিশ্বাস করি৷
+
+===== Translation Suggestions: =====
+
+  * To translate this term, it is best to use the everyday, natural word or phrase that refers to death in the target language.
+  * In some languages, "to die" may be expressed as "to not live." The term "dead" may be translated as "not alive" or "not having any life."
+  * Many languages use figurative expressions to describe death, such as "to pass away" in English. However in the Bible it is best to use the most direct term for death that is used in everyday language, unless that would be offensive.
+  * It is important in a translation to use the same word or phrase for both physical death and spiritual death. In some languages it may be more clear to say "spiritual death" when the context requires that meaning. Some translators may also feel it is best to say "physical death" in some contexts where it is being contrasted to spiritual death.
+
+(আরও দেখুন:__ __ জীবন[[:bn:obe:kt:life|, live, living, alive]], [[:en:obe:kt:believe|believe, believe in, belief]], [[:bn:obe:kt:faith|faith]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?death&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:bn:obs:notes:frames:01-11|[01-11]]]** God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would **die**.
+  * **[[:bn:obs:notes:frames:02-11|[02-11]]]**"Then you will **die**, and your body will return to dirt."
+  * **[[:bn:obs:notes:frames:07-10|[07-10]]]** Then Isaac **died**, and Jacob and Esau buried him.
+  * **[[:bn:obs:notes:frames:37-05|[37-05]]]**"Jesus replied, "I am the Resurrection and the Life. Whoever believes in me will live, even though he **dies**. Everyone who believes in me will never **die**."
+  * **[[:bn:obs:notes:frames:40-08|[40-08]]]** Through his **death**, Jesus opened a way for people to come to God.
+  * **[[:bn:obs:notes:frames:43-07|[43-07]]]**"Although Jesus **died**, God raised him from the dead."
+  * **[[:bn:obs:notes:frames:48-02|[48-02]]]** Because they sinned, everyone on earth gets sick and everyone **dies**.
+  * **[[:bn:obs:notes:frames:50-17|[50-17]]]** He (Jesus) will wipe away every tear and there will be no more suffering, sadness, crying, evil, pain, or **death**.
+  *
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
