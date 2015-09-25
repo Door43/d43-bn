@@ -1,8 +1,8 @@
-====== দুষ্ট আত্মা,
 
-পিশাচ  ,
 
-অশুচি আত্মাকে   ======
+**দুষ্ট আত্মা, পিশাচ , অশুচি আত্মাকে **
+
+======   ======
 
 ===== সংজ্ঞা: =====
 
@@ -20,18 +20,19 @@
   * Make sure that the word or phrase used to translate this term is different from the term used to refer to the devil.
   * Also consider how the term "demon" is translated in a local or national language. (See: [[:bn:ta:translate:translateunknowns|How to Translate Unknowns]])
 
-(See also: [[:bn:obe:kt:demonpossessed|ভূতগ্রস্ত]], [[:bn:obe:kt:satan|Satan, devil, evil one]], [[:bn:obe:other:idol|idol, idolatrous]], [[:bn:obe:kt:falsegod|false god, god]], [[:bn:obe:kt:angel|angel]], [[:bn:obe:kt:evil|evil, wicked, wickedness]], [[:bn:obe:kt:unclean|unclean, uncleanness]])
+[আরও দেখুন: [[:bn:obe:kt:demonpossessed|ভূতগ্রস্ত]], [[:bn:obe:kt:satan|Satan, devil, evil one]], [[:bn:obe:other:idol|idol, idolatrous]], [[:bn:obe:kt:falsegod|false god, god]], [[:bn:obe:kt:angel|angel]], [[:bn:obe:kt:evil|evil, wicked, wickedness]], [[:bn:obe:kt:unclean|unclean, uncleanness]])
 
 ===== Bible References: =====
 
 {{topic>:en:bible?demon&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:26-09|[26-09]]]** Many people who had **demons**  in them were brought to Jesus. When Jesus commanded them, the **demons**  came out of the people, and often shouted, "You are the Son of God!"
-  * **[[:bn:obs:notes:frames:32-08|[32-08]]]** The **demons**  came out of the man and entered the pigs.
-  * **[[:bn:obs:notes:frames:47-05|[47-05]]]** Finally one day when the slave girl started yelling, Paul turned to her and said to the **demon**  that was in her, "In the name of Jesus, come out of her." Right away the **demon**  left her.
-  * **[[:bn:obs:notes:frames:49-02|[49-02]]]** He (Jesus) walked on water, calmed storms, healed many sick people, drove out **demons**, raised the dead to life, and turned five loaves of bread and two small fish into enough food for over 5,000 people.
+  * __[২৬-০৯] __ বহু ভূতগ্রস্ত লোকেদেরও যীশুর কাছে নিয়ে আসা হল৷ যীশুর আদেশে, লোকেদের ভিতর থেকে ভূত বেরিয়ে আসলো আর কখনো কখনো তারা চিৎকার করত, “আপনি হলেন ঈশ্বরের পুত্র!”
+  * __[৩২-০৮] __ ভূতগুলি লোকটির ভিতর থেকে বেরিয়ে এলো আর শুয়োরদের ভিতর প্রবেশ করল৷
+  * __[৪৭-০৫] __ অন্তিমে একদিন যখন সেই দাসীটি চিৎকার করে বলা শুরু করল, তখন পৌল তার দিকে ফিরলেন আর তার ভিতরের ভূতটিকে বললেন, “যীশুর নামে এই মেয়েটির ভিতর থেকে বেরিয়ে যাও৷”
+  * __[৪৯-০২] __ তিনি (যীশু) জলের উপর হেঁটে ছিলেন, ঝড় থামিয়েছিলেন, বহু রোগীদের সুস্থ করেছিলেন, ভূত তাড়িয়েছিলেন, মৃতদের জীবিত করেছিলেন, আর পাঁচটি রুটি আর দুটি ছোট মাছ দিয়ে ৫০০০জনেরও বেশি লোকেদের যথেষ্ট রূপে খাইয়েছিলেন৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
+
