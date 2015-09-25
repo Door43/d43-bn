@@ -1,33 +1,33 @@
 ====== দায়ূদ ======
 
-===== Facts: =====
+===== তথ্যসমূহ: =====
 
-David was the second king of Israel and he served God faithfully.
+দায়ূদ ছিলেন ইস্রায়েলের দ্বিতীয় রাজা আর তিনি ঈশ্বরকে বিশ্বাসযোগ্যতার সাথে সেবা করেছিলেন৷
 
-  * God chose David to become king when he was still a young boy caring for his family's sheep.
-  * David became a great fighter and led the Israelite army in battles against their enemies.
-  * Saul tried to kill David, but God protected him, and made him king after Saul's death.
-  * David sinned against God, but he repented and God forgave him.
-  * David's son, King Solomon, built the temple for God that David had planned.
-  * Jesus, the Messiah, is a descendent of David, and is therefore called the "Son of David."
+  * ঈশ্বর দায়ূদকে যখন তিনি কেবল একটি বালক অবস্থাতেই ছিলেন আর তার পরিবারের মেষদের দেখাশোনা করতেন তখন তাকে রাজা হওয়ার জন্য নির্বাচন করেছিলেন৷
+  * দায়ূদ একজন মহান যোদ্ধা হন আর ইস্রায়েলীয় সৈন্যদের তাদের শত্রুদের বিরুদ্ধে যুদ্ধে নেতৃত্ব দেন৷
+  * শৌল দায়ূদকে হত্যা করার চেষ্টা করেছিলেন কিন্তু ঈশ্বর তাকে রক্ষা করেছিলেন আর শৌলের মৃত্যুর পর তাকে রাজা নিযুক্ত করেছিলেন৷
+  * দায়ূদ ঈশ্বরের বিরুদ্ধে পাপ করেন, কিন্তু তিনি অনুশোচনা করেন আর ঈশ্বর তাকে ক্ষমা করে দেন৷
+  * দায়ূদের পুত্র, রাজা শলোমন, ঈশ্বরের জন্য সেই মন্দির নির্মান করেন যা দায়ূদ পরিকল্পনা করেছিলেন৷
+  * প্রভু যীশু, যিনি হলেন খ্রীষ্ট, তিনি দায়ূদের একটি উত্তরাধিকারী ছিলেন, আর তাই তাকে দায়ূদের সন্তান বলে ডাকা হত৷
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[:bn:obe:other:saul|Saul (OT)]], [[:bn:obe:other:solomon|Solomon]])
+[আরও দেখুন: শৌল[[:bn:obe:other:saul|(OT)]], শলোমন__]__
 
 ===== Bible References: =====
 
 {{topic>:en:bible?david&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:17-02|[17-02]]]** God chose a young Israelite named **David**  to be king after Saul. **David**  was a shepherd from the town of Bethlehem. … **David**  was a humble and righteous man who trusted and obeyed God.
-  * **[[:bn:obs:notes:frames:17-03|[17-03]]]****David**  was also a great soldier and leader. When **David**  was still a young man, he fought against a giant named Goliath.
-  * **[[:bn:obs:notes:frames:17-04|[17-04]]]** Saul became jealous of the people's love for **David**. Saul tried many times to kill him, so **David**  hid from Saul.
-  * **[[:bn:obs:notes:frames:17-05|[17-05]]]** God blessed **David**  and made him successful. **David**  fought many battles and God helped him defeat Israel's enemies.
-  * **[[:bn:obs:notes:frames:17-06|[17-06]]]****David**  wanted to build a temple where all the Israelites could worship God and offer him sacrifices.
-  * **[[:bn:obs:notes:frames:17-09|[17-09]]]****David**  ruled with justice and faithfulness for many years, and God blessed him. However, toward the end of his life he sinned terribly against God.
-  * **[[:bn:obs:notes:frames:17-13|[17-13]]]** God was very angry about what **David**  had done, so he sent the prophet Nathan to tell **David**  how evil his sin was. **David**  repented of his sin and God forgave him. For the rest of his life, **David**  followed and obeyed God, even in difficult times.
+  * __[১৭-০২] __ ঈশ্বর শৌলের জায়গায় দায়ূদ নামক এক ইস্রায়লীয় যুবকের নির্বাচন করলেন৷ দায়ূদ বৈৎলেহম নগরের এক মেষপালক ছিলেন৷ দায়ূদ এক নম্র ও ধার্মিক ব্যক্তি ছিলেন যিনি ঈশ্বরে বিশ্বাসী ও আজ্ঞাকারী ছিলেন৷
+  * __[১৭-০৩] __ দায়ূদ এক মহান যোদ্ধা ও নেতা হলেন৷ যখন দায়ূদ একটি বালকই ছিলেন, তখন তিনি এক গলিয়াৎ নামক দানবের বিরুদ্ধে লড়াই করেছিলেন৷
+  * __[১৭-০৪] __ দায়ূদের প্রতি লোকেদের স্নেহ দেখে শৌলের হিংসে হল৷ শৌল বহুবার দায়ূদকে হত্যা করার চেষ্টা করলেন, তাই দায়ূদ শৌলের কাছ থেকে পালালেন৷
+  * __[১৭-০৫] __ ঈশ্বর তাকে আশির্বাদিত করলেন আর তাকে সফল করলেন৷ দায়ূদ অনেক যুদ্ধ লড়লেন আর ঈশ্বর তাকে ইসরাইলের শত্রুদের পরাজিত করতে সাহায্য করলেন৷
+  * __[১৭-০৬] __ দায়ূদ একটি মন্দির তৈরী করতে চাইলেন যেখানে সকল ইস্রায়লীয় ঈশ্বরের আরাধনা ও তাকে বলি উৎসর্গ করতে পারে৷
+  * __[১৭-০৯] __ দায়ূদ বহু বছর ন্যায়পরায়ণতার সাথে আর বিশ্বস্ততার সাথে রাজত্ব করলেন আর ঈশ্বর তাকে আশির্বাদিত করলেন৷ যাইহোক, তার জীবনের শেষকালে তিনি ঈশ্বরের বিরুদ্ধে মহাপাপ করলেন৷
+  * __[১৭-১৩] __ ঈশ্বর দায়ূদের কর্মে ক্রোধিত হলেন, তাই তিনি ভাববাদী নাথনকে পাঠালেন দায়ূদকে বলতে যে তার পাপ কতই না পাপিষ্ট৷ দায়ূদ অনুশোচনা করলেন আর ঈশ্বর তাকে ক্ষমা করলেন৷ তিনি তার শেষ জীবন, ঈশ্বরকে অনুস্বরণকারী আর তার আজ্ঞাকারী হয়ে রইলেন, এমনকি জটিল পরিস্থিতিতেও৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
