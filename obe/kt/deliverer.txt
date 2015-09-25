@@ -1,6 +1,8 @@
-======
+======   ======
 
-প্রদান করা  , উদ্ধারকর্তা ======
+**প্রদান করা , উদ্ধারকর্তা **
+
+======   ======
 
 ===== সংজ্ঞা: =====
 
@@ -24,11 +26,11 @@ To "deliver" someone means to rescue that person. The term "deliverer" refers to
 
 {{topic>:en:bible?deliverer&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:16-03|[16-03]]]** Then God provided a **deliverer**  who rescued them from their enemies and brought peace to the land.
-  * **[[:bn:obs:notes:frames:16-16|[16-16]]]** They (Israel) finally asked God for help again, and God sent them another **deliverer**.
-  * **[[:bn:obs:notes:frames:16-17|[16-17]]]** Over many years, God sent many **deliverers**  who saved the Israelites from their enemies.
+  * __[১৬-১৩] __ তখন ঈশ্বর তাদের একজন উদ্ধারক প্রদান করলেন যিনি তাদের শত্রুদের হাত থেকে রক্ষা করলেন আর সেই ভূমিতে শান্তি ফিরিয়ে আনলেন৷
+  * __[১৬-১৬] __ অন্তিমে তারা পুনরায় ঈশ্বরের কাছে সাহায্যপ্রার্থী হয় আর ঈশ্বর তাদের আর এক উদ্ধারক প্রদান করেন৷
+  * __[১৬-১৭] __ বহু বছর ধরে, ঈশ্বর বহু উদ্ধারক প্রদান করলেন ইস্রায়লীয়দের শত্রুদের হাত থেকে রক্ষার্থে৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
