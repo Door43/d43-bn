@@ -17,13 +17,13 @@
 
 {{topic>:en:bible?demonpossessed&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:26-09|[26-09]]]** Many people who had **demons in them**  were brought to Jesus.
-  * **[[:bn:obs:notes:frames:32-02|[32-02]]]** When they reached the other side of the lake, a **demon-possessed**  man came running up to Jesus.
-  * **[[:bn:obs:notes:frames:32-06|[32-06]]]** The man **with the demon**  cried out in a loud voice, "What do you want with me, Jesus, Son of the Most High God? Please do not torture me!"
-  * **[[:bn:obs:notes:frames:32-09|[32-09]]]** The people from the town came and saw the man who used to **have the demons**.
-  * **[[:bn:obs:notes:frames:47-03|[47-03]]]** Every day as they (Paul and Silas) walked there, a slave girl **possessed by a demon**  followed them.
+  * __[২৬-০৯] __ বহু ভূতগ্রস্ত লোকেদেরও যীশুর কাছে নিয়ে আসা হল৷
+  * __[৩২-০২] __ যখন তারা হ্রদের অন্য ধরে পৌছালো, তখন এক ভূতগ্রস্ত ব্যক্তি যীশুর দিকে দৌড়ে এলো৷
+  * __[৩২-০৬] __ লোকটির ভিতরের ভূতটি জোরে চিৎকার করে বলে উঠলো, “আপনি আমার কাছ থেকে কি চান, হে যীশু সর্বশক্তিমান ঈশ্বরের পুত্র? আমাকে অনুগ্রহ করে কষ্ট দেবেন না!”
+  * __[৩২-০৯] __ নগরের লোকেরা এলো আর লোকটিকে দেখল যে ভূতগ্রস্ত ছিল৷
+  * __[৪৭-০৩] __ যতবার তারা সেখানে যেতেন, ততবার একটি দাসী মেয়ে যে ভূতগ্রস্ত ছিল তাদের অনুসরণ করত৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
