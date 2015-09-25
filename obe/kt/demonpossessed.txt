@@ -1,0 +1,29 @@
+====== ভূতগ্রস্ত ======
+
+===== সংজ্ঞা: =====
+
+একজন ব্যক্তি যে ভূতগ্রস্ত তার উপর একটি ভূত বা দুষ্ট আত্মা ভর করে যা সেই ব্যক্তিটির চিন্তাকে ও কার্যকে নিয়ন্ত্রণ করে৷
+
+  * প্রায়ই একটি ভূতগ্রস্ত ব্যক্তি নিজেকে বা অন্যান্য ব্যক্তিদের ক্ষতি করে কেননা সেই ভূতটি তাকে তা করতে জোর করে৷
+  * প্রভু যীশু ভূতেদের বা দুষ্ট আত্মাদের জোর করে তাড়িয়ে দিয়ে ভূতগ্রস্ত ব্যক্তিদের সুস্থ করেছিলেন৷
+
+===== Translation Suggestions: =====
+
+  * এটিকে এমনভাবেও অনুবাদ করা যেতে পারে, “দুষ্ট আত্মা দ্বারা নিয়ন্ত্রিত” বা, “দুষ্টের দ্বারা চালিত” বা, “ভিতরে ভূত রয়েছে এমন৷”
+
+[আরও দেখুন: দুষ্ট আত্মা[[:bn:obe:kt:demon|, evil spirit, unclean spirit]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?demonpossessed&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:bn:obs:notes:frames:26-09|[26-09]]]** Many people who had **demons in them**  were brought to Jesus.
+  * **[[:bn:obs:notes:frames:32-02|[32-02]]]** When they reached the other side of the lake, a **demon-possessed**  man came running up to Jesus.
+  * **[[:bn:obs:notes:frames:32-06|[32-06]]]** The man **with the demon**  cried out in a loud voice, "What do you want with me, Jesus, Son of the Most High God? Please do not torture me!"
+  * **[[:bn:obs:notes:frames:32-09|[32-09]]]** The people from the town came and saw the man who used to **have the demons**.
+  * **[[:bn:obs:notes:frames:47-03|[47-03]]]** Every day as they (Paul and Silas) walked there, a slave girl **possessed by a demon**  followed them.
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
