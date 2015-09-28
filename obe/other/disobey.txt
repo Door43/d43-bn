@@ -1,7 +1,8 @@
-====== অনাজ্ঞাকারিতা,
 
-অবাধ্য ,
-অবাধ্যতা   ======
+
+**অনাজ্ঞাকারিতা, অবাধ্য , অবাধ্যতা **
+
+======   ======
 
 ===== সংজ্ঞা: =====
 
@@ -22,9 +23,10 @@ The term "disobey" means to not obey what someone in authority has commanded or 
 ===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
   * ঈশ্বর পুরুষটিকে বললেন, “তুমি তোমার স্ত্রীর কথা শুনেছ আর আমার অবাধ্য হয়েছ৷”
-  * **[[:bn:obs:notes:frames:13-07|[13-07]]]** If the people obeyed these laws, God promised that he would bless and protect them. If they **disobeyed**  them, God would punish them.
+  * __[১৩-০৭] __ যদি লোকেরা এই নিয়মবিধিগুলো পালন করে, তাহলে ঈশ্বর প্রতিজ্ঞা করেছেন যে তিনি তাদের আশীর্বাদিত করবেন ও রক্ষা করবেন৷ যদি তারা অমান্য করে তবে ঈশ্বর তাদের দণ্ড দেবেন৷
   * **[[:bn:obs:notes:frames:16-02|[16-02]]]** Because the Israelites kept **disobeying**  God, he punished them by allowing their enemies to defeat them.
   * **[[:bn:obs:notes:frames:35-12|[35-12]]]**"The older son said to his father, 'All these years I have worked faithfully for you! I never **disobeyed**  you, and still you did not give me one small goat so I could celebrate with my friends.'"
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
+
