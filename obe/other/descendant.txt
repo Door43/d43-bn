@@ -1,25 +1,25 @@
 ====== উত্তরাধিকারী ======
 
-===== Definition: =====
+===== সংজ্ঞা: =====
 
-A descendant is someone who is a direct blood relative of someone else further back in history.
+একজন উত্তরাধিকারী হল সেই ব্যক্তি যে হল ইতিহাসের বা প্রাচীনকালের কোনো ব্যক্তির প্রতক্ষ্য বা ডাইরেক্ট রক্তের সম্পর্কীয় আত্মীয়৷
 
-  * For example, Abraham was a descendant of Noah.
-  * A person's descendants are his children, grandchildren, great-great-grandchildren, etc.
+  * উদাহরণস্বরূপ, আব্রাহাম হলেন নোহের উত্তরাধিকারী বা বংশধর বা সন্তান৷
+  * একটি ব্যক্তির উত্তরাধিকারী হল তার সন্তান, বা সন্তানদের সন্তানসমূহ বা তাদের সন্তানদের সন্তানসমূহ, ইত্যাদি৷
 
 ===== Bible References: =====
 
 {{topic>:en:bible?descendant&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:02-09|[02-09]]]**"The woman's **descendant**  will crush your head, and you will wound his heel."
-  * **[[:bn:obs:notes:frames:04-09|[04-09]]]**"I give the land of Canaan to your **descendants**."
-  * **[[:bn:obs:notes:frames:05-10|[05-10]]]**"Your **descendants**  will be more than the stars in the sky."
-  * **[[:bn:obs:notes:frames:17-07|[17-07]]]**"Someone from your family will always rule as king over Israel, and the Messiah will be one of your **descendants**!"
-  * **[[:bn:obs:notes:frames:18-13|[18-13]]]** The kings of Judah were **descendants**  of David.
-  * **[[:bn:obs:notes:frames:21-04|[21-04]]]** God promised King David that the Messiah would be one of David's own **descendants**.
-  * **[[:bn:obs:notes:frames:48-13|[48-13]]]** God promised David that the Messiah would be one of his **descendants**. Jesus, the Messiah, was that special **descendant**  of David.
+  * __[০২-০৯] __ স্ত্রীটির সন্তান তোমার মাথা চূর্ণ করবে আর তুমি তার গোড়ালি ক্ষত করবে৷
+  * __[০৪-০৯] __ আমি তোমার বংশধরদের কানানের ভূমিটি প্রদান করব৷
+  * __[০৫-১০] __ তোমার উত্তরাধিকারীরা আকাশের নক্ষত্রদের থেকেও বেশি হবে৷
+  * __[১৭-০৭]  __ তোমার এক উত্তরাধিকারী আমার প্রজাদের উপর সর্বকাল রাজত্ব করবে আর দায়ূদের একমাত্র উত্তরাধিকারী যিনি চিরকাল রাজত্ব করবেন তিনি হলেন মশীহ বা খ্রীষ্ট!”
+  * __[১৮-১৩] __ যিহুদার রাজারা ছিলেন দায়ূদের বংশ৷
+  * __[২১-০৪] __ ঈশ্বর রাজা দায়ূদকে প্রতিজ্ঞা করেছিলেন যে তার আগামী বংশের একজন ঈশ্বরের লোকেদের উপর চিরকালের জন্য রাজত্ব করবেন৷
+  * __[৪৮-১৩] __ ঈশ্বর রাজা দায়ূদকে প্রতিজ্ঞা করেছিলেন যে তার এক বংশ ঈশ্বরের প্রজাদের উপর চিরকাল রাজত্ব করবেন৷ কারণ যীশু হলেন ঈশ্বরের পুত্র আর খ্রীষ্ট, তিনিই হলেন দায়ূদের সেই বংশ যিনি চিরকাল রাজত্ব করবেন৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
