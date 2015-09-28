@@ -16,13 +16,13 @@
 
 {{topic>:en:bible?esau&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:06-07|[06-07]]]** When Rebekah's babies were born, the older son came out red and hairy, and they named him **Esau**.
-  * **[[:bn:obs:notes:frames:07-02|[07-02]]]** So **Esau **  gave Jacob his rights as the oldest son.
-  * **[[:bn:obs:notes:frames:07-04|[07-04]]]** When Isaac felt the goat hair and smelled the clothes, he thought it was **Esau**  and blessed him.
-  * **[[:bn:obs:notes:frames:07-05|[07-05]]]****Esau**  hated Jacob because Jacob had stolen his rights as oldest son and also his blessing.
-  * **[[:bn:obs:notes:frames:07-10|[07-10]]]** But **Esau **  had already forgiven Jacob, and they were happy to see each other again.
+  * __[০৬-০৭] __ যখন রিবিকার সন্তানেরা জন্মালো, তখন জ্যেষ্ঠজন লালরঙের ও লোমযুক্ত হয়ে বেরিয়ে এলো আর তারা তার নাম এষৌ রাখলেন৷
+  * __[০৭-০২] __ তাই এষৌ যাকোবকে তার জ্যেষ্ঠ পুত্র হওয়ার অধিকার দিয়ে দিলেন৷”
+  * __[০৭-০৪] __ যখন ইসহাক ছাগলের লোম অনুভব করলেন আর তার পোশাক শুঁকলেন, তখন তিনি ভাবলেন এ এষৌ আর তাকে আশির্বাদ দিলেন৷
+  * __[০৭-০৫] __ এষৌ যাকোবকে ঘৃনা করলেন কেননা যাকোব তার জ্যেষ্ঠ পুত্র হওয়ার অধিকার ও তার আশির্বাদ চুরি করেছেন৷
+  * __[০৭-১০] __ কিন্তু এষৌ যাকোবকে আগেই ক্ষমা করে দিয়েছিলেন, আর তারা একেঅপরকে পুনরায় দেখে আনন্দিত হলেন৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
