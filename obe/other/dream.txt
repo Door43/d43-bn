@@ -13,11 +13,11 @@
 
 ===== Examples from the Bible stories: =====
 
-  * **[[:bn:obs:notes:frames:08-02|[08-02]]]** Joseph's brothers hated him because their father loved him most and because Joseph had **dreamed**  that he would be their ruler.
-  * **[[:bn:obs:notes:frames:08-06|[08-06]]]** One night, the Pharaoh, which is what the Egyptians called their kings, had two **dreams**  that disturbed him greatly. None of his advisors could tell him the meaning of the **dreams**.
-  * **[[:bn:obs:notes:frames:08-07|[08-07]]]** God had given Joseph the ability to interpret **dreams**, so Pharaoh had Joseph brought to him from the prison. Joseph interpreted the **dreams**  for him and said, "God is going to send seven years of plentiful harvests followed by seven years of famine."
-  * **[[:bn:obs:notes:frames:16-11|[16-11]]]** So that night, Gideon went down to the camp and heard a Midianite soldier telling his friend about something he had **dreamed**. The man's friend said, "This **dream**  means that Gideon's army will defeat the Midianite army!"
-  * **[[:bn:obs:notes:frames:23-01|[23-01]]]** He (Joseph) did not want to shame her (Mary), so he planned to quietly divorce her. Before he could do that, an angel came and spoke to him in a **dream**.
+  * __[০৮-০২] __ যোষেফের ভাইরা তাকে ঘৃণা করত কারন তাদের পিতা তাকে বেশি স্নেহ করতেন আর কারন যোষেফ স্বপ্ন দেখেছিলেন যে তিনি তাদের উপর রাজত্ব করবেন৷
+  * __[০৮-০৬] __ এক রাতে ফরৌণ, যা মিশরবাসীরা তাদের রাজাদেরকে বলতেন, দুটি স্বপ্ন দেখলেন যা তাকে প্রচুর পরিমানে বিচলিত করেছিল৷ তার কোনোও মন্ত্রবেত্তাগন তাকে তার স্বপ্নগুলোর অর্থ বলতে পারল না৷
+  * __[০৮-০৭] __ ঈশ্বর যোষেফকে স্বপ্ন ব্যাখ্যা করার ক্ষমতা দিয়েছিলেন, তাই ফরৌণ যোষেফকে জেল থেকে তার কাছে এনে পাঠালেন৷ যোষেফ তার জন্য সেই স্বপ্নগুলোর ব্যাখ্যা করে দিলেন আর বললেন, “ঈশ্বর আগামী সাত বছর সম্পন্নতার ফসল দেবেন আর তারপরের সাত বছর দুর্ভিক্ষ৷
+  * __[১৬-১১] __ তাই সে রাতে, গিদিয়োন তাম্বুর দিকে গেলেন আর এক মিদিয়নীয় সৈন্যকে  তার এক বন্ধু সৈন্যের কাছে তার কিছু স্বপ্নের বিষয়ে বলতে শুনলেন৷ সেই পুরুষের বন্ধু তাকে বলল, “এই স্বপ্নের অর্থ হল যে গিদিয়োনের সৈন্য মিদিয়নীয় সৈন্যদের পরাজিত করবে!”
+  * __[২৩-০১] __ তিনি (যোষেফ) মরিয়মকে অসম্মানিত করতে চাইলেন না, তাই তিনি যোজনা করলেন যে তাকে (মরিয়ম) গুপ্তভাবে বিবাহবিচ্ছেদ পত্র দেবেন৷  তার তা করবার পূর্বেই, এক স্বর্গদূত এলেন আর তাকে স্বপ্নে কথা বললেন৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
