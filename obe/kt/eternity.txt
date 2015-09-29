@@ -1,0 +1,36 @@
+======
+
+অনন্ত  ,
+
+শাশ্বত  ,
+
+অনন্তকাল   ======
+
+===== সংজ্ঞা: =====
+
+The terms “everlasting” and “eternal” have very similar meanings and refer to something that will always exist or that lasts forever.
+
+  * The term “eternity” refers to a state of being that has no beginning or end. It can also refer to life that never ends.
+  * After this present life on earth, humans will spend eternity either in heaven with God or in hell apart from God.
+  * The terms “eternal life” and “everlasting life” are used in the New Testament to refer to living forever with God in our new bodies in heaven.
+  * The phrase “forever and ever” has the idea of time that never ends and expresses what eternity or eternal life is like.
+
+===== Translation Suggestions: =====
+
+  * Other ways to translate "eternal" or "everlasting" could include,"unending" or "never stopping" or "always continuing."
+  * The terms "eternal life" and "everlasting life" could also be translated as “life that never ends” or “life that continues without stopping” or "the raising up of our bodies to live forever."
+  * Depending on the context, different ways to translate "eternity" could include, "existing outside of time" or "unending life" or "life in heaven."
+  * Also consider how this word is translated in a Bible translation in a local or national language. (See: [[:bn:ta:translate:translateunknowns|How to Translate Unknowns]])
+
+[আরও দেখুন: [[:bn:obe:kt:forever|forever]], [[:bn:obe:kt:life|life, live, living, alive]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?eternity&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[২৭-০১] __ একদিন, ইহুদি ব্যবস্থার নিপুন এক গুরু এলেন যীশুকে পরীক্ষা করতে, বললেন, “গুরু, অনন্ত জীবন পাওয়ার জন্য আমাকে কি করতে হবে?”
+  * __[২৮-০১] __ একদিন, এক ধনী যুবক যিনি সেখানকার শাসক ছিলেন, যীশুর কাছে এলেন আর প্রশ্ন করলেন, “হে সৎ গুরু, অনন্ত জীবন পাওয়ার জন্য আমাকে কি করতে হবে?” যীশু তাকে বললেন, “আপনি আমায় কেন “সৎ” বলছেন? একজনই মাত্র সৎ রয়েছেন আর তিনি হলেন ঈশ্বর৷ কিন্তু আপনি যদি অনন্ত জীবন চান, তবে ঈশ্বরের আজ্ঞা পালন করুন৷”
+  * __[২৮-১০] __ যীশু উত্তর দিলেন, “প্রত্যেকে যারা ঘর, ভাই, বন, পিতা, মাতা, সন্তান, বা সম্পত্তি আমার জন্য ত্যাগ করেছে, তারা তার ১০০গুনেরও বেশি পাবে আর অনন্ত জীবনও পাবে৷
+~~DISCUSSION~~{{tag>publish ktobs}}
