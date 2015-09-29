@@ -1,0 +1,33 @@
+====== পূর্ণ ======
+
+===== সংজ্ঞা: =====
+
+“পূর্ণ” হওয়ার অর্থ হল কোন কিছু যা অনুমান বা প্রত্যাশা করা হয়েছিল তা সম্পূর্ণ হওয়া বা সমাপন হওয়া৷
+
+  * যখন কোনো ভাববাণী পূর্ণ হয়, তখন যা ভাববাণীতে বলা হয়েছিল তা ঘটে৷
+  * If a person fulfills a promise or a vow, it means that he does what he has promised to do.
+  * To fulfill a responsibility means to do the task that was assigned or required.
+
+===== Translation Suggestions: =====
+
+  * Depending on the context, "fulfill" could be translated as "accomplish" or "complete" or "cause to happen" or "obey" or "perform."
+  * The phrase "has been fulfilled" could also be translated as, "has come true" or "has happened" or "has taken place."
+  * Ways to translate "fulfill" as in "fulfill your ministry" could include, "complete" or "perform" or "practice" or "serve other people as God has called you to do."
+
+(See also: [[:bn:obe:kt:prophet|prophet, prophecy, prophesy, seer]], [[:bn:obe:kt:christ|Christ, Messiah]], [[:bn:obe:kt:minister|minister, ministry]], [[:bn:obe:kt:call|call, calling]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?fulfill&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[২৪-০৪] __ যা ভাববাদীরা বলেছিলেন যোহন তা পূর্ণ করলেন, “দেখো , আমি আমার দূতকে তোমার আগে পাঠাচ্ছি, যে তোমার জন্য পথ প্রস্তুত করবে৷”
+  * __[৪০-০৩] __ সৈন্যরা যীশুর কাপড়ের জন্য জুয়া খেললো৷ যখন তারা তা করল, তখন একটি ভাববাণী পূর্ণ হল যেটিতে বলা হয়েছিল, “তারা আমার কাপড় নিজেদের মধ্যে ভাগ করবে, আর আমার পোশাকের জন্য জুয়া খেলবে৷”
+  * __[৪২-০৭] __ যীশু বললেন, “আমি তোমাদের বলেছি যে ঈশ্বরের বাক্যে যাকিছু আমার বিষয়ে লেখা আছে তা পূর্ণ হবে৷
+  * __[৪৩-০৫] __ এটি ভাববাদী যোয়েলের ভাববাণী পূর্ণ করে যেখানে ঈশ্বর বলেছেন, ‘অন্তিম দিনে, আমি আমার আত্মা ঢালব৷”’
+  * __[৪৩-০৭] __ এটি সেই ভাববাণী পূর্ণ করে যা বলে, ‘আপনি আপনার পবিত্রজনকে কবরে পঁচতে দেবেন না৷
+  * __[৪৪-০৫] __ যদিও আপনারা যা করছিলেন তা বুঝতে পারেননি কিন্তু ঈশ্বর আপনাদের কার্যকে ভাববাণী সকল, যা বলে যে খ্রীষ্ট দুঃখভোগ করবেন আর মরবেন তা পূর্ণ করতে ব্যবহার করেছেন৷
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
