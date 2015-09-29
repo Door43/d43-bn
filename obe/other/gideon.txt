@@ -1,0 +1,28 @@
+====== গিদিয়োন ======
+
+===== তথ্যসমূহ: =====
+
+গিদিয়োন একজন ইস্রায়েলীয় পুরুষ ছিলেন যাকে ঈশ্বর ইস্রায়েলীয়দের তাদের শত্রুদের হাত থেকে মুক্তি দেওয়ার জন্য উচ্চ বা নিযুক্ত করেছিলেন৷
+
+  * গিদিয়োন ইস্রায়েলীয়দের কানানে প্রবেশ করার বহু বছর পরের সময়ে ছিলেন, যখন একদল জনগোষ্টি তাদের আক্রমন করতে থাকত যাদের মিদিয়নীয় বলা হত৷
+  * গিদিয়োন মিদিয়নীয়দের থেকে খুবিই ভয়ভীত হয়েছিলেন, কিন্তু ঈশ্বর ইস্রায়েলীয়দের মিদিয়নীয়দের বিরুদ্ধে যুদ্ধ করতে নেতৃত্ব দিতে আর তাদের পরাজিত করতে তার প্রয়োগ করেছিলেন৷
+
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?gideon&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:bn:obs:notes:frames:16-05|[16-05]]]** The angel of Yahweh came to **Gideon**  and said, "God is with you, mighty warrior. Go and save Israel from the Midianites."
+  * **[[:bn:obs:notes:frames:16-06|[16-06]]]****Gideon's**  father had an altar dedicated to an idol. God told **Gideon**  to tear down that altar.
+  * **[[:bn:obs:notes:frames:16-08|[16-08]]]** There were so many of them (Midianites) that they could not be counted. **Gideon**  called the Israelites together to fight them.
+  * **[[:bn:obs:notes:frames:16-08|[16-08]]]****Gideon**  called the Israelites together to fight them. **Gideon**  asked God for two signs so he could be sure that God would use him to save Israel.
+  * **[[:bn:obs:notes:frames:16-10|[16-10]]]** 32,000 Israelite soldiers came to **Gideon**, but God told him this was too many.
+  * **[[:bn:obs:notes:frames:16-12|[16-12]]]** Then **Gideon**  returned to his soldiers and gave each of them a horn, a clay pot, and a torch.
+  * **[[:bn:obs:notes:frames:16-15|[16-15]]]** The people wanted to make **Gideon**  their king.
+  * **[[:bn:obs:notes:frames:16-16|[16-16]]]** Then **Gideon**  used the gold to make a special garment like the high priest used to wear. But the people started worshiping it as if it were an idol.
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
