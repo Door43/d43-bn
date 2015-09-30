@@ -1,0 +1,45 @@
+====== ঈশ্বর ======
+
+===== তথ্যসমূহ: =====
+
+In the Bible, the term "God" refers to the eternal being named "Yahweh," who created the universe out of nothing. Yahwehexists as Father, Son, and Holy Spirit.    .
+
+  * God has always existed – he existed before anything else existed, and he will continue to exist forever.
+  * He is the only true God and has authority over everything in the universe
+  * ঈশ্বর উৎকৃষ্টভাবে ধার্মিক, পাপহীন, ন্যায়ী, দয়ালু, ও প্রেমী৷
+  * ঈশ্বর নিয়মকে স্থির রাখেন আর তার প্রতিজ্ঞাসকল পূরণ করেন৷
+  * People were created to worship God and he is the only one they should worship.
+  * God revealed his name as "Yahweh" which means, "he is" or "I am" or "the One who (always) exists."
+  * The Bible also teaches about false "gods" which are nonliving idols that people wrongly worship.
+
+===== Translation Suggestions: =====
+
+  * "God" could be translated with a word or phrase that means, "Deity" or "Creator" or "Supreme Being."
+  * Other ways to translate "God" might include, "Supreme Creator" or "Infinite Sovereign Lord" or "Eternal Supreme Being."
+  * Consider how God is referred to in a local or national language. There may also already be a word for "God" in the language being translated. If so, it is important to make sure that this word fits the characteristics of the one true God as described above.
+  * English translations refer to a false god using a small "g" and write God with a large "G" when referring to the one true God. Other languages may also choose to do that. Another way to distinguish them would be to use two different terms for "God" and "god."
+  * The phrase, "I will be their God and they will be my people" could also be translated as, "I, God, will rule over these people; they will belong to me and worship me."
+
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bn:obe:kt:yahweh|Yahweh]], [[:bn:obe:kt:godthefather|God the Father, Heavenly Father]], [[:bn:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]], [[:bn:obe:kt:sonofgod|Son of God, the Son]], [[:bn:obe:kt:falsegod|false god, god]], [[:bn:obe:other:creation|create, creation, Creator]], [[:bn:obe:other:idol|idol]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?god&nocomments&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[০১-০১] __ ঈশ্বর ছয় দিনে ব্রহ্মাণ্ড আর এর ভিতরের সকল কিছুর সৃষ্টি করেছিলেন৷
+  * __[০১-১৫] __ ঈশ্বর পুরুষ ও স্ত্রীকে তার নিজ স্বরূপে বানিয়েছেন৷
+  * __[০৫-০৩] __“আমি সর্বশক্তিমান ঈশ্বর৷ আমি তোমার সাথে একটি নিয়ম করব৷”
+  * __[০৯-১৪] __ ঈশ্বর বললেন, “আমি আছি সেই আছি৷ তাদের বলো, ‘আমি আছি আমাকে তোমাদের কাছে পাঠিয়েছেন৷’ তাদের আরও বলো, আমি যিহোবা, তোমাদের পূর্বপুরুষ আব্রাহাম, ইসহাক আর যাকোবের ঈশ্বর৷  এটি হল আমার চিরকালের নাম৷”
+  * __[১০-০২] __ এই মহামারী বা আঘাতগুলোর দ্বারা, ঈশ্বর ফরৌণকে দেখাতে চেয়েছিলেন যে তিনি ফরৌণ থেকে আর মিশরের সকল দেবদেবীগনের চেয়ে বেশি শক্তিশালী৷
+  * __[১৬-০১] __ ইস্রায়লীয়রা সত্য পরমেশ্বর যীহোবা ঈশ্বরের বিপরীতে কানানীয় দেবতাদের আরাধনা করা শুরু করে দিল৷
+  * __[২২-০৭] __ হে আমার পুত্র, তোমাকে সর্বশক্তিমান ঈশ্বর সদাপ্রভুর ভাববাদী বলা হবে যে লোকেদের বলবে যে তারা কি করে তাদের পাপ থেকে রক্ষা পেতে পারে!”
+  * __[২৪-০৯] __ ঈশ্বর হলেন অদ্বিতীয়৷ কিন্তু যখন যোহন প্রভু যীশুকে বাপ্তিস্ম দিলেন, তিনি ঈশ্বর পিতাকে বলতে শুনলেন, ঈশ্বর পুত্রকে দেখলেন যিনি হলেন প্রভু যীশু, আর তিনি পবিত্র আত্মাকে দেখলেন৷
+  * __[২৫-০৭] __“কেবল প্রভু তোমার যীহোবা ঈশ্বরেরই আরাধনা কর আর তারই সেবা কর৷”
+  * __[২৮-০১] __ যীশু তাকে বললেন, “আপনি আমায় কেন “সৎ” বলছেন?
+  * __[৪৯-০৯] __ কিন্তু ঈশ্বর পৃথিবীর সকলকে এত বেশি ভালবাসেন যে তিনি তার একমাত্র পুত্রকে দিয়ে দিলেন যেন যে কেউ যীশুর উপর বিশ্বাস করে সে তার পাপের জন্য দণ্ডিত হয় না, কিন্তু ঈশ্বরের সাথে চিরকাল বেঁচে থাকে৷
+  * __[৫০-১৬] __ কিন্তু একদিন ঈশ্বর এক নতুন আকাশ আর পৃথিবী সৃষ্টি করবেন যা হবে উৎকৃষ্ট৷
+~~DISCUSSION~~{{tag>publish ktobs}}
