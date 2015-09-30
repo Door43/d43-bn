@@ -1,0 +1,44 @@
+====== ভালো,
+
+ধার্মিকতা   ======
+
+===== সংজ্ঞা: =====
+
+“ভালো” শব্দটির প্রসঙ্গ-ভিত্তিতে বিভিন্ন অর্থ রয়েছে৷ কিছু কিছু ভাষায় সেই অর্থ গুলোর জন্য ভিন্ন ভিন্ন শব্দ থাকতে পারে৷
+
+  * সাধারণ অর্থে, কোনো কিছু ভালো হয় যদি তা ঈশ্বরের চরিত্রের, উদ্দেশের আর ইচ্ছের অনুযায়ী হয়৷
+  * Something that is "good" could be pleasing, excellent, helpful, suitable, profitable, or morally right.
+  * Land that is "good" could be called "fertile" or "productive."
+  * A "good" crop could be a "plentiful" crop.
+  * A person can be "good" at what they do if they are skillful at their task or profession, as in, "a good farmer."
+  * In the Bible, the general meaning of "good" is often contrasted with "evil."
+  * The term "goodness" usually refers to being morally good or righteous in thoughts and actions.
+  * The goodness of God refers to how he blesses people by giving them good and beneficial things. It also can refer to his moral perfection.
+
+===== Translation Suggestions: =====
+
+  * The general term for "good" in the target language should be used wherever this general meaning is accurate and natural, especially in contexts where it is contrasted to evil.
+  * Depending on the context, other ways to translate this term could include, "kind" or "excellent" or "pleasing to God" or "righteous" or "morally upright" or "profitable."
+  * "Good land" could be translated as, "fertile land" or "productive land"; a "good crop" could be translated as a "plentiful harvest" or "large amount of crops."
+  * The phrase "do good to" means to do something that benefits others and could be translated as to "be kind to" someone or to "help" or "benefit" someone.
+  * Depending on the context, ways to translate the term "goodness" could include, "blessing" or "kindness" or "moral perfection" or "righteousness" or "purity."
+
+(See also: [[:bn:obe:kt:holy|holy, holiness]], [[:bn:obe:other:profit|profit, profitable]], [[:bn:obe:kt:righteous|righteous, righteousness]], [[:bn:obe:kt:evil|evil]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?good&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[০১-০৪] __ ঈশ্বর দেখলেন যে যা কিছু তিনি রচনা করেছেন তা উত্তম হয়েছিল৷
+  * __\[০১-১১] __ ঈশ্বর দুটি বিশেষ বৃক্ষ রোপন করেছিলেন- জীবন বৃক্ষ আর সৎ ও অসৎ জ্ঞান প্রদানকারী বৃক্ষ৷”
+  * __\[০১-১২] __ তারপর ঈশ্বর বললেন, “একা থাকা পুরুষের জন্য ভালো নয়৷”
+  * __\[০২-০৪] __ ঈশ্বর কেবল জানেন যে যখনি তোমরা এটাকে খাবে, তখুনি তোমরা ঈশ্বরের সমান হয়ে যাবে আর তারই মত তোমরা সৎ ও অসৎ বুঝবে৷
+  * **[[:bn:obs:notes:frames:08-12|[08-12]]]**"You tried to do evil when you sold me as a slave, but God used the evil for **good**!"
+  * **[[:bn:obs:notes:frames:14-15|[14-15]]]** Joshua was a **good**  leader because he trusted and obeyed God.
+  * **[[:bn:obs:notes:frames:18-13|[18-13]]]** Some of these kings were **good**  men who ruled justly and worshiped God.
+  * **[[:bn:obs:notes:frames:28-01|[28-01]]]**"**Good**  teacher, what must I do to have eternal life?" Jesus said to him, "Why do you call me '**good**?' There is only one who is **good**, and that is God."
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
