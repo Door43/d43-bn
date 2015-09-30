@@ -13,16 +13,16 @@
 
 {{topic>:en:bible?gideon&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:16-05|[16-05]]]** The angel of Yahweh came to **Gideon**  and said, "God is with you, mighty warrior. Go and save Israel from the Midianites."
-  * **[[:bn:obs:notes:frames:16-06|[16-06]]]****Gideon's**  father had an altar dedicated to an idol. God told **Gideon**  to tear down that altar.
-  * **[[:bn:obs:notes:frames:16-08|[16-08]]]** There were so many of them (Midianites) that they could not be counted. **Gideon**  called the Israelites together to fight them.
-  * **[[:bn:obs:notes:frames:16-08|[16-08]]]****Gideon**  called the Israelites together to fight them. **Gideon**  asked God for two signs so he could be sure that God would use him to save Israel.
-  * **[[:bn:obs:notes:frames:16-10|[16-10]]]** 32,000 Israelite soldiers came to **Gideon**, but God told him this was too many.
-  * **[[:bn:obs:notes:frames:16-12|[16-12]]]** Then **Gideon**  returned to his soldiers and gave each of them a horn, a clay pot, and a torch.
-  * **[[:bn:obs:notes:frames:16-15|[16-15]]]** The people wanted to make **Gideon**  their king.
-  * **[[:bn:obs:notes:frames:16-16|[16-16]]]** Then **Gideon**  used the gold to make a special garment like the high priest used to wear. But the people started worshiping it as if it were an idol.
+  * __[১৬-০৫] __ যীহোবার এক স্বর্গদূত গিদিয়োনের কাছে এলেন আর বললেন, “ঈশ্বর তোমার সহবর্তী, হে মহান যুদ্ধবীর৷ যাও আর ইস্রায়লীয়দের মিদিয়নীয়দের হাত থেকে রক্ষা কর৷”
+  * __[১৬-০৬] __ গিদিয়োনের পিতার এক মূর্তির প্রতি সমর্পিত একটি বেদী ছিল৷ ঈশ্বর গিদিয়োনকে সেই বেদিকে নষ্ট করতে বললেন৷
+  * __[১৬-০৮] __ তারা (মিদিয়নীয়রা)এত বেশি সংখায় ছিল যে তাদের গণনা করা যায় না৷ গিদিয়োন তাদের বিরুদ্ধে যুদ্ধ করার জন্য ইস্রায়লীয়দের একত্র ডাকলেন৷
+  * __[১৬-০৮] __ গিদিয়োন তাদের বিরুদ্ধে যুদ্ধ করার জন্য ইস্রায়লীয়দের একত্র ডাকলেন৷ গিদিয়োন ঈশ্বরের কাছে নিশ্চিত হওয়ার জন্য দুটি চিহ্ন চাইলেন যে ঈশ্বর ইসরাইলকে রক্ষা করার জন্য তাকে ব্যবহার করবেন৷
+  * __[১৬-১০] __ ৩২,০০০ ইস্রায়লীয় সৈন্য গিদিয়োনের কাছে এলো, কিন্তু ঈশ্বর তাকে বললেন এরা অত্যন্ত বেশি৷
+  * __[১৬-১২] __ তারপর গিদিয়োন তার সৈন্যদের কাছে ফিরে এলো আর সকলকে একটি শিঙা, একটি মাটির পাত্র আর একটি মশাল দিলেন৷
+  * __[১৬-১৫] __ লোকেরা গিদিয়োনকে রাজা বানাতে চাইল৷
+  * __[১৬-১৬] __ তারপর গিদিয়োন সেই সোনাকে একটি বিশেষ বস্ত্রে পরিণত করলেন যেমনটি মহা পুরোহিত পরিধান করতেন৷ কিন্তু লোকেরা তার আরাধনা করা শুরু করল যেন সেটি একটি মূর্তি৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
