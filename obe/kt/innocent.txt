@@ -16,9 +16,7 @@ The term "innocent" means to not be guilty of a crime or other wrongdoing that a
   * The frequently occurring idiom, "innocent blood" could be translated as, "people who did nothing wrong to deserve being killed."
   * Depending on the context, other ways to translate "innocent" could include, "naive" or "pure" or "unsuspecting of evil" or "not mixed up in evil."
 
-(আরও দেখুন:
-
-কলুষ  [[:bn:obe:kt:guilt|, ]]দোষী)
+(আরও দেখুন: **কলুষ**  **[[:bn:obe:kt:guilt|, ]]দোষী**)
 
 ===== Bible References: =====
 
@@ -26,9 +24,9 @@ The term "innocent" means to not be guilty of a crime or other wrongdoing that a
 
 ===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * __[০৮-০৬] __ দু বছর পরও, যোষেফ তখনও জেলেই ছিলেন, যখনকি তিনি নির্দোষ ছিলেন৷
-  * __[৪০-০৪] __ তাদের একজন যীশুর ঠাট্টা করে, কিন্তু অন্যজন বলে, “তোমার কি কোনো ঈশ্বর ভয় নেই? আমরা দোষী, কিন্তু এই ব্যক্তি নির্দোষ৷”
-  * __[৪০-০৮] __ যখন যীশুর পাহারায় দাড়ানো সৈন্যটি যা কিছু ঘটল তা দেখল, সে বলল, “নিশ্চই, এ ব্যক্তি নির্দোষ ছিল৷ তিনি ঈশ্বরের পুত্র ছিলেন৷”
+  * __[০৮-০৬] __  দু বছর পরও, যোষেফ তখনও জেলেই ছিলেন, যখনকি তিনি নির্দোষ ছিলেন৷
+  * __[৪০-০৪] __  তাদের একজন যীশুর ঠাট্টা করে, কিন্তু অন্যজন বলে, “তোমার কি কোনো ঈশ্বর ভয় নেই? আমরা দোষী, কিন্তু এই ব্যক্তি নির্দোষ৷”
+  * __[৪০-০৮] __  যখন যীশুর পাহারায় দাড়ানো সৈন্যটি যা কিছু ঘটল তা দেখল, সে বলল, “নিশ্চই, এ ব্যক্তি নির্দোষ ছিল৷ তিনি ঈশ্বরের পুত্র ছিলেন৷”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
