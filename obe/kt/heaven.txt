@@ -20,14 +20,14 @@ The term that is translated as "heaven" refers to where God lives. The same word
 
 {{topic>:en:bible?heaven&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:04-02|[04-02]]]** They even began building a tall tower to reach **heaven.**
-  * **[[:bn:obs:notes:frames:14-11|[14-11]]]** He (God) gave them bread from **heaven**, called "manna."
-  * **[[:bn:obs:notes:frames:23-07|[23-07]]]** Suddenly, the skies were filled with angels praising God, saying, "Glory to God in **heaven**  and peace on earth to the people he favors!"
-  * **[[:bn:obs:notes:frames:29-09|[29-09]]]** Then Jesus said, "This is what my **heavenly**  Father will do to every one of you if you do not forgive your brother from your heart."
-  * **[[:bn:obs:notes:frames:37-09|[37-09]]]** Then Jesus looked up to **heaven**  and said, "Father, thank you for hearing me."
-  * **[[:bn:obs:notes:frames:42-11|[42-11]]]** Then Jesus went up to **heaven**, and a cloud hid him from their sight.
+  * __[০৪-০২] __ এমনকি তারা একটি স্বর্গস্পর্শী মিনার তৈরী করা আরম্ভ করল৷
+  * __[১৪-১১] __ তিনি (ঈশ্বর) তাদের স্বর্গ থেকে খাদ্য দিলেন যাকে বলা হয় “মান্না৷
+  * __[২৩-০৭] __ হঠাৎ, আকাশ ঈশ্বরের স্তুতি গান গাওয়া স্বর্গদূতের দ্বারা ভরে গেল, যারা বলছিল, “ঈশ্বরের মহিমা স্বর্গলোকে হোক আর তার অনুগ্রহ প্রাপ্ত লোকেদের উপর পৃথিবীতে শান্তি হোক৷
+  * __[২৯-০৯] __ তারপর যীশু বললেন, “এমনটাই আমার স্বর্গীয় পিতা করবেন তোমাদের প্রত্যেকের সাথে, যদি না তোমরা তোমার ভাই বা বোনকে হৃদয় থেকে ক্ষমা না কর৷”
+  * __[৩৭-০৯] __ তারপর যীশু স্বর্গের দিকে তাকালেন আর বললেন, “হে পিতা, ধন্যবাদ আমাকে শোনার জন্য৷
+  * __[৪২-১১] __ তারপর যীশু স্বর্গে আরোহন করলেন আর একটি মেঘ তাদের দৃষ্টি থেকে তাকে আড়াল করল৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
