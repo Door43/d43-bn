@@ -1,8 +1,8 @@
-======
+======   ======
 
-উত্তরাধিকারী  ,
+**উত্তরাধিকারী , উত্তরাধিকার **
 
-উত্তরাধিকার   ======
+======   ======
 
 ===== সংজ্ঞা: =====
 
@@ -29,11 +29,11 @@ To inherit means to receive something valuable from a parent or other person, be
 
 {{topic>:en:bible?inherit&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:04-06|[04-06]]]** When Abram arrived in Canaan God said, "Look all around you. I will give to you and your descendants all the land that you can see as an **inheritance**."
-  * **[[:bn:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to **inherit**  eternal life?"
-  * **[[:bn:obs:notes:frames:35-03|[35-03]]]**"There was a man who had two sons. The younger son told his father, 'Father, I want my **inheritance**  now!' So the father divided his property between the two sons."
+  * __[০৪-০৬] __ যখন আব্রাম কানান দেশে পৌঁছেছিলেন, তখন ঈশ্বর বললেন “তোমার চারিদিকে দেখো৷ এই সকল ভূমি যা তুমি দেখতে পারছ তা আমি তোমাকে ও তোমার উত্তরাধিকারীদের উত্তরাধিকার স্বরূপ প্রদান করব৷
+  * __[২৭-০১] __ একদিন, ইহুদি ব্যবস্থার নিপুন এক গুরু এলেন যীশুকে পরীক্ষা করতে, বললেন, “গুরু, অনন্ত জীবন পাওয়ার জন্য আমাকে কি করতে হবে?”
+  * __[৩৫-০৩] __“এক ব্যক্তি ছিলেন যার দুটি পুত্র ছিল৷ ছোট ছেলেটি তার পিতাকে বলল, ‘পিতা, আমার সম্পত্তির ভাগ এখনিই চাই!’ তাই পিতা তার সম্পত্তি দুই ছেলের মধ্যে ভাগ করে দিল৷”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
