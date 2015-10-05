@@ -1,0 +1,25 @@
+====== ইশ্মায়েল ======
+
+===== তথ্যসমূহ: =====
+
+ইশ্মায়েল হলেন আব্রাহাম এবং সারার দাসী, হাগারের পুত্র৷
+
+  * ইশ্মায়েল নামের অর্থ হল, “ঈশ্বর শোনেন৷”
+  * Ishmael received the benefit of a divine promise made to Hagar about himself and his future
+  * However, Ishmael was not the son through whom God would fulfill his promise to Abraham to make his descendants as numerous as the stars.
+
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:en:obe:other:abraham|Abraham, Abram]], [[:bn:obe:other:sarah|Sarah, Sarai]], [[:en:obe:other:isaac|Isaac]] )
+
+===== Bible References: =====
+
+{{topic>:en:bible?ishmael&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[০৫-০২] __ তাই আব্রাম হাগারকে বিবাহ করলেন৷ হাগারের একটি পুত্র সন্তান হল আর আব্রাম তার নাম ইশ্মায়েল রাখলেন৷
+  * __[০৫-০৪] “__ আমি ইশ্মায়েলকেও একটি মহান জাতি করব কিন্তু আমার নিয়ম ইসহাকের সাথে স্থির হবে৷”
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
