@@ -1,0 +1,24 @@
+====== যারবিয়াম ======
+
+===== তথ্যসমূহ: =====
+
+যারবিয়াম উত্তরের ইস্রায়েল রাজ্যের প্রথম রাজা ছিলেন৷ তিনি দশটি গোত্রের উপর রাজত্ব করেছিলেন যারা দক্ষিনের যিহুদা ও বিন্যামীন গোত্রের সাথে বিদ্রোহ করেছিল ও পৃথক হয়েছিল৷
+
+  * যারবিয়াম খুবিই দুষ্ট রাজা ছিলেন৷ যেরুশালেমের মন্দিরে যীহোবা ঈশ্বরের আরাধনা না করে, তিনি মূর্তি স্থাপন করেছিলেন আর ইস্রায়েল রাজ্যের লোকেদেরকে তাদের আরাধনা করতে উৎসাহিত করেছিলেন৷
+  * ইস্রায়েল রাজ্যের আগামী রাজাসকলও যারবিয়ামের দুষ্ট উদাহরণটিকে অনুস্বরণ করেছিল৷
+
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
+
+[আরও দেখুন: [[:bn:obe:other:kingdomofisrael|kingdom of Israel]], [[:bn:obe:other:kingdomofjudah|kingdom of Judah, Judah]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?jeroboam&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:bn:obs:notes:frames:18-08|[18-08]]]** The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named **Jeroboam**  to be their king.
+  * **[[:bn:obs:notes:frames:18-09|[18-09]]]****Jeroboam**  rebelled against God and caused the people to sin. He built two idols for his people to worship instead of worshiping God at the Temple in the kingdom of Judah.
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
