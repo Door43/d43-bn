@@ -1,33 +1,36 @@
-====== যাকোব,
 
-ইসরাইল   ======
+
+ **যাকোব, ইসরাইল **
+
+======   ======
 
 ===== তথ্যসমূহ: =====
 
-যাকোব যমজ পুত্রদের মধ্যে একজন ছিলেন যারা ইসহাক আর রিবিকার দ্বারা জন্মে ছিল৷ The first twin born was Esau.
+যাকোব যমজ পুত্রদের মধ্যে একজন ছিলেন যারা ইসহাক আর রিবিকার দ্বারা জন্মে ছিল৷ প্রথম শিশুটির নাম এষৌ ছিল৷
 
-  * Jacob's name means "deceiver" or "trickster."
-  * Jacob was clever and deceptive. He found ways to take both the firstborn inheritance rights and the blessing from his older brother, Esau.
-  * Esau was angry and planned to kill him, so Jacob left his homeland. But he later returned and lived peacefully with his brother.
-  * God changes Jacob's name to Israel, which means, "He struggles with God."
-  * God kept his covenant to Abraham and his descendants through Abraham's son, Isaac, and Isaac's son, Jacob.
-  * Jacob had twelve sons. Their descendants became the twelve tribes of Israel.
+  * যাকোবের নামের অর্থ ছিল “প্রতারক” বা, “চতুর৷”
+  * যাকোব চালক আর ছলনাকারী ছিলেন৷ তিনি তার ভাই, এষৌর প্রথমজাত অধিকার আর আশির্বাদ নিয়ে নিয়েছিলেন৷
+  * তাই এষৌ ক্রুদ্ধ হয়েছিলেন আর তাকে হত্যা করার ষড়যন্ত্র করেছিলেন, ফলে যাকোব তার মাতৃভূমি ছেড়ে চলে গিয়েছিলেন৷ কিন্তু পরে তিনি তার ভাইয়ের কাছে ফিরে আসেন আর শান্তিতে বসবাস করেন৷
+  * ঈশ্বর যাকোবের নাম ইস্রায়েল রাখেন, যার অর্থ হল, “তিনি ঈশ্বরের সাথে মল্লযুদ্ধ করেন৷”
+  * ঈশ্বর আব্রাহামের সাথে তার নিয়ম স্থির করেছিলেন আর আব্রাহামের পুত্র ইসহাক আর ইসহাকের পুত্র যাকোবের দ্বারা তার সন্তান সন্ততিদের সাথে তা বহাল রেখেছিলেন৷
+  * যাকোবের বারোটি পুত্র ছিল৷ তাদের সন্তানরা ইসরায়েলের বারোটি গোত্র হয়৷
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[:bn:obe:other:isaac|ইসহাক]], [[:bn:obe:other:rebekah|Rebekah]], [[:bn:obe:other:esau|এষৌ]], [[:bn:obe:other:israel|israel]])
+[আরও দেখুন: [[:bn:obe:other:isaac|ইসহাক]], [[:bn:obe:other:rebekah|Rebekah]], [[:bn:obe:other:esau|এষৌ]], [[:bn:obe:other:israel|israel]])
 
 ===== Bible References: =====
 
 {{topic>:en:bible?jacob&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:07-01|[07-01]]]** As the boys grew up, Rebekah loved **Jacob**, but Isaac loved Esau. **Jacob**  loved to stay at home, but Esau loved to hunt.
-  * **[[:bn:obs:notes:frames:07-07|[07-07]]]****Jacob**  lived there for many years, and during that time he married and had twelve sons and a daughter. God made him very wealthy.
-  * **[[:bn:obs:notes:frames:07-08|[07-08]]]** After twenty years away from his home in Canaan, **Jacob**  returned there with his family, his servants, and all his herds of animals.
-  * **[[:bn:obs:notes:frames:07-10|[07-10]]]** The covenant promises God had promised to Abraham and then to Isaac now passed on to **Jacob**.
-  * **[[:bn:obs:notes:frames:08-01|[08-01]]]** Many years later, when **Jacob**  was an old man, he sent his favorite son, Joseph, to check on his brothers who were taking care of the herds.
+  * __[০৭-০১] __ যেমন ছেলে দুটো বেড়ে উঠলো, যাকোব গৃহে থাকতে ভালবাসতেন, কিন্তু এষৌ শিকার করা পছন্দ করতেন৷ রিবিকা যাকোবকে বেশি স্নেহ করতেন, কিন্তু ইসহাক এষৌকে বেশি ভালবাসতেন৷
+  * __[০৭-০৭] __ যাকোব রিবিকার আত্মীয়দের সাথে বহু বছর থাকলেন, আর এই সময়ে তিনি বিবাহ করেন আর তার বারোটি পুত্র ও একটি কন্যা হয়৷ ঈশ্বর তাকে খুবিই সম্পন্ন করেছিলেন৷
+  * __[০৭-০৮] __ কানানে তার গৃহ থেকে চলে আসার কুড়ি বছর পর, যাকোব সেখানে তার পরিবারের সাথে, তার চাকরবাকরের সাথে আর তার সকল গবাদিপশুদের সাথে ফিরেগেলেন৷
+  * __[০৭-১০] __ নিয়মের প্রতিজ্ঞাগুলো যা ঈশ্বর আব্রাহামের সাথে স্থাপন করেছিলেন তা এখন ইসহাক থেকে যাকোবের উপর চলে এসেছিল৷
+  * __[০৮-০১] __ অনেক বছর পর, যখন যাকোব একজন বৃদ্ধ হলেন, তিনি তার প্রিয় পুত্র যোষেফকে তার ভাইদের যারা গবাদিপশু চড়াছিলেন দেখতে পাঠালেন৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
+
