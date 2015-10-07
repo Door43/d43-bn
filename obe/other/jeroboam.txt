@@ -9,16 +9,18 @@
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
-[আরও দেখুন: [[:bn:obe:other:kingdomofisrael|kingdom of Israel]], [[:bn:obe:other:kingdomofjudah|kingdom of Judah, Judah]])
+[আরও দেখুন: ইস্রায়েল রাজ্য, যিহুদা রাজ্য[[:bn:obe:other:kingdomofjudah|, ]]
+
+যিহূদার  )
 
 ===== Bible References: =====
 
 {{topic>:en:bible?jeroboam&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:18-08|[18-08]]]** The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named **Jeroboam**  to be their king.
-  * **[[:bn:obs:notes:frames:18-09|[18-09]]]****Jeroboam**  rebelled against God and caused the people to sin. He built two idols for his people to worship instead of worshiping God at the Temple in the kingdom of Judah.
+  * __[১৮-০৮] __ ইসরাইল রাষ্ট্রের অন্য দশ গোত্র যারা রহবিয়ামের বিরুদ্ধে বিদ্রোহ করেছিল তারা তাদের উপর রাজা হওয়ার জন্য এক ব্যক্তিকে নিযুক্ত করল যার নাম হল যারবিয়াম৷
+  * __[১৮-০৯] __ যারবিয়াম ঈশ্বরের বিরুদ্ধে বিদ্রোহ করলেন আর লোকেদের পাপ করালেন৷ তিনি তার লোকেদের জন্য যিহুদা রাজ্যের মন্দিরের যীহোবা ঈশ্বরের জায়গায় পুজো করার জন্য দুটি মূর্তি তৈরী করলেন৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
