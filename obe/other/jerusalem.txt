@@ -1,0 +1,35 @@
+====== যেরুশালেম ======
+
+===== তথ্যসমূহ: =====
+
+Jerusalem was originally an ancient Canaanite city that later became of central political and religious importance in Israel. It is still the capital city of present-day Israel.
+
+  * The Old Testament city of Salem was probably the same as the city of Jerusalem. Both names have the root meaning of "peace."
+  * Abraham offered his son Isaac on Mount Moriah which is part of the city of Jerusalem.
+  * King David captured Jerusalem from the Jebusites and made it his capital city.
+  * David's son Solomon built the first templeon Mount Moriah in Jerusalem.
+  * The Babylonians destroyed Jerusalem, but 70 years later God allowed them to return and rebuild the city.
+  * Because the temple was located there, Jerusalem was the center for celebrating the major Jewish festivals.
+  * In the New Testament, Jesus was dedicated as a baby at the temple in Jerusalem and it was in Jerusalem where he was put on trial and sentenced to die on a cross.
+  * After Jesus came back to life, Jerusalem was one of the main places where Jesus spent time with his disciples before he returned to heaven.
+  * Since Jerusalem was located in the mountains of Israel, people normally referred to going to Jerusalem as "going up to Jerusalem."
+
+(See also: [[:bn:obe:other:david|দায়ূদ]], [[:bn:obe:other:solomon|Solomon]], [[:bn:obe:kt:christ|Christ, Messiah]], [[:bn:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:bn:obe:other:jebusites|Jebusites]], [[:bn:obe:other:zion|Zion, Mount Zion]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?jerusalem&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[১৭-০৫] __ দায়ূদ যেরুশালেম জয় করলেন আর সেটিকে তার রাজধানী শহর করলেন৷
+  * __[১৮-০২] __ যেরুশালেমে, শলোমন সে মন্দির তৈরী করলেন যা তার পিতা দায়ূদ তৈরী করার পরিকল্পনা করেছিলেন আর কাঁচামাল সংগ্রহ করেছিলেন৷
+  * __[২০-০৭] __ তারা (বাবিলবাসীরা) যেরুশালেমের নগর ঘেরাও করল, মন্দির বিনাশ করল আর নগরের আর মন্দিরের সকল সম্পত্তি নিয়ে গেল৷
+  * __[২০-১২] __ তাই, নির্বাসনের সত্তর বছর পর, ইহুদিদের একটি ছোট দল যিহুদার যেরুশালেমে ফিরে এলো৷
+  * __[২৮-০১] __ প্রায় তিন বছর হল যীশু তার প্রচার ও শিক্ষা কার্য আরম্ভ করেছেন, যীশু তার শিষ্যদের বললেন যে তিনি যেরুশালেমে তাদের সাথে এই নিস্তারপর্ব পালন করতে চান, আর বললেন যে তাকে সেখানে হত্যা করা হবে৷
+  * __[৩৮-০২] __ যীশু আর শিষ্যদের যেরুশালেমে পৌছাবার পর, যিহুদা ইহুদি নেতাদের কাছে গেল আর টাকার পরিবর্তে যীশুর সাথে প্রতারণা করার প্রস্তাব দিল৷
+  * __[৪২-০৮] __“শাস্ত্রে লেখা আছে যে আমার শিষ্যেরা সবাইকে ঘোষণা করবে যে প্রত্যেককে তাদের পাপের ক্ষমা পেতে অনুশোচনা করতে হবে৷ তারা যেরুশালেম থেকে তা আরম্ভ করবে, আর তারপর পৃথিবীর সকল জাতির কাছে যাবে৷
+  * __[৪২-১১] __ মৃত্যু থেকে জীবিত হওয়ার চল্লিশ দিন পর, তিনি তার শিষ্যদের বললেন, “যেরুশালেমে থাক যতদিন না আমার পিতা পবিত্র আত্মা তোমাদের দিয়ে শক্তি না দেন৷”
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
