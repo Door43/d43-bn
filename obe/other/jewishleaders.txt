@@ -9,20 +9,16 @@
   * বহু ধার্মিক নেতারা ধারণা করত যে তারা অন্যদের থেকে বেশি ধার্মিক আর তারা অন্যদের পাপ দেখাতে খুব গর্বিতবোধ করত৷ তারা রোমান শাসকদের কাছে যীশুর বিষয়ে মিথ্যে বলেছিল আর চেয়েছিল যেন তাকে মেরে ফেলা হয়৷
   * প্রভু যীশু ইহুদি নেতাদের তাদের কপটতার জন্য দোষী করেছিলেন৷ তারা ঈশ্বরকে জানার দাবি করত কিন্তু তারা তার আজ্ঞা পালন করত না৷
 
-[আরও দেখুন: ইহুদি[[:bn:obe:other:jew|, ]]
-
-ইহুদি  , যাজক[[:en:obe:kt:priest|, ]]
-
-গুরুগিরি  ]
+[আরও দেখুন: ইহুদি[[:bn:obe:other:jew|,]] ইহুদি , যাজক[[:en:obe:kt:priest|,  ]]গুরুগিরি ]
 
 ===== Bible References: =====
 
 {{topic>:en:bible?Jewishleaders&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:24-03|[24-03]]]** Many **religious leaders**  also came to be baptized by John, but they did not repent or confess their sins.
-  * **[[:bn:obs:notes:frames:37-11|[37-11]]]** But the **religious leaders of the Jews**  were jealous, so they gathered together to plan how they could kill Jesus and Lazarus.
+  * __[২৪-০৩] __ অনেক ধর্মগুরুরাও যোহনের কাছে বাপ্তিস্ম পেতে এসেছিল, কিন্তু তারা অনুশোচনা বা তাদের পাপ স্বীকার করত না৷
+  * __[৩৭-১১] __ কিন্তু ইহুদি ধার্মিক নেতারা বা গুরুরা হিংসা করল, তাই তারা একত্র হয়ে যোজনা করল যীশু ও লাসারকে হত্যা করার৷
   * **[[:bn:obs:notes:frames:38-02|[38-02]]]** He (Judas) knew that the **Jewish leaders**  denied that Jesus was the Messiah and that they were plotting to kill him.
   * **[[:bn:obs:notes:frames:38-03|[38-03]]]** The **Jewish leaders**, led by the high priest, paid Judas thirty silver coins to betray Jesus.
   * **[[:bn:obs:notes:frames:39-05|[39-05]]]** The **Jewish leaders**  all answered the high priest, "He (Jesus) deserves to die!"
