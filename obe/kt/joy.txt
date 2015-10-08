@@ -1,0 +1,37 @@
+====== আনন্দ,
+
+আনন্দদায়ক   ======
+
+===== সংজ্ঞা: =====
+
+Joy is a feeling of delight and deep satisfaction that comes from God. The related term, "joyful" describes a person who feels very glad and full of deep happiness.
+
+  * A person feels joy when he has a deep sense that what he is experiencing is very good.
+  * God is the one who gives true joy to people.
+  * Having joy does not depend on pleasant circumstances. God can give people joy even when very difficult things are happening in their lives.
+  * Sometimes things such as houses or cities are described as "joyful," which means that the people who live there are joyful.
+
+===== Translation Suggestions: =====
+
+  * The term "joy" could also be translated as "gladness" or "delight" or "great happiness."
+  * The phrase, "be joyful" could be translated as "rejoice" or "be glad."
+  * A person who is joyful could be described as "very happy" or "delighted" or "deeply glad."
+  * A phrase such as "make a joyful shout" could be translated as "shout in a way that shows you are very happy."
+  * A "joyful city" or "joyful house" could be translated as "city where joyful people live" or "house full of joyful people."
+
+(See also: [[:bn:obe:other:rejoice|rejoice]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?joy&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[৩৩-০৭] __“পাথরময় ভূমি হল এক ব্যক্তি যে ঈশ্বরের বাক্য শোনে আর তা আনন্দের সাথে গ্রহণ করে৷
+  * __[৩৪-০৪] __“ঈশ্বরের রাজ্য এক গুপ্তধনের তুল্য যা কেউ মাটির নিচে লুকিয়ে রাখল৷. অন্য কেউ সেই ধন পেল আর তারপর সেখানেই তা লুকিয়ে রাখল৷ সে এতই আনন্দে ভরে গেল যে সে গেল আর যা কিছু তার কাছে ছিল তা বিক্রি করল আর সেই টাকা দিয়ে সেই জমিটি ক্রয় করল৷”
+  * __[৪১-০৭] __ মহিলারা খুব ভয় পেল আর আনন্দিতও হল৷ তারা শিষ্যদের সুখবর দিতে দৌড়ালো৷
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
+
+  * [[:bn:obe:kt:jesus|Prev chunk]]: [[:bn:obe:kt:jesus?do=diff&rev2[0]=1442398708&rev2[1]=&difftype=sidebyside|publish-current]]
