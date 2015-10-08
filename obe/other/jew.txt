@@ -1,12 +1,12 @@
-====== Jew, Jewish ======
+====== ইহুদি, ইহুদীয় ======
 
-===== Facts: =====
+===== তথ্যসমূহ: =====
 
-Jews are people who are descendants of Abraham through his grandson, Jacob.
+ইহুদিরা হল সেই লোকজন যারা হল আব্রাহামের বংশধর যাকোবের দ্বারা উৎপন্ন হওয়া প্রজন্ম৷
 
-  * People began to call the Israelites "Jews" after they returned to Judah from their exile in Babylon.
-  * The word "Jew" comes from the word "Judah." The Israelites who had been taken to Babylon were from the southern kingdom of Judah.
-  * Jesus the Messiah was Jewish. However, the Jewish religious leaders rejected Jesus and demanded that he be killed.
+  * লোকেরা ইস্রায়েলীয়দের “ইহুদি” বলা আরম্ভ করেছিল যখন তারা তাদের ব্যাবিলনের নির্বাসন থেকে যিহুদাতে ফিরে এসেছিল৷
+  * “ইহুদি” শব্দটি “যিহুদা” শব্দটি থেকে এসেছে৷ ইস্রায়েলীয় যাদের ব্যাবিলনে নিয়ে আসা হয়েছিল তারা দক্ষিনের যিহুদা রাজ্যের ছিল৷
+  * প্রভু যীশু খ্রীষ্ট ইহুদি ছিলেন৷ যাইহোক, ইহুদি ধার্মিক নেতারা প্রভু যীশুকে তিরস্কার করেছিল আর দাবি করেছিল তাকে যেন হত্যা করা হয়৷
 
 (See also: [[:en:obe:other:abraham|Abraham, Abram]], [[:bn:obe:other:jacob|jacob]], [[:bn:obe:other:israel|israel]], [[:bn:obe:other:babylon|(ব্যাবিলন, ব্যাবিলবাসী)]], [[:bn:obe:other:jewishleaders|ইহুদি নেতাসমূহ, ধার্মিক নেতাসমূহ]])
 
@@ -14,14 +14,17 @@ Jews are people who are descendants of Abraham through his grandson, Jacob.
 
 {{topic>:en:bible?jew&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:20-11|[20-11]]]** The Israelites were now called **Jews**  and most of them had lived their whole lives in Babylon.
-  * **[[:bn:obs:notes:frames:20-12|[20-12]]]** So, after seventy years in exile, a small group of **Jews**  returned to the city of Jerusalem in Judah.
-  * **[[:bn:obs:notes:frames:37-10|[37-10]]]** Many of the **Jews**  believed in Jesus because of this miracle.
-  * **[[:bn:obs:notes:frames:37-11|[37-11]]]** But the religious leaders of the **Jews**  were jealous, so they gathered together to plan how they could kill Jesus and Lazarus.
-  * **[[:bn:obs:notes:frames:40-02|[40-02]]]** Pilate commanded that they write, "King of the **Jews**" on a sign and put it on the cross above Jesus' head.
-  * **[[:bn:obs:notes:frames:46-06|[46-06]]]** Right away, Saul began preaching to the **Jews**  in Damascus, saying, "Jesus is the Son of God!"
+  * __[২০-১১] __ ইস্রায়লীয়দের এখন ইহুদি বলা হত আর বেশিরভাগ লোকেরাই তাদের সম্পূর্ণ জীবন ব্যাবিলনে কাটালেন৷
+  * __[২০-১২] __ তাই, নির্বাসনের সত্তর বছর পর, ইহুদিদের একটি ছোট দল যিহুদার যেরুশালেমে ফিরে এলো৷
+  * __[৩৭-১০] __ বহু ইহুদিরা যীশুর এই চমৎকারের জন্য তার উপর বিশ্বাস করল৷
+  * __[৩৭-১১] __ কিন্তু ইহুদি ধার্মিক নেতারা বা গুরুরা হিংসা করল, তাই তারা একত্র হয়ে যোজনা করল যীশু ও লাসারকে হত্যা করার৷
+  * __[৪০-০২] __ পীলাত আদেশ দিলেন যেন একটি চিহ্নে তারা যেন লেখে, “ইহুদিদের রাজা” আর তা যীশুর মাথার উপর ক্রুশে টাঙ্গিয়ে দেয়৷
+  * __[৪৬-০৬] __ তার পরই, শৌল দন্মেশকের ইহুদিদের প্রচার করা আরম্ভ করে দিলেন, বললেন, “যীশু হলেন ঈশ্বরের পুত্র!”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
+
+  * [[:bn:obe:other:jew|This chunk]]: [[:bn:obe:other:jew?do=diff&rev2[0]=1442398708&rev2[1]=&difftype=sidebyside|publish-current]]
+  * [[:bn:obe:other:jewishleaders|Next chunk]]: [[:bn:obe:other:jewishleaders?do=diff&rev2[0]=1442398708&rev2[1]=&difftype=sidebyside|publish-current]]
