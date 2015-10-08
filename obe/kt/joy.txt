@@ -1,6 +1,8 @@
-====== আনন্দ,
 
-আনন্দদায়ক   ======
+
+ **আনন্দ, আনন্দদায়ক **
+
+======   ======
 
 ===== সংজ্ঞা: =====
 
@@ -29,9 +31,13 @@ Joy is a feeling of delight and deep satisfaction that comes from God. The relat
 
   * __[৩৩-০৭] __“পাথরময় ভূমি হল এক ব্যক্তি যে ঈশ্বরের বাক্য শোনে আর তা আনন্দের সাথে গ্রহণ করে৷
   * __[৩৪-০৪] __“ঈশ্বরের রাজ্য এক গুপ্তধনের তুল্য যা কেউ মাটির নিচে লুকিয়ে রাখল৷. অন্য কেউ সেই ধন পেল আর তারপর সেখানেই তা লুকিয়ে রাখল৷ সে এতই আনন্দে ভরে গেল যে সে গেল আর যা কিছু তার কাছে ছিল তা বিক্রি করল আর সেই টাকা দিয়ে সেই জমিটি ক্রয় করল৷”
-  * __[৪১-০৭] __ মহিলারা খুব ভয় পেল আর আনন্দিতও হল৷ তারা শিষ্যদের সুখবর দিতে দৌড়ালো৷
+  * __[৪১-০৭] __  মহিলারা খুব ভয় পেল আর আনন্দিতও হল৷ তারা শিষ্যদের সুখবর দিতে দৌড়ালো৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
 
   * [[:bn:obe:kt:jesus|Prev chunk]]: [[:bn:obe:kt:jesus?do=diff&rev2[0]=1442398708&rev2[1]=&difftype=sidebyside|publish-current]]
+
+  * [[:bn:obe:kt:jesus|Prev chunk]]: [[:bn:obe:kt:jesus?do=diff&rev2[0]=1442398708&rev2[1]=&difftype=sidebyside|publish-current]]
+  * [[:bn:obe:kt:joy|This chunk]]: [[:bn:obe:kt:joy?do=diff&rev2[0]=1442398708&rev2[1]=&difftype=sidebyside|publish-current]]
+
