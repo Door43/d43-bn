@@ -1,0 +1,34 @@
+====== যিহোশূয় ======
+
+===== তথ্যসমূহ: =====
+
+তিনি ঈশ্বরের প্রজাদের একজন গুরুত্বপূর্ণ নেতা হয়েছিলেন৷ একজন যুবক পুরুষ হওয়ায়, যিহোশূয় মোশীর সাহায্যকারী ব্যক্তি ছিলেন৷
+
+  * যিহোশূয় সেই বারোজন গুপ্তচরদের মধ্যে একজন ছিলেন যাদের মোশী প্রতিজ্ঞার ভূমিতে পাঠিয়েছিলেন৷
+  * কালেবের সাথে, যিহোশূয় ঈশ্বরে তার সাহস ও ভরসা দেখিয়েছিলেন যখন তিনি ইস্রায়েলীয়দের প্রতিজ্ঞার ভূমিতে প্রবেশ করতে উৎসাহিত করেছিলেন, যদিও অন্যান্য গুপ্তচরেরা তাদের বিরুদ্ধে সমালোচনা করেছিল৷
+  * Many years later, after Moses died, God appointed Joshua to lead the people of Israel into the Promised Land.
+  * In the first and most famous battle against the Canaanites, Joshua led the Israelites to defeat the city of Jericho, as God had told him to do.
+  * The Old Testament book of Joshua was written about the events that happened during Joshua's leadership, including the conquest of the Promised Land and the division of the land for the tribes of Israel.
+  * A different man named Joshua is mentioned in the Old Testament books of Haggai and Zechariah. This Joshua was a high priest who helped rebuild the walls of Jerusalem. He was the son of Jozadak.
+
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:en:obe:other:moses|Moses]], [[:en:obe:kt:promisedland|Promised Land]], [[:bn:obe:other:jericho|যিরীহো]], [[:bn:obe:other:canaan|Canaan]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?joshua&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[১৪-০৪] __ যখন ইস্রায়লীয়রা কানানের সীমানায় পৌঁছালো, মোশী ইসরাইলের প্রত্যেক গোত্র অনুসারে বারোজন পুরুষ বেঁছে নিলেন৷. তিনি সেই পুরুষদের সেই ভূমিতে যেতে আর গুপ্তভাবে পর্যবেক্ষণ করতে নির্দেশ দিলেন যেন জানা যায় সেই ভূমিটি কেমন৷
+  * __[১৪-০৬] __ তখনই অন্য দুজন গুপ্তচর, কালেব আর যিহোশূয়, বললেন, “এটা সত্য যে কানানবাসীরা লম্বা আর বলবান, কিন্তু আমরা নিশ্চই তাদের পরাজিত করতে পারব!
+  * __[১৪-০৮] __ কেবল কালেব আর যিহোশূয়কে ছাড়া, প্রত্যেকে যারা কুড়ি বছর বা তার উপর সেখানেই মরবে আর কখনও প্রতিজ্ঞার ভূমিতে প্রবেশ করতে পারবে না৷”
+  * __[১৪-১৪] __ মোশী এখন ভীষণ বৃদ্ধ তাই ঈশ্বর যিহোশূয়কে লোকেদের নেতৃত্ব দেওয়ার জন্য নির্বাচন করলেন৷
+  * __[১৪-১৫] __ যিহোশূয় একজন ভালো নেতা ছিলেন কেননা তিনি ঈশ্বরের প্রতি বিশ্বাসী আর আজ্ঞাকারী ছিলেন৷
+  * __[১৫-০৩] __ লোকেদের যর্দ্দন নদী পার হওয়ার পর, ঈশ্বর যিহোশূয়কে বললেন কিভাবে যিরীহোর শক্তিশালী নগরটিকে আক্রমন করতে হবে৷
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
+
+  * [[:bn:obe:other:josephot|Prev chunk]]: [[:bn:obe:other:josephot?do=diff&rev2[0]=1442398708&rev2[1]=&difftype=sidebyside|publish-current]]
