@@ -12,13 +12,7 @@
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
-[আরও দেখুন:
-
-খ্রিষ্টধর্মে দীক্ষিত
-,
-যুদ্ধের অভিজ্ঞতা
-,
-জাকারিয়া  )
+[আরও দেখুন: খ্রিষ্টধর্মে দীক্ষিত , যুদ্ধের অভিজ্ঞতা , জাকারিয়া )
 
 ===== Bible References: =====
 
@@ -34,5 +28,7 @@
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
+
+  * [[:bn:obe:other:johnthebaptist|This chunk]]: [[:bn:obe:other:johnthebaptist?do=diff&rev2[0]=1442398708&rev2[1]=&difftype=sidebyside|publish-current]]
 
   * [[:bn:obe:other:johnthebaptist|This chunk]]: [[:bn:obe:other:johnthebaptist?do=diff&rev2[0]=1442398708&rev2[1]=&difftype=sidebyside|publish-current]]
