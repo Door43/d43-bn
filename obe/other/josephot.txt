@@ -10,26 +10,25 @@
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
-[আরও দেখুন: যাকোব,
-
-ইসরাইল,  মিশর,
-
-মিশরের  ]
+[আরও দেখুন: যাকোব, ইসরাইল, মিশর, মিশরের ]
 
 ===== Bible References: =====
 
 {{topic>:en:bible?josephot&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:08-02|[08-02]]]****Joseph's**  brothers hated him because their father loved him most and because Joseph had dreamed that he would be their ruler.
-  * **[[:bn:obs:notes:frames:08-04|[08-04]]]** The slave traders took **Joseph**  to Egypt.
-  * **[[:bn:obs:notes:frames:08-05|[08-05]]]** Even in prison, **Joseph**  remained faithful to God, and God blessed him.
-  * **[[:bn:obs:notes:frames:08-07|[08-07]]]** God had given **Joseph**  the ability to interpret dreams, so Pharaoh had Joseph brought to him from the prison.
-  * **[[:bn:obs:notes:frames:08-09|[08-09]]]****Joseph**  told the people to store up large amounts of food during the seven years of good harvests.
-  * **[[:bn:obs:notes:frames:09-02|[09-02]]]** The Egyptians no longer remembered **Joseph**  and all he had done to help them.
+  * __[০৮-০২] __ যোষেফের ভাইরা তাকে ঘৃণা করত কারন তাদের পিতা তাকে বেশি স্নেহ করতেন আর কারন যোষেফ স্বপ্ন দেখেছিলেন যে তিনি তাদের উপর রাজত্ব করবেন৷
+  * __[০৮-০৪] __ ক্রীতদাস ব্যবসায়ীরা যোষেফকে মিশরে নিয়ে যান৷
+  * __[০৮-০৫] __ যদিও জেলে, যোষেফ ঈশ্বরের প্রতি বিশ্বাসযোগ্য রইলেন আর ঈশ্বর তাকে আশির্বাদ দিলেন৷
+  * __[০৮-০৭] __ ঈশ্বর যোষেফকে স্বপ্ন ব্যাখ্যা করার ক্ষমতা দিয়েছিলেন, তাই ফরৌণ যোষেফকে জেল থেকে তার কাছে এনে পাঠালেন৷
+  * __[০৮-০৯] __ যোষেফ লোকেদের বললেন যে আগামী সাত বছরের ভালো ফলন থেকে প্রচুর পরিমানে খাদ্য সঞ্চয় করতে৷
+  * __[০৯-০২] __ মিশরবাসীরা আর যোষেফকে আর তাদের সাহাযার্থে তার করা কার্য্যগুলোকে মনে রাখল না৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
 
   * [[:bn:obe:other:josephnt|Prev chunk]]: [[:bn:obe:other:josephnt?do=diff&rev2[0]=1442398708&rev2[1]=&difftype=sidebyside|publish-current]]
+
+  * [[:bn:obe:other:josephnt|Prev chunk]]: [[:bn:obe:other:josephnt?do=diff&rev2[0]=1442398708&rev2[1]=&difftype=sidebyside|publish-current]]
+  * [[:bn:obe:other:josephot|This chunk]]: [[:bn:obe:other:josephot?do=diff&rev2[0]=1442398708&rev2[1]=&difftype=sidebyside|publish-current]]
