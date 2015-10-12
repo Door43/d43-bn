@@ -8,23 +8,21 @@
   * যিহুদা রাজ্যের কিছু কিছু রাজারা ঈশ্বরের আজ্ঞাকারী ছিলেন আর লোকেদের তাকে আরাধনা করতে নেতৃত্ব দিয়েছিলেন৷ কিন্তু যিহুদা রাজ্যের বহু রাজারাই দুষ্ট ছিল৷
   * অশুরিয়দের দ্বারা ইস্রায়েল (উত্তরের রাজ্য) অধিকারের প্রায় ১২০ বছর পর, যিহুদা রাজ্য ব্যাবিলনের দ্বারা অধিকৃত হয়েছিল৷ ব্যাবিলনীয়রা নগরটিকে ও মন্দিরকে ধ্বংস করে দেয় আর যিহুদা রাজ্যের বেশির ভাগ লোকেদের ব্যাবিলন দেশে নির্বাসনে নিয়ে যায়৷
 
-[আরও দেখুন:
-
-রাজ্য  , [[:bn:obe:other:kingdomofisrael|ইস্রায়েল রাজ্য]], [[:bn:obe:other:babylon|(ব্যাবিলন, ব্যাবিলবাসী)]]
+[আরও দেখুন: রাজ্য , [[:bn:obe:other:kingdomofisrael|ইস্রায়েল রাজ্য]], [[:bn:obe:other:babylon|(ব্যাবিলন, ব্যাবিলবাসী)]]
 
 ===== Bible References: =====
 
 {{topic>:en:bible?kingdomofjudah&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:18-07|[18-07]]]** Only two tribes remained faithful to him (Rehoboam). These two tribes became the **kingdom of Judah**.
-  * **[[:bn:obs:notes:frames:18-10|[18-10]]]** The **kingdoms of Judah**  and Israel became enemies and often fought against each other.
-  * **[[:bn:obs:notes:frames:18-13|[18-13]]]** The **kings of Judah**  were descendants of David. Some of these kings were good men who ruled justly and worshiped God. But most of **Judah's**  kings were evil, corrupt, and they worshiped idols.
-  * **[[:bn:obs:notes:frames:20-01|[20-01]]]** The **kingdoms of Israel and Judah**  both sinned against God.
-  * **[[:bn:obs:notes:frames:20-05|[20-05]]]** The people in the **kingdom of Judah**  saw how God had punished the people of the kingdom of Israel for not believing and obeying him. But they still worshiped idols, including the gods of the Canaanites.
-  * **[[:bn:obs:notes:frames:20-06|[20-06]]]** About 100 years after the Assyrians destroyed the kingdom of Israel, God sent Nebuchadnezzar, king of the Babylonians, to attack the **kingdom of Judah**.
-  * **[[:bn:obs:notes:frames:20-09|[20-09]]]** Nebuchadnezzar and his army took almost all of the people of **the kingdom of Judah**  to Babylon, leaving only the poorest people behind to plant the fields.
+  * __[১৮-০৭] __ কেবল দুটো গোত্র তার প্রতি বিশ্বাসী হয়ে রইল৷ এই দুই গোত্র হল যিহুদা রাজ্য৷
+  * __[১৮-১০] __ যিহুদা রাজ্য ও ইসরাইল রাজ্য একেঅপরের শত্রু হল আর বহুবার একেঅপরের সাথে লড়াইও করত৷
+  * __[১৮-১৩] __ যিহুদার রাজারা ছিলেন দায়ূদের বংশ৷ এদের মধ্যে কিছু রাজারা ছিল ভালো মানুষ যারা ন্যায়পূর্বক রাজত্ব ও ঈশ্বরের আরাধনা করেছিল৷ কিন্তু যিহুদার বেশিরভাগ রাজারাই ছিলেন দুষ্ট, ভ্রষ্ট আর তারা মূর্তি পুজো করত৷
+  * __[২০-০১] __ ইসরাইল রাজ্য আর যিহুদা রাজ্য দুজনেই ঈশ্বরের বিরুদ্ধে পাপ করেছিল৷
+  * __[২০-০৫] __ যিহুদা রাজ্যের লোকেরা দেখল যে কিভাবে ঈশ্বর ইসরাইল রাজ্যের লোকেদের অবিশ্বাস্যতার ও অনাজ্ঞাকারিতার জন্য শাস্তি দিয়েছেন৷ কিন্তু তারা তবুও মূর্তির পুজো করতে থাকল, যার মধ্যে কানানের দেব-দেবীও ছিল৷
+  * __[২০-০৬] __ ১০০ বছর পর অশুরবাসীরা ইসরাইলের রাজ্যকে নষ্ট করে, ঈশ্বর নবূখদনিৎসরকে পাঠান, তিনি হলেন ব্যাবিলনের রাজা, যিহুদার রাজ্যকে আক্রমন করতে৷
+  * __[২০-০৯]__  নবূখদনিৎসর আর তার সৈন্য যিহুদার প্রায় সকল লোকেদের ব্যাবিলনে নিয়ে যায়, কেবল খুব গরিবদের চাষাবাদ করতে ছেড়ে দেয়৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
