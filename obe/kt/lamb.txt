@@ -1,0 +1,37 @@
+====== মেষশাবক,
+
+ঈশ্বরের মেষশাবক   ======
+
+===== সংজ্ঞা: =====
+
+বাইবেলে, মেষ শাবক হল একটি ছোট ভেড়া বা ছাগল৷ ভেড়া একটি চতুষ্পদী ও ঘন পশম বিশিষ্ট প্রাণী৷
+
+  * Sheep are raised for their wool or to be eaten.
+  * These animals are defenseless and are easily led astray. God compares human beings to sheep.
+  * God instructed his people to sacrifice physically perfect sheep and lambs to him.
+  * Jesus is called the "Lamb of God" who was sacrificed to pay for people's sins. He was a perfect, unblemished sacrifice because he was completely without sin.
+
+===== Translation Suggestions: =====
+
+  * If sheep are known in the language area, the name for their young should be used to translate the terms "lamb" and "Lamb of God."
+  * "Lamb of God" could be translated as "God's (sacrificial) Lamb," or "Lamb sacrificed to God" or "(sacrificial) Lamb from God."
+  * If sheep are not known, this term could be translated as "the young of a sheep" with a footnote that describes what sheep are like. The note could also compare sheep and lambs to an animal from that area that lives in herds, is timid and defenseless, and which often wanders off.
+  * Also consider how this term is translated in a Bible translation of a nearby local or national language. (See: [[:bn:ta:translate:translateunknowns|How to Translate Unknowns]])
+
+(See also: [[:en:obe:other:sheep|sheep, ram, ewe]], [[:en:obe:other:shepherd|shepherd, to shepherd]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?lamb&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[০৫-০৭] __ যখন আব্রাহাম ও ইসহাক বলির স্থানে যাচ্ছিলেন, ইসহাক জিজ্ঞেসা করলেন, “হে পিতা, আমাদের কাছে বলির জন্য কাঠ আছে, কিন্তু মেষ কোথায়?”
+  * __[১১-০২] __ ঈশ্বর যারা তার উপর বিশ্বাস রাখতেন তাদের প্রথমজাত সন্তানদের বাঁচাবার জন্য একটি পথ প্রদান করলেন৷ প্রত্যেক পরিবারের জন্য একটি নিখুঁত মেষ শাবক নিতে হবে ও তা উৎসর্গ করতে হবে৷
+  * __[২৪-০৬] __ পর দিন, যীশু যোহনের কাছে বাপ্তিস্ম নিতে এলেন৷ যখন যোহন তাকে দেখলেন, তিনি বললেন, ওই দেখো! ওই সেই ঈশ্বরের মেষ শাবক যিনি পৃথিবীর পাপ নিয়ে নেবেন৷”
+  * __[৪৫-০৮] __ লোকটি পড়লেন, “তারা তাকে ভেড়াকে বলির জন্য নিয়ে যাওয়ার মত নিয়ে গেল আর যেমন ভেড়া চুপ থাকে তেমনি তিনিও একটি শব্দ বললেন না৷
+  * __[৪৮-০৮] __ যখন ঈশ্বর আব্রাহামকে বলেছিলেন তার পুত্র ইসহাককে বলি দিতে, তখন ঈশ্বর তার পুত্র ইসহাকের জায়গায় একটি ভেড়ার প্রবন্ধ করেছিলেন৷ আমরা সকল আমাদের পাপের জন্য মৃত্যুর যোগ্য! কিন্তু ঈশ্বর, ঈশ্বরের ভেড়া, যীশুকে দিলেন, আমাদের জায়গায় একটি বলি রূপে৷
+  * __[৪৮-০৯] __ যখন মিশরে ঈশ্বর শেষ আঘাত করেন তখন প্রত্যেক ইস্রায়লীয়দের বলেছিলেন একটি ভেড়া নিতে আর তার রক্ত দরজার চারধারে লাগিয়ে দিতে৷
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
