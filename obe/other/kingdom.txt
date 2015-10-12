@@ -4,7 +4,7 @@
 
 একটি রাজ্য হল একদল জনগোষ্ঠী যা একটি রাজার দ্বারা শাসিত হয়৷ It also refers to the realm or political regions over which a king or other ruler has control and authority.
 
-  * A kingdom can be of any geographical size. A king might govern a nation or country or only one city.
+  * একটি রাজ্য, কোনও ভৌগলিক আকারের হতে পারে; একজন রাজা হতে পারেন যে তিনি একটি রাষ্ট্রকে বা দেশকে বা কেবল একটি নগরকে শাসন করেন৷
   * The term "kingdom" can also refer to a spiritual reign or authority as in the term "kingdom of God."
   * God is the ruler of all creation, but the term "kingdom of God" especially refers to his reign and authority over the people who have believed in Jesus and who have submitted to his authority.
   * The Bible also talks about Satan having a "kingdom" in which he temporarily rules over many things on this earth. His kingdom is evil and is referred to as "darkness."
@@ -23,13 +23,13 @@
 
 {{topic>:en:bible?kingdom&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:13-02|[13-02]]]** God said to Moses and the people of Israel, "If you will obey me and keep my covenant, you will be my prized possession, a **kingdom**  of priests, and a holy nation."
-  * **[[:bn:obs:notes:frames:18-04|[18-04]]]** God was angry with Solomon and, as a punishment for Solomon's unfaithfulness, he promised to divide the nation of Israel in two **kingdoms**  after Solomon's death.
-  * **[[:bn:obs:notes:frames:18-07|[18-07]]]** Ten of the tribes of the nation of Israel rebelled against Rehoboam. Only two tribes remained faithful to him. These two tribes became the **kingdom**  of Judah.
-  * **[[:bn:obs:notes:frames:18-08|[18-08]]]** The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named Jeroboam to be their king. They set up their **kingdom**  in the northern part of the land and were called the **kingdom**  of Israel.
-  * **[[:bn:obs:notes:frames:21-08|[21-08]]]** A king is someone who rules over a **kingdom**  and judges the people.
+  * __[১৩-০২] __ ঈশ্বর মোশীকে আর ইস্রায়লীয় লোকেদের বললেন, “যদি তোমরা আমার ও আমার নিয়মের প্রতি আজ্ঞাকারী হও, তবে তোমরা আমার নিজ ভাগ, একটি রাজকীয় যাজকবর্গ আর একটি পবিত্র জাতি হবে৷
+  * __[১৮-০৪] __ ঈশ্বর শলোমনের প্রতি ক্রোধিত হলেন আর, শলোমনের অবিশ্বাসযোগ্যতার শাস্তি স্বরূপ, তিনি প্রতিজ্ঞা করলেন যে শলোমনের মৃত্যুর পর ইসরাইল দেশকে দুটি রাজ্যে বিভাজিত করবেন৷
+  * __[১৮-০৭] __ ইসরাইল রাষ্ট্রের দশ গোত্র রহবিয়ামের বিরুদ্ধে বিদ্রোহ করল৷ কেবল দুটো গোত্র তার প্রতি বিশ্বাসী হয়ে রইল৷ এই দুই গোত্র হল যিহুদা রাজ্য৷
+  * __[১৮-০৮] __ ইসরাইল রাষ্ট্রের অন্য দশ গোত্র যারা রহবিয়ামের বিরুদ্ধে বিদ্রোহ করেছিল তারা তাদের উপর রাজা হওয়ার জন্য এক ব্যক্তিকে নিযুক্ত করল যার নাম হল যারবিয়াম৷ তারা দেশের উত্তর ভাগে তাদের রাজ্য স্থাপনা করল আর সেটিকে বলা হত ইসরাইল রাজ্য৷
+  * __[২১-০৮] __ একজন রাজা হলেন যিনি একটি রাজ্য রাজত্ব করেন আর লোকেদের ন্যায় করেন৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
