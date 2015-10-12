@@ -1,0 +1,30 @@
+====== যিহুদা রাজ্য, যিহুদা ======
+
+===== তথ্যসমূহ: =====
+
+যিহুদা ইস্রায়েলের বারোটি গোত্রের মধ্যে বৃহত্তম ছিল৷ রাজা শলোমনের মৃত্যুর পর ইস্রায়েল রাষ্ট্র দুটি রাজ্যে বিভক্ত হয়েছিল: ইস্রায়েল ও যিহুদা৷ যিহুদা রাজ্যটি দক্ষিন রাজ্যে অবস্থিত ছিল, আর যিহুদা ও বিন্যামীন গোত্র দ্বারা গঠিত হয়েছিল৷
+
+  * যিহুদা রাজ্যের রাজধানী শহর ছিল যেরুশালেম৷
+  * যিহুদা রাজ্যের কিছু কিছু রাজারা ঈশ্বরের আজ্ঞাকারী ছিলেন আর লোকেদের তাকে আরাধনা করতে নেতৃত্ব দিয়েছিলেন৷ কিন্তু যিহুদা রাজ্যের বহু রাজারাই দুষ্ট ছিল৷
+  * অশুরিয়দের দ্বারা ইস্রায়েল (উত্তরের রাজ্য) অধিকারের প্রায় ১২০ বছর পর, যিহুদা রাজ্য ব্যাবিলনের দ্বারা অধিকৃত হয়েছিল৷ ব্যাবিলনীয়রা নগরটিকে ও মন্দিরকে ধ্বংস করে দেয় আর যিহুদা রাজ্যের বেশির ভাগ লোকেদের ব্যাবিলন দেশে নির্বাসনে নিয়ে যায়৷
+
+[আরও দেখুন:
+
+রাজ্য  , [[:bn:obe:other:kingdomofisrael|ইস্রায়েল রাজ্য]], [[:bn:obe:other:babylon|(ব্যাবিলন, ব্যাবিলবাসী)]]
+
+===== Bible References: =====
+
+{{topic>:en:bible?kingdomofjudah&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:bn:obs:notes:frames:18-07|[18-07]]]** Only two tribes remained faithful to him (Rehoboam). These two tribes became the **kingdom of Judah**.
+  * **[[:bn:obs:notes:frames:18-10|[18-10]]]** The **kingdoms of Judah**  and Israel became enemies and often fought against each other.
+  * **[[:bn:obs:notes:frames:18-13|[18-13]]]** The **kings of Judah**  were descendants of David. Some of these kings were good men who ruled justly and worshiped God. But most of **Judah's**  kings were evil, corrupt, and they worshiped idols.
+  * **[[:bn:obs:notes:frames:20-01|[20-01]]]** The **kingdoms of Israel and Judah**  both sinned against God.
+  * **[[:bn:obs:notes:frames:20-05|[20-05]]]** The people in the **kingdom of Judah**  saw how God had punished the people of the kingdom of Israel for not believing and obeying him. But they still worshiped idols, including the gods of the Canaanites.
+  * **[[:bn:obs:notes:frames:20-06|[20-06]]]** About 100 years after the Assyrians destroyed the kingdom of Israel, God sent Nebuchadnezzar, king of the Babylonians, to attack the **kingdom of Judah**.
+  * **[[:bn:obs:notes:frames:20-09|[20-09]]]** Nebuchadnezzar and his army took almost all of the people of **the kingdom of Judah**  to Babylon, leaving only the poorest people behind to plant the fields.
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
