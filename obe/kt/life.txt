@@ -1,8 +1,6 @@
-====== জীবন, বাঁচা,
+** জীবন, বাঁচা, জীবিত , জীবিত **
 
-জীবিত  ,
-
-জীবিত   ======
+======   ======
 
 ===== সংজ্ঞা: =====
 
@@ -41,13 +39,13 @@ These terms are used in the Bible to talk about "physical life" and "spiritual l
 
 ===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * __[০১-১০] __ তাই ঈশ্বর কিছু ধুলো নিলেন, সেটিকে একটি পুরুষে আকার দিলেন আর তার মধ্যে জীবনের শ্বাস দিলেন৷
-  * **[[:bn:obs:notes:frames:03-01|[03-01]]]** After a long time, many people were **living **  in the world.
-  * **[[:bn:obs:notes:frames:08-13|[08-13]]]** When Joseph's brothers returned home and told their father, Jacob, that Joseph was still **alive**, he was very happy.
-  * **[[:bn:obs:notes:frames:17-09|[17-09]]]** However, toward the end of his [David's] **life**  he sinned terribly before God.
-  * **[[:bn:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, "Teacher, what must I do to inherit eternal **life**?"
-  * **[[:bn:obs:notes:frames:35-05|[37-05]]]** Jesus replied, "I am the Resurrection and the **Life**."
-  * **[[:bn:obs:notes:frames:44-05|[44-05]]]**"You are the ones who told the Roman governor to kill Jesus. You killed the author of **life**, but God raised him from the dead."
+  * __[০১-১০] __  তাই ঈশ্বর কিছু ধুলো নিলেন, সেটিকে একটি পুরুষে আকার দিলেন আর তার মধ্যে জীবনের শ্বাস দিলেন৷
+  * __[০৩-০১] __ বহু সময় পর, পৃথিবীতে বহু লোক বসবাস করতে লাগল৷
+  * __[০৮-১৩] __ তখন যোষেফের ভাইরা গৃহে ফিরে গেলেন আর তারা তাদের পিতা, যাকোবকে বললেন, যোষেফ জীবিত আছেন, তিনি খুবিই আনন্দিত হলেন৷
+  * __[১৭-০৯] __ যাইহোক, তার জীবনের শেষকালে তিনি (দায়ূদ) ঈশ্বরের বিরুদ্ধে মহাপাপ করলেন৷
+  * __[২৭-০১] __ একদিন, ইহুদি ব্যবস্থার নিপুন এক গুরু এলেন যীশুকে পরীক্ষা করতে, বললেন, “গুরু, অনন্ত জীবন পাওয়ার জন্য আমাকে কি করতে হবে?”
+  * __[৩৭-০৫] __ যীশু উত্তর দিলেন, “আমিই পুনুরুত্থান ও জীবন৷
+  * __[৪৪-০৫] __“আপনারাই হলেন সেই লোক যারা রোমান রাজ্যপালকে বলেছিলেন যীশুকে হত্যা করতে৷ আপনারা জীবনের লেখককে হত্যা করেছেন, কিন্তু ঈশ্বর তাকে মৃত্যু থেকে পুনরুত্থিত করেছেন৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
