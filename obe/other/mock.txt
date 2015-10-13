@@ -12,13 +12,13 @@
 
 {{topic>:en:bible?mock&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:21-12|[21-12]]]** Isaiah prophesied that people would spit on, **mock**, and beat the Messiah.
-  * **[[:bn:obs:notes:frames:39-05|[39-05]]]** The Jewish leaders all answered the high priest, "He deserves to die!" Then they blindfolded Jesus, spit on him, hit him, and **mocked**  him.
-  * **[[:bn:obs:notes:frames:39-12|[39-12]]]** The soldiers whipped Jesus, and put a royal robe and a crown made of thorns on him. Then they **mocked**  him by saying, "Look, the King of the Jews!"
-  * **[[:bn:obs:notes:frames:40-04|[40-04]]]** Jesus was crucified between two robbers. One of them **mocked**  Jesus, but the other said, "Do you have no fear of God?"
-  * **[[:bn:obs:notes:frames:40-05|[40-05]]]** The Jewish leaders and the other people in the crowd **mocked**  Jesus. They said to him, "If you are the Son of God, come down from the cross and save yourself! Then we will believe you."
+  * __[২১-১২] __ যিশাইয় ভাববাণী করেছেন যে লোকেরা খ্রীষ্টের উপর থুতু ফেলবে, তাকে ঠাট্টা করবে ও থাকে আঘাত করবে৷
+  * __[৩৯-০৫] __ ইহুদি নেতা সকল মহাযাজককে উত্তর দিল, “সে মৃত্যুর যোগ্য!” তারপর তারা যীশুর চোখ বেঁধে দিল, তাকে আঘাত করল, তার উপর থুথু ফেলল আর তার ব্যঙ্গ-পরিহাস করল ৷
+  * __[৩৯-১২] __ রোমান সৈন্যরা যীশুকে চাবুক মারল আর তাকে একটি রাজকীয় পোশাক আর কাঁটার তৈরী একটি মুকুট পরাল৷ তারপর তারা এই বলে তার ব্যঙ্গ-পরিহাস, “দেখো, ইহুদের রাজাকে!”
+  * __[৪০-০৪] __ যীশুকে দুটি ডাকাতের ক্রুশের মধ্যের জায়গায় ক্রুশে চড়ানো হয়৷ তাদের একজন যীশুর ঠাট্টা করে, কিন্তু অন্যজন বলে, “তোমার কি কোনো ঈশ্বর ভয় নেই?
+  * __[৪০-০৫] __ ইহুদি নেতারা আর ভিড়ের অন্য লোকেরা যীশুর ঠাট্টা উড়াল৷ তারা তাকে বলল, “যদি তুমি ঈশ্বরের পুত্র হও, ক্রুশ থেকে নিচে নেমে এসো আর নিজেকে বাঁচাও! তাহলেই আমরা তোমার উপর বিশ্বাস করব৷”
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
