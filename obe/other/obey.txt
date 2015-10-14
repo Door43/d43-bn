@@ -1,10 +1,8 @@
-======
+======   ======
 
-শুনা  ,
+** শুনা , আজ্ঞাবহ , আনুগত্য **
 
-আজ্ঞাবহ  ,
-
-আনুগত্য   ======
+======   ======
 
 ===== সংজ্ঞা: =====
 
@@ -15,11 +13,7 @@ The term "obey" means to do what someone in authority requires or commands them 
   * যখন নিয়ম বা কানুন বা কর্তৃপক্ষ লোকেদের কিছু না করতে আদেশ দেয়, তারা তা না করার দ্বারা আজ্ঞাকারী হয়৷
   * Ways to translate this term could include a word or phrase that means, "doing what is commanded" or "following orders" or "doing what God says to do."
 
-(আরও দেখুন:
-
-ঠেলা  [[:bn:obe:other:disobey|, ]]
-
-অবাধ্য  )
+(আরও দেখুন: ঠেলা [[:bn:obe:other:disobey|, ]]অবাধ্য )
 
 ===== Bible References: =====
 
@@ -27,11 +21,11 @@ The term "obey" means to do what someone in authority requires or commands them 
 
 ===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:03-04|[03-04]]]** Noah **obeyed**  God. He and his three sons built the boat just the way God had told them.
-  * **[[:bn:obs:notes:frames:05-06|[05-06]]]** Again Abraham **obeyed**  God and prepared to sacrifice his son.
-  * **[[:bn:obs:notes:frames:05-10|[05-10]]]**"Because you (Abraham) have **obeyed **  me, all the families of the world will be blessed through your family"
-  * **[[:bn:obs:notes:frames:05-10|[11-06]]]** But the Egyptians did not believe God or **obey**  his commands.
-  * **[[:bn:obs:notes:frames:13-07|[13-07]]]** If the people **obeyed**  these laws, God promised that he would bless and protect them.
+  * __[০৩-০৪] __ নোহ ঈশ্বরের আজ্ঞাকারী হয়েছিলেন৷ তিনি ও তার তিন পুত্র জাহাজটি তৈরী করলেন টিক যেমনটি ঈশ্বর তাদের আদেশ দিয়েছিলেন৷
+  * __[০৫-০৬] __ আবার আব্রাহাম ঈশ্বরের আজ্ঞাকারী হলেন আর তার পুত্রকে বলি দেওয়ার প্রস্তুতি নিলেন৷
+  * __[০৫-১০] “__ যেহেতু তুমি আমার আজ্ঞাকারী হয়েছ, তোমার পরিবারের মাধ্যমে পৃথিবীর সকল পরিবার অশির্বাদিত হবে৷”
+  * __[১১-০৬] __ কিন্তু মিশরবাসীরা ঈশ্বরকে বিশ্বাস করল না আর তার আজ্ঞাকারীও হল না৷
+  * __[১৩-০৭] __ যদি লোকেরা এই নিয়মবিধিগুলো পালন করে, তাহলে ঈশ্বর প্রতিজ্ঞা করেছেন যে তিনি তাদের আশীর্বাদিত করবেন ও রক্ষা করবেন৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
