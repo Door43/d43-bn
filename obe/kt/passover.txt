@@ -1,0 +1,29 @@
+====== নিস্তারপর্ব ======
+
+===== তথ্যসমূহ: =====
+
+The "Passover" is the name of a religious festival that the Jews celebrate every year, to remember how God rescued their ancestors the Israelites from slavery in Egypt.
+
+  * The name of this festival comes from the fact that God "passed over" the houses of the Israelites and did not kill their sons when he killed the firstborn sons of the Egyptians.
+  * The Passover celebration includes a special meal of a perfect lamb that they have killed and roasted, as well as bread made without yeast. These foods remind them of the meal that the Israelites ate the night before they escaped from Egypt.
+  * ঈশ্বর ইস্রায়েলীয়দের বলেছিলেন এই ভোজন প্রতি বছর খেতে এটি মনে রাখতে আর আনন্দ করতে যে কিভাবে ঈশ্বর তাদের ঘরগুলোকে “ছেড়ে দিয়েছিলেন” আর তাদের মিশরের দাসত্ব থেকে মুক্তি দিয়েছিলেন৷
+
+===== Translation Suggestions: =====
+
+  * The term "Passover" could be translated by combining the words "pass" and "over" or another combination of words that has this meaning.
+  * It is helpful if the name of this festival has a clear connection to the words used to explain what the angel of the Lord did in passing by the houses of the Israelites and sparing their sons.
+
+===== Bible References: =====
+
+{{topic>:en:bible?passover&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[১২-১৪] __ ঈশ্বর ইস্রায়লীয়দের প্রতি বছর নিস্তারপর্ব্ব পালন করতে আজ্ঞা দিলেন এটা স্বরণ করার জন্য যে ঈশ্বর কেমন ভাবে মিশরীয়দের উপর বিজয় দিয়েছিলেন আর দাসত্ব থেকে তাদের উদ্ধার করেছিলেন৷
+  * __[৩৮-০১] __ প্রত্যেক বছর, ইহুদিরা নিস্তারপর্ব পালন করে৷ শতাব্দী পূর্বে ঈশ্বর তাদের পূর্বপুরুষদের মিশরের দাসত্ব থেকে মুক্তি দিয়েছিলেন এটা হল সেই উৎসব৷
+  * __[৩৮-০৪] __ যীশু নিস্তারপর্ব তার শিষ্যদের সাথে পালন করলেন৷
+  * __[৪৮-০৯] __ যখন ঈশ্বর সেই রক্ত দেখতেন তখন তাদের প্রথম পুত্রকে মেরে ফেলতেন না আর তিনি অন্য ঘরের দিকে এগিয়ে যেতেন৷ সেই ঘটনাটিকে নিস্তার পর্ব বলা হয়৷
+  * __[৪৮-১০] __ যীশু হলেন আমাদের নিস্তার পর্বের ভেড়া৷তিনি সর্বৌত্তম ও পাপহীন ছিলেন আর নিস্তার পর্বের সময় তাকে হত্যা করা হয়৷
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
