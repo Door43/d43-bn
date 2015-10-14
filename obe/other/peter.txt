@@ -1,0 +1,39 @@
+====== পিতর,
+
+শিমোন পিতর  ,
+
+কৈফা   ======
+
+===== তথ্যসমূহ: =====
+
+These names are different ways of referring to Peter, who was one of Jesus' twelve apostles. He was an important leader of the early Church.
+
+  * Before Jesus called him to be his disciple, this man's name was Simon.
+  * Later, Jesus also named him Cephas, which means "stone" or "rock" in the Aramaic language. He was also called Peter, which is a name meaning "stone" or "rock" in the Greek language.
+  * He is most well-known by the names Peter or Simon Peter.
+  * God worked through Peter to heal people and to preach the good news about Jesus.
+  * পিতর সহবিশ্বাসীদের উৎসাহিত ও শিক্ষা দিতে পত্র লিখেছিলেন, আর তার দুটি পত্র বাইবেলে অন্তর্ভুক্ত করা হয়েছে৷
+
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(আরও দেখুন: শিষ্য, প্রেরিত[[:en:obe:kt:apostle|, ]]
+
+রিসালাত  )
+
+===== Bible References: =====
+
+{{topic>:en:bible?peter&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[২৮-০৯] __ পিতর যীশুকে বললেন, “আমরা সকল কিছু পরিত্যাগ করেছি আর আপনাকে অনুসরণ করেছি৷ আমাদের পুরুষ্কার কি হবে?”
+  * __[২৯-০১] __ একদিন, পিতর যীশুকে জিজ্ঞাসা করলেন, “প্রভু, আমি আমার ভাইকে কত বার ক্ষমা করব যখন কি সে আমার বিরুদ্ধে পাপ করেছে? সাতবার পর্যন্ত কি?”
+  * __[৩১-০৫] __ তার পর পিতর যীশুকে বললেন, “প্রভু, যদি এ আপনি হন তবে আমাকে আজ্ঞা দিন জলের উপর দিয়ে আপনার কাছে আসতে৷” যীশু পিতরকে বললেন, “এসো তবে!”
+  * __[৩৬-০১] __ একদিন, যীশু তার তিন শিষ্যদের, পিতর, যাকোব, আর যোহনকে সাথে নিলেন৷
+  * __[৩৮-০৯] __ পিতর বললেন, “যদিও সকলে ছেড়ে পালাবে কিন্তু আমি তা করবই না!” তারপর যীশু পিতরকে বললেন, “শয়তান তোমাদের সকলকে চায়, কিন্তু আমি তোমাদের জন্য প্রার্থনা করেছি, পিতর, যেন তোমার বিশ্বাস শেষ না হয়৷ যদিও, আজ রাতে, মোরগ ডাকবার পূর্বেই, তুমি তিনবার অস্বীকার করবে যে তুমি আমায় জানো না৷
+  * __[৩৮-১৫] __ যখন সৈন্যরা যীশুকে ধরল, তখন পিতর তার তলোয়ার বের করল আর মহাযাজকের এক চাকরের কান কেঁটে দিল৷
+  * __[৪৩-১১] __ পিতর উত্তর দিলেন, “তোমাদের প্রত্যেককে অনুশোচনা করতে হবে আর যীশু খ্রীষ্টের নামে বাপ্তিস্ম নিতে হবে যেন ঈশ্বর তোমাদের পাপ ক্ষমা করেন৷
+  * __[৪৪-০৮] __ পিতর উত্তর দেন, “যে পঙ্গু লোকটি আপনাদের সামনে দাড়িয়ে আছে সে যীশু খ্রীষ্টের শক্তিতে সুস্থ হয়েছে৷
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
