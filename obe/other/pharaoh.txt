@@ -1,0 +1,31 @@
+====== ফরৌণ,
+
+মিশরের রাজা   ======
+
+===== তথ্যসমূহ: =====
+
+প্রাচীনকালে, যে রাজারা যারা মিশর দেশটির উপর রাজত্ব করত তাদের ফরৌণ বলা হত৷
+
+  * সব মিলিয়ে, প্রায় ৩০০০ বছরে মিশর দেশটিতে ২০০০ –এরও বেশি ফরৌণরা রাজত্ব করেছিল৷
+  * These Egyptians kings were very powerful and wealthy.
+  * Several of these pharaohs are mentioned in the Bible.
+  * Often this title is used as a name rather than as a title. In these cases, it is capitalized as "Pharaoh."
+
+(Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:bn:obe:other:egypt|Egypt, Egyptian]], [[:bn:obe:other:king|king]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?pharaoh&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:bn:obs:notes:frames:08-06|[08-06]]]** One night, the **Pharaoh**, which is what the Egyptians called their kings, had two dreams that disturbed him greatly.
+  * **[[:bn:obs:notes:frames:08-08|[08-08]]]****Pharaoh**  was so impressed with Joseph that he appointed him to be the second most powerful man in all of Egypt!
+  * **[[:bn:obs:notes:frames:09-02|[09-02]]]** So the **Pharaoh**  who was ruling over Egypt at that time made the Israelites slaves to the Egyptians.
+  * **[[:bn:obs:notes:frames:09-13|[09-13]]]**"I will send you to **Pharaoh**  so that you can bring the Israelites out of their slavery in Egypt."
+  * **[[:bn:obs:notes:frames:10-02|[10-02]]]** Through these plagues, God showed **Pharaoh **  that he is more powerful than **Pharaoh**  and all of Egypt's gods.
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
