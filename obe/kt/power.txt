@@ -1,0 +1,33 @@
+====== শক্তি ======
+
+===== সংজ্ঞা: =====
+
+“শক্তি” বা “ক্ষমতা” কোনো কিছু করতে বা কোনো কিছু ঘটাতে, শারীরিক সক্ষমতা বা বল, বা শাসন করার ক্ষমতাকে উল্লেখ করে৷
+
+  * “ঈশ্বরের ক্ষমতা” উল্লেখ করে সেই কার্যকে করার যা মানুষের দ্বারা করা অসম্ভব৷
+  * ঈশ্বর হলেন সর্বচ্চ ক্ষমতাবান, আর তার সৃষ্ট সকল কিছুর উপর তার সম্পূর্ণ শক্তি রয়েছে৷
+  * ঈশ্বর তার লোকেদের শক্তি দেন যা তিনি করতে চান, যেন যখন তারা লোকেদের সুস্থ করে বা চমৎকার করে তখন তারা তা ঈশ্বরের শক্তিতে করে৷
+  * যেহেতু প্রভু যীশু ও পবিত্র আত্মাও ঈশ্বর, তাই তাদের কাছেও সেই শক্তি রয়েছে আর তা তারা ব্যবহার করেন৷
+
+===== Translation Suggestions: =====
+
+  * Depending on the context, the term "power" could also be translated as "ability" or "strength" or "energy" or "ability to do miracles" or "control."
+  * An expression like "save us from the power of our enemies" could be translated as "save us from being oppressed by our enemies" or "rescue us from being controlled by our enemies." In this case, "power" has the meaning of using one's strength to control and oppress others.
+
+(See also: [[:bn:obe:kt:miracle|miracle, wonder, sign]], [[:bn:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:bn:obe:kt:holyspirit|Holy Spirit, Spirit of God, Spirit of the Lord]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?power&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[২২-০৫] __ তারপর স্বর্গদূত বর্ণনা দেন, “পবিত্র আত্মা তোমার উপর আসবেন আর সদাপ্রভুর পরাক্রম তোমার উপর ছায়া করবে৷ অতএব সেই শিশুটি হবেন, ঈশ্বরের পুত্র৷”
+  * **[[:bn:obs:notes:frames:26-01|[26-01]]]** After overcoming Satan's temptations, Jesus returned in the **power**  of the Holy Spirit to the region of Galilee where he lived.
+  * **[[:bn:obs:notes:frames:32-15|[32-15]]]** Immediately Jesus realized that **power**  had gone out from him.
+  * **[[:bn:obs:notes:frames:42-11|[42-11]]]** Forty days after Jesus rose from the dead, he told his disciples, "Stay in Jerusalem until my Father gives you **power**  when the Holy Spirit comes on you."
+  * **[[:bn:obs:notes:frames:43-06|[43-06]]]**"Men of Israel, Jesus was a man who did many mighty signs and wonders by the **power**  of God, as you have seen and already know."
+  * **[[:bn:obs:notes:frames:44-08|[44-08]]]** Peter answered them, "This man stands before you healed by the **power**  of Jesus the Messiah."
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
