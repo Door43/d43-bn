@@ -1,0 +1,32 @@
+====== প্রতিজ্ঞা ======
+
+===== সংজ্ঞা: =====
+
+A promise is a pledge or commitment to do a certain thing. When someone makes a promise, he assures the people he is speaking to that he will truly do what he has said he will do.
+
+  * Promises are an important part of formal agreements such as covenants.
+  * A promise is often accompanied by an oath or confirmation that it will be done.
+
+===== Translation Suggestions: =====
+
+  * The term "promise" could be translated as, "assure someone that he will do something" or "commit to something."
+  * The phrase, "make a careless promise" could be translated as, "hastily promise something without thinking first."
+
+(See also: [[:bn:obe:kt:covenant|নিয়ম]], [[:bn:obe:other:oath|oath, swear]], [[:bn:obe:kt:vow|vow]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?promise&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[০৩-১৫] __ ঈশ্বর বললেন, “আমি প্রতিজ্ঞা করছি যে আমি আর কখনো দুষ্টতার জন্য যা লোকেরা করে ভূমিকে অভিশপ্ত করব না, বা বন্যার দ্বারা পৃথিবীকে বিনাশ করব না, যদিও মনুষ্য জাতি শৈশবকাল থেকেই পাপময়৷
+  * __[০৩-১৬] __ ঈশ্বর তারপর তার প্রতিজ্ঞার একটি চিহ্ন স্বরূপ প্রথম রংধনুটিকে বানালেন৷ প্রতিবার যখন আকাশে রংধনু উঠবে, ঈশ্বর তার প্রতিজ্ঞাটিকে আর তার লোকেদের স্বরণ করবেন৷
+  * **[[:bn:obs:notes:frames:04-08|[04-08]]]** God spoke to Abram and **promised**  again that he would have a son and as many descendants as the stars in the sky. Abram believed God's **promise**.
+  * **[[:bn:obs:notes:frames:05-04|[05-04]]]**"Your wife, Sarai, will have a son—he will be the son of **promise**."
+  * **[[:bn:obs:notes:frames:08-15|[08-15]]]** The covenant **promises**  that God gave to Abraham were passed on to Isaac, then to Jacob, and then to Jacob's twelve sons and their families.
+  * **[[:bn:obs:notes:frames:17-14|[17-14]]]** Though David had been unfaithful to God, God was still faithful to his **promises**.
+  * **[[:bn:obs:notes:frames:50-01|[50-01]]]** Jesus **promised**  he would return at the end of the world. Though he has not yet come back, he will keep his **promise**.
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
