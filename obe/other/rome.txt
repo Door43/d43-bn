@@ -1,0 +1,24 @@
+====== রোম, রোমান ======
+
+===== তথ্যসমূহ: =====
+
+বর্তমানে, রোম হল ইতালি দেশের রাজধানী৷
+
+  * প্রভু যীশুর আর প্রেরিতদের সময়কালে, রোম রোমান সাম্রাজ্যের কেন্দ্র ছিল৷
+  * রোমান সাম্রাজ্য ভূমধ্যসাগরের চারপাশের সকল এলাকায় যার মধ্যে ইস্রায়েল দেশও ছিল রাজত্ব করত৷
+  * “রোমান” শব্দটি সেই এলাকাকে উল্লেখ করে যা রোমের দ্বারা শাসিত বা নিয়ন্ত্রিত ছিল, যার মধ্যে রোমান নাগরিক ও রোমান অধিকারীরাও অন্তর্ভুক্ত ছিল৷
+  * প্রেরিত পৌলকে রোম শহরে বন্দী বানিয়ে নিয়ে যাওয়া হয়েছিল কারণ তিনি প্রভু যীশুর বিষয়ে সুসমাচার প্রচার করতেন৷
+
+(See also: [[:bn:obe:other:pilate|পীলাত]], [[:bn:obe:other:paul|পৌল, শৌল]], [[:en:obe:kt:goodnews|good news, gospel]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?rome&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:bn:obs:notes:frames:23-04|[23-04]]]** When the time was near for Mary to give birth, the **Roman**  government told everyone to go for a census to the town where their ancestors had lived.
+  * **[[:bn:obs:notes:frames:32-06|[32-06]]]** Then Jesus asked the demon, "What is your name?" He replied, "My name is Legion, because we are many." (A "legion" was a group of several thousand soldiers in the **Roman**  army.)
+  * **[[:bn:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to the **Roman**  governor, Pilate, hoping to have Jesus killed.
+  * **[[:bn:obs:notes:frames:39-12|[39-12]]]** The **Roman**  soldiers whipped Jesus and put a royal robe and a crown made of thorns on him. Then they mocked him by saying, "Look, the King of the Jews!"
+~~DISCUSSION~~{{tag>publish ktobs}}
