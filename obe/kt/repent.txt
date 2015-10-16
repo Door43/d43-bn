@@ -1,0 +1,30 @@
+====== অনুশোচনা, অনুশোচনা ======
+
+===== সংজ্ঞা: =====
+
+The term often translated as "repent" literally means to turn away from a sinful, human way of thinking and acting, and to turn to God's way of thinking and acting. Repentance is the act of repenting.
+
+  * যখন লোকেরা তাদের পাপ থেকে সত্যি সত্যিই অনুশোচনা করে, তখন ঈশ্বর তাদের ক্ষমা করে দেন৷
+  * The result of repenting will be that the person starts obeying God.
+  * This term involves a change of heart, a turning toward God and away from sin.
+
+===== Translation Suggestions: =====
+
+  * The term, "repent" can be translated with a word or phrase that means, "turn back (to God)" or "turn the mind away from sin and toward God" or "turn toward God, away from sin."
+  * The meaning includes having a change of heart, not just actions. It shows a change of thinking where sin is rejected and God is pursued.
+
+(See also: [[:bn:obe:kt:forgive|forgive]], [[:bn:obe:kt:sin|sin, sinful, sinner, sinning]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?repent&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[১৬-০২] __ ঈশ্বরের অনাজ্ঞাকারী হয়ে চলার আর শত্রুদের কাছে দমন হয়ে চলার বহু বছর পর ইস্রায়লীয়রা অনুশোচনা করল আর ঈশ্বরের কাছে প্রার্থনা করল যেন তিনি তাদের উদ্ধার করেন৷
+  * __[১৭-১৩] __ দায়ূদ অনুশোচনা করলেন আর ঈশ্বর তাকে ক্ষমা করলেন৷
+  * __[১৯-১৮] __ তারা লোকেদের সতর্ক করত যে যদি তারা অনুশোচনা না করে তবে ঈশ্বর তাদের বিনাশ করবেন৷
+  * __[২৪-০২] __ অনেক লোক নির্জন প্রদেশে উপস্থিত হত যোহনের বাক্য শোনার জন্য৷ তিনি তাদের প্রচার করতেন, বলতেন, “অনুশোচনা কর, কেননা ঈশ্বরের রাজ্য নিকট!”
+  * __[৪২-০৮] __“শাস্ত্রে লেখা আছে যে আমার শিষ্যেরা সবাইকে ঘোষণা করবে যে প্রত্যেককে তাদের পাপের ক্ষমা পেতে অনুশোচনা করতে হবে৷
+  * __[৪৪-০৫] __ অতএব এখন, অনুশোচনা করুন আর ঈশ্বরের তরফ ফিরুন যেন আপনাদের পাপ সকল ধুয়ে ফেলা হয়৷”
+~~DISCUSSION~~{{tag>publish ktobs}}
