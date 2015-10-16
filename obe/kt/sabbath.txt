@@ -1,0 +1,26 @@
+====== বিশ্রামবার ======
+
+===== সংজ্ঞা: =====
+
+বিশ্রাম দিন প্রতি সপ্তাহের একটি বিশেষ দিন ছিল যার বিষয়ে ঈশ্বর ইস্রায়েলীয়দের আরাম করার দিনরূপে আলাদা করতে বলেছিলেন৷
+
+  * প্রত্যেক বিশ্রামবার সপ্তাহের (শেষ) সাত নম্বরের দিনটিতে হত৷
+  * ছয় দিনে ঈশ্বর সৃষ্টির কাজ সম্পূর্ণ করার পর, তিনি সপ্তম দিনটিতে বিশ্রাম নেন৷ সেই প্রকারে, ঈশ্বর ইস্রায়েলীয়দের সপ্তম দিনটিকে আরাম করার ও তাকে আরাধনা করার একটি বিশেষ দিনরূপে আলাদা করতে আজ্ঞা দিয়েছিলেন৷
+  * For the Jews, the Sabbath begins on Friday at sundown and lasts until Saturday at sundown.
+
+===== Translation Suggestions: =====
+
+  * This could also be translated as "resting day" or "day for resting" or "day of not working" or "God's day of rest."
+  * Some translations capitalize this term to show that it is a special day, for example, "Sabbath Day" or "Resting Day."
+  * Consider how this term is translated in a local or national language. (See: How to Translate Unknowns]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?sabbath&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[১৩-০৫] __ বিশ্রাম দিন পবিত্র রূপে পালন কর৷ ছয় দিনে তোমাদের সকল কর্ম কর, সাত বা সপ্তম দিনটি হল বিশ্রাম বার তোমাদের জন্য বিশ্রাম করার ও আমাকে স্বরণ করার দিন৷
+  * __[২৬-০২] __ যীশু নাসরৎ নগরে যেখানে তিনি তার বাল্যকালে বসবাস করতেন গেলেন৷ বিশ্রাম দিনে তিনি আরাধনালয়ে গেলেন৷
+  * __[৪১-০৩] __ যেদিন যীশুর শরীর কবর দেওয়া হল তার আগামী দিন ছিল বিশ্রামবার, আর ইহুদিদের সে দিন কবরে যাওয়া মানা ছিল৷
+~~DISCUSSION~~{{tag>publish ktobs}}
