@@ -9,16 +9,20 @@
   * “রোমান” শব্দটি সেই এলাকাকে উল্লেখ করে যা রোমের দ্বারা শাসিত বা নিয়ন্ত্রিত ছিল, যার মধ্যে রোমান নাগরিক ও রোমান অধিকারীরাও অন্তর্ভুক্ত ছিল৷
   * প্রেরিত পৌলকে রোম শহরে বন্দী বানিয়ে নিয়ে যাওয়া হয়েছিল কারণ তিনি প্রভু যীশুর বিষয়ে সুসমাচার প্রচার করতেন৷
 
-(See also: [[:bn:obe:other:pilate|পীলাত]], [[:bn:obe:other:paul|পৌল, শৌল]], [[:en:obe:kt:goodnews|good news, gospel]])
+(See also: [[:bn:obe:other:pilate|পীলাত]], [[:bn:obe:other:paul|পৌল, শৌল]],
+
+ভাল খবর  [[:en:obe:kt:goodnews|, ]]
+
+গসপেল  )
 
 ===== Bible References: =====
 
 {{topic>:en:bible?rome&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:23-04|[23-04]]]** When the time was near for Mary to give birth, the **Roman**  government told everyone to go for a census to the town where their ancestors had lived.
-  * **[[:bn:obs:notes:frames:32-06|[32-06]]]** Then Jesus asked the demon, "What is your name?" He replied, "My name is Legion, because we are many." (A "legion" was a group of several thousand soldiers in the **Roman**  army.)
-  * **[[:bn:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to the **Roman**  governor, Pilate, hoping to have Jesus killed.
-  * **[[:bn:obs:notes:frames:39-12|[39-12]]]** The **Roman**  soldiers whipped Jesus and put a royal robe and a crown made of thorns on him. Then they mocked him by saying, "Look, the King of the Jews!"
+  * __[২৩-০৪] __ মরিয়মের জন্ম দেওয়ার দিন যখন কাছে এলো, রোমান সাম্রাজ্য সকলকে তাদের পূর্বপুরুষদের এলাকায় জনগণনার জন্য যেতে বলল৷
+  * __[৩২-০৬] __ তারপর যীশু সেই ভুতটিকে প্রশ্ন করেন, “তোর নাম কি?” সে উত্তর দিল, “আমার নাম বাহিনী, কেননা আমরা অনেকজন৷” (“বাহিনী” ছিল রোমান সৈন্যদের কিছু হাজার সৈন্যদের দল৷)
+  * __[৩৯-০৯] __ আগামী দিনের খুব ভোরে, ইহুদি নেতারা যীশুকে রোমান রাজ্যপাল, পীলাতের কাছে নিয়ে এলো৷
+  * __[৩৯-১২] __ রোমান সৈন্যরা যীশুকে চাবুক মারল আর তাকে একটি রাজকীয় পোশাক আর কাঁটার তৈরী একটি মুকুট পরাল৷ তারপর তারা এই বলে তার ব্যঙ্গ-পরিহাস, “দেখো, ইহুদের রাজাকে!”
 ~~DISCUSSION~~{{tag>publish ktobs}}
