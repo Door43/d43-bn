@@ -1,6 +1,6 @@
-====== বলি,
+** বলি, নৈবেদ্য **
 
-নৈবেদ্য   ======
+======   ======
 
 ===== সংজ্ঞা: =====
 
@@ -22,14 +22,14 @@ The term "offering" is a general term that can refer to anything that is given t
 
 {{topic>:en:bible?sacrifice&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:03-14|[03-14]]]** After Noah got off the boat, he built an altar and **sacrificed**  some of each kind of animal which could be used for a **sacrifice**. God was happy with the **sacrifice**  and blessed Noah and his family.
-  * **[[:bn:obs:notes:frames:05-06|[05-06]]]**"Take Isaac, your only son, and kill him as a **sacrifice**  to me." Again Abraham obeyed God and prepared to **sacrifice**  his son.
-  * **[[:bn:obs:notes:frames:05-09|[05-09]]]** God had provided the ram to be the **sacrifice**  instead of Isaac.
-  * **[[:bn:obs:notes:frames:13-09|[13-09]]]** Anyone who disobeyed God's law could bring an animal to the Tent of Meeting as a **sacrifice**  to God. A priest would kill the animal and burn it on the altar. The blood of the animal that was **sacrificed**  covered the person's sin and made that person clean in God's sight.
-  * **[[:bn:obs:notes:frames:17-06|[17-06]]]** David wanted to build a temple where all the Israelites could worship God and offer him **sacrifices**.
-  * **[[:bn:obs:notes:frames:48-06|[48-06]]]** Jesus is the Great High Priest. Unlike other priests, he offered himself as the only **sacrifice**  that could to take away the sin of all the people in the world.
-  * **[[:bn:obs:notes:frames:48-08|[48-08]]]** But God provided Jesus, the Lamb of God, as a **sacrifice**  to die in our place.
-  * **[[:bn:obs:notes:frames:49-11|[49-11]]]** Because Jesus **sacrificed**  himself, God can forgive any sin, even terrible sins.
+  * __[০৩-১৪] __ নোহের জাহাজ থেকে নেমে আসার পর, তিনি একটি বেদী বানালেন আর কিছু পশুর যা বলি দেওয়ার জন্য ব্যবহার হত তা তিনি বলি দিলেন৷ ঈশ্বর বলির জন্য আনন্দিত হলেন আর নোহকে ও তার পরিবারকে আশির্বাদ দিলেন৷
+  * __[০৫-০৬] __“তোমার একমাত্র সন্তান, ইসহাককে নাও আর তাকে আমার জন্য একটি বলিরূপে হত্যা কর৷” আবার আব্রাহাম ঈশ্বরের আজ্ঞাকারী হলেন আর তার পুত্রকে বলি দেওয়ার প্রস্তুতি নিলেন৷
+  * __[০৫-০৯] __ ঈশ্বর একটি পাঁঠা সরবরাহ করেছিলেন ইসহাকের জায়গায় বলি দেওয়ার জন্য৷
+  * __[১৩-০৯] __ যেকেউ ঈশ্বরের নিয়মবিধির অমান্য করতেন সে একটি পশুকে মিলন তাম্বুর সামনে ঈশ্বরের কাছে উৎসর্গ করতেন৷ এক যাজক পশুটিকে বলি দিতেন আর তা বেদির অগ্নিতে নিক্ষেপ করতেন৷ বলি হওয়া পশুটির রক্ত সেই ব্যক্তির পাপকে ঢেকে দিত আর তাকে ঈশ্বরের দৃষ্টিতে শুদ্ধ করত৷
+  * __[১৭-০৬] __ দায়ূদ একটি মন্দির তৈরী করতে চাইলেন যেখানে সকল ইস্রায়লীয় ঈশ্বরের আরাধনা ও তাকে বলি উৎসর্গ করতে পারে৷
+  * __[৪৮-০৬] __ যীশু হলেন মহান মহাযাজক৷ অন্য যাজকদের সমান না করে তিনি নিজেকে একমাত্র বলি রূপে উৎসর্গ করলেন যেন পৃথিবীর সকল লোকেদের পাপ মেটাতে পারেন৷
+  * __[৪৮-০৮] __ কিন্তু ঈশ্বর, ঈশ্বরের ভেড়া, যীশুকে দিলেন, আমাদের জায়গায় একটি বলি রূপে৷
+  * __[৪৯-১১] __ কেননা যীশু নিজেকে বলি দিয়েছিলেন তাই ঈশ্বর কোনও পাপ ক্ষমা করেন৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
