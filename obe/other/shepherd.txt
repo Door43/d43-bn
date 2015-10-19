@@ -1,10 +1,10 @@
-====== মেষপালক,
+** মেষপালক, মেষপালক **
 
-মেষপালক   ======
+======   ======
 
 ===== সংজ্ঞা: =====
 
-একজন মেষপালক হলেন সেই ব্যক্তি যিনি ভেড়াদের দেখাশোনা করেন৷ The verb "to shepherd" means to tend or care for sheep. This term is often used metaphorically in the Bible to refer to taking care of people's needs, both physically and spiritually    .
+একজন মেষপালক হলেন সেই ব্যক্তি যিনি ভেড়াদের দেখাশোনা করেন৷ The verb "to shepherd" means to tend or care for sheep. This term is often used metaphorically in the Bible to refer to taking care of people's needs, both physically and spiritually .
 
   * The shepherd may be the owner of the sheep, or he may be someone who is hired by their owner.
   * In Bible times, shepherds often tended the sheep outdoors, leading them to places with good food and water. Shepherds also keep the sheep from getting lost and protect them from wild animals.
@@ -27,9 +27,9 @@
 
 ===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * __[০৯-১১] __ মোশী মিশর থেকে দুরে নির্জন-প্রদেশে একজন মেষপালক হলেন৷
-  * __[১৭-০২] __ দায়ূদ বৈৎলেহম নগরের এক মেষপালক ছিলেন৷ এক সময় যখন তিনি তার পিতার মেষ চড়াচ্ছিলেন, দায়ূদ এক সিংহ আর এক ভাল্লুককে মারেন যা তার মেষদের আক্রমন করেছিল৷
-  * __[২৩-০৬] __ সেই রাতে, কিছু মেষপালক ধারে কাছের ময়দানে তাদের মেষদের ঝাঁক চরাছিলেন৷
-  * __[২৩-০৮] __ মেষপালকেরা শীগ্রই পৌছালো সেই জায়গায় যেখানে যীশু ছিলেন আর তারা তাকে পশুদের খাওয়ার পাত্রে শুয়ানো পেল, যেমনটি স্বর্গদূত তাদের বলেছিলেন৷
-  * __[৩০-০৩] __ যীশুর জন্য, সেই লোকেরা ছিল মেষপালক হারা মেষের দল৷
+  * __[০৯-১১] __  মোশী মিশর থেকে দুরে নির্জন-প্রদেশে একজন মেষপালক হলেন৷
+  * __[১৭-০২] __  দায়ূদ বৈৎলেহম নগরের এক মেষপালক ছিলেন৷ এক সময় যখন তিনি তার পিতার মেষ চড়াচ্ছিলেন, দায়ূদ এক সিংহ আর এক ভাল্লুককে মারেন যা তার মেষদের আক্রমন করেছিল৷
+  * __[২৩-০৬] __  সেই রাতে, কিছু মেষপালক ধারে কাছের ময়দানে তাদের মেষদের ঝাঁক চরাছিলেন৷
+  * __[২৩-০৮] __  মেষপালকেরা শীগ্রই পৌছালো সেই জায়গায় যেখানে যীশু ছিলেন আর তারা তাকে পশুদের খাওয়ার পাত্রে শুয়ানো পেল, যেমনটি স্বর্গদূত তাদের বলেছিলেন৷
+  * __[৩০-০৩] __  যীশুর জন্য, সেই লোকেরা ছিল মেষপালক হারা মেষের দল৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
