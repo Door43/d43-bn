@@ -1,0 +1,35 @@
+====== মেষপালক,
+
+মেষপালক   ======
+
+===== সংজ্ঞা: =====
+
+একজন মেষপালক হলেন সেই ব্যক্তি যিনি ভেড়াদের দেখাশোনা করেন৷ The verb "to shepherd" means to tend or care for sheep. This term is often used metaphorically in the Bible to refer to taking care of people's needs, both physically and spiritually    .
+
+  * The shepherd may be the owner of the sheep, or he may be someone who is hired by their owner.
+  * In Bible times, shepherds often tended the sheep outdoors, leading them to places with good food and water. Shepherds also keep the sheep from getting lost and protect them from wild animals.
+  * In the Old Testament, God is called the shepherd of his people because he takes care of all their needs and protects them.
+  * In the New Testament, Jesus calls himself the "good shepherd" who cares for those who follow him.
+  * Also in the New Testament, the term "shepherd" is used to refer to a spiritual leader over other believers.
+  * The term "pastor" is the same word as "shepherd."
+
+==== Translation Suggestions ====
+
+  * This term could be translated as, "person who takes care of sheep" or "sheep tender" or "sheep caregiver."
+  * When used as a metaphor, different ways to translate this term could include, "spiritual shepherd" or "who is like a shepherd" or "who cares for his people like a shepherd cares for his sheep," depending on the context.
+  * Ways to translate the verb, "to shepherd" (a flock) could include, "to take care of" or "to spiritually nourish" or "to guide and teach like a spiritual shepherd."
+
+(See also: [[:bn:obe:other:sheep|sheep, ram]], [[:bn:obe:kt:pastor|pastor]], [[:bn:obe:kt:believer|believer]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?shepherd&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[০৯-১১] __ মোশী মিশর থেকে দুরে নির্জন-প্রদেশে একজন মেষপালক হলেন৷
+  * __[১৭-০২] __ দায়ূদ বৈৎলেহম নগরের এক মেষপালক ছিলেন৷ এক সময় যখন তিনি তার পিতার মেষ চড়াচ্ছিলেন, দায়ূদ এক সিংহ আর এক ভাল্লুককে মারেন যা তার মেষদের আক্রমন করেছিল৷
+  * __[২৩-০৬] __ সেই রাতে, কিছু মেষপালক ধারে কাছের ময়দানে তাদের মেষদের ঝাঁক চরাছিলেন৷
+  * __[২৩-০৮] __ মেষপালকেরা শীগ্রই পৌছালো সেই জায়গায় যেখানে যীশু ছিলেন আর তারা তাকে পশুদের খাওয়ার পাত্রে শুয়ানো পেল, যেমনটি স্বর্গদূত তাদের বলেছিলেন৷
+  * __[৩০-০৩] __ যীশুর জন্য, সেই লোকেরা ছিল মেষপালক হারা মেষের দল৷
+~~DISCUSSION~~{{tag>publish ktobs}}
