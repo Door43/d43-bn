@@ -1,0 +1,55 @@
+====== পাপ,
+
+পাপিষ্ঠ  ,
+
+পাপী  ,
+
+নারকী   ======
+
+===== সংজ্ঞা: =====
+
+The term "sin" refers to actions, thoughts, and words that are against God's will and laws. Sin can also refer to not doing something that God wants us to do.
+
+  * Sin includes anything we do that does not obey or please God, even things that other people don't know about.
+  * Thoughts and actions that disobey God's will are called "sinful."
+  * Because Adam sinned, all human beings are born with a sinful nature that controls them. Sometimes the word "sin" refers to this sinful nature. It is also called "flesh" in the Bible.
+  * A "sinner" is someone who sins, so this applies to every human being.
+  * Sometimes the word "sinners" was used by religious people like the Pharisees to refer to people who didn't keep the law as well as the Pharisees thought they should.
+  * The term "sinner" was also given to people who were considered to be worse sinners than other people. For example, this label was given to tax collectors and prostitutes.
+
+===== Translation Suggestions: =====
+
+  * The term "sin" could be translated with a word or phrase that means, "disobedience to God" or "going against God's will" or "evil behavior or thoughts."
+  * "To sin" could also be translated as "to disobey God" or "to do wrong."
+  * Depending on the context, "sinful" could be translated as "wicked" or "immoral" or "evil."
+  * Depending on the context, the term "sinner" could be translated with a word or phrase that means, "person who sins" or "person who does wrong things" or "person who disobeys God" or "person who disobeys the law."
+  * The term "sinners" could be translated by a word or phrase that means, "very sinful people" or "people considered to be very sinful" or "immoral people."
+  * Ways to translate "tax collectors and sinners" could include, "people who collect money for the government, and other very sinful people" or "very sinful people, including (even) tax collectors."
+  * In expressions like "slaves to sin" or "ruled by sin," the term "sin" could be translated as "disobedience" or "evil desires and actions."
+  * Make sure the translation of this term can include sinful behavior and thoughts, even those that other people don't see or know about.
+
+(See also: flesh, [[:bn:obe:kt:evil|evil]], [[:bn:obe:other:disobey|disobey]], [[:bn:obe:other:taxcollector|tax collector]])
+
+===== Bible References: =====
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+* __[০৩-১৫] __ ঈশ্বর বললেন, “আমি প্রতিজ্ঞা করছি যে আমি আর কখনো দুষ্টতার জন্য যা লোকেরা করে ভূমিকে অভিশপ্ত করব না, বা বন্যার দ্বারা পৃথিবীকে বিনাশ করব না, যদিও মনুষ্য জাতি শৈশবকাল থেকেই পাপময়৷
+
+* __[১৩-১২] __ ঈশ্বর তাদের পাপের জন্য ভীষণ রুষ্ট হলেন আর তাদের ধ্বংস করতে চাইলেন৷
+
+* __[২০-০১] __ ইসরাইল রাজ্য আর যিহুদা রাজ্য দুজনেই ঈশ্বরের বিরুদ্ধে পাপ করেছিল৷ তারা সেই নিয়ম ভাঙ্গলো যা ঈশ্বর সীনয় পর্বতে তাদের সাথে স্থাপন করেছিলেন৷
+
+* __[২১-১৩] __ ভাববাদীরা আরও বলেছেন যে খ্রীষ্ট সর্বসিদ্ধ হবেন, কেননা তার মধ্যে কোনো পাপ থাকবে না৷ তিনি মারা যাবেন অন্যদের জন্য পাপের শাস্তি গ্রহণ করে৷
+
+* __[৩৫-০১] __ একদিন, যীশু বহু করগ্রাহী আর অন্য পাপীদের যারা তার কাছে জমা হয়েছিল তাদের শেখাচ্ছিলেন৷
+
+* __[৩৮-০৫] __ তারপর যীশু একটি কাপ তুললেন আর বললেন, “এটির থেকে পান কর৷ এটি হল আমার রক্ত নতুন নিয়মের যা তোমাদের পাপের ক্ষমাপ্রাপ্তির জন্য ঢালা হয়েছে৷
+
+* __[৪৩-১১] __ পিতর উত্তর দিলেন, “তোমাদের প্রত্যেককে অনুশোচনা করতে হবে আর যীশু খ্রীষ্টের নামে বাপ্তিস্ম নিতে হবে যেন ঈশ্বর তোমাদের পাপ ক্ষমা করেন৷
+
+* __[৪৮-০৮] __ আমরা সকল আমাদের পাপের জন্য মৃত্যুর যোগ্য!
+
+* __[৪৯-১৭] __ যদিও আপনি একজন খ্রিস্টান হন তবুও আপনি প্রলোভনে পরবেন৷ কিন্তু ঈশ্বর বিশ্বাসযোগ্য, আপনি যদি আপনার পাপ স্বীকার করেন তবে তিনি আপনাকে ক্ষমা করে দেবেন৷ তিনি আপনাকে পাপের সাথে লড়তে সাহায্য করবেন৷
+
+{{tag>publish ktobs}}
