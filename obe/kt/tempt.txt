@@ -1,0 +1,33 @@
+====== প্রলোভন,
+
+লোভ   ======
+
+===== সংজ্ঞা: =====
+
+কাউকে প্রলোভিত করার অর্থ হল সেই ব্যক্তিকে দিয়ে কিছু ভুল কাজ করানোর চেষ্টা করা৷
+
+  * প্রলোভন হল কিছু যা একটি ব্যক্তিকে কিছু ভুল কাজ করায়৷
+  * লোকেরা তাদের নিজ পাপময় প্রকৃতির দ্বারা আর অন্য লোকেদের দ্বারা প্রলোভনে পরে যায়৷
+  * শয়তানও লোকেদের ঈশ্বরের অনাজ্ঞাকারী হতে ও ঈশ্বরের বিরুদ্ধে ভুল কাজ করার দ্বারা পাপ করাতে প্রলোভিত করে৷
+  * Satan tempted Jesus and tried to get him to do something wrong, but Jesus resisted all of Satan's temptations and never sinned.
+
+===== Translation Suggestions: =====
+
+  * The term "tempt" can be translated as, "try to cause to sin" or "entice" or "cause a desire to sin."
+  * The word translated as "tempt" can also mean, "put to the test."
+  * Ways to translate "temptations" could include, "things that tempt" or "things that entice someone to sin" or "things that cause desire to do something wrong."
+
+(See also: [[:bn:obe:kt:sin|sin, sinful, sinner, sinning]], [[:bn:obe:other:disobey|disobey, disobedient]], [[:bn:obe:kt:satan|Satan, devil, evil one]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?tempt&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[২৫-০১] __ শয়তান যীশুর কাছে এলো আর তাকে পাপ করতে প্রলোভিত করল৷
+  * __[২৫-০৮] __ যীশু শয়তানের প্রলোভনে পরলেন না তাই শয়তান তাকে ছেড়ে চলে গেল৷
+  * __[৩৮-১১] __ যীশু তার শিষ্যদের প্রার্থনা করতে বললেন যেন তারা প্রলোভনে না পরে৷
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
