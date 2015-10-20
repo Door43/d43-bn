@@ -1,0 +1,31 @@
+====== কবর,
+
+সমাধি  ,
+
+কবর স্থান   ======
+
+===== সংজ্ঞা: =====
+
+একটি কবর হল সেই স্থান যেখানে লোকেদের মৃত দেহ রাখা হয়৷
+
+  * ইহুদিরা কোনো কোনো সময় প্রাকৃতিক গুহাসমূহকে কবররূপে ব্যবহার করত, আর কোনো কোনো সময়ই তারা পাহাড়ের গায়ে পাথরের শৈলতে খোঁদাই করে কবর নির্মান করত৷
+  * যখন প্রভু যীশু জীবিত ছিলেন, তখন এটি সাধারণ প্রথা ছিল একটি বড়, ভারী, গোলাকার পাথরকে কোনো গুহার প্রবেশ দুয়ারটিকে বন্ধ করার জন্য ব্যবহার করা হত৷
+  * এটিকে এভাবেও অনুবাদ করা যেতে পারে, যেমন, “গুহা বিশিষ্ট কবর৷” কিন্তু যদি আপনার শব্দটি কেবল মাটি খুঁড়ে তৈরী করা গর্তকে কবর বোঝায় যেখানে মৃত দেহ রাখা হয় তাহলে এটা আরও ভালো হবে এটিকে “গুহা” বা, “পাহাড়ের গর্ত” এমন ভাবে অনুবাদ করা৷
+
+(See also: [[:bn:obe:kt:death|মৃত্যু, মরা, মৃত]], [[:bn:obe:other:bury|bury, buried]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?tomb&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * \[৩২-০৪] এই ব্যক্তিটি এলাকার কবরস্থানে থাকত৷
+  * **[[:bn:obs:notes:frames:37-06|[37-06]]]** Jesus asked them, "Where have you put Lazarus?" They told him, "In the **tomb**. Come and see."
+  * **[[:bn:obs:notes:frames:37-07|[37-07]]]** The **tomb**  was a cave with a stone rolled in front of its opening.
+  * **[[:bn:obs:notes:frames:40-09|[40-09]]]** Then Joseph and Nicodemus, two Jewish leaders who believed Jesus was the Messiah, asked Pilate for Jesus' body. They wrapped his body in cloth and placed it in a **tomb**  cut out of rock. Then they rolled a large stone in front the **tomb**  to block the opening.
+  * **[[:bn:obs:notes:frames:41-04|[41-04]]]** He (the angel) rolled away the stone that was covering the entrance to the **tomb**  and sat on it. The soldiers guarding the **tomb**  were terrified and fell to the ground like dead men.
+  * **[[:bn:obs:notes:frames:41-05|[41-05]]]** When the women arrived at the **tomb**, the angel told them, "Do not be afraid. Jesus is not here. He has risen from the dead, just like he said he would! Look in the **tomb**  and see." The women looked into the **tomb**  and saw where Jesus' body had been laid. His body was not there!
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
