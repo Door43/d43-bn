@@ -1,0 +1,35 @@
+====== মন্দির ======
+
+===== তথ্যসমূহ: =====
+
+মন্দির হল একটি ভবন বা ইমারত যেখানে ইস্রায়েলীয়রা ঈশ্বরের প্রতি বলিদান অর্পণ করত৷ It was located on Mount Moriah in the city of Jerusalem.
+
+  * Often the term "temple" refers to the whole temple complex, including the courtyards that surrounded the main building. Sometimes it refers only to the building.
+  * The temple building had two rooms, the Holy Place and the Most Holy Place.
+  * ঈশ্বর মন্দিরকে তার নিবাস স্থানরূপে উল্লেখ করেছেন যেখানে লোকেরা তার কাছে আসতে পারত৷
+  * In the New Testament, the term "temple of the Holy Spirit" is used to refer to believers in Jesus, because the Holy Spirit lives in them.
+
+===== Translation Suggestions: =====
+
+  * Usually when the text says that people were "in the temple," it is referring to the courtyards outside the building. This could be translated as "in the temple courtyards" or "in the temple complex."
+  * When it refers specifically to the building itself, some translations will translate "temple" as "temple building," to make it clear what is being referred to.
+  * Ways to translate "temple" could include, "God's holy house" or "sacred worship place."
+  * Often in the Bible, the temple is referred to as "the house of Yahweh" or "the house of God."
+
+(See also: [[:bn:obe:other:sacrifice|sacrifice]], [[:bn:obe:other:solomon|শলোমন]], [[:bn:obe:other:babylon|(ব্যাবিলন, ব্যাবিলবাসী)]], [[:bn:obe:kt:holyspirit|holyspirit]], [[:bn:obe:kt:tabernacle|tabernacle]], [[:bn:obe:other:courtyard|courtyard]] [[:bn:obe:other:zion|Zion, Mount Zion]] [[:bn:obe:other:house|house]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?temple&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[১৭-০৬] __ দায়ূদ একটি মন্দির তৈরী করতে চাইলেন যেখানে সকল ইস্রায়লীয় ঈশ্বরের আরাধনা ও তাকে বলি উৎসর্গ করতে পারে৷
+  * __[১৮-০২] __ যেরুশালেমে, শলোমন সে মন্দির তৈরী করলেন যা তার পিতা দায়ূদ তৈরী করার পরিকল্পনা করেছিলেন আর কাঁচামাল সংগ্রহ করেছিলেন৷ লোকেরা এখন ঈশ্বরের আরাধনা ও বলিদান উৎসর্গ মিলন তাম্বুর জায়গায় মন্দিরে করত৷ ঈশ্বর এলেন আর মন্দিরে উপস্থিত হলেন, আর তিনি সেখানে তার লোকেদের সাথে থাকলেন৷
+  * __[২০-০৭] __ তারা (বাবিলবাসীরা) যেরুশালেমের নগর ঘেরাও করল, মন্দির বিনাশ করল আর নগরের আর মন্দিরের সকল সম্পত্তি নিয়ে গেল৷
+  * __[২০-১৩] __ যখন লোকেরা যেরুশালেমে পৌঁছালো, তারা মন্দিরটিকে আবার বানালো আর নগরের চারপাশে দেওয়াল বানালো৷
+  * __[২৫-০৪] __ তারপর শয়তান যীশুকে মন্দিরের উচ্চ চূড়ায় নিয়ে গেল আর বলল, “যদি আপনি ঈশ্বরের পুত্র হন তবে নিজেকে উপর থেকে ফেলে দেন, কেননা লেখা আছে, ‘ঈশ্বর তার স্বর্গদূতদের আদেশ দেবেন আপনাকে ধরে নিতে যেন আপনার পায়ে পাথরের আঘাত না লাগে৷’”
+  * __[৪০-০৭] __ যখন তিনি মারা গেলেন, তখন সেখানে ভূমিকম্প হয় আর মন্দিরের সেই বিরাট পর্দা যা ঈশ্বরের উপস্থিতি থেকে লোকেদের আলাদা করত দুভাগে ছিড়ে গেল, উপর থেকে নিচ পর্যন্ত৷
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
