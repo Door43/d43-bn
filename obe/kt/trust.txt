@@ -1,0 +1,33 @@
+====== ভরসা,
+
+বিশ্বস্ত  , trustworthiness ======
+
+===== সংজ্ঞা: =====
+
+The term "trust" refers to believing that something or someone is true or dependable. A "trustworthy" person can be relied on to do and say what is right and true.
+
+  * ভরসা বিশ্বাসের সাথে আন্তরিকভাবে জড়িত৷ আমরা কারো উপরে বিশ্বাস করি কারণ আমাদের বিশ্বাস আছে যে তারা যা প্রতিজ্ঞা করেছে তা করবে৷
+  * Having trust in someone also means depending on that person.
+  * প্রভু যীশুর উপর ভরসা করার অর্থ হল বিশ্বাস করা যে তিনি ঈশ্বর, বিশ্বাস করা যে ক্রুশে তার স্বেচ্ছায় দেওয়া বলিদান আমাদের পাপের মূল্য পরিশোধ করেছে আর আমাদের উদ্ধারের জন্য তার উপরে আমরা নির্ভরশীল৷
+  * A "trustworthy saying" refers to something that is said that can be counted on to be true.
+
+===== Translation Suggestions: =====
+
+  * Ways to translate "trust" could include, "believe" or "have faith" or "have confidence" or "depend on."
+  * The term "trustworthy" could be translated as, "dependable" or "reliable" or "can always be trusted."
+
+(See also: [[:bn:obe:kt:faith|আস্থা]], [[:bn:obe:kt:believe|believe]], [[:bn:obe:kt:confidence|confidence, confident]], [[:en:obe:kt:faithful|faithful, faithfulness]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?trust&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[১২-১২] __ যখন ইস্রায়লীয়রা দেখল যে মিশরীয়রা মারা গিয়েছে, তারা ঈশ্বরের উপর বিশ্বাস করল আর বিশ্বাস করল যে মোশী ঈশ্বরের একজন ভাববাদী৷
+  * __[১৪-১৫] __ যিহোশূয় একজন ভালো নেতা ছিলেন কেননা তিনি ঈশ্বরের প্রতি বিশ্বাসী আর আজ্ঞাকারী ছিলেন৷
+  * __[১৭-০২] __ দায়ূদ এক নম্র ও ধার্মিক ব্যক্তি ছিলেন যিনি ঈশ্বরে বিশ্বাসী ও আজ্ঞাকারী ছিলেন৷
+  * __[৩৪-০৬] __ তারপর যীশু কিছু লোকেদের এক কাহিনী বললেন যারা তাদের নিজেদের ভালো কার্যের উপর ভরসা করত আর অন্যদের তুচ্ছ করত৷
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
