@@ -1,0 +1,59 @@
+====== যীহোবা ======
+
+===== তথ্যসমূহ: =====
+
+এটি হল ঈশ্বরের নাম যা তিনি মোশীকে জ্বলন্ত ঝোপ থেকে বলেছিলেন৷ তিনি তাকে বলেছিলেন যে এই নামটি ছিল তার চিরকালের নাম৷
+
+  *
+
+The name “Yahweh” comes from the ancient Hebrew verb “to be” and means “he is” or “he who is” or “he who causes to be.”
+
+  *
+
+God also referred to himself as “I am.”
+
+  *
+
+This name reveals that God is eternal; he has always lived and will continue to live forever. He did not need anyone to create him or to give him life. It also means that he is always present.
+
+  *
+
+Many Bible versions in major languages such as English, French, and Spanish have used an equivalent of “the LORD” to represent “Yahweh,” as in the phrase, “I am the LORD your God” and in many other contexts.
+
+  *
+
+However the ULB and UDB only use “Yahweh” to translate God's name, “Yahweh.”
+
+  *
+
+In the New Testament, God is referred to as “Lord” or “God.” The term “Yahweh” is not used in the New Testament.
+
+  *
+===== Translation Suggestions: =====
+
+  *
+
+Translators may want to translate references to Yahweh in the Old Testament with phrases such as, “I am Yahweh, the Lord your God” and “Yahweh, who is the Lord God.” This would show that “Lord” in the New Testament often refers to Yahweh in the Old Testament.
+
+  *
+
+This term could be translated by a word that means “I am” or “living one.”
+
+  *
+
+Note that the ULB text only translates God's name literally, as “Yahweh.”
+
+(See also: [[:bn:obe:kt:god|God]], Lord)
+
+===== Bible References: =====
+
+{{topic>:en:bible?yahweh&nocomments&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[০৯-১৪] __ ঈশ্বর বললেন, “আমি আছি সেই আছি৷ তাদের বলো, ‘আমি আছি আমাকে তোমাদের কাছে পাঠিয়েছেন৷’ তাদের আরও বলো, আমি যিহোবা, তোমাদের পূর্বপুরুষ আব্রাহাম, ইসহাক আর যাকোবের ঈশ্বর৷ এটি হল আমার চিরকালের নাম৷”
+  * __[১৩-০৪] __ তখন ঈশ্বর তাদের নিয়ম দিলেন আর বললেন, “আমি যীহোবা, তোমাদের ঈশ্বর, যিনি মিশর দেশের দাসত্ব থেকে তোমাদের মুক্তি দিয়েছেন৷ অন্য দেব-দেবীর উপাসনা কর না৷”
+  * __[১৩-০৫] __“কোনো রকম মূর্তি বানিয় না আর তাদের উপাসনা কর না, কেননা আমি, যীহোবা, আমি স্বগৌরব রক্ষনে উদযোগী ঈশ্বর৷
+  * __[১৬-০১] __ ইস্রায়লীয়রা সত্য পরমেশ্বর যীহোবা ঈশ্বরের বিপরীতে কানানীয় দেবতাদের আরাধনা করা শুরু করে দিল৷
+  * __[১৯-১০] __ তারপর এলিয় প্রার্থনা করলেন, “হে প্রভু যীহোবা, আব্রাহাম, ইসহাক আর যাকোবের ঈশ্বর, আমাদের আজ দেখান যে আপনিই ইসরায়েলের ঈশ্বর আর আমি আপনার দাস৷
+~~DISCUSSION~~{{tag>publish ktobs}}
