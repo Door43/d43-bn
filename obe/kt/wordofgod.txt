@@ -1,0 +1,42 @@
+====== ঈশ্বরের বাক্য,
+
+প্রভুর বাক্য  ,
+
+প্রভুর বাক্য  ,
+
+বাইবেল   ======
+
+===== সংজ্ঞা: =====
+
+The term "word of God" is a general term that refers to anything that God has communicated to people. This includes spoken and written messages.
+
+  * The related terms "word of Yahweh" and "word of the Lord" often refer to a specific message from God that was given to a prophet or other person in the Bible.
+  * The term "scriptures" refers to the written message that God told people to write.
+  * Many years after God's words were written down, people can still read these scriptures and know God's teachings.
+  * প্রভু যীশুকেও “বাক্য” বা “ঈশ্বরের বাক্য” বলা হয়৷ এই নামটির অর্থ হল যে তিনি সম্পূর্ণরূপে প্রকাশ করেন যে, ঈশ্বর কে৷ তিনি এমনটি করতে পারেন কারণ তিনি সয়ং পরমেশ্বর৷
+
+===== Translation Suggestions: =====
+
+  * Depending on the context, other ways to translate this term could include, "the message of Yahweh" or "God's message" or "the teachings from God."
+  * It may be more natural in some languages to make this term plural and say "God's words" or "the words of Yahweh."
+  * The expression "the word of God (or Yahweh) came" is often used to introduce something that God told his prophet or his people. This could be translated as, "Yahweh spoke these words" or "God spoke this message."
+  * The term "scripture" or "scriptures" could be translated as "the writings" or "the written message from God." This term should be translated differently from the translation of the term "word."
+
+(See also: [[:bn:obe:kt:prophet|prophet, prophecy, prophesy]], [[:bn:obe:kt:yahweh|Yahweh]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?wordofgod&nocomments}}
+
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
+
+  * __[২৫-০৭] __ ঈশ্বরের বাক্যে তিনি তার লোকেদের আজ্ঞা দিয়েছেন, ‘কেবল প্রভু তোমার যীহোবা ঈশ্বরেরই আরাধনা কর আর তারই সেবা কর৷”’
+  * __[৩৩-০৬] __ তাই যীশু বর্ণনা দিলেন, “বীজ হল ঈশ্বরের বাক্য৷
+  * __[৪২-০৩] __ তারপর যীশু তাদের বর্ণনা দিলেন যে ঈশ্বরের বাক্য খ্রীষ্ট সম্বন্ধে কি বলে৷
+  * __[৪২-০৭] __ যীশু বললেন, “আমি তোমাদের বলেছি যে ঈশ্বরের বাক্যে যাকিছু আমার বিষয়ে লেখা আছে তা পূর্ণ হবে৷ তারপর তিনি তাদের বুদ্ধি খুলে দিলেন যেন তারা ঈশ্বরের বাক্য বুঝতে পারে৷
+  * __[৪৫-১০] __ ফিলিপ যীশুর সুসমাচার বলার জন্য আরো অন্য শাস্ত্র বাক্য থেকে তাকে বললেন৷
+  * __[৪৮-১২] __ কিন্তু যীশু সকল ভাববাদীদের মধ্যে মহান৷ এই কারণে যীশুকে ঈশ্বরের বাক্য বলা হয়৷
+  * __[৪৯-১৮] __ ঈশ্বর আপনাকে প্রার্থনা করতে বলেন, তার বাক্য পড়তে বলেন, অন্যান্য খ্রিস্টানদের সাথে মিলে আরাধনা করতে বলেন আর অন্যদের বলতে বলেন  যা তিনি আপনার জন্য করেছেন৷
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~
