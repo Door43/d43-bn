@@ -1,13 +1,13 @@
 ====== আরাধনা ======
 
-===== Definition: =====
+===== সংজ্ঞা: =====
 
-"To worship" means to honor, praise and obey someone, especially God.
+“আরাধনা” করার অর্থ হল কাউকে সন্মান করা, স্তুতি করা আর তার আজ্ঞাকারী হওয়া, বিশেষত ঈশ্বরের৷
 
   * This term often means literally, "bow down" or "prostrate oneself" to humbly honor someone.
-  * We worship God when we serve and honor him, by praising him and obeying him.
-  * When the Israelites worshiped God, it often included sacrificing an animal on an altar.
-  * Some people worship false gods.
+  * আমরা ঈশ্বরের সেবা ও সন্মান করার দ্বারা আর তার প্রতি স্তুতি করে ও তার আজ্ঞা পালন করে তার আরাধনা করে থাকি৷
+  * যখন ইস্রায়েলীয়রা ঈশ্বরের আরাধনা করত, তখন এর সাথে প্রায়ই বেদিতে কোনো পশুর বলি দিত৷
+  * কিছু কিছু লোকজন মিথ্যে ঈশ্বরের বা দেবদেবীর আরাধনা করে৷
 
 ===== Translation Suggestions: =====
 
@@ -20,16 +20,16 @@
 
 {{topic>:en:bible?worship&nocomments}}
 
-===== Examples from the Bible stories: =====
+===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:13-04|[13-04]]]** Then God gave them the covenant and said, "I am Yahweh, your God, who saved you from slavery in Egypt. Do not **worship**  other gods."
-  * **[[:bn:obs:notes:frames:14-02|[14-02]]]** The Canaanites did not **worship**  or obey God. They **worshiped**  false gods and did many evil things.
-  * **[[:bn:obs:notes:frames:17-06|[17-06]]]** David wanted to build a temple where all the Israelites could **worship**  God and offer him sacrifices.
-  * **[[:bn:obs:notes:frames:18-12|[18-12]]]** All of the kings and most of the people of the kingdom of Israel **worshiped**  idols.
-  * **[[:bn:obs:notes:frames:25-07|[25-07]]]** Jesus replied, "Get away from me, Satan! In God's word he commands his people, '**Worship**  only the Lord your God and only serve him.'"
-  * **[[:bn:obs:notes:frames:26-02|[26-02]]]** On the Sabbath, he (Jesus) went to the place of **worship**.
-  * **[[:bn:obs:notes:frames:47-01|[47-01]]]** There they met a woman named Lydia who was a merchant. She loved and **worshiped**  God.
-  * **[[:bn:obs:notes:frames:49-18|[49-18]]]** God tells you to pray, to study his word, to **worship**  him with other Christians, and to tell others what he has done for you.
+  * __[১৩-০৪] __ তখন ঈশ্বর তাদের নিয়ম দিলেন আর বললেন, “আমি যীহোবা, তোমাদের ঈশ্বর, যিনি মিশর দেশের দাসত্ব থেকে তোমাদের মুক্তি দিয়েছেন৷ অন্য দেব-দেবীর উপাসনা কর না৷”
+  * __[১৪-০২] __ কানানীয়রা যীহোবা ঈশ্বরের আরাধনা বা আজ্ঞা পালন করত না৷ তারা মিথ্যে দেবতাদের পূজা করত আর অনেক দুষ্ট কাজ করেছিল৷
+  * __[১৭-০৬] __ দায়ূদ একটি মন্দির তৈরী করতে চাইলেন যেখানে সকল ইস্রায়লীয় ঈশ্বরের আরাধনা ও তাকে বলি উৎসর্গ করতে পারে৷
+  * __[১৮-১২] __ ইসরাইল রাজ্যের সকল রাজা আর প্রজা মূর্তি পুজো করত৷
+  * __[২৫-০৭] __ যীশু উত্তর দিলেন, “আমার কাছ থেকে দূর হও, শয়তান! ঈশ্বরের বাক্যে তিনি তার লোকেদের আজ্ঞা দিয়েছেন, ‘কেবল প্রভু তোমার যীহোবা ঈশ্বরেরই আরাধনা কর আর তারই সেবা কর৷”’
+  * __[২৬-০২] __ বিশ্রাম দিনে তিনি (যীশু) আরাধনালয়ে গেলেন৷
+  * __[৪৭-০১] __ সেখানে তারা লুদিয়া নামক এক ব্যবসায়ী মহিলার সাথে দেখা করলেন৷তিনি ঈশ্বরকে ভালোবাসতেন আর আরাধনা করতেন৷
+  * __[৪৯-১৮] __ ঈশ্বর আপনাকে প্রার্থনা করতে বলেন, তার বাক্য পড়তে বলেন, অন্যান্য খ্রিস্টানদের সাথে মিলে আরাধনা করতে বলেন আর অন্যদের বলতে বলেন  যা তিনি আপনার জন্য করেছেন৷
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
