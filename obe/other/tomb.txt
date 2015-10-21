@@ -1,8 +1,6 @@
-====== কবর,
+** কবর, সমাধি , কবর স্থান **
 
-সমাধি  ,
-
-কবর স্থান   ======
+======   ======
 
 ===== সংজ্ঞা: =====
 
@@ -20,12 +18,12 @@
 
 ===== বাইবেল কাহিনী থেকে উদাহরণসমূহ: =====
 
-  * \[৩২-০৪] এই ব্যক্তিটি এলাকার কবরস্থানে থাকত৷
-  * **[[:bn:obs:notes:frames:37-06|[37-06]]]** Jesus asked them, "Where have you put Lazarus?" They told him, "In the **tomb**. Come and see."
-  * **[[:bn:obs:notes:frames:37-07|[37-07]]]** The **tomb**  was a cave with a stone rolled in front of its opening.
-  * **[[:bn:obs:notes:frames:40-09|[40-09]]]** Then Joseph and Nicodemus, two Jewish leaders who believed Jesus was the Messiah, asked Pilate for Jesus' body. They wrapped his body in cloth and placed it in a **tomb**  cut out of rock. Then they rolled a large stone in front the **tomb**  to block the opening.
-  * **[[:bn:obs:notes:frames:41-04|[41-04]]]** He (the angel) rolled away the stone that was covering the entrance to the **tomb**  and sat on it. The soldiers guarding the **tomb**  were terrified and fell to the ground like dead men.
-  * **[[:bn:obs:notes:frames:41-05|[41-05]]]** When the women arrived at the **tomb**, the angel told them, "Do not be afraid. Jesus is not here. He has risen from the dead, just like he said he would! Look in the **tomb**  and see." The women looked into the **tomb**  and saw where Jesus' body had been laid. His body was not there!
+  * [৩২-০৪] এই ব্যক্তিটি এলাকার কবরস্থানে থাকত৷
+  * __[৩৭-০৬] __ যীশু তাদের জিজ্ঞাসা করলেন, “তোমরা লাসারকে কোথায় রেখেছ?” তারা বললেন, “কবরে৷ আসুন আর দেখুন৷”
+  * __[৩৭-০৭] __ কবরটি একটি গুহার মত ছিল যার প্রবেশ পথে পাথরের ঢাকনা ছিল৷
+  * __[৪০-০৯] __ তখন দুটি ইহুদি নেতা যোষেফ আর নীকদীম, যারা বিশ্বাস করতেন যে যীশু হলেন খ্রীষ্ট, তারা পীলাতের কাছে যীশুর মৃত দেহ চাইলেন৷ তারা তার দেহ কাপড়ে জড়ালেন আর পাথর কেটে বানানো এক কবরে তাকে রাখলেন৷ তারপর তারা এক বিরাট পাথর দিয়ে কবরের প্রবেশ দুয়ার বন্ধ করে দিল৷
+  * __[৪১-০৪] __ তিনি (স্বর্গদূত) পাথরটিকে সরিয়ে দিলেন যা কবরের মুখে রাখা ছিল আর তার উপর বসলেন৷ যে সৈন্যরা কবরের পাহারা দিচ্ছিল তারা ভয় পেল আর মরার মত হয়ে মাটিতে পরে গেল৷
+  * __[৪১-০৫] __ যখন মহিলারা কবরের স্থানে এলো, স্বর্গদূত তাদের বললেন, “ভয় পেও না৷” যীশু এখানে নেই৷ তিনি মৃতদের মধ্যে থেকে উঠে জীবিত হয়েছেন, যেমনটি তিনি বলেছিলেন৷ কবরের ভিতরে গিয়ে দেখো৷” মহিলারা ভিতরে গিয়ে দেখল আর যেখানে যীশুর দেহ রাখা ছিল সেখানে দেখল৷ তার শরীর সেখানে ছিল না!
 ~~DISCUSSION~~{{tag>publish ktobs}}
 
 ~~NOCACHE~~
