@@ -6,32 +6,32 @@
       * //না করেনি৷ তারা একত্র হয়েছিল আর একটি নগর নির্মান করেছিল৷ [০৪-০১]//
   - **সেই সময়ে পৃথিবীতে কত ধরনের ভাষা ছিল?**
       * //তখন কেবল একটিই ভাষা ছিল৷ [০৪-০১]//
-  - **What did the people work together to do instead of filling the earth?**
-      * //The started to build a tall tower to reach heaven. [04-02]//
-  - **What did God do to cause the people to spread out all over the world?**
-      * //He changed their language into many different languages. [04-03]//
-  - **What was the name of the city that they were building?**
-      * //Babel. [04-03]//
-  - **What does the name "Babel" mean?**
-      * //Confused. [04-03]//
-  - **What did God tell Abram to do?**
-      * //God told Abram to leave his country and family and go to another land. [04-04]//
-  - **What did God promise to do for Abram?**
-      * //He promised to give Abram all the land he could see, to make his name great, to make his descendants a great nation, and to bless all the families on earth through him. [04-04]//
-  - **To which land did Abram go?**
-      * //The land of Canaan. [04-05]//
-  - **What promise did God make to Abram about Canaan?**
-      * //God would give it to Abram and his descendants as an inheritance. [04-06]//
-  - **Who was Melchizedek?**
-      * //He was the priest of God Most High. [04-07]//
-  - **What did Melchizedek do for Abram?**
-      * //He blessed Abram. [04-07]//
-  - **What did Abram give to Melchizedek?**
-      * //A tenth of all he owned. [04-07]//
-  - **What did God promise Abram after he had lived in Canaan for many years?**
-      * //Abram would have a son and as many descendants as the stars in the sky. [04-08]//
-  - **Why did God say Abram was righteous?**
-      * //Because Abram believed God's promise. [04-08]//
-  - **What is a covenant?**
-      * //An agreement between two parties. [04-09]//
+  - **পৃথিবীকে পরিপূর্ণ না করে তারা তখন কি করছিল?**
+      * //তারা একটি আকাশ ছোঁয়া ইমারত নির্মান করা আরম্ভ করেছিল৷ [০৪-০২]//
+  - **ঈশ্বর লোকেদের সম্পূর্ণ পৃথিবীতে ছড়িয়ে যাওয়ার জন্য কি করেছিলেন?**
+      * //তিনি তাদের ভাষা বিভিন্ন ভাষায় বদলে দিয়েছিলেন৷ [০৪-০৩]//
+  - **সেই নগরের নাম কি ছিল যা তারা নির্মান করছিল?**
+      * //সেই নগরের নাম বাবিল ছিল৷ [০৪-০৩]//
+  - **“বাবিল” নামের অর্থ কি?**
+      * //এর অর্থ হল, “বিভ্রান্তি” বা, “ভেদ৷” [০৪-০৩]//
+  - **ঈশ্বর আব্রামকে কি করতে বলেছিলেন?**
+      * //ঈশ্বর আব্রামকে তার দেশ আর তার পরিবারকে ছেড়ে দিতে বলেছিলেন আর অন্য একটি দেশে যেতে বলেছিলেন৷ [০৪-০৪]//
+  - **ঈশ্বর আব্রামের জন্য কি করার প্রতিশ্রুতি দিয়েছিলেন?**
+      * //তিনি অব্রামকে সেই সকল ভূমি যা তিনি দেখেছিলেন তা দিতে, তার নাম মহান করতে, তার বংশধরদের একটি মহান রাষ্ট্র বানাতে, আর তার দ্বারা পৃথিবীর সকল জাতিদেরকে আশির্বাদ দিতে প্রতিশ্রুতি দিয়েছিলেন৷ [০৪-০৪] //
+  - **আব্রাম কোন দেশে গিয়েছিলেন?**
+      * //তিনি কানান দেশে বা কানান ভূমিতে গিয়েছিলেন৷ [০৪-০৫]//
+  - **কানানের বিষয়ে ঈশ্বর আব্রামের সাথে কোন প্রতিজ্ঞা করেছিলেন?**
+      * //ঈশ্বর অব্রামকে ও তার বংশধরদের একটি উত্তরাধিকার স্বরূপ তা দিতে প্রতিজ্ঞা করেছিলেন৷ [০৪-০৬]//
+  - **মল্কীযেদক কে ছিলেন?**
+      * //তিনি সর্বশক্তিমান ঈশ্বরের যাজক ছিলেন৷ [০৪-০৭]//
+  - **মল্কীযেদক আব্রামের জন্য কি করেছিলেন?**
+      * //তিনি তাকে আশির্বাদ করেছিলেন৷ [০৪-০৭]//
+  - **আব্রাম মল্কীযেদককে কি দিয়েছিলেন?**
+      * //তার সকল প্রাপ্ত ধনের দশমাংশ তাকে দিয়েছিলেন৷ [০৪-০৭] //
+  - **ঈশ্বর আব্রামের সাথে কোন প্রতিজ্ঞা করেছিলেন যখন তিনি কানানে বহু বছর ধরে থাকছিলেন?**
+      * //তিনি বলেছিলেন যে আব্রামের একটি পুত্র উৎপণ্য হবে আর আকাশের নক্ষত্রগনের তুল্য তার বংশধর হবে৷ [০৪-০৮]//
+  - **কেন ঈশ্বর আব্রামকে ধার্মিক বলেছিলেন?**
+      * //কারণ আব্রাম ঈশ্বরের উপর বিশ্বাস করেছিলেন৷ [০৪-০৮]//
+  - **নিয়মের অর্থ কি?**
+      * //এটি হল দুটি দলের মধ্যে স্থাপিত কোনো একটি চুক্তি৷ [০৪-০৯] //
 **[[:en:obs:notes:questions:03|<< ]] | [[:en:obs:notes:questions:05| >>]]**
