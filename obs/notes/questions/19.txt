@@ -1,39 +1,37 @@
-====== Story #19: The Prophets ======
+====== কাহিনী #১৯: ভাববাদীগন ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ  =====
 
-  - **Where did the prophets get the messages that they spoke to the people?**
-    *//They heard the messages from God. [19-01]//
-  - **What prophecy did Elijah speak to King Ahab?**
-    *//“There will be no rain or dew in the kingdom of Israel until I say so.” [19-02]//
-  - **How did God provide for Elijah in the wilderness where he was hiding?**
-    *//God sent birds every morning and evening with bread and meat. [19-03]//
-  - **How did God provide for Elijah when he lived with the widow and her son?**
-    *//God caused their flour jar and bottle of oil to never become empty. [19-04]//
-  - **What great evil did Elijah say that Ahab had committed?**
-    *//Ahab had abandoned Yahweh, the true God, and had worshiped Baal. [19-05]//
-  - **What choice did Elijah tell the people they must make?**
-    *//If Yahweh is God, serve him, but if Baal is God, serve him. [19-06]//
-  - **How did God demonstrate he was the real God?**
-    *//God sent fire from the sky and burned up the meat, the wood, the rocks, the dirt, and the water around the altar. [19-11]//
-  - **How did the people respond when they saw this demonstration of power?**
-    *//They fell on the ground and said, “Yahweh is God! Yahweh is God!” [19-11]//
-  - **What happened to the prophets of Baal?**
-    *//They were taken away and killed. [19-12]//
-  - **What did Elisha tell Naaman to do to in order to heal his skin disease?**
-    *//Dip himself seven times in the Jordan River. [19-14]//
-  - **What did Naaman do after he heard Elisha’s instructions?**
-    *//At first he was angry and would not do it because it seemed foolish, but later he changed his mind and did it, and was completely healed. [19-15]//
-  - **What was the common message of the prophets to the people?**
-    *//Stop worshiping idols and show justice and mercy to others; otherwise, God will punish you. [19-16]//
-  - **In general, how did the people treat the prophets?**
-    *//The people mistreated the prophets and sometimes even killed them. [19-17]//
-  - **How did the people mistreat the prophet Jeremiah?**
-    *//The people put Jeremiah in a dry well and left him there to die. [19-17]//
-  - **Did Jeremiah die in the well?**
-    *//No. The king had mercy on him and had his servants pull Jeremiah out. [19-17]//
-  - **The prophets reminded the people that God would send a special person. Who was that person?**
-    *//The person that God would send was the Messiah. [19-18]//
-
-
-**[[en/obs/notes/questions/18|<<  ]] | [[en/obs/notes/questions/20| >>]]**
+  - **ভাববাদীরা তাদের সংবাদ তারা কোথা থেকে প্রাপ্ত করত যা তারা লোকেদের বলত?**
+      * //তারা সেই বার্তা ঈশ্বরের কাছ থেকে প্রাপ্ত করত৷ [১৯-০১]//
+  - **এলিয় আহাব রাজাকে কোন ভাববাণী করেছিলেন?**
+      * //“যতক্ষণ না আমি আজ্ঞা দিই ততদিন পর্যন্ত কোনো বৃষ্টি বা শিশির ভূমির উপর পরবে না৷” [১৯-০২]//
+  - **ঈশ্বর এলিয়র প্রয়োজনীয়তা কিভাবে পূরণ করেছিলেন যখন তিনি নির্জনপ্রদেশে লুকিয়ে ছিলেন?**
+      * //ঈশ্বর প্রতি সকালে পাখিদেরকে রুটি ও মাংসের সাথে তার কাছে পাঠিয়ে দিতেন৷ [১৯-০৩]//
+  - **ঈশ্বর এলিয়র প্রয়োজনীয়তা কিভাবে পূরণ করেছিলেন যখন তিনি সেই বিধবা ও তার পুত্রের সাথে ছিলেন?**
+      * //ঈশ্বর তাদের আটার পত্র ও তেলের শিশি কখনও খালি হতে দেননি৷ [১৯-০৪]//
+  - **এলিয় কোন মহা দুষ্টতার কথা বলেছিলেন যা আহাব করেছিলেন?**
+      * //আহাব যীহোবা, সত্য ঈশ্বরকে পরিত্যাগ করেছিলেন আর বাল দেবের আরাধনা করেছিলেন৷ [১৯-০৫] //
+  - **এলিয় লোকেদেরকে কোন নির্বাচন নেওয়ার বিষয়ে বলেছিলেন?**
+      * //যদি যীহোবা ঈশ্বর হন, তবে তার সেবা কর কিন্তু যদি বাল দেবতা ঈশ্বর হয় তবে তাকে সেবা কর৷ [১৯-০৬]//
+  - **ঈশ্বর কিভাবে দেখিয়েছিলেন যে তিনিই সত্য ও একমাত্র ঈশ্বর?**
+      * //ঈশ্বর আকাশ থেকে অগ্নি নিক্ষেপ করে মাংস, কাঠ, পাথর, ধুলা, আর বেদীর চারধারের জল সকলই জ্বালিয়ে দিয়েছিলেন৷ [১৯-১১]//
+  - **কিভাবে লোকেরা প্রতিক্রিয়া করেছিল যখন তারা সেই শক্তির প্রমান দেখেছিল?**
+      * //তারা ভূমিতে পরে প্রণিপাত করেছিল আর বলেছিল, “যীহোবাই একমাত্র ঈশ্বর! যীহোবাই একমাত্র ঈশ্বর!” [১৯-১১]//
+  - **বালের ভাববাদীদের কি পরিনতি হয়েছিল?**
+      * //তাদের দূরে নিয়ে গিয়ে হত্যা করা হয়েছিল৷ [১৯-১২]//
+  - **ইলীশায় নামানকে সুস্থ হওয়ার জন্য কি করতে বলেছিলেন?**
+      * //যর্দ্দন নদীতে ডুব দিতে বলেছিলেন৷ [১৯-১৪]//
+  - **ইলীশায়ের নির্দেশন শোনার পর নামান কি করেছিলেন?**
+      * //প্রথমে তিনি ক্রুদ্ধ হয়েছিলেন আর তা করেননি কেননা তা মূর্খতাপূর্ণ দেখাচ্ছিল, কিন্তু পরে তিনি তার মন বদলান আর তা করেন আর তিনি সম্পূর্নভাবে সুস্থ হয়ে গিয়েছিলেন৷ [১৯-১৫]//
+  - **লোকেদের জন্য ভাববাদীদের সাধারণ সংবাদটি কি ছিল?**
+      * //মূর্তি পূজা করা বন্ধ করা, আর অন্যদের প্রতি ন্যায় বিচার করতে ও দয়া দেখাতে; নতুবা ঈশ্বর তাদের শাস্থি দেবেন৷ [১৯-১৬]  //
+  - **সাধারণতঃ, লোকেরা ভাববাদীদের সাথে কিরূপ ব্যবহার করত?**
+      * //লোকেরা তাদের সাথে কুব্যবহার করত আর কোনো কোনো সময় তাদের হত্যাও করত৷ [১৯-১৭]//
+  - **যিরমিয় ভাববাদীর সাথে লোকেরা কিরূপ আচরণ করেছিল?**
+      * //লোকেরা যিরমিয়কে একটি শুকনো কুয়াতে ফেলে দিয়েছিল আর তাকে মরার জন্য সেখানেই ছেড়ে দিয়েছিল৷ [১৯-১৭]//
+  - **যিরমিয় কি কুয়োতে মারা গিয়েছিলেন?**
+      * //না, তিনি সেখানে মারা যাননি৷ রাজার তার প্রতি দয়া হয় আর তার চাকরেরা তাকে সেখান থেকে তুলে নিয়েছিল৷ [১৯-১৭]//
+  - **ভাববাদীরা লোকেদের মনে করাত যে ঈশ্বর একজন বিশেষ ব্যক্তিকে পাঠাবেন৷ সেই ব্যক্তিটি কে ছিলেন?**
+      * //যে ব্যক্তিটিকে ঈশ্বর পাঠাবেন বলেছিলেন তিনি ছিলেন খ্রীষ্ট৷ [১৯-১৮]//
+**[[:en:obs:notes:questions:18|<< ]] | [[:en:obs:notes:questions:20| >>]]**
