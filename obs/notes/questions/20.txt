@@ -1,32 +1,29 @@
-====== Story #20: The Exile and Return ======
+====== কাহিনী #২০: নির্বাসন আর সেখান থেকে দেশে ফিরে আসা ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ  =====
 
-
-  - **What was the warning that the prophets spoke to the people?**
-    *//They told them to repent and worship God. [20-01]//
-  - **How did the people respond to the message from the prophets?**
-    *//The people refused to obey. [20-01]//
-  - **What enemy destroyed the kingdom of Israel?**
-    *//The Assyrian Empire. [20-02]//
-  - **Who were the Samaritans?**
-    *//The descendants of the Israelites who married the foreigners brought to the land by the Assyrians. [20-04]//
-  - **Did the people of the kingdom of Judah obey God when they saw how he had punished the kingdom of Israel?**
-    *//No, they continued worshiping idols. [20-05]//
-  - **Who did the king of Judah agree to serve?**
-    *//King Nebuchadnezzar of Babylon. [20-06]//
-  - **When the king of Judah rebelled, what did Nebuchadnezzar’s soldiers do to him?**
-    *//They killed the king’s sons in front of him, made him blind, and took him away to die in prison in Babylon. [20-08]//
-  - **What do we call the period of time when God’s people were forced to leave the Promised Land?**
-    *//The Exile. [20-09]//
-  - **What did God promise to the people during the Exile?**
-    *//God promised that after seventy years, they would return to the Promised Land. [20-10]//
-  - **Who was the king who defeated the Babylonians?**
-    *//King Cyrus of the Persian Empire. [20-11]//
-  - **What order did King Cyrus give concerning the Jews?**
-    *//Any Jew who wanted to return to Judah could go there. [20-12]//
-  - **What did the Jews do when they returned to Jerusalem?**
-    *//They rebuilt the Temple and the wall around the city. [20-13]//
-
-
-**[[en/obs/notes/questions/19|<<  ]] | [[en/obs/notes/questions/21| >>]]**
+  - **ভাববাদীরা লোকেদের কোন বিপদের বিষয়ে সতর্ক করত?**
+      * //তারা তাদের বলেছিল যে অনুশোচনা কর ও ঈশ্বরের আরাধনা কর৷ [২০-০১]//
+  - **লোকেরা ভাববাদীদের সংবাদের প্রতি কেমন প্রতিক্রিয়া করেছিল?**
+      * //লোকেরা তাদের কথা পালন করেনি৷ [২০-০১]//
+  - **ইস্রায়েল রাজ্যকে কোন শত্রুপক্ষ ধ্বংস করেছিল?**
+      * //অশুরিয় সাম্রাজ্য৷ [২০-০২]//
+  - **শমরিয়রা করা ছিল?**
+      * //এরা ছিল সেই ইস্রায়েলীয়দের বংশধর সকল যারা অশুরিয়দের ইস্রায়েল রাজ্যে নিয়ে আসা বিদেশীদের সাথে বিবাহ করেছিল৷ [২০-০৪] //
+  - **যিহুদা রাজ্যের লোকেরা কি ঈশ্বরের আজ্ঞাকারী হয়েছিল যখন তারা দেখেছিল যে কিভাবে ঈশ্বর ইস্রায়েল রাজ্যকে শাস্তি দিয়েছিলেন?**
+      * //না, বরং তারা মূর্তিদের আরাধনা করা বহাল রেখেছিল৷ [২০-০৫]//
+  - **যিহুদার রাজা কার সেবা করার সিদ্ধান্ত নিয়েছিল?**
+      * //ব্যাবিলনের রাজা নবূখদনিৎসরের সেবা করার সিদ্ধান্ত নিয়েছিল৷ [২০-০৬]//
+  - **যখন যিহুদার রাজা নবূখদনিৎসরের বিরুদ্ধে বিদ্রোহ করেছিল তখন নবূখদনিৎসরের সৈন্যরা তার সাথে কি করেছিল?**
+      * //তারা রাজার পুত্রদের তার চোখের সামনে হত্যা করেছিল, তাকে অন্ধ করে দিয়েছিল আর তাকে ব্যাবিলনে বন্দী করে নিয়ে গিয়েছিল৷ [২০-০৮] //
+  - **সেই সময় কালকে আমরা কি বলি যখন ঈশ্বরের লোকেদের প্রতিজ্ঞার ভূমি ছাড়তে বাধ্য করা হয়েছিল?**
+      * //নির্বাসন৷ [২০-০৯]//
+  - **ঈশ্বর নির্বাসনের সময় কালে লোকেদের কোন প্রতিজ্ঞা করেছিলেন?**
+      * //ঈশ্বর প্রতিজ্ঞা করেছিলেন যে সত্তর বছর পর, তারা প্রতিজ্ঞার ভূমিতে পুনরায় ফিরে যেতে পারবে৷ [২০-১০]//
+  - **কোন রাজা ব্যাবিলন সাম্রাজ্যকে পরাজিত করেছিলেন?**
+      * //পারস্য সাম্রাজ্যের রাজা কোরস তাদের পরাজিত করেছিল৷ [২০-১১]//
+  - **ইহুদিদের বিষয়ে কোরস রাজা কি আদেশ দিয়েছিলেন?**
+      * //কোনও ইহুদি যে যিহুদা রাজ্যে ফিরে যেতে চায় সে যেতে পারে৷ [২০-১২]//
+  - **ইহুদিরা যেরুশালেমে ফিরে গিয়ে কি করেছিল?**
+      * //তারা মন্দিরটিকে আর নগরের সুরক্ষা প্রাচীরটিকে পুনরায় নির্মান করেছিল৷ [২০-১৩]//
+**[[:en:obs:notes:questions:19|<< ]] | [[:en:obs:notes:questions:21| >>]]**
