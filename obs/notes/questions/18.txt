@@ -1,31 +1,29 @@
-====== Story #18: The Divided Kingdom ======
+====== কাহিনী #১৮: বিভক্ত রাজ্য ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ  =====
 
-  - **What did Solomon ask God to give him?**
-    *//Wisdom. [18-01]//
-  - **What was the purpose of the Temple that Solomon built?**
-    *//It was a place for the people to worship God and offer sacrifices. [18-02]//
-  - **What serious sins did Solomon commit?**
-    *//He married many foreign women and worshiped their gods in his old age. [18-03]//
-  - **How did God punish Solomon’s sins?**
-    *//God promised to divide the nation of Israel into two kingdoms after Solomon’s death. [18-04]//
-  - **What foolish answer did Rehoboam give to the people?**
-    *//I will make you work harder and punish you more than my father Solomon did. [18-06]//
-  - **What was the name of the kingdom founded by the two southern tribes who remained with Rehoboam?**
-    *//The kingdom of Judah. [18-07]//
-  - **How many of the tribes rebelled against Rehoboam and formed the northern kingdom?**
-    *//Ten tribes joined the kingdom of Israel. [18-08]//
-  - **What did Jeroboam do to keep his people from going to Judah to worship at the Temple?**
-    *//He built two idols for the people to worship. [18-09]//
-  - **How many of the kings of Israel were faithful to God?**
-    *//None. [18-11]//
-  - **What were some of the evil practices that were often included in the worship of idols?**
-    *//Sexual immorality and child sacrifice. [18-12]//
-  - **Who was the ancestor of the kings of Judah?**
-    *//King David. [18-13]//
-  - **Were any kings of Judah faithful to God?**
-    *//Yes, some were faithful, but most were evil. [18-13]//
-
-
-**[[en/obs/notes/questions/17|<<  ]] | [[en/obs/notes/questions/19| >>]]**
+  - **শলোমন ঈশ্বরের কাছে কি চেয়েছিলেন?**
+      * //তিনি বুদ্ধি চেয়েছিলেন৷ [১৮-০১]//
+  - **শলোমনের তৈরী মন্দিরের উদ্দেশ্যটি কি ছিল?**
+      * //এটি লোকেদের ঈশ্বরকে আরাধনা ও বলি উৎসর্গ করার জায়গা ছিল৷ [১৮-০২]//
+  - **শলোমন কোন মহাপাপ করেছিলেন?**
+      * //তিনি বহু বিদেশী মহিলাদের বিবাহ করেছিলেন আর বৃদ্ধ বয়সে তিনি তাদের দেবদেবীদের আরাধনা করেছিলেন৷ [১৮-০৩]//
+  - **কিভাবে ঈশ্বর শলোমনকে শাস্তি দিয়েছিলেন?**
+      * //ঈশ্বর শলোমনের মৃত্যুর পর ইস্রায়েল রাজ্যকে দুটি রাজ্য বিভাগ করার প্রতিজ্ঞা করেছিলেন৷ [১৮-০৪] //
+  - **রহবিয়াম লোকেদের কোন মুর্খতা পূর্ণ জবাব দিয়েছিলেন?**
+      * //আমি তোমাদের আমার পিতা শলোমনের তুলনায় আরো কঠিন কার্য করাব আর শাস্তি দেবো৷ [১৮-০৬]//
+  - **সেই রাজ্যটির নাম কি ছিল যা দুটি গোত্রের দ্বারা গঠিত হয়েছিল আর যারা রহবিয়ামের সাথে থেকেছিল?**
+      * //যিহুদা রাজ্য৷ [১৮-০৭]//
+  - **কতগুলো গোত্র রহবিয়ামের বিরুদ্ধে গিয়ে দক্ষিনের রাজ্য গঠন করেছিল? **
+      * //দশটি গোত্র তার বিরুদ্ধে গিয়ে উত্তরের ইস্রায়েল রাজ্য স্থাপন করেছিলেন৷ [১৮-০৮]//
+  - **যারবিয়াম লোকেদের যিহুদা রাজ্যের মন্দিরে না যাওয়ার জন্য কি করেছিলেন?**
+      * //তিনি লোকেদের আরাধনা করার জন্য দুটি মূর্তি নির্মান করিয়েছিলেন৷ [১৮-০৯]//
+  - **ইস্রায়েল রাজ্যের কতজন রাজা ঈশ্বরের প্রতি বিশ্বাসযোগ্য ছিলেন?**
+      * //কেউই ছিলেন না৷ [১৮-১১]//
+  - **সেই ঘৃণাভরা পাপিষ্ট কার্যগুলো কি কি ছিল যা প্রায়ই লোকেরা মূর্তির আরাধনায় অন্তর্ভুক্ত করত?**
+      * //যৌন অনৈতিকতা ও শিশু বলি৷ [১৮-১২]//
+  - **যিহুদা রাজ্যের রাজাদের পূর্বপুরুষ কে ছিলেন?**
+      * //রাজা দায়ূদ৷ [১৮-১৩]//
+  - **যিহুদা রাজ্যের রাজাদের মধ্যে কোনো রাজা কি ঈশ্বরের প্রতি বিশ্বাসযোগ্য ছিলেন?**
+      * //হ্যাঁ, কিছু কিছু রাজা বিশ্বাস যোগ্য ছিলেন, কিন্তু বেশিরভাগই দুষ্ট ছিলেন৷ [১৮-১৩]//
+**[[:en:obs:notes:questions:17|<< ]] | [[:en:obs:notes:questions:19| >>]]**
