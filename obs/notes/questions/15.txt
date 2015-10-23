@@ -1,35 +1,33 @@
-====== Story #15: The Promised Land ======
+====== কাহিনী #১৫: প্রতিজ্ঞার ভূমি ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ  =====
 
-  - **When it was time to enter the Promised Land, what did Joshua do first**
-    *//He sent two spies to Jericho. [15-01]//
-  - **What did the spies promise to do for Rahab the prostitute?**
-    *//They promised to protect Rahab and her family when the Israelites destroyed the city. [15-01]//
-  - **How were the Israelites able to cross the Jordan River?**
-    *//When the priests started to step into the Jordan River, the water stopped flowing. [15-02]//
-  - **How did the Israelites attack Jericho?**
-    *//They marched around the city once a day for six days, then on the seventh day they marched around the city seven more times. While they marched around the city for the last time, the soldiers shouted while the priests blew trumpets. [15-03], [15-04]//
-  - **What happened when the soldiers shouted and the priests blew trumpets?**
-    *//The walls of Jericho fell down so the Israelites could destroy everything in the city. [15-05]//
-  - **What happened to Rahab and her family?**
-    *//They were not killed, and became part of the Israelites. [15-05]//
-  - **How did the Gibeonites trick the Israelites into making a peace treaty with them?**
-    *//They said they were from a place far from Canaan. [15-06]//
-  - **Why did Joshua and the Israelites not know the Gibeonites were lying?**
-    *//They did not ask God. [15-06]//
-  - **Why did the Israelites keep the peace treaty and defend the Gibeonites?**
-    *//Because they had made a promise before God. [15-07]//
-  - **How did God fight for the Israelites against the Amorites?**
-    *//He confused the Amorites, sent large hailstones on them, and caused the sun to stay in one place so the Israelites had enough time to completely defeat them. [15-09], [15-10]//
-  - **What did Joshua and the Israelites do to the other Canaanite people groups who attacked them?**
-    *//Joshua and the Israelites destroyed them. [15-11]//
-  - **How was the Promised Land divided?**
-    *//God gave each of the twelve tribes of Israel its own section. [15-12]//
-  - **Why did Joshua call the Israelites together when he was old?**
-    *//To remind them of their obligation to obey the covenant that God had made with them. [15-13]//
-  - **How did the Israelites answer Joshua?**
-    *//They promised to remain faithful to God and to follow his laws. [15-13]//
-
-
-**[[en/obs/notes/questions/14|<< ]] | [[en/obs/notes/questions/16| >>]]**
+  - **যখন প্রতিজ্ঞার ভূমিতে প্রবেশ করার সময় হয়েছিল, তখন যিহোশূয় সর্ব প্রথম কি করেছিলেন?**
+      * //তিনি দুটো গুপ্তচরদের যিরীহো নগরে পাঠিয়েছিলেন৷ [১৫-০১]//
+  - **সেই গুপ্তচরগুলো রাহব বেশ্যার প্রতি কি করার প্রতিশ্রুতি দিয়েছিলেন?**
+      * //যখন ইস্রায়েলীয়রা সেই নগর ধ্বংস করবে তখন তারা রাহব ও তার পরিবারের লোকেদের রক্ষা করার প্রতিশ্রুতি দিয়েছিলেন৷ [১৫-০১]//
+  - ইস্রায়েলীয়রা কিভাবে যর্দ্দন নদী পার হতে সক্ষম হয়েছিল?
+      * //যখন যাজকগন যর্দ্দন নদীতে পা রেখেছিল, তখন নদীর জল প্রবাহিত হওয়া বন্ধ হয়ে গিয়েছিল৷ [১৫-০২]//
+  - **কিভাবে ইস্রায়েলীয়রা যিরীহো নগরকে আক্রমন করেছিল?**
+      * //তারা দিনে একবার করে ছয়দিন পর্যন্ত নগরের চারদিকে প্রদক্ষিন করেছিল, তারপর সপ্তম দিনে আরো সাতবার নগরের চারদিকে প্রদক্ষণ করেছিল৷ যখন তারা শেষবার প্রদক্ষিন করেছিল তখন সৈন্যরা স্বজোরে চিৎকার করেছিল ও যাজকেরা তুরীর ধ্বনি করেছিল৷ [১৫-০৩], [১৫-০৪]//
+  - **কি হয়েছিল যখন সৈন্যরা স্বজোরে চিৎকার করেছিল ও যাজকেরা তুরীর ধ্বনি করেছিল?**
+      * //যিরীহো নগরের চারধারের সুরক্ষা দেওয়াল ভেঙ্গে পরে গিয়েছিল যেন ইস্রায়েলীয়রা নগরটিতে প্রবেশ করে ধ্বংস করতে পারে৷ [১৫-০৫] //
+  - **রাহব ও তার পরিবারের লোকজনদের সাথে কি হয়েছিল?**
+      * //তাদের হত্যা করা হয়নি আর পরে তারা ইস্রায়েলীয়দের একটি অংশ হয়েছিল৷ [১৫-০৫]//
+  - **কিভাবে গিবিয়োনীয়রা ইস্রায়েলীয়দের সাথে একটি শান্তি চুক্তি স্থাপন করার জন্য ছলনা করেছিল?**
+      * //তারা তাদের বলেছিল যে তারা কানান দেশের বহু দূরের নিবাসী৷ [১৫-০৬]//
+  - **কেন যিহোশূয় ও ইস্রায়েলীয়রা গিবিয়োনীয়রা যে মিথ্যে বলছিল তা জানত পারেনি?**
+      * //কারণ তারা ঈশ্বরকে তাদের বিষয়ে জিজ্ঞেস করেনি৷ [১৫-০৬]//
+  - **কেন ইস্রায়েলীয়রা গিবিয়োনীয়দের সাথে শান্তি চুক্তি করেছিল ও তাদের রক্ষা করেছিল?**
+      * //কারণ তারা তেমনটি করার জন্য ঈশ্বরের সম্মুক্ষে প্রতিজ্ঞা করেছিল৷ [১৫-০৭]//
+  - **ঈশ্বর ইমোরীয়দের বিরুদ্ধে কিভাবে ইস্রায়েলীয়দের পক্ষে লড়াই করেছিলেন?**
+      * //তিনি ইমোরীয়দের বিভ্রান্ত করেছিলেন, আর তাদের উপর শিলাবৃষ্টি করিয়েছিলেন, আর সূর্যকে একই স্থানে রেখে দিয়েছিলেন যেন ইস্রায়েলীয়রা তাদের পরাজিত করার জন্য যুদ্ধে যথেষ্ট সময় পায়৷ [১৫-০৯], [১৫-১০] //
+  - **যিহোশূয় আর অন্যান্য ইস্রায়েলীয়রা কি করেছিল কানানের অন্যান্য জনগোষ্টিদের সাথে যারা তাদের আক্রমন করেছিল?**
+      * //যিহোশূয় আর অন্যান্য ইস্রায়েলীয়রা তাদের পরাজিত করেছিল৷ [১৫-১১]//
+  - **কিভাবে প্রতিজ্ঞার ভূমিকে বিভাজিত করা হয়?**
+      * //ঈশ্বর ইস্রায়েলীয়দের বারোটি গোত্রের প্রত্যেকটিকে তাদের নিজ ভাগের ভূখন্ড দিয়েছিলেন৷ [১৫-১২]//
+  - **যিহোশূয় কেন সকল ইস্রায়েলীয়দের একত্র ডেকেছিলেন যখন তিনি বৃদ্ধ হয়েছিলেন?**
+      * //তাদের ঈশ্বরের স্থাপিত নিয়মটিকে স্বরণ করাতে তিনি তাদের ডেকেছিলেন৷ [১৫-১৩]//
+  - **ইস্রায়েলীয়রা যিহোশূয়কে কেমন উত্তর দিয়েছিল?**
+      * //তারা ঈশ্বরের প্রতি বিশ্বাসযোগ্য থাকার ও তার নিয়ম অনুস্বরণ করার প্রতিজ্ঞা করেছিল৷ [১৫-১৩]//
+**[[:en:obs:notes:questions:14|<< ]] | [[:en:obs:notes:questions:16| >>]]**
