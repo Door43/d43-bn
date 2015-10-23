@@ -1,33 +1,31 @@
-====== Story #22: The Birth of John ======
+====== কাহিনী #২২: যোহনের জন্ম ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ  =====
 
-  - **How many years had passed since God had spoken to his people?**
-    *//400 years. [22-01]//
-  - **What problem did Elizabeth, Zechariah’s wife, have?**
-    *//She had not been able to have children. [22-01]//
-  - **What did the angel tell Zechariah to name his son?**
-    *//He was to name him John. [22-02]//
-  - **What did the angel say John would do in his life?**
-    *//John would prepare the people for the Messiah. [22-02]//
-  - **Why did Zechariah not believe Elizabeth would have a son?**
-    *//They were too old. [22-02]//
-  - **How did the angel punish Zechariah because he did not believe?**
-    *//Zechariah was not able to speak until John was born. [22-03]//
-  - **How long had Elizabeth been pregnant when the angel appeared to Mary?**
-    *//Six months. [22-04]//
-  - **What did the angel say was going to happen to Mary?**
-    *//She would become pregnant and give birth to a son. [22-04]//
-  - **Who did the angel say Jesus was going to be?**
-    *//The Son of the Most High God. [22-04]//
-  - **Why was Jesus’ birth a miracle?**
-    *//Mary was a virgin. [22-05]//
-  - **Whose son is Jesus?**
-    *//Jesus is the Son of God. [22-05]//
-  - **Who did Mary go to visit after after the angel left her?**
-    *//She went to visit Elizabeth. [22-06]//
-  - **What did Zechariah say about John?**
-    *//John would be a prophet of the Most High God and would tell the people how they could receive forgiveness for their sins. [22-07]//
-
-
-**[[en/obs/notes/questions/21|<<  ]] | [[en/obs/notes/questions/23| >>]]**
+  - **কত বছর ঈশ্বর তার লোকেদেরকে কোনো সংবাদ দেননি বা কথা বলেননি?**
+      * //৪০০ বছর৷ [২২-০১]//
+  - **সখরিয়ের স্ত্রী, ইলীশাবেতের কি সমস্যা ছিল?**
+      * //তিনি সন্তান উৎপন্ন করতে অক্ষম ছিলেন৷ [২২-০১]//
+  - স্**বর্গদূত সখরিয়কে তার পুত্রের নাম কি রাখতে বলেছিলেন?**
+      * //তাকে তার নাম যোহন রাখতে বলা হয়েছিল৷ [২২-০২]//
+  - **স্বর্গদূত যোহন তার জীবনে কি কাজ করবেন তা বলেছিলেন?**
+      * //তিনি বলেছিলেন যে যোহন খ্রীষ্টের জন্য লোকেদের প্রস্তুত করবেন৷ [২২-০২]//
+  - **কেন সখরিয় বিশ্বাস করেননি যে ইলীশাবেত একটি পুত্রের জন্ম দেবেন?**
+      * //কারণ তারা অত্যন্ত বৃদ্ধ ছিলেন৷ [২২-০২]//
+  - **কিভাবে স্বর্গদূত সখরিয়কে শাস্তি দিয়েছিলেন কারণ তিনি তার উপর বিশ্বাস করেননি?**
+      * //সখরিয় যোহনের জন্ম হওয়া পর্যন্ত কথা বলতে অক্ষম ছিলেন৷ [২২-০৩]//
+  - **স্বর্গদূতটি মরিয়মের কাছে আবির্ভাব হওয়ার সময় ইলীশাবেত কতদিনের অন্তঃসত্ত্বা ছিলেন?**
+      * //তিনি ছয় মাসের অন্তঃসত্ত্বা ছিলেন৷ [২২-০৪]//
+  - **স্বর্গদূতটি মরিয়মকে কি ঘটার বিষয়ে বলেছিলেন?**
+      * //তিনি বলেছিলেন যে তিনি গর্ভবতী হবেন আর তিনি একটি পুত্রের জন্ম দেবেন৷ [২২-০৪]//
+  - **স্বর্গদূতটি প্রভু যীশুর বিষয়ে মরিয়মকে কি বলেছিলেন যে তিনি কি হবেন?**
+      * //তিনি বলেছিলেন যে তিনি সর্বশক্তিমান ঈশ্বরের পুত্র হবেন৷ [২২-০৪]//
+  - **কেন যীশুর জন্ম একটি অদ্ভুত বিষয় ছিল?**
+      * //কারণ প্রভু যীশু কুমারী মরিয়মের দ্বারা উৎপন্ন হয়েছিলেন৷ [২২-০৫]//
+  - **যীশু কার পুত্র ছিলেন?**
+      * //প্রভু যীশু মহান ঈশ্বরের পুত্র ছিলেন৷ [২২-০৫]//
+  - **মরিয়ম স্বর্গদূতটির চলে যাওয়ার পর কার সাথে দেখা সাক্ষাৎকার করতে গিয়েছিলেন?**
+      * //তিনি ইলীশাবেতের সাথে দেখা করতে গিয়েছিলেন৷ [২২-০৬]//
+  - **সখরিয় যোহনের বিষয়ে কি বলেছিলেন?**
+      * //তিনি বলেছিলেন যে তিনি সর্বশক্তিমান ঈশ্বরের একজন ভাববাদী হবেন আর তিনি লোকেদের বলবেন যে তারা কিভাবে তাদের পাপের ক্ষমা প্রাপ্ত করতে পারবে৷ [২২-০৭]//
+**[[:en:obs:notes:questions:21|<< ]] | [[:en:obs:notes:questions:23| >>]]**
