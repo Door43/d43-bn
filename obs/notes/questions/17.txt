@@ -1,39 +1,37 @@
-====== Story #17: God’s Covenant with David ======
+====== কাহিনী #১৭: ঈশ্বর দায়ূদের সাথে তার নিয়ম স্থাপন করেন ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ  =====
 
-  - **Was Saul, the first king of Israel, a good king or a wicked king?**
-    *//He was good for the first few years, but then he became wicked. [17-01]//
-  - **What was David's occupation before he became king?**
-    *//He was a shepherd who took care of sheep. [17-02]//
-  - **Why was it so amazing that David was able to kill Goliath?**
-    *//Goliath was a trained soldier, very strong, and almost three meters tall! [17-03]//
-  - **Why did the people of Israel praise David?**
-    *//He won many victories over Israel’s enemies. [17-03]//
-  - **What did David do when he had a chance to kill Saul in the cave?**
-    *//He spared Saul and only cut off a piece of is clothes. [17-04]//
-  - **What was the city that David conquered and then made his capital?**
-    *//Jerusalem. [17-05]//
-  - **What did David want to build for God?**
-    *//David wanted to build a temple where all the Israelites could worship God and offer sacrifices. [17-06]//
-  - **Why did God not allow David to build the temple?**
-    *//David was a man of war. [17-07]//
-  - **Who did God say would build the temple?**
-    *//David’s son would build it. [17-07]//
-  - **What was the great promise that God gave to David?**
-    *//God promised that one of David’s descendants would rule as king over God's people forever. [17-07]//
-  - **What great act would the Messiah do?**
-    *//He would save the people of the world from their sin. [17-07]//
-  - **What terrible sin did David commit later in his life?**
-    *//He slept with Uriah’s wife Bathsheba, and murdered Uriah. [17-10], [17-11], [17-12]//
-  - **What did David do when Nathan confronted him about his sin?**
-    *//David repented of his sin, and God forgave him. [17-13]//
-  - **How did God punish David for his sin?**
-    *//David’s baby boy died, there was fighting in David’s family for the rest of his life, and David’s power was greatly weakened. [17-14]//
-  - **Did God still keep his promises to David in spite of David's unfaithfulness?**
-    *//Yes. [17-14]//
-  - **What was the name of that son that was later born to David and Bathsheba?**
-    *//Solomon. [17-14]//
-
-
-**[[en/obs/notes/questions/16|<<  ]] | [[en/obs/notes/questions/18| >>]]**
+  - **ইস্রায়েলের প্রথম রাজা, শৌল একজন ভালো রাজা ছিলেন না খারাপ রাজা ছিলেন?**
+      * //তিনি প্রথম কিছু বছর ভালো ও সৎ ছিলেন, কিন্তু পরে তিনি দুষ্ট রাজায় পরিনত হন৷ [১৭-০১]//
+  - **দায়ূদ রাজা হওয়ার পূর্বে তার পেশা কি ছিল?**
+      * //তিনি একজন মেষপালক ছিলেন যিনি ভেড়ার পাল দেখাশুনা করতেন৷ [১৭-০২]//
+  - **কেন এটি এমন অদ্ভুত বিষয় ছিল যে দায়ূদ গলিয়াৎকে মারতে সক্ষম হয়েছিলেন?**
+      * //কারণ গলিয়াৎ একটি প্রশিক্ষিত, শক্তিশালী আর প্রায় তিন মিটার উচ্চ একটি সৈন্য ছিলেন! [১৭-০৩] //
+  - **কেন ইস্রায়েলের লোকেরা দায়ূদের প্রশংসা করেছিল?**
+      * //কেননা তিনি ইস্রায়েলীয়দের বহু শত্রুদের উপর বিজয় হয়েছিলেন৷ [১৭-০৩] //
+  - **দায়ূদ কি করেছিলেন যখন গুহায় তিনি শৌলকে হত্যা করার সুযোগ পেয়েছিলেন?**
+      * //তিনি শৌলকে ছেড়ে দেন আর তিনি কেবল তার কাপড়ের এক টুকরো কেটেছিলেন৷ [১৭-০৪] //
+  - **কোন শহরকে দায়ূদ অধিকার করেছিলেন আর সেটিকে পরে তার রাজধানী করেছিলেন?**
+      * //যেরুশালেম নগর৷ [১৭-০৫]//
+  - **দায়ূদ ঈশ্বরের জন্য কি নির্মান করতে চেয়েছিলেন?**
+      * //দায়ূদ একটি মন্দির ভবনের নির্মান করতে চেয়েছিলেন যেখানে সকল ইস্রায়েলীয়রা ঈশ্বরের আরাধনা ও বলি উৎসর্গ করতে পারে৷ [১৭-০৬]//
+  - **ঈশ্বর কেন দায়ূদকে মন্দির নির্মান করতে দেননি?**
+      * //কারণ দায়ূদ একজন যুদ্ধপ্রিয় ব্যক্তি ছিলেন৷ [১৭-০৭]//
+  - **ঈশ্বর কার বিষয়ে বলেছিলেন যিনি মন্দির নির্মান করবেন?**
+      * //ঈশ্বর দায়ূদ পুত্র শলোমনের বিষয়ে বলেছিলেন৷[১৭-০৭]//
+  - **মহান প্রতিজ্ঞা কি ছিল যা ঈশ্বর দায়ূদকে দিয়েছিলেন?**
+      * //ঈশ্বর প্রতিজ্ঞা করেছিলেন যে দায়ূদের এক উত্তরাধিকারী ঈশ্বরের প্রজাদের উপর চিরকাল রাজত্ব করবেন৷ [১৭-০৭]//
+  - **কোন মহান কার্য খ্রীষ্ট করবেন?**
+      * //তিনি বিশ্বের লোকেদের তাদের পাপ থেকে উদ্ধার করবেন৷ [১৭-০৭]//
+  - **কোন মহাপাপ দায়ূদ তার পরবর্তী জীবনে করেছিলেন?**
+      * //তিনি উরিয়ের স্ত্রীর সাথে শয়ন (ব্যভিচার) করেছিলেন আর উরিয়কে হত্যা করেছিলেন৷ \[১৭-১০], \[১৭-১১], \[১৭-১২]//
+  - **দায়ূদ তখন কি করেছিলেন যখন নাথান তাকে তার পাপ বিষয়ে দোষী করেছিলেন?**
+      * //দায়ূদ তার পাপের জন্য অনুশোচনা করেছিলেন, আর ঈশ্বর তাকে ক্ষমা করেছিলেন৷ [১৭-১৩]//
+  - **ঈশ্বর কিভাবে দায়ূদকে তার পাপের জন্য দণ্ড দিয়েছিলেন?**
+      * //দায়ূদের পুত্রের মৃত্যু হয়েছিল, দায়ূদের জীবনের শেষ কাল পর্যন্ত তার পরিবারে কলহ লেগেই থাকত, আর দায়ূদের শক্তি ক্রমেই কমে আসছিল৷ [17-14]//
+  - **ঈশ্বর কি তার প্রতিজ্ঞা দায়ূদের সাথে রেখেছিলেন যদিও তিনি অবিশ্বাসযোগ্য হয়েছিলেন?**
+      * //হ্যাঁ, তিনি তার প্রতিজ্ঞা রেখেছিলেন৷ [১৭-১৪]//
+  - **দায়ূদ ও বৎশেবার দ্বারা উৎপণ্য দ্বিতীয় পুত্রটির নাম কি ছিল?**
+      * //শলোমন৷ [১৭-১৪]//
+**[[:en:obs:notes:questions:16|<< ]] | [[:en:obs:notes:questions:18| >>]]**
