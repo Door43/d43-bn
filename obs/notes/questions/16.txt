@@ -1,33 +1,33 @@
-====== কাহিনী #১//৬//: উদ্ধারকর্তাগন ======
+====== কাহিনী #১৬: উদ্ধারকর্তাগন ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ =====
 
-  - **How did the Israelites disobey God after Joshua died?**
-      * //They did not drive out the Canaanites, and worshiped the Canaanite gods instead of Yahweh, the true God. [16-01]//
-  - **How did God punish the Israelites for their disobedience?**
-      * //God allowed their enemies to defeat them. [16-02]//
-  - **How did God respond when the Israelites cried out for help?**
-      * //He provided a deliverer who rescued them and brought peace to the land. [16-03]//
-  - **What was Gideon doing when the angel of Yahweh came to him?**
-      * //Gideon was threshing grain secretly so the Midianites would not steal it. [16-05]//
-  - **What two signs did God do to prove that he would save Israel through Gideon?**
-      * //God made the morning dew fall only on the cloth and not the ground, and then the dew fell only on the ground and not the cloth. [16-08], [16-09]//
-  - **Why did Gideon send home all except 300 of the soldiers?**
-      * //Because God told him he had too many men. [16-10]//
-  - **What additional sign did God give Gideon so he would not be afraid?**
-      * //Gideon heard a Midianite soldier tell of his dream that Gideon's army would defeat the Midianite army. [16-11]//
-  - **What did Gideon do when he heard the Midianite soldier's dream?**
-      * //He worshiped God. [16-11]//
-  - **How did Gideon and his men attack the Midianites?**
-      * //They surrounded the Midianite camp, broke their pots to reveal their torches, and blew their horns and shouted, "A sword for Yahweh and for Gideon." [16-13]//
-  - **What did God do to help Gideon defeat the Midianites?**
-      * //God confused the Midianites so they attacked and killed each other. [16-14]//
-  - **What did Gideon do that later led the people to return to idol worship?**
-      * //He made a special garment of gold that the people later began to worship as an idol. [16-16]//
-  - **What was the pattern that Israel repeated many times?**
-      * //The Israelites would sin, God would punish them, they would repent, and God would send a deliverer to save them. [16-17]//
-  - **Why did the people ask God for a king?**
-      * //All the other nations had kings, and they wanted someone to lead them into battle. [16-18]//
-  - **How did God answer their request?**
-      * //He gave them a king just as they had asked. [16-18]//
+  - **যিহোশূয়ের মৃত্যুর পর কিভাবে ইস্রায়েলীয়রা ঈশ্বরের অনাজ্ঞাকারী হয়েছিল?**
+      * //তারা সকল কানানীয়দের তাড়ায় নি, আর তারা সত্য ঈশ্বর, যীহোবার আরাধনা না করে কানানীয়দের দেবদেবীর আরাধনা করেছিল৷ [১৬-০১]//
+  - **কিভাবে ঈশ্বর ইস্রায়েলীয়দের তাদের অনাজ্ঞাকারিতার জন্য দণ্ড দিয়েছিলেন?**
+      * //ঈশ্বর ইস্রায়েলীয়দের পরাজিত করতে তাদের শত্রুদের অনুমতি দিয়েছিলেন৷ [১৬-০২]//
+  - **ঈশ্বরের প্রতিক্রিয়া কেমন ছিল যখন ইস্রায়েলীয়রা ঈশ্বরের কাছে সাহায্যের জন্য দোহাই দিয়েছিল?**
+      * //তিনি একজন উদ্ধারকর্তা পাঠিয়েছিলেন যিনি তাদের রক্ষা করেছিলেন আর তাদের ভূমিতে শান্তি এনেছিলেন৷ [১৬-০৩]//
+  - **গিদিয়োন কি করেছিলেন যখন যীহোবা ঈশ্বরের এক স্বর্গদূত তার কাছে এসেছিলেন?**
+      * //গিদিয়োন গুপ্তভাবে গম ঝারছিলেন যেন মিদিয়নীয়রা তা ছিনিয়ে না নিয়ে যায়৷ [১৬-০৫]//
+  - **কোন দুটি চিহ্ন ঈশ্বর প্রমান করার জন্য করেছিলেন এটি দেখানোর জন্য যে তিনি ইস্রায়েলীয়দের গিদিয়োনের দ্বারা রক্ষা করবেন?**
+      * //ঈশ্বর ভোরের শিশির একটি কাপড়ের উপর ফেলেছিলেন কিন্তু ভূমিতে ফেলেননি, আর তার পর তিনি ভূমির উপর শিশির ফেলেছিলেন কিন্তু কাপড়টির উপর ফেলেননি৷ [১৬-০৮], [১৬-০৯]//
+  - **কেন গিদিয়োন ৩০০জন সৈন্যদের ছাড়া অন্য সকল সৈন্যদের বাড়ি পাঠিয়ে দিয়েছিলেন?**
+      * //কারণ ঈশ্বর তাকে বলেছিলেন যে তার কাছে প্রচুর সৈন্য হয়েছে৷ [১৬-১০]//
+  - **ঈশ্বর আর কোন চিহ্ন গিদিয়োনকে দেখিয়েছিলেন যেন তিনি আর ভয়ভীত না হন?**
+      * //গিদিয়োন একটি মিদিয়নীয় সৈন্যকে তার স্বপ্ন বলতে শুনেছিলেন যে ঈশ্বর গিদিয়োনের সৈন্যদের দ্বারা মিদিয়নীয় সৈন্যদের পরাজিত করবেন৷ [১৬-১১]//
+  - **গিদিয়োন কি করেছিলেন যখন তিনি মিদিয়নীয় সৈন্যের স্বপ্ন শুনেছিলেন?**
+      * //তিনি ঈশ্বরের আরাধনা করেছিলেন৷ [১৬-১১]//
+  - **কিভাবে গিদিয়োন আর তার লোকেরা মিদিয়নীয়দের আক্রমন করেছিল?**
+      * //তারা মিদিয়নীয়দের শিবির ঘেরাও করেছিল, তাদের মাটির পাত্রকে ভেঙ্গে দিয়েছিল যেন তারা তাদের মশাল প্রকট করতে পারে, আর তাদের শিঙ্গা বাজিয়েছিল আর চিৎকার করেছিল, “যীহোবা ঈশ্বরের জন্য ও গিদিয়োনের জন্য একটি তলোয়ার৷” [১৬-১৩]//
+  - **ঈশ্বর গিদিয়োনকে কিভাবে মিদিয়নীয়দের পরাজিত করতে সাহায্য করেছিলেন?**
+      * //ঈশ্বর মিদিয়নীয়দের বিভ্রান্ত করেছিলেন যেন তারা একেঅপরকে আক্রমণ করে ও হত্যা করে৷ [১৬-১৪]//
+  - **গিদিয়োন এমন কি করেছিলেন যে লোকেরা পরে মূর্তি পূজা করা আরম্ভ করে দিয়েছিল?**
+      * //তিনি  সোনার একটি বিশেষ পোশাক তৈরী করিয়েছিলেন আর পরে লোকেরা সেটিকে একটি মূর্তিরূপে আরাধনা করা শুরু করেছিল৷ [১৬-১৬]//
+  - **কোন প্রক্রিয়া ইস্রায়েলীয়রা বারংবার পুনরাবৃত্ত করেছিল?**
+      * //ইস্রায়েলীয়রা পাপ করত, আর ঈশ্বর তাদের শাস্তি দিতেন, তারপর তারা অনুশোচনা করত আর ঈশ্বর তাদের রক্ষার্থে একজন উদ্ধারকর্তা পাঠাতেন৷ [১৬-১৭]//
+  - **কেন লোকেরা ঈশ্বরের কাছে একজন রাজা চেয়েছিল?**
+      * //কেননা অন্যান্য রাষ্ট্রের কাছে তাদের রাজা ছিল আর তারা চাইত যেন কেউ তাদের যুদ্ধে নেতৃত্ব দেয়৷ [১৬-১৮]//
+  - **কিভাবে ঈশ্বর তাদের প্রার্থনার উত্তর দিয়েছিলেন?**
+      * //তিনি তাদের ঠিক তেমন রাজা দিয়েছিলেন যেমনটি তারা চেয়েছিল৷ [১৬-১৮]//
 **[[:en:obs:notes:questions:15|<< ]] | [[:en:obs:notes:questions:17| >>]]**
