@@ -1,35 +1,33 @@
-====== Story #12: The Exodus ======
+====== কাহিনী # ১২: নির্গমন বা প্রস্থান ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ =====
 
-  - **What did the Egyptians give the Israelites as they left Egypt?**
-    *//Whatever they asked for, even gold and silver and other valuable things. [12-01]//
-  - **Who else left Egypt with the Israelites?**
-    *//Some people from other nations who believed in God. [12-01]//
-  - **How did God lead the Israelites?**
-    *//With a pillar of cloud during the day and a pillar of fire at night. [12-02]//
-  - **Why did God cause Pharaoh to be stubborn and chase the Israelites?**
-    *//To show that he is is the One True God who is more powerful than Pharaoh and his gods. [12-03]//
-  - **How did the Israelites react when they were trapped between the sea and Pharaoh's army?**
-    *//They said, "Why did we leave Egypt? We are going to die!" [12-04]//
-  - **What did Moses say to the Israelites to calm their fear?**
-    *//"Stop being afraid! God will fight for you today and save you." [12-05]//
-  - **What did God tell Moses to do in order to make a path of escape for the Israelites?**
-    *//God told him to raise his hand over the sea so that the waters would divide. [12-07]//
-  - **How did God prevent the Egyptians from seeing the Israelites as they started to escape?**
-    *//He placed the pillar of cloud between them. [12-06]//
-  - **How were the Israelites able to cross the sea?**
-    *//They walked through it on dry ground. [12-08]//
-  - **What happened to the Egyptians as they chased the Israelites through the sea?**
-    *//He caused the Egyptians to panic and their chariots to get stuck. [12-10]//
-  - **How did God destroy the Egyptian army?**
-    *//The water covered the Egyptian army so that they drowned. [12-11]//
-  - **How did the Israelites react when they saw that the Egyptians were dead?**
-    *//They trusted in God and believed that Moses was a prophet of God. [12-12]//
-  - **Why did the Israelites sing and praise God?**
-    *//Because he had saved them from the Egyptians. [12-13]//
-  - **What did God tell the Israelites to do in order to remember his victory over the Egyptians?**
-    *//He commanded them to celebrate the Passover every year. [12-14]//
-
-
-**[[en/obs/notes/questions/11|<< ]] | [[en/obs/notes/questions/13| >>]]**
+  - **ইস্রায়েলীয়রা যখন মিশর থেকে চলে যাচ্ছিল তখন মিশরীয়রা তাদের কি দিয়েছিল?**
+      * //যাকিছু তারা চেয়েছিল তা তারা তাদের দিয়েছিল, এমনকি সোনা ও রুপা আর অন্যান্য বহুমূল্য বস্তুও তারা দিয়েছিল৷ [১২-০১]//
+  - **ইস্রায়েলীয়দের সাথে অন্য কারা কারা যাওয়ার জন্য যোগ দিয়েছিল?**
+      * //অন্যান্য রাষ্ট্রের কিছু কিছু লোকজন তাদের সাথে যোগ দিয়েছিল যারা ঈশ্বর যীহোবার উপর বিশ্বাস করত৷ [১২-০১] //
+  - **কিভাবে ঈশ্বর ইস্রায়েলীয়দের নেতৃত্ব দিয়েছিলেন?**
+      * //দিনের বেলায় একটি মেঘের স্থম্ভ হয়ে আর রাতের বেলায় একটি আগুনের স্থম্ভ হয়ে তাদের নেতৃত্ব দিয়েছিলেন৷ [১২-০২]//
+  - **কেন ঈশ্বর ফরৌনার মন কঠোর করেছিলেন আর ফরৌণ কেন ইস্রায়েলীয়দের তাড়া করেছিলেন?**
+      * //তিনি দেখাতে চেয়েছিলেন যে তিনিই একমাত্র ঈশ্বর যিনি ফরৌন আর তার দেবদেবীগণ থেকে অনেক বেশি শক্তিশালী৷ [১২-০৩]//
+  - **ইস্রায়েলীয়রা কেমনভাবে প্রতিক্রিয়া করেছিল যখন তারা নিজেদের সমুদ্র ও মিশরীয় সৈন্যদের মধ্যে আটকা পেয়েছিল?**
+      * //তারা বলেছিল, “কেন আমরা মিশর দেশ ছেড়ে চলে এসেছি? আমরা যে এখন মরতে চলেছি!” [১২-০৪]//
+  - **মোশী ইস্রায়েলীয়দের ভয় থেকে নিবারণ করার জন্য কি বলেছিলেন?**
+      * //“ভয় পেও না! আজ ঈশ্বর সয়ং তোমাদের হয়ে লড়াই করবেন আর তোমাদের রক্ষা করবেন৷” [১২-০৫]//
+  - **ঈশ্বর ইস্রায়েলীয়দের পালানোর পথ প্রস্তুত করার জন্য মোশীকে কি করতে বলেছিলেন?**
+      * //ঈশ্বর তাকে সমুদ্রের দিকে তার হাত উঠাতে বলেছিলেন যেন সমুদ্রের জল দুভাবে ভাগ হয়ে পরে৷ [১২-০৭]//
+  - **ঈশ্বর ইস্রায়েলীয়দের পালিয়ে যাওয়া মিশরীয়দের না দেখানোর জন্য কি করেছিলেন?**
+      * //তিনি মেঘের স্থম্ভটিকে মিশরীয় ও ইস্রায়েলীয়দের মধ্যে রেখেছিলেন৷ [১২-০৬]//
+  - **ইস্রায়েলীয়রা কিভাবে সমুদ্র পার হয়ে যেতে সক্ষম হয়েছিল?**
+      * //তারা সমুদ্রের মাঝে তৈরী হওয়া শুকনো পথ দিয়ে পার হয়ে গিয়েছিল৷ [১২-০৮] //
+  - **মিশরের সৈন্যদের সাথে কি হয়েছিল যখন তারা ইস্রায়েলীয়দের তাড়া করার জন্য সমুদ্রের শুকনো পথটিতে গিয়েছিল?**
+      * //তিনি মিশরীয়দের আতঙ্কিত করেছিলেন আর তাদের রথ মাঝ পথেই আটকে দিয়েছিলেন৷ [১২-১০]//
+  - **ঈশ্বর কিভাবে মিশরীয় সৈন্যদের ধ্বংস করেছিলেন?**
+      * //সমুদ্রের জল মিশরীয় সৈন্যদের ডুবিয়ে দিয়েছিল৷ [১২-১১]//
+  - **ইস্রায়েলীয়রা কেমনভাবে প্রতিক্রিয়া করেছিল যখন তারা মিশরীয়দের মরে যেতে দেখেছিল?**
+      * //তারা ঈশ্বরের উপর ভরসা করেছিল আর তারা বিশ্বাস করেছিল যে মোশী ঈশ্বরের একজন ভাববাদী ছিলেন৷ [১২-১২]//
+  - **ইস্রায়েলীয়রা কেন ঈশ্বরের স্তুতি গান করেছিল?**
+      * //কারণ ঈশ্বর তাদের মিশরীয়দের হাত থেকে রক্ষা করেছিলেন৷ [১২-১৩]//
+  - **ঈশ্বর ইস্রায়েলীয়দের মিশরীয়দের উপর বিজয় পাওয়ার ঘটনাটিকে স্বরনীয় রাখার জন্য কি করতে বলেছিলেন?**
+      * //তিনি তাদের প্রতি বছর নিস্তারপর্ব পালন করতে বলেছিলেন৷ [১২-১৪]//
+**[[:en:obs:notes:questions:11|<< ]] | [[:en:obs:notes:questions:13| >>]]**
