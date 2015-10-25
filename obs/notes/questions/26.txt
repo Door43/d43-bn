@@ -1,33 +1,31 @@
-====== Story #26: Jesus Starts His Ministry ======
+====== কাহিনী #২৬: প্রভু যীশু তার সেবাকার্য আরম্ভ করেছিলেন ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ  =====
 
-  - **Where did Jesus go after he overcame Satan’s temptations?**
-    *//Jesus went to the region of Galilee where he lived. [26-01]//
-  - **What was the name of the city where Jesus lived as a child?**
-    *//Nazareth. [26-02]//
-  - **Where did Jesus go on the Sabbath?**
-    *//He went to the place of worship. [26-02]//
-  - **Why did the people in the place of worship hand Jesus the scroll of Isaiah?**
-    *//They wanted Jesus to read from it. [26-02]//
-  - **The passage of Scripture that Jesus read referred to what person?**
-    *//The Messiah. [26-04]//
-  - **What did Jesus say about the Scripture that he had just read?**
-    *//He said it was being fulfilled right then. [26-04]//
-  - **How did the people of Jesus' hometown react to his words?**
-    *//They were amazed and asked, “Isn't this the son of Joseph?” [26-04]//
-  - **What examples did Jesus give of God's prophets helping people from other nations?**
-    *//God helped a widow during a drought in Elijah’s time, and he healed Naaman, a commander of Israel’s enemies. [26-05], [26-06]//
-  - **How did the people respond when Jesus told them these stories?**
-    *//They were furious and tried to kill Jesus. [26-06], [26-07]//
-  - **How did Jesus escape from the crowd?**
-    *//Jesus walked through the crowd and left the town. [26-07]//
-  - **How did the crowds in Galilee respond to Jesus?**
-    *//They brought him many who were sick or handicapped so he could heal them. [26-08]//
-  - **Who did the demons acknowledge Jesus to be when he commanded them to come out of people?**
-    *//They said Jesus was the Son of God. [26-09]//
-  - **How many men did Jesus choose to be his apostles?**
-    *//He chose twelve apostles. [26-10]//
-
-
-**[[en/obs/notes/questions/25|<< ]] | [[en/obs/notes/questions/27| >>]]**
+  - **প্রভু যীশু শয়তানের প্রলোভনে বিজয়ী হয়ে কোথায় গিয়েছিলেন?**
+      * //প্রভু যীশু তার বাসস্থান গালীল প্রদেশে গিয়েছিলেন যেখানে তিনি থাকতেন৷ [২৬-০১]//
+  - **সেই নগরের নাম কি ছিল যেখানে প্রভু যীশু বাল্যকালে থাকতেন?**
+      * //সেই নগরের নাম ছিল নাসরৎ৷ [২৬-০২]//
+  - **বিশ্রামবারে প্রভু যীশু কোথায় গিয়েছিলেন?**
+      * //তিনি আরাধনালয়ে গিয়েছিলেন৷ [২৬-০২]//
+  - **কেন লোকেরা আরাধনালয়ে প্রভু যীশুর হাতে যিশাইয় ভাববাদীর শাস্ত্রটি দিয়েছিল?**
+      * //তারা চেয়েছিল যেন প্রভু যীশু সেখান থেকে কিছু পড়ে তাদের শোনান৷ [২৬-০২]//
+  - **প্রভু যীশুর পড়া সেই অনুচ্ছেদটিতে কোন ব্যক্তির বিষয়ে বলা হয়েছিল?**
+      * //খীষ্টের বিষয়ে বলা হয়েছিল৷ [২৬-০৪]//
+  - **সেই অনুচ্ছেদটির বিষয়ে প্রভু যীশু কি বলেছিলেন?**
+      * //তিনি বলেছিলেন যে এই অনুচ্ছেদের বাক্যগুলো এইক্ষণ থেকে পূর্ণ হচ্ছে৷[২৬-০৪]//
+  - **প্রভু যীশুর নিজ এলাকার লোকেরা তার বাক্যের প্রতি কেমন প্রতিক্রিয়া করেছিল?**
+      * //তারা আশ্চর্যবোধ করেছিল আর তাকে প্রশ্ন করেছিল, “এ সেই যোষেফের পুত্র নয় কি?” [২৬-০৪]//
+  - **কোন উদাহরণ প্রভু যীশু সেই ভাববাদীদের বিষয়ে বলেছিলেন যারা অন্যান্য রাষ্ট্রের লোকেদের সাহায্য করেছিল?**
+      * //ঈশ্বর এলিয়ের সময়ে একটি বিধবা মহিলাকে দুর্ভিক্ষের সময়ে সাহায্য করেছিলেন, আর তিনি নামানকে সুস্থ করেছিলেন, যিনি ইস্রায়েলীয়দের শত্রুপক্ষের একজন সেনাপতি ছিলেন৷ [২৬-০৫], \[২৬-০৬] //
+  - **লোকেরা কেমন প্রতিক্রিয়া করেছিল যখন প্রভু যীশু তাদের এই কাহিনীগুলো বলেছিলেন?**
+      * //তারা গম্ভীর হয়ে গিয়েছিল ও প্রভু যীশুকে হত্যা করার চেষ্টা করেছিল৷ [২৬-০৬], [২৬-০৭]//
+  - **কিভাবে প্রভু যীশু ভিড় থেকে চলে গিয়েছিলেন?**
+      * //তিনি ভিড়ের মধ্যে থেকে চলে গিয়ে নগরটিকে পরিত্যাগ করেছিলেন৷ [২৬-০৭]//
+  - **গালীল প্রদেশে প্রভু যীশুর প্রতি ভিড়ের প্রতিক্রিয়া কেমন ছিল?**
+      * //তারা তার কাছে বহু অসুস্থ লোকেদের ও পঙ্গু লোকেদের নিয়ে এসেছিল যেন তিনি তাদের সুস্থ করেন৷ [২৬-০৮]//
+  - **ভূতেরা প্রভু যীশুকে কি বলে ডেকেছিল যখন তাদের বেরিয়ে যেতে আদেশ দেওয়া হয়েছিল?**
+      * //তারা প্রভু যীশুকে ঈশ্বরের পুত্র বলেছিল৷ [২৬-০৯]//
+  - **কতজন ব্যক্তিদের প্রভু যীশু তার প্রেরিত হওয়ার জন্য নির্বাচন করেছিলেন?**
+      * //তিনি বারোজন বাক্তিদের প্রেরিত হওয়ার জন্য নির্বাচন করেছিলেন৷ [২৬-১০] //
+**[[:en:obs:notes:questions:25|<< ]] | [[:en:obs:notes:questions:27| >>]]**
