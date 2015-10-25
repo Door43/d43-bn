@@ -1,33 +1,31 @@
-====== Story #27: The Story of the Good Samaritan ======
+====== কাহিনী #২৭: উত্তম শমরিয়ের কাহিনী ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ =====
 
-  - **What question did the expert in the Jewish law ask Jesus?**
-    *//“Teacher, what must I do to inherit eternal life?” [27-01]//
-  - **What question did Jesus ask the expert in response?**
-    *//He asked, "What is written in God's law?" [27-01]//
-  - **Who does God's law say we should love?**
-    *//The Lord our God and our neighbor. [27-02]//
-  - **Why did the expert in the Jewish law ask who his neighbor was?**
-    *//He wanted to prove that he was righteous. [27-03]//
-  - **In Jesus’ story, what happened to the Jewish man while he was traveling?**
-    *//He was attacked by robbers, who took everything he had, and beat him until he was almost dead. [27-05]//
-  - **Who was the first person to see the wounded man?**
-    *//A Jewish priest. [27-06]//
-  - **What did the priest do when he saw the wounded man?**
-    *//He ignored him and passed by on the other side of the road. [27-06]//
-  - **Who was the second person to see the wounded man and pass by?**
-    *//A Levite. [27-07]//
-  - **What did the Levite do when he saw the wounded man?**
-    *//He ignored him and passed by on the other side of the road. [27-07]//
-  - **Who was the third person to see the wounded man?**
-    *//A Samaritan. [27-08]//
-  - **What was the relationship between Jews and Samaritans?**
-    *//They hated each other. [27-08]//
-  - **How did the Samaritan help the wounded man?**
-    *//He bandaged his wounds, took him to a roadside inn, and took care of him. [27-09], [27-10]//
-  - **Which of the three men acted like a neighbor to the wounded man?**
-    *//The Samaritan who was merciful to him. [27-11]//
-
-
-**[[en/obs/notes/questions/26|<< ]] | [[en/obs/notes/questions/28| >>]]**
+  - **ইহুদি নিয়মে নিপুন ব্যক্তি প্রভু যীশুকে কি প্রশ্ন করেছিলেন?**
+      * //“হে গুরু, অনন্ত জীবন প্রাপ্ত করার জন্য আমাকে কি করতে হবে?” [২৭-০১]//
+  - **তার প্রতিউত্তরে প্রভু যীশু সেই ব্যবস্থার নিপুন ব্যক্তিকে কি জিজ্ঞাসা করেছিলেন?**
+      * //তিনি বলেছিলেন, “ঈশ্বরের ব্যবস্থায় কি লেখা আছে?” [২৭-০১]//
+  - **ঈশ্বরের ব্যবস্থা আমাদেরকে কাকে প্রেম করতে বলেছে?**
+      * //ঈশ্বরের ব্যবস্থা আমাদেরকে ঈশ্বর প্রভু ও আমাদের প্রতিবেশীকে প্রেম করতে বলেছে৷ [২৭-০২]//
+  - **কেন সেই ব্যবস্থার নিপুন ব্যক্তিটি কে আমার প্রতিবেশী এই প্রশ্ন জিজ্ঞেসা করেছিল?**
+      * //তিনি নিজেকে ধার্মিক প্রমান করতে চেয়েছিলেন৷ [২৭-০৩]//
+  - **প্রভু যীশুর কাহিনীটিতে, সেই ইহুদি ব্যক্তিটির সাথে কি ঘটেছিল?**
+      * //ডাকাতরা সেই ব্যক্তিটিকে আক্রমন করেছিল, যারা তার সর্বস্ব লুটে নিয়েছিল আর তাকে প্রায় আধমরা হওয়া পর্যন্ত আঘাত করেছিল৷ [২৭-০৫] //
+  - **সেই আঘাতগ্রস্ত ব্যক্তিটিকে প্রথমে কে দেখেছিল?**
+      * //একজন ইহুদি ধর্মগুরু তাকে প্রথমে দেখেছিল৷ [২৭-০৬]//
+  - **সেই ধর্মগুরু কি করেছিল যখন সে সেই আঘাতগ্রস্ত ব্যক্তিটিকে দেখেছিল?**
+      * //সে তাকে অবজ্ঞা করেছিল আর পাশ কেটে নিজ পথে অগ্রসর হয়েছিল৷ [২৭-০৬]//
+  - **দ্বিতীয় ব্যক্তিটি কে ছিল যে সেই আঘাতগ্রস্ত ব্যক্তিটিকে দেখেও সে পাশ কেটে চলে গিয়েছিল?**
+      * //সে একজন লেবীয় ছিল? [২৭-০৭]//
+  - **সেই লেবীয় কি করেছিল যখন সে সেই আঘাতগ্রস্ত ব্যক্তিটিকে দেখেছিল?**
+      * //সে তাকে অবজ্ঞা করেছিল আর পাশ কেটে নিজ পথে অগ্রসর হয়েছিল৷ [২৭-০৭]//
+  - **তৃতীয় ব্যক্তিটি কে ছিল যিনি সেই আঘাতগ্রস্ত ব্যক্তিটিকে দেখেছিল?**
+      * //তিনি একজন শমরিয়বাসী ছিলেন৷ [২৭-০৮]//
+  - **ইহুদি ও শমরিয়দের সম্পর্ক কেমন ছিল?**
+      * //তারা একেঅপরকে ঘৃণা করত৷ [২৭-০৮]//
+  - **কিভাবে সেই শমরিয়া ব্যক্তিটি সেই আঘাতপ্রাপ্ত ব্যক্তিটিকে সাহায্য করেছিলেন?**
+      * //তিনি তার ক্ষত বেঁধে দিয়েছিলেন, তাকে একটি সরাইখানায় নিয়ে গিয়েছিলেন আর তার সেবা করেছিলেন৷ [২৭-০৯], [২৭-১০]//
+  - **সেই তিনটি ব্যক্তিদের মধ্যে আঘাতগ্রস্ত ব্যক্তিটির প্রতিবেশী কে ছিল?**
+      * //সেই শমরিয়া ব্যক্তিটি যিনি তার প্রতি দয়া করেছিলেন৷ [২৭-১১]//
+**[[:en:obs:notes:questions:26|<< ]] | [[:en:obs:notes:questions:28| >>]]**
