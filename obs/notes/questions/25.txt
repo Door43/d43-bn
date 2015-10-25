@@ -1,33 +1,31 @@
-====== Story #25: Satan Tempts Jesus ======
+====== কাহিনী #২৫: শয়তান প্রভু যীশুকে প্রলোভিত করেছিল ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ =====
 
-  - **Where did Jesus go after his baptism?**
-    *//Jesus went into the wilderness. [25-01]//
-  - **Who led Jesus into the wilderness?**
-    *//The Holy Spirit led him. [25-01]//
-  - **What did Jesus do in the wilderness?**
-    *//He fasted forty days and forty nights. [25-01]//
-  - **What did Satan tempt Jesus to do with the rocks?**
-    *//He told Jesus to turn them into bread so he could eat. [25-02]//
-  - **What did Jesus say we needed just as much as bread?**
-    *//We need every word that God speaks. [25-03]//
-  - **What did Satan temp Jesus to do next?**
-    *//He told Jesus to throw himself down from the Temple. [25-04]//
-  - **Who did Satan say would protect Jesus?**
-    *//God would command his angels to protect Jesus. [25-04]//
-  - **What did Jesus say in response to Satan?**
-    *//God’s Word says not to test the Lord your God. [25-05]//
-  - **What did Satan offer to give Jesus in the final temptation?**
-    *//Satan offered to give him all the kingdoms of the world and their glory. [25-06]//
-  - **What did Satan ask Jesus to do in order to receive these kingdoms?**
-    *//Jesus would need to bow down and worship Satan. [25-06]//
-  - **Did Jesus agree to worship Satan?**
-    *//No, he would only worship God and only serve him. [25-07]//
-  - **Was Satan able to make Jesus sin?**
-    *//No. [25-08]//
-  - **What happened after Satan left Jesus?**
-    *//Angels came and took care of Jesus. [25-08]//
-
-
-**[[en/obs/notes/questions/24|<<  ]] | [[en/obs/notes/questions/26| >>]]**
+  - **প্রভু যীশু তার বাপ্তিস্মের পর কোথায় গিয়েছিলেন?**
+      * //প্রভু যীশু নির্জনপ্রদেশে গিয়েছিলেন৷ [২৫-০১]//
+  - **কে প্রভু যীশুকে নির্জন প্রদেশে নেতৃত্ব দিয়েছিলেন?**
+      * //পবিত্র আত্মা তাকে নেতৃত্ব দিয়েছিলেন৷ [২৫-০১]//
+  - **প্রভু যীশু নির্জনপ্রদেশে কি করেছিলেন?**
+      * //তিনি চল্লিশ দিন ও চল্লিশ রাত্রি উপবাস করেছিলেন৷ [২৫-০১]//
+  - **শয়তান পাথর দ্বারা প্রভু যীশুকে কিভাবে প্রলোভিত করেছিল?**
+      * //সে প্রভু যীশুকে পাথরগুলোকে রুটিতে পরিবর্তন করে তা খেতে বলেছিল৷ [২৫-০২]//
+  - **প্রভু যীশু তাকে কি বলেছিলেন যে আমাদের রুটির সমান কিসের প্রয়োজন?**
+      * //তিনি বলেছিলেন যে আমাদের রুটির সমান ঈশ্বরের বাক্যের প্রয়োজন৷ [২৫-০৩]//
+  - **শয়তান প্রভু যীশুকে পরবর্তীতে কোন প্রলোভনের দ্বারা প্রলোভিত করার চেষ্টা করেছিল?**
+      * //সে প্রভু যীশুকে বলেছিল যে নিজেকে মন্দিরের চূড়ার উপর থেকে নিচে নিক্ষেপ করতে৷ [২৫-০৪]//
+  - **কার বিষয়ে শয়তান বলেছিল যে সে প্রভু যীশুকে রক্ষা করবেন?**
+      * //সে বলেছিল যে ঈশ্বর তার স্বর্গদূতদের প্রভু যীশুকে রক্ষা করার জন্য আজ্ঞা দেবেন৷ [২৫-০৪]//
+  - **শয়তানের কোথায় প্রভু যীশু কি প্রতিউত্তর দিয়েছিলেন?**
+      * //তিনি বলেছিলেন যে ঈশ্বরের বাক্যে লেখা আছে যে তুমি তোমার ঈশ্বর প্রভুর পরীক্ষা নিও না৷ [২৫-০৫]//
+  - **অন্তিম প্রলোভনে শয়তান প্রভু যীশুকে কি প্রস্তাবের কথা বলেছিল?**
+      * //শয়তান প্রস্তাব করেছিল যে সে তাকে পৃথিবীর সকল রাজ্য ও সেগুলোর মহিমা দেবে৷ [২৫-০৬]//
+  - **শয়তান সেই রাজ্যগুলোর বিনিময়ে কি করতে বলেছিল?**
+      * //সে বলেছিল যে প্রভু যীশুকে তার কাছে নত হতে হবে আর তার আরাধনা করতে হবে৷ [২৫-০৬]//
+  - **প্রভু যীশু কি শয়তানকে আরাধনা করতে রাজি হয়েছিলেন?**
+      * //না, তিনি কেবল ঈশ্বরেরই আরাধনা ও সেবা করেছিলেন৷ [২৫-০৭]//
+  - **শয়তান কি প্রভু যীশুকে পাপ করাতে সক্ষম হয়েছিল?**
+      * //না, সে সক্ষম হয়নি৷ [২৫-০৮]//
+  - **কি হয়েছিল যখন শয়তান প্রভু যীশুর কাছ থেকে চলে গিয়েছিল?**
+      * //তারপর স্বর্গদূতরা এসেছিল ও তার সেবা করেছিল৷ [২৫-০৮]//
+**[[:en:obs:notes:questions:24|<< ]] | [[:en:obs:notes:questions:26| >>]]**
