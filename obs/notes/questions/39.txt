@@ -1,40 +1,37 @@
-====== Story #39: Jesus Is Put on Trial ======
+====== কাহিনী #৩৯: প্রভু যীশুর বিচার করা হয় ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ =====
 
-
-  - **What time of the day was it when the Jewish leaders began to question Jesus?**
-    *//It was the middle of the night. [39-01]//
-  - **Why could the Jewish leaders not prove Jesus was guilty of anything?**
-    *//The statements of the false witnesses did not agree with each other. [39-02]//
-  - **What question did the high priest finally ask Jesus?**
-    *//“Tell us, are you the Messiah, the Son of the living God?” [39-03]//
-  - **What answer did Jesus give to the high priest?**
-    *//“I am, and you will see me seated with God and coming from heaven.” [39-04]//
-  - **What was the crime that the high priest said that Jesus had committed?**
-    *//Jesus said he was the Son of God. [39-04]//
-  - **Where was Peter during Jesus' trial?**
-    *//Peter was waiting outside the house of the high priest. [39-06]//
-  - **Why did the people think that Peter had been with Jesus?**
-    *//Peter and Jesus were both from Galilee. [39-06]//
-  - **What did Peter say when the people asked if he knew Jesus ?**
-    *//Peter denied three times that he knew Jesus. [39-07]//
-  - **What happened immediately after Peter denied Jesus the third time?**
-    *//A rooster crowed, and Jesus turned and looked at Peter. [39-07]//
-  - **What did Judas do when he saw that the Jewish leaders had condemned Jesus?**
-    *//Judas became full of sorrow and went away and killed himself. [39-08]//
-  - **Why did the Jewish leaders take Jesus to the Roman governor Pilate?**
-    *//They hoped Pilate would condemn Jesus and sentence him to be killed. [39-09]//
-  - **What was the first question that Pilate asked Jesus?**
-    *//“Are you the king of the Jews?” [39-09]//
-  - **What did Jesus say was the reason he came to earth?**
-    *//To tell the truth about God. [39-10]//
-  - **How many times did Pilate say to the crowd that Jesus was not guilty?**
-    *//Three times. [39-11]//
-  - **Why then did Pilate allow Jesus to be crucified?**
-    *//Pilate became afraid that the crowd would begin to riot. [39-12]//
-  - **How did the Roman soldiers treat Jesus?**
-    *//They whipped Jesus, put a royal robe and a crown of thorns on him, and mocked him. [39-12]//
-
-
-**[[en/obs/notes/questions/38|<< ]] | [[en/obs/notes/questions/40| >>]]**
+  - **তখন সময় কি হয়েছিল যে সময়ে ইহুদি নেতারা প্রভু যীশুকে জিজ্ঞাসাবাদ করেছিল?**
+      * //তখন মধ্য রাত্রি হয়েছিল৷ [৩৯-০১] //
+  - **কেন ইহুদি নেতারা প্রভু যীশুকে দোষী সাব্যস্ত করতে পারেনি?**
+      * //মিথ্যে সাক্ষীদের সাক্ষ্য একেঅপরের সাথে মেল খাচ্ছিল না৷ [৩৯-০২]//
+  - **কোন প্রশ্ন অবশেষে মহাযাজক জিজ্ঞেসা করেছিলেন?**
+      * //“আমাদের বল, তুমিই কি খ্রীষ্ট, জীবিত ঈশ্বরের পুত্র?” [৩৯-০৩]//
+  - **প্রভু যীশু মহাযাজককে কি উত্তর দিয়েছিলেন?**
+      * //“আমি সেই, আর তোমরা আমাকে ঈশ্বরের সাথে বসতে দেখবে আর স্বর্গ থেকে নামতে দেখবে৷” [৩৯-০৪]//
+  - **মহাযাজক কোন দোষে প্রভু যীশুকে দোষী করেছিলেন?**
+      * //তিনি বলেছিলেন যে যীশু নিজেকে ঈশ্বরের পুত্র বলেছিল৷ [৩৯-০৪] //
+  - **প্রভু যীশুর বিচারের সময়ে পিতর কোথায় ছিলেন?**
+      * //পিতর মহাযাজকের গৃহের বাইরে অপেক্ষা করছিলেন৷ [৩৯-০৬]//
+  - **কেন লোকেরা ভেবেছিল যে পিতর যীশুর সাথে ছিলেন?**
+      * //কারণ পিতর ও প্রভু যীশু দুজনেই গালীল প্রদেশের নাগরিক ছিলেন৷ [৩৯-০৬]//
+  - **পিতর কি উত্তর দিয়েছিলেন যখন লোকেরা তাকে জিজ্ঞেসা করেছিলেন যে তিনি যীশুর সাথে ছিলেন?**
+      * //পিতর তিনবার অস্বীকার করেছিলেন যে তিনি প্রভু যীশুকে জানেন৷ [৩৯-০৭]//
+  - **কি হয়েছিল যখন পিতর যীশুকে চিনতে অস্বীকার করেছিলেন?**
+      * //একটি মোরগ ডেকে উঠেছিল আর প্রভু যীশু পিতরের দিকে তাকিয়েছিলেন৷ [৩৯-০৭]//
+  - **যিহুদা কি করেছিলেন যখন তিনি দেখেছিলেন যে ইহুদি নেতারা প্রভু যীশুকে দোষ দিয়েছিল?**
+      * //যিহুদা অত্যন্ত দুঃখিত হয়েছিলেন আর সেখান থেকে চলে গিয়ে আত্মহত্যা করেছিলেন৷ [৩৯-০৮]//
+  - **কেন ইহুদি নেতারা প্রভু যীশুকে রোমান রাজ্যপাল পীলাতের কাছে নিয়ে গিয়েছিল?**
+      * //তারা আশা করেছিল যে পীলাত প্রভু যীশুকে দোষী করবেন আর তাকে মৃত্যু দণ্ড দেবেন৷ [৩৯-০৯]//
+  - **পীলাত প্রভু যীশুকে প্রথমে কি প্রশ্ন করেছিলেন?**
+      * //“আপনি কি ইহুদিদের রাজা?” [৩৯-০৯]//
+  - **প্রভু যীশু তার পৃথিবীতে আসার কারণ কি বলেছিলেন?**
+      * //তিনি বলেছিলেন যে তিনি ঈশ্বরের বিষয়ে সত্য বলতে এসেছিলেন৷ [৩৯-১০]//
+  - **কতবার পীলাত ভিড়ের লোকেদের বলেছিলেন যে প্রভু যীশু নির্দোষ?**
+      * //তিনবার বলেছিলেন৷ [৩৯-১১]//
+  - **কেন তাহলে পীলাত প্রভু যীশুকে ক্রুশে দিতে অনুমতি দিয়েছিলেন?**
+      * //পীলাত লোকেরা যেন বিদ্রোহ না করে বসে তার আশংকায় ভয়ভীত হয়েছিলেন৷ [৩৯-১২]//
+  - **রোমান সৈন্যরা যীশুর সাথে কেমন ব্যবহার করেছিল?**
+      * //তারা প্রভু যীশুকে বেঁধেছিল, তার উপর একটি রাজকীয় বস্ত্র রেখেছিল আর মাথায় একটি কাঁটার মুকুট পরিয়ে দিয়েছিল আর তার উপহাস করেছিল৷ [৩৯-১২]  //
+**[[:en:obs:notes:questions:38|<< ]] | [[:en:obs:notes:questions:40| >>]]**
