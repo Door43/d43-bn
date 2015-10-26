@@ -1,38 +1,35 @@
-====== Story #38: Jesus Is Betrayed ======
+====== কাহিনী #৩৮: প্রভু যীশুকে প্রতারণা করা হয়েছিল ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ  =====
 
-
-  - **What was the meaning of Passover that the Jews celebrated every year?**
-    *//The Passover celebrates how God saved the ancestors of the Jews from slavery in Egypt. [38-01]//
-  - **What did Judas want in exchange for betraying Jesus to the Jewish leaders?**
-    *//He offered to do it in exchange for money. [38-02]//
-  - **How much did the Jewish leaders pay Judas to betray Jesus?**
-    *//They paid him 30 pieces of silver. [38-03]//
-  - **At the Passover meal, what did Jesus say about the bread?**
-    *//He said, "This is my body, which is given for you.” [38-04]//
-  - **What did Jesus say about the cup?**
-    *//He said, "It is my blood of the New Covenant that is poured out for the forgiveness of sins.” [38-05]//
-  - **What happened to Judas after he took the bread from Jesus?**
-    *//Satan entered into Judas. [38-06], [38-07]//
-  - **What did Jesus predict would happen to the disciples that night?**
-    *//They would all abandon Jesus. [38-08]//
-  - **What did Jesus say Peter would do before the rooster crowed?**
-    *//Peter would deny that he knew Jesus three times. [38-09]//
-  - **How did the disciples respond to Jesus’ predictions about them?**
-    *//They said that they would die rather than deny Jesus. [38-10]//
-  - **What did Jesus pray to his Father at Gethsemane?**
-    *//He asked his Father not to make him drink the cup of suffering, but for God's will to be done if there was no other way for people’s sins to be forgiven. [38-12]//
-  - **What were the disciples doing while Jesus prayed?**
-    *//They were sleeping. [38-13]//
-  - **How did the soldiers know which person was Jesus?**
-    *//Judas kissed Jesus as a sign for them to arrest him. [38-14]//
-  - **What did Peter do in order to defend Jesus?**
-    *//He pulled out a sword and cut off the ear of a servant of the high priest. [38-15]//
-  - **Why did Jesus say that he did not need Peter to defend him?**
-    *//Jesus could ask the Father for an army of angels. [38-15]//
-  - **What did the disciples do after Jesus was arrested?**
-    *//They all ran away. [38-15]//
-
-
-**[[en/obs/notes/questions/37|<< ]] | [[en/obs/notes/questions/39| >>]]**
+  - **নিস্তারপর্বের অর্থ কি ছিল যা ইহুদিরা প্রতি বছর পালন করত?**
+      * //এর অর্থ হল যে ঈশ্বর ইহুদি প্রাচীনদের মিশরের দাসত্ব থেকে মুক্ত করেছিলেন৷ [৩৮-০১]//
+  - **যিহুদা প্রভু যীশুকে প্রতারণা করার জন্য ধার্মিক নেতাদের কাছে কি চাহিদা করেছিল?**
+      * //তাকে এই কার্যের পরিবর্তে টাকা দেওয়ার প্রস্তাব করা হয়েছিল৷ [৩৮-০২]//
+  - **ইহুদি নেতারা প্রভু যীশুকে প্রতারণা করার জন্য যিহুদাক কত টাকা দিয়েছিল?**
+      * //তারা তাকে ৩০টি রুপার মুদ্রা দিয়েছিল৷ [৩৮-০৩]//
+  - **নিস্তার পর্বের সময়ে রুটির বিষয়ে প্রভু যীশু কি বলেছিলেন?**
+      * //তিনি বলেছিলেন, “এটি হল আমার দেহ, যা তোমাদের দেওয়া হয়েছে৷” [৩৮-০৪]//
+  - **কাপে রাখা দাক্ষারসের বিষয়ে প্রভু যীশু কি বলেছিলেন?**
+      * //তিনি বলেছিলেন, “নতুন নিয়মের জন্য এটি হল আমার রক্ত যা পাপের ক্ষমার জন্য ঢালা হয়েছে৷” [৩৮-০৫]//
+  - **যিহুদার সাথে কি হয়েছিল যখন সে প্রভু যীশুর কাছ থেকে রুটি গ্রহণ করেছিল?**
+      * //শয়তান তার ভিতরে প্রবেশ করেছিল৷ [৩৮-০৬], [৩৮-০৭]//
+  - **প্রভু যীশু তার শিষ্যদের সাথে সেই রাতে কি ঘটবে বলেছিলেন?**
+      * //তিনি বলেছিলেন যে তারা সকলে তাকে ছেড়ে দেবে৷ [৩৮-০৮]//
+  - **প্রভু যীশু কি বলেছিলেন যে পিতর মোরগ ডাকার পূর্বে কি করবেন?**
+      * //তিনি বলেছিলেন যে পিতর প্রভু যীশুকে চিনতে তিনবার অস্বীকার করবেন৷ [৩৮-০৯]//
+  - **প্রভু যীশুর শিষ্যদের সম্মন্ধে বলা সেই ভাববাণীতির প্রতি তারা কেমন প্রতিক্রিয়া করেছিল?**
+      * //তারা বলেছিল যে অস্বীকার করার চেয়ে তারা বরং মরে যাবে৷ [৩৮-১০]//
+  - **গেৎশিমানী নামক জায়গায় প্রভু যীশু পিতার কাছে কি প্রার্থনা করেছিলেন?**
+      * //তিনি তার পিতার কাছে প্রার্থনা করেছিলেন যেন যন্ত্রণার সেই কাপ থেকে যেন তাকে না পান করতে দেওয়া হয়, কিন্তু ঈশ্বরের ইচ্ছাই যেন পূর্ণ হয় যদি লোকেদের পাপের ক্ষমার জন্য অন্য কোনো উপায় না থাকে৷ [৩৮-১২]//
+  - **শিষ্যরা কি করছিল যখন প্রভু যীশু প্রার্থনা করছিলেন?**
+      * //তারা ঘুমাচ্ছিল৷ [৩৮-১৩]//
+  - **কিভাবে সৈন্যরা জানতে পেরেছিল যে কে যীশু?**
+      * //যিহুদা প্রভু যীশুকে চুম্বন করার চিহ্ন দ্বারা তাকে গ্রেফতার করিয়েছিল৷ [৩৮-১৪]//
+  - **প্রভু যীশুকে রক্ষা করার জন্য পিতর কি করেছিলেন?**
+      * //তিনি একটি তলোয়ার বের করেছিলেন আর মহা যাজকের একটি সৈন্যের কান কেটে দিয়েছিলেন৷ [৩৮-১৫]//
+  - **কেন প্রভু যীশু বলেছিলেন যে তাকে রক্ষা করার জন্য তার পিতরের প্রয়োজন নেই?**
+      * //কারণ প্রভু যীশু তার আত্মরক্ষার জন্য পিতাকে স্বর্গদূতের বাহিনী চাইতে পারেন৷ [৩৮-১৫]//
+  - **প্রভু যীশুর গ্রেফতার হওয়ার পর শিষ্যরা কি করেছিল?**
+      * //তারা সকলে পালিয়ে গিয়েছিল৷ [৩৮-১৫]//
+**[[:en:obs:notes:questions:37|<< ]] | [[:en:obs:notes:questions:39| >>]]**
