@@ -1,33 +1,29 @@
-====== Story #29: The Story of the Unmerciful Servant ======
+====== কাহিনী #২৯: দয়াহীন চাকরের কাহিনী ======
 
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ =====
 
-===== Comprehension Questions and Answers =====
-
-
-  - **What question did Peter ask Jesus?**
-    *//"How many times should I forgive my brother when he sins against me?" [29-01]//
-  - **How many times did Peter think he should forgive his brother?**
-    *//Seven times. [29-01]//
-  - **How many times did Jesus say he should forgive his brother?**
-    *//Seventy times seven. [29-01]//
-  - **What did Jesus mean when he said, "Seventy times seven?**
-    *//He meant that we should always forgive. [29-01]//
-  - **	Was the servant able to pay his huge debt to the king?**
-    *//No. [29-03]//
-  - **How did the king punish the servant with the huge debt?**
-    *//The king ordered that the man and his family be sold as slaves. [29-03]//
-  - **What did the king do when the servant begged him to be patient?**
-    *//The king felt pity on the servant and cancelled his debt. [29-04]//
-  - **What did the servant then do to a fellow servant who owed him a small debt?**
-    *//He grabbed him and demanded that he pay the money that he owed him. [29-05]//
-  - **What did the servant do when his fellow servant fell on his knees and asked him to be patient?**
-    *//He threw his fellow servant into prison. [29-06]//
-  - **How did the other servants react when he threw his fellow servant in prison?**
-    *//They were greatly disturbed and told the king about it. [29-07]//
-  - **How did the king punish the servant who did not forgive his fellow servant?**
-    *//He threw him into prison. [29-08]//
-  - **Will God forgive us if we do not forgive others from our heart?**
-    *//No. [29-09]//
-
-
-**[[en/obs/notes/questions/28|<< ]] | [[en/obs/notes/questions/30| >>]]**
+  - **পিতর কোন প্রশ্ন প্রভু যীশুকে করেছিলেন?**
+      * //“কত বার আমি আমার ভাইকে ক্ষমা করব যে আমার বিরুদ্ধে পাপ করেছে?” [২৯-০১]//
+  - **পিতর কি চিন্তা করেছিলেন যে কত বার সে ক্ষমা করবে?**
+      * //সাত বার৷ [২৯-০১]//
+  - **প্রভু যীশু কত বার ক্ষমা করতে বলেছিলেন?**
+      * //সত্তরগুন সাত বার৷ [২৯-০১]//
+  - **প্রভু যীশুর অর্থ কি ছিল যখন তিনি বলেছিলেন, “সত্তরগুন সাত বার?”**
+      * //তার অর্থ ছিল যে আমাদের সর্বসময়ই ক্ষমা করা উচিত৷[২৯-০১]//
+  - **সেই চাকরটি কি রাজাকে তার বিরাট পরিমানের দেনাটি মেটাতে সক্ষম ছিল?**
+      * //না, সে সক্ষম ছিল না৷ [২৯-০৩]//
+  - **রাজাটি সেই প্রচুর দেনার চাকরটিকে কিভাবে শাস্তি দিয়েছিলেন?**
+      * //রাজাটি তার লোকেদের আদেশ দিয়েছিল তাকে ও তার পরিবারকে গুলামরূপে বিক্রয় করতে৷ [২৯-০৩]//
+  - **রাজাটি কি করেছিলেন যখন সেই লোকটি তার কাছে দয়া ভিক্ষা করেছিল?**
+      * //রাজাটি সেই চাকরটির প্রতি দয়ালু হয়েছিলেন আর তার দেনা বাতিল করে দিয়েছিলেন৷ [২৯-০৪] //
+  - **তারপর সেই চাকরটি তার সহ চাকরটির প্রতি কি ব্যবহার করেছিল যে তার কাছে অল্প টাকার দেনায় ছিল?**
+      * //সে তাকে হেনস্থা করেছিল আর তাকে তার দেনা পরিশোধ করে দিতে চাপ দিয়েছিল৷ [২৯-০৫]//
+  - **সেই চাকরটি কি করেছিল যখন তার সহ চাকরটি তার পায়ে পরে তাকে ধৈর্য ধারণ করতে অনুরোধ করেছিল?**
+      * //সে তার সহ চাকরকে বন্দিগৃহে পাঠিয়ে দিয়েছিল৷ [২৯-০৬]//
+  - **অন্যান্য চাকরেরা কেমন অনুভব করেছিল যখন সেই প্রথম চাকরটি তার সহ চাকরকে জেলে বন্দী করে দিয়েছিল?**
+      * //তারা অত্যন্ত বিরক্ত হয়েছিল আর সকল ঘটনাটি রাজাকে গিয়ে বলেছিল৷ [২৯-০৭]//
+  - **রাজা সেই চাকর্তিকে কিভাবে শাস্তি দিয়েছিলেন যে তার সহ চাকরকে ক্ষমা করেনি?**
+      * //তিনি তাকে কারাগারে পাঠিয়ে দিয়েছিলেন৷ [২৯-০৮]//
+  - **ঈশ্বর কি আমাদের ক্ষমা করবেন যদি আমরা আমাদের অপরাধীদের হৃদয় দিয়ে ক্ষমা না করি?**
+      * //না, তিনিও আমাদের ক্ষমা করবেন না৷ [২৯-০৯]//
+**[[:en:obs:notes:questions:28|<< ]] | [[:en:obs:notes:questions:30| >>]]**
