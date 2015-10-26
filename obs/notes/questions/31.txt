@@ -1,34 +1,31 @@
-====== Story #31: Jesus Walks on Water ======
+====== কাহিনী #৩১: প্রভু যীশু জলের উপর হেঁটে ছিলেন ======
 
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ =====
 
-===== Comprehension Questions and Answers =====
-
-  - **What did Jesus tell the disciples to do while he dismissed the crowd?**
-    *//He told them to get into a boat and to sail to the other side of the lake. [31-01]//
-  - **What did Jesus do after he sent the disciples away in their boat?**
-    *//He went up on a mountainside to pray. [31-01]//
-  - **What problem did the disciples have during the night?**
-    *//The wind was against them, so they were only able to travel halfway across the lake. [31-02]//
-  - **How did Jesus get to their boat?**
-    *//He walked to it on top of the water. [31-03]//
-  - **How did the disciples react when they first saw Jesus?**
-    *//They were very afraid because they thought he was a ghost. [31-04]//
-  - **What did Jesus say to them to calm their fear?**
-    *//"Do not be afraid. It is I." [31-04]//
-  - **Why did Jesus tell Peter to come to him on the water?**
-    *//Because Peter asked him to do that. [31-05]//
-  - **What did Peter begin to notice when he turned his eyes away from Jesus?**
-    *//He began to look at the waves and to feel the strong wind. [31-06]//
-  - **What happened to Peter when he became afraid of the wind and the waves?**
-    *//He began to sink into the water. [31-07]//
-  - **What did Jesus do when Peter called out for help?**
-    *//Jesus reached out and grabbed Peter. [31-07]//
-  - **What did Jesus say as a rebuke to Peter?**
-    *//"You man of little faith, why did you doubt?" [31-07]//
-  - **What happened after Jesus got into the boat?**
-    *//The wind immediately stopped blowing and the water became calm. [31-08]//
-  - **How did the disciples respond to this miracle?**
-    *//They worshiped Jesus and said, “Truly, you are the Son of God.” [31-08]//
-
-
-**[[en/obs/notes/questions/30|<< ]] | [[en/obs/notes/questions/32| >>]]**
+  - **প্রভু যীশু লোকেদের ভিড়কে বিদায় দেওয়ার পর শিষ্যদের কি বলেছিলেন?**
+      * //তিনি তাদের একটি নৌকাতে চড়তে বলেছিলেন আর হ্রদের অন্যপারে যেতে বলেছিলেন৷ [৩১-০১]//
+  - **প্রভু যীশু শিষ্যদের অন্যপারে পাঠাবার পর কি করেছিলেন?**
+      * //তিনি একটি পর্বতে প্রার্থনা করার জন্য উঠেছিলেন৷ [৩১-০১]//
+  - **রাতের বেলায় শিষ্যদের কি সমস্যা হয়েছিল?**
+      * //বাতাস তাদের বিপরীতে প্রবাহিত হচ্ছিল আর তাই তারা কেবল অর্ধেক পথ অতিক্রম করতে পেরেছিল৷ [৩১-০২]//
+  - **কিভাবে প্রভু যীশু তাদের নৌকাতে পৌঁছেছিলেন?**
+      * //তিনি জলের উপর দিয়ে হেঁটে তাদের কাছে পৌঁছেছিলেন৷ [৩১-০৩]//
+  - **শিষ্যরা প্রভু যীশুকে প্রথমে দেখে কেমন প্রতিক্রিয়া করেছিল?**
+      * //তারা অত্যন্ত ভয়ভীত হয়েছিল কারণ তারা ভেবেছিল যে তিনি একটি ভূত৷ [৩১-০৪]//
+  - **প্রভু যীশু তাদের শান্ত করার জন্য কি বলেছিলেন?**
+      * //“ভয় পেও না৷ এ যে আমি যীশু৷” [৩১-০৪]//
+  - **কেন প্রভু যীশু পিতরকে তার কাছে আসার জন্য জলের উপর হাঁটতে বলেছিলেন?**
+      * //কারণ পিতর তাকে তেমনটি করতে অনুরোধ করেছিলেন৷ [৩১-০৫]//
+  - **পিতর কি লক্ষ্য করা শুরু করেছিলেন যখন তিনি তার দৃষ্টি প্রভু যীশুর উপর থেকে সরিয়েছিলেন?**
+      * //তিনি সাগরের ঢেউ লক্ষ্য করা ও কঠিন বাতাস অনুভব করা আরম্ভ করেছিলেন৷ [৩১-০৬]//
+  - **পিতরের সাথে কি হয়েছিল যখন তিনি সাগরের ঢেউ ও বাতাস থেকে ভয় পেয়েছিলেন?**
+      * //তিনি জলে ডুবে যেতে লাগলেন৷ [৩১-০৭]//
+  - **প্রভু যীশু তখন কি করেছিলেন যখন পিতর সাহায্যের জন্য আহ্বান করেছিল?**
+      * //প্রভু তাকে ডুবার থেকে বাঁচিয়েছিলেন৷ [৩১-০৭]//
+  - **প্রভু যীশু পিতরকে কি বলে বকেছিলেন?**
+      * //“হে অল্পবিশ্বাসী, কেন সন্দেহ করেছিলে?” [৩১-০৭]//
+  - **প্রভু যীশুর নৌকাতে চড়ার পর কি হয়েছিল?**
+      * //বাতাস তখনই শান্ত হয়ে গিয়েছিল ও সাগরও শান্ত হয়ে গিয়েছিল৷ [৩১-০৮]//
+  - **এই চমৎকার সম্বন্ধে শিষ্যদের প্রতিক্রিয়া কেমন ছিল?**
+      * //তারা প্রভু যীশুকে আরাধনা করেছিল আর বলেছিল, “সত্য সত্যই, আপনি ঈশ্বরের পুত্র৷” [৩১-০৮]//
+**[[:en:obs:notes:questions:30|<< ]] | [[:en:obs:notes:questions:32| >>]]**
