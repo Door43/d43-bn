@@ -1,28 +1,25 @@
-====== Story #33: The Story of the Farmer ======
+====== কাহিনী #৩৩: একটি কৃষকের কাহিনী ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ =====
 
-
-  - **What happened to the seed that fell on the path?**
-    *//The birds came and ate all of it. [33-02]//
-  - **What happened to the seed that fell on the rocky ground?**
-    *//It sprouted quickly, but withered and died when it got hot. [33-03]//
-  - **What happened to the seed that fell among thorn bushes?**
-    *//It began to grow, but the thorns choked it out. [33-04]//
-  - **What happened to the seed that fell on the good soil?**
-    *//It grew up and produced 30, 60, or 100 times as much grain as the seed that had been planted. [33-05]//
-  - **Did the disciples understand the meaning of the story?**
-    *//No, they were confused. [33-06]//
-  - **What does the seed represent in the story?**
-    *//The word of God. [33-06]//
-  - **What does the path represent?**
-    *//The person who hears the word, but does not understand it, and the devil takes it away from him. [33-06]//
-  - **What does the rocky ground represent?**
-    *//The person who hears the word and accepts it with joy, but falls away when hardship and persecution comes. [33-07]//
-  - **What does the thorny ground represent?**
-    *//The person who hears the word, but as time passes, the cares, riches, and pleasures of life choke out his love for God. [33-08]//
-  - **What does the good soil represent?**
-    *//The person who hears the word, believes it, and produces fruit. [33-09]//
-
-
-**[[en/obs/notes/questions/32|<< ]] | [[en/obs/notes/questions/34| >>]]**
+  - **সেই বীজগুলোর কি পরিণতি হয়েছিল যা পথের উপর পরেছিল?**
+      * //পাখিরা এসে তা খেয়ে ফেলেছিল৷ [৩৩-০২]//
+  - **সেই বীজগুলোর কি হয়েছিল যা পাথরময় ভূমিতে পরেছিল?**
+      * //সেগুলো তাড়াতাড়ি অঙ্কুরিত হয়েছিল, কিন্তু উত্তাপের জন্য তা শুখিয়ে মারা গিয়েছিল৷ [৩৩-০৩]//
+  - **সেই বীজগুলোর কি হয়েছিল যা ঝোপঝাড়ের মধ্যে পরেছিল?**
+      * //সেগুলো বৃদ্ধি পেয়েছিল, কিন্তু সেই ঝোপঝাড় সেই চারাগাছগুলোকে ঢেকে দিয়েছিল৷ [৩৩-০৪]//
+  - **সেই বীজগুলোর কি হয়েছিল যা উত্তম ভূমিতে পরেছিল?**
+      * //সেগুলো বৃদ্ধি পেয়েছিল আর ৩০, ৬০, বা ১০০ গুন ফসল আরও উৎপণ্য করেছিল৷ [৩৩-০৫]//
+  - **শিষ্যেরা কি সেই কাহিনীটিকে বুঝতে পেরেছিল?**
+      * //না, তারা বুঝতে পারেনি৷ [৩৩-০৬]//
+  - **কাহিনীটিতে বীজ বলতে কি বোঝানো হয়েছে?**
+      * //বীজ বলতে ঈশ্বরের বাক্যকে বোঝানো হয়েছে৷ [৩৩-০৬]//
+  - **পথ বলতে কি বোঝানো হয়েছে?**
+      * //সেই ব্যক্তিকে বোঝানো হয়েছে যে ঈশ্বরের বাক্য শোনে, কিন্তু তা বুঝে না আর তাই শয়তান এসে তা চুরি করে নিয়ে যায়৷ [৩৩-০৬]//
+  - **পাথরময় ভূমি বলতে কি বোঝানো হয়েছে?**
+      * //সেই ব্যক্তিকে বোঝানো হয়েছে যে ঈশ্বরের বাক্য শোনে ও আনন্দের সাথে গ্রহণ করে, কিন্তু কঠিনতা ও উৎপীড়নে সে নিস্তেজ হয়ে যায়৷ [৩৩-০৭] //
+  - **ঝোপঝাড়ের ভূমি বলতে কি বোঝানো হয়েছে?**
+      * //এটি হল সেই ব্যক্তি যে বাক্য শোনে, কিন্তু সময়ের সাথে সাথে, তাকে তার ধনসম্পত্তির চিন্তা ও জীবনের ভোগবিলাস ঈশ্বরের প্রেম থেকে দূরে সরিয়ে দেয়৷ [৩৩-০৮]//
+  - **উত্তম ভূমিটি কার প্রতিনিধিত্ব করে?**
+      * //সেই ব্যক্তিটির বিষয়ে যে বাক্য শোনে, আর তা বিশ্বাস করে আর ফলবন্ত হয়৷ [৩৩-০৯]//
+**[[:en:obs:notes:questions:32|<< ]] | [[:en:obs:notes:questions:34| >>]]**
