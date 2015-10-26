@@ -1,26 +1,23 @@
-====== Story #36: The Transfiguration ======
+====== কাহিনী #৩৬: প্রভু যীশুর রূপান্তরিত রূপ ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ =====
 
-
-  - **Who did Jesus take with him to the mountain?**
-    *//Three of his disciples, Peter, James, and John. [36-01]//
-  - **What change happened to Jesus as he was praying?**
-    *//His face became as bright as the sun and his clothes became as white as light. [36-02]//
-  - **Who were the two men who appeared with Jesus?**
-    *//Moses and the prophet Elijah. [36-03]//
-  - **Why was it miraculous that Moses and Elijah appeared with Jesus?**
-    *//They both lived hundreds of years before this. [36-03]//
-  - **What were Moses and Elijah discussing with Jesus?**
-    *//They talked about Jesus’ death. [36-03]//
-  - **Where was Jesus going to die?**
-    *//Jerusalem. [36-03]//
-  - **What did Peter suggest that they do for Jesus, Moses, and Elijah?**
-    *//He wanted to make three shelters, one for Jesus, one for Moses, and one for Elijah. [36-04]//
-  - **What did the voice from the bright cloud say to the disciples?**
-    *//“This is my Son whom I love. I am pleased with him. Listen to him.” [36-05]//
-  - **What did Jesus tell the disciples to do about what they had seen?**
-    *//He told them not tell anyone about what happened on the mountain until after he died and came back to life. [36-07]//
-
-
-**[[en/obs/notes/questions/35|<< ]] | [[en/obs/notes/questions/37| >>]]**
+  - **প্রভু যীশু কাকে সঙ্গে নিয়ে পর্বতে গিয়েছিলেন?**
+      * //তার তিনটি শিষ্যদেরকে সঙ্গে নিয়েছিলেন, পিতর, যাকোব, আর যোহন৷ ৩৬-০১]//
+  - **যখন প্রভু যীশু প্রার্থনা করছিলেন তখন তার রূপের কেমন পরিবর্তন হয়েছিল?**
+      * //তার চেহারা সূর্যের ন্যায় উজ্জ্বল হয়েছিল আর তার পোশাক আলোক রশ্মির মত শুভ্র হয়েছিল৷ [৩৬-০২]//
+  - **সেই দুই ব্যক্তি কারা ছিলেন যারা প্রভু যীশুর সম্মুক্ষে আবির্ভাব হয়েছিলেন?**
+      * //তারা মোশী ও ভাববাদী এলিয় ছিলেন৷ [৩৬-০৩]//
+  - **মোশী ও এলিয়ার আবির্ভাবটি কেন একটি চমৎকার ছিল?**
+      * //কারণ তারা দুজনেই শত শত বছর পূর্বে পৃথিবীতে জীবিত ছিলেন৷ [৩৬-০৩]//
+  - **মোশী ও এলিয় প্রভু যীশুর সাথে কোন বিষয়ে আলোচনা করছিলেন?**
+      * //তারা প্রভু যীশুর মৃত্যুর বিষয়ে কথা বলছিলেন৷ [৩৬-০৩]//
+  - **প্রভু যীশু মৃত্যুর জন্য কোথায় যাচ্ছিলেন?**
+      * //যেরুশালেমে৷ [৩৬-০৩]//
+  - **পিতর প্রভু যীশু, মোশী ও এলিয়ের জন্য কি করতে চেয়েছিলেন?**
+      * //তিনি তাদের জন্য তিনটি গৃহ নির্মান করতে চেয়েছিলেন, একটি প্রভু যীশুর জন্য, একটি মোশীর জন্য আর একটি এলিয়ের জন্য৷ [৩৬-০৪]//
+  - **উজ্জ্বল মেঘ থেকে শিষ্যদের জন্য কি বাণী হয়েছিল?**
+      * //“ইনি হলেন আমার প্রিয় পুত্র যাকে আমি প্রেম করি৷ আমি ইনার প্রতি অত্যন্ত সন্তুষ্ট৷ তোমরা ইনার কথা মান্য কর৷” [৩৬-০৫]//
+  - **প্রভু যীশু তার শিষ্যদের কি বলেছিলেন সেই বিষয়ে যা তারা ঘটতে দেখেছিল?**
+      * //তিনি তাদের বলেছিলেন যেন এঘটনা তারা কাউকে না বলে যতদিন না তিনি মৃত্যু থেকে পুনরুত্থিত হন৷ [৩৬-০৭]//
+**[[:en:obs:notes:questions:35|<< ]] | [[:en:obs:notes:questions:37| >>]]**
