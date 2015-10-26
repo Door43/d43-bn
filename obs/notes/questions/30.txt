@@ -1,28 +1,25 @@
-====== Story #30: Jesus Feeds Five Thousand People ======
+====== কাহিনী #৩০: প্রভু যীশু পাঁচ হাজার লোকেদের খাইয়ে ছিলেন ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ  =====
 
-
-  - **What did Jesus send his apostles to do in the villages?**
-    *//He sent them to preach and teach. [30-01]//
-  - **Why did Jesus take his apostles to the other side of the lake?**
-    *//He invited them to a quiet place to rest for a while. [30-01]//
-  - **Were Jesus and his apostles able to be alone and rest?**
-    *//No. Many people ran to the other side ahead of them. [30-02]//
-  - **What was Jesus’ attitude toward the crowd that was waiting for them?**
-    *//He had compassion towards them. [30-03]//
-  - **How did Jesus demonstrate his compassion for the people?**
-    *//He taught them and healed the sick. [30-03]//
-  - **Why did the disciples want to send the people away?**
-    *//It was late in the day and they needed to get something to eat. [30-04]//
-  - **Why were the disciples unable to feed all the people?**
-    *//They only had five loaves of bread and two small fish. [30-05]//
-  - **What did Jesus do with the five loaves of bread and the two fish?**
-    *//He thanked God for the food and broke it into pieces for his disciples to give to the people. [30-07], [30-08]//
-  - **How many people ate and were satisfied from the food?**
-    *//Five thousand men, not counting the women and children. [30-03]//
-  - **How much food was left over after everyone had eaten?**
-    *//Twelve baskets full. [30-09]//
-
-
-**[[en/obs/notes/questions/29|<< ]] | [[en/obs/notes/questions/31| >>]]**
+  - **প্রভু যীশু তার প্রেরিতদের গ্রামে গ্রামে কেন পাঠিয়েছিলেন?**
+      * //তিনি তাদের শিক্ষা দিতে ও প্রচার করতে পাঠিয়েছিলেন৷ [৩০-০১]//
+  - **কেন প্রভু যীশু তার প্রেরিতদের হ্রদের ওপারে নিয়ে গিয়েছিলেন?**
+      * //তিনি সেখানে তাদের কিছু সময় আরাম করার জন্য একটি শান্ত জায়গায় নিয়ে গিয়েছিলেন৷ [৩০-০১]//
+  - **সেখানে কি প্রভু যীশু ও তার প্রেরিতরা একাকী থাকতে ও বিশ্রাম নিতে পেরেছিল?**
+      * //না, তারা তা করতে পারেনি৷ বহু লোকেরা আগেই সেখানে পৌঁছে গিয়েছিল৷ [৩০-০২]//
+  - **প্রভু যীশুর প্রবৃত্তি কেমন ছিল সেই লোকগুলোর প্রতি যারা তার জন্য সেখানে অপেক্ষা করছিল?**
+      * //তাদের প্রতি তার করুনা হয়েছিল৷ [৩০-০৩]//
+  - **কিভাবে প্রভু যীশু সেই লোকগুলোর প্রতি দয়া দেখিয়েছিলেন?**
+      * //তিনি তাদের শিক্ষা দিয়েছিলেন ও তাদের সুস্থ করেছিলেন৷ [৩০-০৩]//
+  - **কেন শিষ্যরা সেই লোকগুলোদের দূরে পাঠাতে চেয়েছিল?**
+      * //কারণ তখন সন্ধা হয়ে গিয়েছিল আর তাদের কিছু খাবার খাওয়ার প্রয়োজন ছিল৷ [৩০-০৪] //
+  - **কেন শিষ্যরা তাদের খাওয়াতে অক্ষম ছিল?**
+      * //কারণ তাদের কাছে কেবল পাঁচটি রুটি আর দুটি মাছ ছিল৷ [৩০-০৫]//
+  - **প্রভু যীশু সেই পাঁচটি রুটি ও দুটি মাছ দিয়ে কি করেছিলেন?**
+      * //তিনি ঈশ্বরের ধন্যবাদ করেছিলেন সেই খাদ্যের জন্য ও তা ছিঁড়েছিলেন আর তা তার শিষ্যদের লোকেদেরকে দেওয়ার জন্য দিয়েছিলেন৷ [30-07], [30-08]//
+  - **কত লোকজনেরা সেই খাদ্য খেয়েছিল আর তৃপ্ত হয়েছিল?**
+      * //পাঁচ হাজার পুরুষেরা সেই খাদ্য খেয়েছিল, তাদের মধ্যে স্ত্রী ও বাচ্চাদের গণনা করা হয়নি৷ [30-03]//
+  - **তাদের খাবার পর কত খাবার অবশিষ্ট থেকে গিয়েছিল?**
+      * //বারোটি ঝুড়ি পূর্ণ খাবার বেচেঁ গিয়েছিল৷ [৩০-০৯]//
+**[[:en:obs:notes:questions:29|<< ]] | [[:en:obs:notes:questions:31| >>]]**
