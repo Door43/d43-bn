@@ -1,34 +1,31 @@
-====== Story #37: Jesus Raises Lazarus from the Dead ======
+====== কাহিনী #৩৭: প্রভু যীশু লাসারকে মৃত্যু থেকে জীবিত করেছিলেন ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ =====
 
-
-  - **What did Jesus say would be the end result of Lazarus’ sickness?**
-    *//It would be for the glory of God. [37-01]//
-  - **What did Jesus do after he heard about Lazarus’ sickness?**
-    *//He waited where he was for two more days. [37-01]//
-  - **Why were the disciples concerned when Jesus decided to go to Judea?**
-    *//Because the people there wanted to kill him. [37-02]//
-  - **What did the disciples think Jesus meant when he said that Lazarus had fallen asleep?**
-    *//They thought he was just asleep and would get better. [37-03]//
-  - **What did Jesus plainly tell the disciples about Lazarus?**
-    *//Jesus said that Lazarus had died. [37-03]//
-  - **Why was Jesus glad that he was not there when Lazarus died?**
-    *//Because something would happen that would make the disciples believe in Jesus. [37-03]//
-  - **Did Martha believe that Jesus could have healed Lazarus?**
-    *//Yes. [37-04]//
-  - **What will happen to believers because Jesus is the Resurrection and the Life?**
-    *//Whoever believes in him will live, even though he dies, and everyone who believes in him will never die. [37-05]//
-  - **Who did Martha believe that Jesus was?**
-    *//The Messiah, the Son of God. [37-05]//
-  - **How long had Lazarus been dead?**
-    *//He had been dead for four days. [37-04], [37-07]//
-  - **Why did Jesus thank the Father out loud?**
-    *//He did that so the people would believe that the Father had sent him. [37-09]//
-  - **What did Jesus command Lazarus to do?**
-    *//He commanded Lazarus to come out of the tomb! [37-09]//
-  - **How did the religious leaders of the Jews react when they saw the miracle?**
-    *//They became jealous and planned to kill Jesus and Lazarus. [37-11]//
-
-
-**[[en/obs/notes/questions/36|<< ]] | [[en/obs/notes/questions/38| >>]]**
+  - **প্রভু যীশু লাসারের রোগের সমাপ্ত কিভাবে হবে বলেছিলেন?**
+      * //তিনি বলেছিলেন যে এর দ্বারা ঈশ্বরের গৌরব হবে৷ [৩৭-০১]//
+  - **প্রভু যীশু কি করেছিলেন যখন তিনি জানতে পেরেছিলেন যে লাসার অসুস্থ?**
+      * //তিনি আরো দুদিন ব্যতীত করেছিলেন যেখানে তিনি ছিলেন৷ [৩৭-০১]//
+  - **কেন শিষ্যরা যীশুর যিহুদাতে যাওয়ার নির্ণয়টির প্রতি চিন্তিত ছিল?**
+      * //কারণ সেখানকার লোকেরা তাকে হত্যা করতে চেয়েছিল৷ [৩৭-০৩]//
+  - **শিষ্যেরা কি বুঝেছিল যখন প্রভু যীশু তাদের বলেছলেন যে লাসার ঘুমিয়ে পরেছে?**
+      * //তারা ভেবেছিল যে সে কেবল ঘুমিয়ে পরেছে আর সে ভালো হয়ে যাবে৷ [৩৭-০৩]//
+  - **প্রভু যীশু স্পষ্টভাবে শিষ্যদেরকে লাসারের বিষয়ে কি বলেছিলেন?**
+      * //প্রভু যীশু বলেছিলেন যে লাসার মারা গিয়েছে৷ [৩৭-০৩]//
+  - **প্রভু যীশু কেন আনন্দিত ছিলেন যে লাসারের মৃত্যুর সময় তিনি সেখানে ছিলেন না?**
+      * //কারণ এমন কিছু ঘটতে চলেছিল যা শিষ্যদের তার উপরের বিশ্বাসটিকে আরও দৃঢ় করাবে৷ [৩৭-০৩] //
+  - **মার্থা কি বিশ্বাস করেছিলেন যে প্রভু যীশু লাসারকে সুস্থ করতে পারতেন?**
+      * //হ্যাঁ, তিনি বিশ্বাস করেছিলেন৷ [৩৭-০৪]//
+  - **বিশ্বাসীদের সাথে কি হবে যেহেতু প্রভু যীশুই জীবন আর পুনরুত্থান?**
+      * //যে কেউ তার উপর বিশ্বাস করে সে বাঁচবে, যদিও সে মারা গিয়ে থাকে আর যে কেউ তার উপর বিশ্বাস করবে সে কখনও মরবে না৷ [৩৭-০৫]//
+  - **মার্থা প্রভু যীশুকে কিরূপ বিশ্বাস করতেন?**
+      * //তিনি তাকে খ্রীষ্ট, ঈশ্বরের পুত্ররূপে বিশ্বাস করতেন৷ [৩৭-০৫] //
+  - **লাসারের মরে যাওয়ার পর এখন কত সময় হয়েছিল?**
+      * //তিনি চারদিন হয়েছিল মারা গিয়েছিলেন৷ [৩৭-০৪], [৩৭-০৭]//
+  - **কেন প্রভু যীশু উচ্চ স্বরে পিতাকে ধন্যবাদ দিয়েছিলেন?**
+      * //তিনি এমনটি করেছিলেন যেন লোকেরা বিশ্বাস করে যে পিতা তাকে পাঠিয়েছেন৷ [৩৭-০৯]//
+  - **প্রভু যীশু লাসারকে কি আজ্ঞা দিয়েছিলেন?**
+      * //তিনি লাসারকে কবর থেকে বেরিয়ে আসতে বলেছিলেন! [৩৭-০৯]//
+  - **ইহুদিদের ধার্মিক নেতারা সেই চমৎকার দেখার পর কেমন প্রতিক্রিয়া করেছিল?**
+      * //তাদের হিংসে হয়েছিল ও তারা প্রভু যীশু ও লাসার দুজনকেই হত্যা করতে পরিকল্পনা করেছিল৷ [৩৭-১১]//
+**[[:en:obs:notes:questions:36|<< ]] | [[:en:obs:notes:questions:38| >>]]**
