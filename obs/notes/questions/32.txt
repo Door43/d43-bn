@@ -1,33 +1,31 @@
-====== Story #32: Jesus Heals a Demon-Possessed Man and a Sick Woman ======
+====== কাহিনী #৩২: প্রভু যীশু একটি ভূতগ্রস্ত পুরুষকে ও একটি মহিলাকে সুস্থ করেছিলেন ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ  =====
 
-  - **What happened when Jesus arrived where the Gerasene people lived?**
-    *//A demon-possessed man came running up to Jesus. [32-02]//
-  - **What did the demon cause the man to do?**
-    *//The demon made him break chains, live among the tombs, scream all day and night, not wear clothes, and cut himself with stones. [32-03], [32-04]//
-  - **What was the demon’s name?**
-    *//His name was Legion. [32-06]//
-  - **What did the name "Legion" mean?**
-    *//It meant that there were many demons in the man. [32-06]//
-  - **Where did the demons beg Jesus to send them when they left the man?**
-    *//They asked to go into a herd of about 2,000 pigs. [32-07], [32-08]//
-  - **What happened to the pigs when the demons entered them?**
-    *//They ran down a steep bank into the lake and drowned. [32-08]//
-  - **How did the man behave after the demons left him?**
-    *//He sat calmly, wore clothes, and acted like a normal person. [32-09]//
-  - **How did the people react to the healed man and the dead pigs?**
-    *//They were afraid and asked Jesus to leave them. [32-10]//
-  - **What did Jesus tell the healed man to do instead of going with Jesus?**
-    *//Jesus told him to go home and tell his friends and family about everything God had done for him. [32-11]//
-  - **Why did the woman with the bleeding problem come to Jesus?**
-    *//She thought that if she touched Jesus’ clothes, she would be healed. [32-14]//
-  - **What happened as soon as the woman touched Jesus' clothes?**
-    *//Her bleeding stopped. [32-14]//
-  - **How did Jesus know someone had touched him?**
-    *//He realized that power had gone out from him. [32-15]//
-  - **What did Jesus say to the woman when she fell down before him?**
-    *//“Your faith has healed you. Go in peace.” [32-16]//
-
-
-**[[en/obs/notes/questions/31|<< ]] | [[en/obs/notes/questions/33| >>]]**
+  - **কি হয়েছিল যখন প্রভু যীশু গাদারীয় লোকেদের এলাকায় গিয়েছিলেন?**
+      * //একটি ভূতগ্রস্ত ব্যক্তি দৌঁড়ে প্রভু যীশুর কাছে এসেছিল৷ [৩২-০২]//
+  - **সেই ভূতটি লোকটিকে দিয়ে কি করাত?**
+      * //সেই ভূতটি লোকটিকে দিয়ে শিকল ভাঙাত, কবরস্থানে বসবাস করাত, রাত দিন চিৎকার করাত, আর পাথর দিয়ে নিজেকে কাটাত৷ [৩২-০৩], [৩২-০৪] //
+  - **সেই দুষ্ট আত্মাটির নাম কি ছিল?**
+      * //তার নাম ছিল বাহিনী৷ [৩২-০৬]//
+  - **“বাহিনী” নামের অর্থ কি?**
+      * //এর অর্থ হল যে সেই লোকটির ভিতরে বহু দুষ্ট আত্মা রয়েছে৷ [৩২-০৬]//
+  - **সেই দুষ্ট আত্মাগুলো প্রভু যীশুর কাছে তাদের কোথায় পাঠিয়ে দিতে অনুরোধ করেছিল?**
+      * //তারা ২০০০ শূকরদের একটি পালে তাদের পাঠিয়ে দিতে প্রভুকে অনুরোধ করেছিল৷ [৩২-০৭], [৩২-০৮] //
+  - **সেই শূকরদের কি হয়েছিল যখন দুষ্ট আত্মারা সেই পালে প্রবেশ করেছিল?**
+      * //তারা সমুদ্র তীরের উচ্চ জায়গায় দৌঁড়ে গিয়ে উপর থেকে নিচের সমুদ্রের জলে ঝাঁপ দিয়েছিল৷[৩২-০৮]//
+  - **কিভাবে লোকটি বিশ্বাস করেছিল যখন দুষ্ট আত্মাগুলো তাকে ছেড়ে চলে গিয়েছিল?**
+      * //সে শান্তভাবে বসেছিল, কাপড় পরেছিল, আর একজন সাধারণ ব্যক্তির ন্যায় আচরণ করেছিল৷ [৩২-০৯]//
+  - **স্থানীয় লোকেরা সুস্থ লোকটিকে ও তাদের মৃত শূকরদের দেখার পর কেমন প্রতিক্রিয়া করেছিল?**
+      * //তারা ভয়ভীত হয়েছিল আর প্রভু যীশুকে সেই নগর ছেড়ে চলে যেতে বলেছিল৷ [৩২-১০]//
+  - **প্রভু যীশু সেই সুস্থ লোকটিকে তার সাথে না গিয়ে বরং কি করতে বলেছিলেন?**
+      * //প্রভু যীশু তাকে তার গৃহে ফিরে যেতে বলেছিলেন আর তার বন্ধুদের ও পরিবারকে সেই সকল যা ঈশ্বর তার সাথে করেছেন তা বলতে বলেছিলেন৷ [৩২-১১]//
+  - **কেন রক্ত প্রবাহের সমস্যাযুক্ত মহিলাটি প্রভু যীশুর কাছে এসেছিলেন?**
+      * //কারণ তিনি চিন্তা করেছিলেন যে যদি তিনি প্রভু যীশুর মাত্র কাপড়টিই স্পর্শ করেন তবে তিনি সুস্থ হবেন৷ [৩২-১৪]//
+  - **প্রভু যীশুর কাপড় ছোয়া মাত্র সেই স্ত্রীটির সাথে কি হয়েছিল?**
+      * //তার দেহ থেকে রক্ত প্রবাহ হওয়া বন্ধ হয়ে গিয়েছিল৷ [৩২-১৪] //
+  - **কিভাবে প্রভু যীশু জানতে পেরেছিলেন যে কেউ তাকে স্পর্শ করেছিল?**
+      * //কারণ তিনি অনুভব করেছিলেন যে তার থেকে শক্তি প্রবাহিত হয়েছিল৷ [৩২-১৫]//
+  - **প্রভু যীশু সেই মহিলাটিকে কি বলেছিলেন যখন তিনি তার সম্মুখে নত হয়েছিলেন?**
+      * //“তোমার বিশ্বাস তোমাকে সুস্থ করেছে৷ শান্তিতে চলে যাও৷” [৩২-১৬]//
+**[[:en:obs:notes:questions:31|<< ]] | [[:en:obs:notes:questions:33| >>]]**
