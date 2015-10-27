@@ -1,30 +1,27 @@
-====== Story #41: God Raises Jesus from the Dead ======
+====== কাহিনী #৪১: ঈশ্বর প্রভু যীশুকে পুনরুত্থিত করেছিলেন ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ =====
 
-
-  - **What had Jesus said would happen three days after his death?**
-    *//He would rise from the dead. [41-01]//
-  - **What did the Jewish leaders think of Jesus' prediction that he would rise again?**
-    *//They thought he was a liar. [41-01]//
-  - **What were the Jewish leaders afraid that the disciples would do?**
-    *//They thought the disciples would steal the body and claim Jesus had risen from the dead. [41-01]//
-  - **What did the Jewish leaders do to secure Jesus’ tomb?**
-    *//They placed soldiers to guard the tomb and put a seal on the stone at the entrance of the tomb. [41-02]//
-  - **When did the women go to Jesus’ tomb?**
-    *//Very early on the morning after the Sabbath day. [41-03]//
-  - **What miraculous events happened at the tomb before the women arrived there?**
-    *//There was an earthquake and an angel appeared, rolled away the stone, and sat on it. [41-04]//
-  - **What did the soldiers do when they saw that angel?**
-    *//They were terrified and fell to the ground like dead men. [41-04]//
-  - **What did the angel say to the women when they arrived at the tomb?**
-    *//Do not be afraid. Jesus has risen from the dead. Look in the tomb and see. [41-05]//
-  - **What did the angel tell the women to say to the disciples?**
-    *//He told them to tell the disciples that Jesus has risen from the dead, and that he would go to Galilee ahead of them. [41-06]//
-  - **Who appeared to the women as they were on their way to speak to the disciples?**
-    *//Jesus appeared to them. [41-08]//
-  - **What did the women do when they saw Jesus?**
-    *//They worshiped him. [41-08]//
-
-
-**[[en/obs/notes/questions/40|<< ]] | [[en/obs/notes/questions/42| >>]]**
+  - **প্রভু যীশু তার মৃত্যুর তিনদিন পর কি ঘটবে বলেছিলেন?**
+      * //তিনি বলেছিলেন যে তিনি মৃতদের মধ্যে থেকে পুনরুত্থিত হবেন৷ [৪১-০১]//
+  - **ইহুদি নেতারা তার পুনরুত্থানের বিষয়ে কি চিন্তা করেছিল?**
+      * //তারা ভেবেছিল যে প্রভু যীশু একজন মিথ্যুক৷ [৪১-০১]//
+  - **ধার্মিক নেতারা কি বিষয়ে সন্দেহ করেছিল যে তার শিষ্যরা কি করতে পারে?**
+      * //তারা ভেবেছিল যে শিষ্যরা তার শরীর চুরি করবে আর দাবি করবে যে যীশু মৃত্যু থেকে জীবিত হয়েছে৷ [৪১-০১]//
+  - **ইহুদি নেতারা প্রভু যীশুর কবর সুরক্ষিত রাখার জন্য কি করেছিল?**
+      * //তারা কবরটিকে পাহারা দেওয়ার জন্য সৈন্য রেখেছিল আর পাথরের উপর মুদ্রাঙ্কিত করেছিল৷ [৪১-০২] //
+  - **মহিলারা কবরে কখন গিয়েছিল?**
+      * //তারা বিশ্রামবারে খুব ভোরে সেখানে গিয়েছিল৷ [৪১-০৩] //
+  - **কবরে মহিলারা পৌঁছাবার পূর্বে কোন অদ্ভুত কার্য সেখানে ঘটেছিল?**
+      * //সেখানে একটি ভূমিকম্প হয়েছিল আর একটি স্বর্গদূত আবির্ভূত হয়েছিলেন, তিনি কবরের পাথরটিকে খুলে দিয়েছিলেন, আর তার সেই পাথরটির উপর বসেছিলেন?[৪১-০৪]//
+  - **সেই সৈন্যরা কি করেছিল যখন তারা সেই স্বর্গদূতটিকে দেখেছিল?**
+      * //তারা অত্যন্ত ভয় পেয়েছিল আর ভূমিতে মরার মত হয়ে পরে গিয়েছিল৷ [৪১-০৪]//
+  - **সেই স্বর্গদূতটি মহিলাদেরকে যারা কবেরে এসেছিল তাদের কি বলেছিলেন?**
+      * //ভয় পেও না৷ প্রভু যীশু মৃত্যু থেকে পুনরুত্থিত হয়েছেন৷ কবরের ভিতরে যাও ও দেখো৷ [৪১-০৫]//
+  - **স্বর্গদূতটি মহিলাদেরকে শিষ্যদের কি বলতে বলেছিলেন?**
+      * //তিনি তাদের বলেছিলেন যে শিষ্যদেরকে গিয়ে বলতে যে প্রভু যীশু মৃতদের মধ্যে থেকে পুনরুত্থিত হয়েছেন, আর তিনি তাদের পূর্বেই গালীল প্রদেশে যাবেন৷ [৪১-০৬]//
+  - **যখন মহিলারা তাদের পথে ফিরে যাচ্ছিল তখন তাদের কাছে কে আবির্ভূত হয়েছিলেন?**
+      * //প্রভু যীশু তাদের কাছে আবির্ভূত হয়েছিলেন৷ [৪১-০৮]//
+  - **সেই মহিলারা কি করেছিল যখন তারা প্রভু যীশুকে দেখতে পেয়েছিল?**
+      * //তারা তার আরাধনা করেছিল৷ [৪১-০৮]//
+**[[:en:obs:notes:questions:40|<< ]] | [[:en:obs:notes:questions:42| >>]]**
