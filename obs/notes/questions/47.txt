@@ -1,34 +1,31 @@
-====== Story #47: Paul and Silas in Philippi ======
+====== কাহিনী #৪৭: ফিলিপীয়তে পৌল ও সীল ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ  =====
 
-
-  - **What was the Roman name that Saul began to use?**
-    *//Paul. [47-01]//
-  - **Where did Paul go in Philippi to proclaim the good news about Jesus?**
-    *//They went to a place by the river outside the city where people gathered to pray. [47-01]//
-  - **What made it possible for Lydia to believe in Jesus?**
-    *//God made it possible for Lydia to understand the message about Jesus. [47-02]//
-  - **What did Paul and Silas do to Lydia after she believed?**
-    *//They baptized Lydia and her family. [47-02]//
-  - **What did the demon-possessed slave girl keep yelling when she saw Paul and Silas?**
-    *//“These men are servants of the Most High God. They are telling you the way to be saved!” [47-04]//
-  - **How did Paul respond to the demon's testimony?**
-    *//Paul became annoyed and commanded the demon to leave the slave girl. [47-04], [47-05]//
-  - **Why were the owners of the slave girl angry that the demon was gone?**
-    *//They realized that people would no longer pay money for her to tell people the future. [47-06]//
-  - **What were Paul and Silas doing in the middle of the night in jail?**
-    *//They were singing songs of praise to God. [47-08]//
-  - **What happened while Paul and Silas were singing?**
-    *//There was a violent earthquake, the prison doors flew open, and the chains of the prisoners fell off. [47-09]//
-  - **Why was the jailer terrified?**
-    *//He thought all the prisoners had escaped, and that the Roman authorities would kill him. [47-10]//
-  - **What question did the jailer ask Paul?**
-    *//“What must I do to be saved?” [47-11]//
-  - **What did Paul say the jailer had to do in order to be saved?**
-    *//He had to believe in Jesus, the Master. [47-11]//
-  - **What happened to some of the letters Paul and other Christian leaders wrote to the believers in the churches?**
-    *//Some of these letters became books of the Bible. [47-14]//
-
-
-**[[en/obs/notes/questions/46|<< ]] | [[en/obs/notes/questions/48| >>]]**
+  - **শৌল নামের রোমান নামটি কি ছিল যা তিনি ব্যবহার করা আরম্ভ করেছিলেন?**
+      * //সেই নামটি ছিল পৌল৷ [৪৭-০১]//
+  - **পৌল ফিলিপীয়ের কোন জায়গায় প্রভু যীশুর সুসমাচার প্রচার করতে গিয়েছিলেন?**
+      * //তারা নগরের বাইরে নদীর কিনারে গিয়েছিলেন যেখানে লোকেরা প্রার্থনা করতে গিয়েছিলেন৷ [৪৭-০১]//
+  - **কোন কারণে লুদিয়া প্রভু যীশুর উপর বিশ্বাস করতে পেরেছিলেন?**
+      * //ঈশ্বর লুদিয়াকে যীশুর সুসমাচারে বিশ্বাস করতে সাহায্য করেছিলেন৷ [৪৭-০২]//
+  - **লুদিয়ার বিশ্বাস করার পর পৌল ও সীল কি করেছিলেন?**
+      * //তারা লুদিয়া ও তার পরিবারকে বাপ্তিস্ম দিয়েছিলেন৷ [৪৭-০২]//
+  - **সেই ভূতগ্রস্ত দাসী মেয়েটি পৌল ও সীলকে দেখে কি চিৎকার করত?**
+      * //“এই লোকগুলো সর্বশক্তিমান ঈশ্বরের দাস৷ এরা আপনাদের উদ্ধার পাওয়ার পথ বলছে!” [৪৭-০৪] //
+  - **সেই ভূতটির সাক্ষীর বিষয়ে পৌল কেমন প্রতিউত্তর করেছিলেন?**
+      * //পৌল ক্রুদ্ধ হয়েছিলেন আর সেই ভূতটিকে দাসী মেয়েটির ভিতর থেকে বেরিয়ে যেতে আদেশ দিয়েছিলেন৷ [৪৭-০৪], [৪৭-০৫]//
+  - **কেন সেই দাসী মেয়েটির মালিকেরা ভূতটি চলে যাওয়ায় ক্রুদ্ধ হয়েছিল?**
+      * //তারা বুঝতে পেরেছিল যে লোকেরা আর তাদের ভবিষ্যত বলে দেওয়ার জন্য মেয়েটিকে আর কোনো টাকা দেবে না৷ [৪৭-০৬]//
+  - **পৌল আর সীল মধ্য রাতে জেলে কি করছিলেন?**
+      * //তারা ঈশ্বরের স্তুতিগান গাইছিলেন৷ [৪৭-০৮]//
+  - **পৌল ও সীল যখন গান গাইছিলেন তখন কি হয়েছিল?**
+      * //সেখানে একটি তীব্র ভূমিকম্প হয়েছিল, সেই জেলটির দরজাগুলো খুলে গিয়েছিল, আর সকল কয়েদীদের শিকল খুলে গিয়েছিল৷ [৪৭-০৯]//
+  - **কেন সেই জেল অধিকারী ভয় পেয়েছিলেন?**
+      * //তিনি ভেবেছিলেন যে সকল বন্দিরা হয়ত পালিয়েছে আর যদি রোমান শাসকেরা তা জানতে পারে তবে তাকে তারা মেরে ফেলবে৷ [৪৭-১০]//
+  - **কোন প্রশ্ন সেই জেল অধিকারীটি পৌলের কাছে জিজ্ঞেসা করেছিল?**
+      * //“উদ্ধার পাওয়ার জন্য আমাকে কি করতে হবে?” [৪৭-১১]//
+  - **পৌল সেই জেল অধিকারীকে উদ্ধার পাওয়ার জন্য কি করতে হবে বলেছিলেন?**
+      * //তিনি বলেছিলেন তাকে প্রভু যীশুকে তার প্রভুরূপে বিশ্বাস করতে হবে৷ [৪৭-১১] //
+  - **পৌলের ও অন্যান্য খ্রিস্টান নেতাদের চার্চগুলোর প্রতি লিখিত পত্রগুলোর সাথে পরবর্তীতে কি হয়েছিল?**
+      * //সেই পত্রগুলোর কিছু কিছু বাইবেলের পুস্তক হয়েছিল৷[৪৭-১৪]//
+**[[:en:obs:notes:questions:46|<< ]] | [[:en:obs:notes:questions:48| >>]]**
