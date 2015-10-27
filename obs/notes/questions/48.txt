@@ -1,34 +1,31 @@
-====== Story #48: Jesus is the Promised Messiah ======
+====== কাহিনী #৪৮: প্রভু যীশুই হলেন সেই প্রতিজ্ঞার খ্রীষ্ট ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ =====
 
-
-  - **What was the world like when God first created it?**
-    *//It was perfect, without sin, sickness, or death. [48-01]//
-  - **Why do people on earth get sick and everyone dies?**
-    *//Because Adam and Eve sinned against God. [48-02]//
-  - **What is the condition of every person who is born?**
-    *//They have a sinful nature and are enemies of God. [48-03]//
-  - **What does it mean that Satan will "wound the heel" of Eve's descendent?**
-    *//Satan would kill the Messiah, but God would raise him to live again. [48-04]//
-  - **In what way is Jesus like the boat God provided when he destroyed the earth by the flood?**
-    *//God provided Jesus as a way to save people who believe in him. [48-05]//
-  - **How is Jesus different than the priests who came before him?**
-    *//He offered himself as the only sacrifice that could take away the sin of all the people. [48-06]//
-  - **How is God’s promise to Abraham fulfilled through Jesus?**
-    *//Everyone, from any people group, who believes in Jesus is saved from sin and becomes a spiritual descendant of Abraham. [48-07]//
-  - **How is Jesus like the lamb that was sacrificed instead of Isaac?**
-    *//Jesus is the Lamb of God, who was sacrificed in our place. [48-08]//
-  - **How is Jesus like the Passover Lamb?**
-    *//Jesus was perfect and sinless, and his blood (his death) causes God’s punishment to pass over anyone who believes in him. [48-10]//
-  - **Who can be part of God's people?**
-    *//Anyone from any people group can be part of God's people through the New Covenant by believing in Jesus. [48-11]//
-  - **In what way is Jesus the greatest prophet of all?**
-    *//He is God, so everything he did and said were the actions and words of God. [48-12]//
-  - **How does Jesus fulfill God’s promise to King David?**
-    *//Because he is God's son, he is the descendant of David who can rule forever. [48-13]//
-  - **In what way is Jesus a greater king than David?**
-    *//Jesus is the king of the entire universe. [48-14]//
-
-
-**[[en/obs/notes/questions/47|<< ]] | [[en/obs/notes/questions/49| >>]]**
+  - **পৃথিবী প্রথমে কেমন দেখাত যখন ঈশ্বর তা সৃষ্টি করেছিলেন?**
+      * //এটি উৎকৃষ্ট ছিল, আর যেখানে কোনো পাপ, অসুখ, বা মৃত্যু ছিল না৷ [৪৮-০১]//
+  - **কেন পৃথিবীতে লোকেরা অসুস্থ হয়ে পরে ও মারা যায়?**
+      * //কারণ আদম ও হবা ঈশ্বরের বিরুদ্ধে পাপ করেছিলেন৷ [৪৮-০২]//
+  - **সকল ব্যক্তির জন্য যারা পৃথিবীতে জন্মায় পরিস্থিতিটি কেমন?**
+      * //তারা প্রকৃতিতে পাপপূর্ণ আর তারা ঈশ্বরের শত্রু৷ [৪৮-০৩]//
+  - **এর অর্থ কি যে শয়তান হবার উত্তরাধিকারীর “গোড়ালিতে ক্ষত করবে”?**
+      * //শয়তান খ্রীষ্টকে হত্যা করবে, কিন্তু ঈশ্বর তাকে পুনরায় জীবিত করবেন৷ [৪৮-০৪]//
+  - **কোন পরিপেক্ষিতে প্রভু যীশু বন্যা প্রলয়ের ঈশ্বরের প্রদান করা সেই জাহাজটির মত?**
+      * //ঈশ্বর লোকেদের প্রভু যীশুরকে তার উপর বিশ্বাস করার মাধ্যমে উদ্ধার পাওয়ার একটি পথ হিসাবে প্রদান করেছিলেন৷ [৪৮-০৫]//
+  - **প্রভু যীশু তার পূর্বে আসা সকল যাজকদের থেকে কি প্রকারে ভিন্ন?**
+      * //তিনি নিজেকে সেই একমাত্র বলি রূপে উৎসর্গ করেছিলেন যা কেবল লোকেদের সকল পাপ নিয়ে নিতে পারে৷ [৪৮-০৬] //
+  - **কিভাবে আব্রাহামের প্রতি ঈশ্বরের করা প্রতিজ্ঞা প্রভু যীশুর মাধ্যমে পূর্ণ হয়েছিল?**
+      * //কোনও জনগোষ্টির কোনও ব্যক্তি, যে প্রভু যীশুর উপর বিশ্বাস করে সে তার পাপ থেকে উদ্ধার পেয়েছে আর সে আব্রাহামের একটি আত্মিক উত্তরাধিকারী হয়েছে৷ [৪৮-০৭]//
+  - **প্রভু যীশু কিভাবে ইসহাকের বদলে উৎসর্গিত সেই মেষশাবকটির তুল্য?**
+      * //প্রভু যীশু হলেন ঈশ্বরের মেষশাবক, যিনি আমাদের জায়গায় বলি হয়েছিলেন৷ [৪৮-০৮]//
+  - **প্রভু কিরূপে নিস্তারপর্বের মেষশাবকের তুল্য?**
+      * //প্রভু যীশু নিখুঁত ও পাপহীন ছিলেন, আর তার রক্ত (তার মৃত্যু) ঈশ্বরের দণ্ড সেই লোকেদের উপর থেকে সরিয়ে নেয় যারা তার উপর বিশ্বাস করে৷ [৪৮-১০] //
+  - **কারা ঈশ্বরের প্রজাদের অংশ হতে পারে?**
+      * //কোনও জনগোষ্টির কোনও ব্যক্তি নতুন নিয়মের মাধ্যমে ঈশ্বরের প্রজার অংশ হতে পারে প্রভু যীশুর উপর বিশ্বাস করার দ্বারা৷ [৪৮-১১]//
+  - **কোন প্রকারে প্রভু যীশু সকল ভাববাদীদের মধ্যে সর্বশ্রেষ্ঠ?**
+      * //তিনি হলেন ঈশ্বর, তাই তিনি যা কিছু বলেছিলেন ও করেছিলেন তা ছিল সয়ং ঈশ্বরের বাণী ও কার্য৷ [৪৮-১২]//
+  - **কিভাবে প্রভু যীশু রাজা দায়ূদকে করা ঈশ্বরের প্রতিজ্ঞাটি পূর্ণ করেছিলেন?**
+      * //কারণ তিনি হলেন ঈশ্বরের পুত্র, আর তিনি দায়ূদের বংশধরও ছিলেন যিনি চিরকাল রাজত্ব করেন৷ [৪৮-১৩]//
+  - **কোন প্রকারে প্রভু যীশু রাজা দায়ূদের থেকে শ্রেষ্ট?**
+      * //প্রভু যীশু হলেন সম্পূর্ণ ব্রহ্মাণ্ডের উপর রাজা৷ [৪৮-১৪]//
+**[[:en:obs:notes:questions:47|<< ]] | [[:en:obs:notes:questions:49| >>]]**
