@@ -1,28 +1,25 @@
-====== Story #44: Peter and John Heal a Beggar ======
+====== কাহিনী #৪৪: পিতর ও যোহন একটি ভিখারীকে সুস্থ করেছিলেন ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ =====
 
-
-  - **What did the crippled man expect Peter and John to give him?**
-    *//Money. [44-01]//
-  - **What did Peter give to the crippled man instead?**
-    *//Peter healed him in the name of Jesus. [44-02]//
-  - **What did Peter say caused the crippled man to be healed?**
-    *//The power of Jesus and the faith that Jesus gives. [44-04]//
-  - **Who did Peter say killed Jesus?**
-    *//He said the people in the crowd asked the Roman governor to kill Jesus. [44-05]//
-  - **What prophecies did the people fulfill when they killed Jesus?**
-    *//The prophecies that the Messiah would suffer and die. [44-05]//
-  - **What did Peter tell the people that they should do?**
-    *//They should repent and turn to God, so that their sins would be washed away. [44-05]//
-  - **How many men believed in Jesus as a result of Peter’s message?**
-    *//About 5000. [44-06]//
-  - **What is the only way to be saved?**
-    *//The only way to be saved is through the power of Jesus. [44-08]//
-  - **Why were the Jewish leaders surprised at the preaching of Peter and John?**
-    *//Peter and John were ordinary, uneducated men. [44-09]//
-  - **What did the Jewish leaders finally decide to do with Peter and John?**
-    *//They threatened them and let them go. [44-09]//
-
-
-**[[en/obs/notes/questions/43|<< ]] | [[en/obs/notes/questions/45| >>]]**
+  - **সেই পঙ্গু ব্যক্তিটি পিতর ও যোহনের কাছ থেকে কি পাওয়ার প্রত্যাশা করেছিল?**
+      * //টাকা পাওয়ার প্রত্যাশা করেছিল৷ [৪৪-০১] //
+  - **তার বদলে পিতর সেই পঙ্গু ব্যক্তিটিকে কি দিয়েছিলেন?**
+      * //পিতর প্রভু যীশুর নামে তাকে সুস্থতা দিয়েছিলেন৷ [৪৪-০২]//
+  - **পিতর কার শক্তিতে সেই পঙ্গু ব্যক্তিটিকে সুস্থ করেছিলেন?**
+      * //তিনি প্রভু যীশুর শক্তিতে আর সেই বিশ্বাসে যা প্রভু যীশু প্রদান করেন তার দ্বারা তাকে সুস্থ করেছিলেন৷ [৪৪-০৪]//
+  - **পিতর প্রভু যীশুর হত্যার দোষী কাকে করেছিলেন?**
+      * //তিনি বলেছিলেন যে ভিড়ের লোকেরা রোমান রাজ্যপালকে যীশুকে হত্যা করতে বলেছিল৷ [৪৪-০৫] //
+  - **কোন ভাববাণী লোকেরা পূর্ণ করেছিল যখন তারা যীশুকে হত্যা করেছিল?**
+      * //তারা সেই ভাববাণীগুলোকে পূরণ করেছিল যা বলে যে খ্রীষ্টকে দুঃখ ভোগ করতে হবে ও মরতে হবে৷ [৪৪-০৫]//
+  - **পিতর লোকেদের কি বলেছিলেন যে তাদের কি করা উচিত?**
+      * //তাদের অনুশোচনা করা উচিত আর ঈশ্বরের কাছে ফেরা উচিত, যেন তারা তাদের পাপ থেকে শুদ্ধ হতে পারে৷ [৪৪-০৫]//
+  - **পিতরের প্রচারে কত জন লোকেরা প্রভু যীশুর উপর বিশ্বাস করেছিল?**
+      * //প্রায় ৫০০০ লোক বিশ্বাস করেছিল৷ [৪৪-০৬]//
+  - **উদ্ধার পাওয়ার একমাত্র পথ কোনটি?**
+      * //উদ্ধার পাওয়ার একমাত্র পথ হল প্রভু যীশু৷ [৪৪-০৮]//
+  - **কেন ইহুদি নেতারা পিতর ও যোহনের প্রচারে আশ্চর্যবোধ করেছিল?**
+      * //পিতর ও যোহন সাধারণ ব্যক্তি ছিলেন ও তারা বিদ্যালয়ের শিক্ষায় অশিক্ষিত ছিলেন৷ [৪৪-০৯]//
+  - **ইহুদি নেতারা অন্তিমে পিতর ও যোহনের সাথে কি করবে নির্ণয় করেছিল?**
+      * //তারা তাদের ধমকি দেখিয়ে ছেড়ে দেবে ভেবেছিল৷ [৪৪-০৯]//
+**[[:en:obs:notes:questions:43|<< ]] | [[:en:obs:notes:questions:45| >>]]**
