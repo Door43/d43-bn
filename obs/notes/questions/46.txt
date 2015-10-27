@@ -1,38 +1,35 @@
-====== Story #46: Saul Believes in Jesus ======
+====== কাহিনী #৪৬: শৌল প্রভু যীশুর উপর বিশ্বাস করেছিলেন ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ =====
 
-
-  - **Why was Saul going to Damascus?**
-    *//To arrest Christians and to bring them back to Jerusalem. [46-01]//
-  - **What question did Jesus ask Saul on the road to Damascus?**
-    *//“Why do you persecute me?” [46-02]//
-  - **What happened to Saul when he got up after seeing the bright light?**
-    *//Paul could not see. His friends led him into Damascus and he did not eat or drink for three days. [46-03]//
-  - **Why was Ananias afraid to speak to Saul?**
-    *//He had heard that Saul was persecuting the believers. [46-04]//
-  - **What did God say was the purpose for which he had chosen Saul?**
-    *//Saul would declare God’s name to the Jews and to people from other people groups. [46-04]//
-  - **How did Ananias enable Saul to see again?**
-    *//He placed his hands on him. [46-05]//
-  - **What did Ananias do to Saul after he regained his sight?**
-    *//Ananias baptized him. [46-05]//
-  - **What message did Saul immediately begin preaching to the Jews?**
-    *//“Jesus is the Son of God!” [46-06]//
-  - **How did the Jews respond to Saul's preaching?**
-    *//They made a plan to kill Saul. [46-07]//
-  - **How did Saul escape from Damascus?**
-    *//His friends lowered him over the city wall in a basket. [46-07]//
-  - **Who helped Saul to be accepted by the disciples in Jerusalem?**
-    *//Barnabas took Saul to the apostles and told them how Saul had preached boldly in Damascus. [46-08]//
-  - **What was different about the people who became believers in Antioch?**
-    *//They were not Jews. [46-09]//
-  - **What name first began to be used for the believers in Antioch?**
-    *//Christians. [46-09]//
-  - **What was the church in Antioch doing when the Holy Spirit told them to set apart Barnabas and Saul?**
-    *//They were praying and fasting. [46-10]//
-  - **What was the purpose for which the church in Antioch sent out Saul and Barnabas?**
-    *//They sent them out to preach the good news about Jesus in many other places. [46-10]//
-
-
-**[[en/obs/notes/questions/45|<< ]] | [[en/obs/notes/questions/47| >>]]**
+  - **দন্মেশকে শৌল কেন গিয়েছিলেন?**
+      * //তিনি সেখানে খ্রিস্টানদের গ্রেফতার করতে ও যেরুশালেমে তাদের ফিরিয়ে আনতে গিয়েছিলেন৷ [৪৬-০১] //
+  - **প্রভু যীশু শৌলকে দন্মেশকের পথে কি প্রশ্ন করেছিলেন?**
+      * //“তুমি কেন আমায় উৎপীড়ন করছ?” [৪৬-০২]//
+  - **শৌলের কি হয়েছিল যখন তিনি সেই উজ্বল রশ্মি দেখেছিলেন?**
+      * //পৌল চোখে দেখতে পারেননি বা তিনি অন্ধ হয়ে গিয়েছিলেন৷ তার বন্ধুরা তাকে দন্মেশকে নিয়ে গিয়েছিলেন আর তিনি তিনদিন পর্যন্ত কিছু খান নি ও পান করেন নি৷  [৪৬-০৩] //
+  - **কেন অননিয় শৌলের সাথে কথা বলতে কেন ভয় পাচ্ছিলেন?**
+      * //তিনি শুনেছিলেন যে শৌল বিশ্বাসীদের উৎপীড়ন করেন৷ [৪৬-০৪] //
+  - **ঈশ্বর শৌলের বিষয়ে কি উদ্দেশ্য রেখেছিলেন?**
+      * //শৌল ইহুদিদের মধ্যে আর বিভিন্ন লোকেদের মধ্যে ঈশ্বরের নামের মহিমা করবেন৷ [৪৬-০৪] //
+  - **কিভাবে অননিয় শৌলকে দৃষ্টি দিয়েছিলেন?**
+      * //তিনি তার উপর হাত রেখেছিলেন৷ [৪৬-০৫]//
+  - **অননিয় শৌলের সাথে কি করেছিলেন তার দৃষ্টি ফিরিয়ে দেওয়ার পর?**
+      * //অননিয় তাকে বাপ্তিস্ম দিয়েছিলেন৷ [৪৬-০৫]//
+  - **শৌল তার পর পরই ইহুদিদের মধ্যে কোন সমাচার শোনানো আরম্ভ করেছিলেন?**
+      * //“প্রভু যীশু হলেন ঈশ্বরের পুত্র!” [৪৬-০৬]//
+  - **শৌলের প্রচারে ইহুদিরা কেমন প্রতিক্রিয়া করেছিল?**
+      * //তারা শৌলকে হত্যা করার পরিকল্পনা করেছিল৷ [৪৬-০৭]//
+  - **শৌল কিভাবে দন্মেশক থেকে পালিয়েছিলেন?**
+      * //তার বন্ধুরা তাকে শহরের প্রাচীর থেকে একটি ঝুড়িতে বসিয়ে নিচে নামিয়ে দিয়েছিলেন৷ [৪৬-০৭] //
+  - **যেরুশালেমের বিশ্বাসীদের দ্বারা গ্রহনীয় হতে কে শৌলকে সাহায্য করেছিলেন?**
+      * //বর্ণবা শৌলকে প্রেরিতদের কাছে নিয়ে গিয়েছিল আর তাদের বলেছিলেন যে কিভাবে তিনি সাহসের সাথে দন্মেশকে প্রচার করেছিলেন৷ [৪৬-০৮]//
+  - **যেরুশালেমের বিশ্বাসীদের সাথে আন্তিয়খিয়ার বিশ্বাসীদের মধ্যে কি পার্থক্য ছিল?**
+      * //তারা জাতিতে ইহুদি ছিলেন না৷ [৪৬-০৯]//
+  - **আন্তিয়খিয়ার বিশ্বাসীদের প্রথমবার কি নামে সম্বোধন করা হয়েছিল?**
+      * //তাদেরকে “খিস্টান” নাম দেওয়া হয়েছিল৷ [৪৬-০৯] //
+  - **পবিত্র আত্মা শৌল ও বর্ণবাকে আলাদা করার কথা বলার পর আন্তিয়খিয়ার চার্চের লোকেরা কি করেছিল?**
+      * //তারা প্রার্থনা ও উপবাস করেছিল৷ [৪৬-১০]//
+  - **কি উদ্দেশ্যের জন্য আন্তিয়খিয়ার চার্চ পৌল ও বর্ণবাকে আলাদা করেছিল?**
+      * //তারা তাদের অন্যান্য জায়গায় প্রভু যীশুর বিষয়ে সুসমাচার প্রচার করতে প্রেরণ করেছিলেন৷ [৪৬-১০]//
+**[[:en:obs:notes:questions:45|<< ]] | [[:en:obs:notes:questions:47| >>]]**
