@@ -1,36 +1,33 @@
-====== Story #50: Jesus Returns ======
+====== কাহিনী #৫০: প্রভু যীশুর পুনরাগমণ ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ =====
 
-
-  - **During the last 2000 years, what has happened to the number of people who believe in Jesus?**
-    *//The number has been increasing. [50-01]//
-  - **How does God want us to live as we wait for Jesus to return?**
-    *//He wants us to live in a way that is holy and that honors him. [50-02]//
-  - **What did Jesus say would happen before the end of the world comes?**
-    *//His disciples would preach the good news of the kingdom of God to people everywhere in the world. [50-02]//
-  - **How will the world that hated Jesus treat his disciples?**
-    *//The world will cause his disciples to suffer also. [50-04]//
-  - **What is God’s promise to those who remain faithful to the end?**
-    *//He promises to save them. [50-04]//
-  - **In Jesus’ story about the end of the world, how did the weeds come to be among the wheat?**
-    *//An enemy planted them. [50-05], [50-06]//
-  - **Why didn't the servants pull out the weeds?**
-    *//They did not want to accidentally pull out the wheat. [50-07]//
-  - **What does the good seed represent?**
-    *//The good seed represents the people of God's kingdom. [50-08]//
-  - **What does the harvest represent?**
-    *//The harvest represents the end of the world, when God’s angels will gather up the people who belong to the devil. [50-09], [50-10]//
-  - **What will happen to the people who belong to the devil at the end of the world?**
-    *//They will be thrown into a raging fire, where they will suffer terribly. [50-10]//
-  - **In what form will Jesus return to the earth?**
-    *//He will return the way that he left, with a physical body and on the clouds of the sky. [50-11]//
-  - **What will happen to all Christians when Jesus returns?**
-    *//Those who are alive will rise to meet him, and those who are dead will also rise to meet him in the sky. [50-12]//
-  - **What will Jesus do to Satan when he returns?**
-    *//Jesus will throw Satan into hell where he will burn forever. [50-15]//
-  - **What will life be like in the new heaven and new earth?**
-    *//Jesus will reign forever with peace and justice, and there will be no more suffering. [50-17]//
-
-
-**[[en/obs/notes/questions/49|<< ]]**
+  - **গত ২০০০ বছরে প্রভু যীশুর উপর বিশ্বাসকারীদের সংখ্যা কত হয়েছে?**
+      * //তারা সংখায় প্রচুর মাত্রায় বৃদ্ধি পেয়েছে৷ [৫০-০১]//
+  - **প্রভু যীশুর পুনরাগমণ হওয়া পর্যন্ত ঈশ্বর আমাদের কাছ থেকে কিরূপ জীবন ব্যতীত করার প্রত্যাশা রাখেন?**
+      * //তিনি চান যেন আমরা পবিত্র পথে ও তাকে সন্মান দিয়ে জীবন যাপন করি৷ [৫০-০২]//
+  - **প্রভু যীশু পৃথিবী ধ্বংস হওয়ার পূর্বে কি কি ঘটবে বলেছিলেন?**
+      * //তিনি বলেছিলেন যে পৃথিবী ধ্বংস হওয়ার পূর্বে তার শিষ্যেরা পৃথিবীর সকল লোকেদের ঈশ্বরের রাজ্যের বিষয়ে সুসমাচার প্রচার করবে৷ [৫০-০২] //
+  - **পৃথিবীর লোকেরা যারা প্রভু যীশুকে ঘৃণা করেছিল তারা তার শিষ্যদের সাথে কিরূপ আচরণ করবে?**
+      * //পৃথিবীর লোকেরা তাদের অত্যাচার করবে৷ [৫০-০৪]//
+  - **যারা শেষ পর্যন্ত বিশ্বাসযোগ্য থাকবে তাদের প্রতি ঈশ্বরের প্রতিজ্ঞাটি কি?**
+      * //তিনি তাদেরকে রক্ষা করার প্রতিশ্রুতি দিয়েছেন৷[৫০-০৪]//
+  - **পৃথিবী সমাপ্ত হওয়ার প্রভু যীশুর কাহিনীটিতে কিভাবে শ্যামাঘাস গমের কৃষিজমিতে এসেছিল?**
+      * //একটি শত্রু তা বপন করেছিল৷ [৫০-০৫], [৫০-০৬]//
+  - **কেন চাকরেরা সেই শ্যামাঘাস জমি থেকে তুলে ফেলেনি?**
+      * //তারা দুর্ঘটনা ক্রমে কোনো গমের ছাড়া তুলে ফেলতে চায়নি৷ [৫০-০৭]//
+  - **ভালো বীজগুলো কার প্রতিনিধিত্ব করে?**
+      * //ভালো বীজ ঈশ্বরের রাজ্যের লোকেদের বিষয়ে বলে৷ [৫০-০৮]//
+  - **ফসল কাটার সময়টি কিসের প্রতিনিধিত্ব করে?**
+      * //ফসল কাটার সময়টি পৃথিবীর সমাপ্তের সময়কে উল্লেখ করে, যখন ঈশ্বরের স্বর্গদূতরা লোকেদের একত্র করবে যারা শয়তানের লোকজন হবে৷ [৫০-০৯], [৫০-১০]//
+  - **পৃথিবীর সমাপ্তের সময়ে সেই লোকেদের সাথে কি হবে যারা শয়তানের লোকজন?**
+      * //তাদের একটি উত্তপ্ত অগ্নিকুন্ডে নিক্ষেপ করা হবে, যেখানে তারা ভীষণভাবে কষ্ট পাবে৷ [৫০-১০]//
+  - **কোন আবির্ভাবে প্রভু যীশু পুনরায় পৃথিবীতে ফিরে আসবেন?**
+      * //যেভাবে তিনি গিয়েছিলেন ঠিক সেই ভাবে, একটি শারীরিক দেহের সাথে আর মেঘের মধ্যে দিয়ে তিনি ফিরে আসবেন৷ [৫০-১১]//
+  - **সেই সকল খ্রিস্টানদের সাথে কি হবে যখন প্রভু যীশু ফিরে আসবেন?**
+      * //যারা জীবিত থাকবে তারা উপরে আকাশে উঠে তার সাথে সাক্ষাৎকার করবে আর যারা আগেই মারা গিয়ে থাকবে তারা জীবিত হয়ে আকাশে গিয়ে তার সাথে সাক্ষাৎকার করবে৷ [৫০-১২]//
+  - **প্রভু যীশু শয়তানের সাথে কি করবেন যখন তিনি পৃথিবীতে ফিরে আসবেন?**
+      * //প্রভু যীশু শয়তানকে নরকে নিক্ষেপ করবেন আর সেখানে চিরকাল সে জ্বলতে থাকবে৷ [৫০-১৫]//
+  - **নতুন আকাশে ও নতুন পৃথিবীতে জীবন কেমন হবে?**
+      * //প্রভু যীশু চিরকাল শান্তিতে আর ন্যায়পরায়ণতায় রাজত্ব করবেন, আর তখন সেখানে কোনো দুঃখ আর থাকবে না৷ [৫০-১৭] //
+**[[:en:obs:notes:questions:49|<< ]]**
