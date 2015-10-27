@@ -1,38 +1,35 @@
-====== Story #42: Jesus Returns to Heaven ======
+====== কাহিনী #৪২: প্রভু যীশু স্বর্গে ফিরে যান ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ =====
 
-
-  - **What were the two disciples talking about as they walked along the road?**
-    *//They were talking about what had happened to Jesus. [42-01]//
-  - **Who did the two disciples think Jesus was when he approached them on the road?**
-    *//They thought he was a visitor who did not know what had happened in Jerusalem. [42-02]//
-  - **What had the prophets said would happen to the Messiah?**
-    *//The Messiah would suffer and be killed, but would rise again on the third day. [42-03]//
-  - **What was Jesus doing when the two disciples recognized him?**
-    *//He was breaking a loaf of bread and thanking God for it. [42-04]//
-  - **What did the two disciples do after Jesus left them?**
-    *//They returned to Jerusalem and told the other disciples that Jesus was alive and that they had seen him. [42-05]//
-  - **How did Jesus prove to the disciples that he was not a ghost?**
-    *//He took a piece of cooked fish and ate it. [42-06]//
-  - **What enabled the disciples to understand God’s word?**
-    *//Jesus opened their minds. [42-07]//
-  - **What was the message that Jesus’ disciples were to proclaim?**
-    *//They would proclaim that everyone should repent in order to receive forgiveness for their sins. [42-08]//
-  - **Where were Jesus’ disciples to proclaim this message?**
-    *//They would proclaim it first in Jerusalem, and then go to all people groups everywhere. [42-08]//
-  - **How long did Jesus continue to appear to the disciples?**
-    *//He appeared to them for 40 days. [42-09]//
-  - **How big was the largest group of disciples that saw Jesus during this time?**
-    *//He appeared to more than 500 disciples at the same time. [42-09]//
-  - **What did Jesus command his disciples to go and do?**
-    *//He said to them, “Make disciples of all people groups by baptizing them in the name of the Father, the Son, and the Holy Spirit, and by teaching them to obey everything I have commanded you.” [42-10]//
-  - **Why did Jesus tell the disciples to wait in Jerusalem?**
-    *//They were to wait until the Father gave them power when the Holy Spirit came on them. [42-11]//
-  - **Where did Jesus go forty days after his resurrection?**
-    *//He went up to heaven. [42-11]//
-  - **What is Jesus doing right now?**
-    *//He is seated at the right hand of God and ruling over all things. [42-11]//
-
-
-**[[en/obs/notes/questions/41|<< ]] | [[en/obs/notes/questions/43| >>]]**
+  - **সেই দুজন শিষ্যেরা পথে যেতে যেতে কি বিষয়ে কথা বলছিল?**
+      * //তারা প্রভু যীশুর সাথে কি কি ঘটেছিল সে বিষয়ে কথা বলছিল৷ [৪২-০১]//
+  - **সেই শিষ্য দুজন প্রভু যীশুর বিষয়ে কি চিন্তা করেছিলেন যখন তিনি তাদের কাছে আবির্ভাব হয়েছিলেন?**
+      * //তারা ভেবেছিল যে তিনি একজন পথিক যিনি জানেন না যে যেরুশালেমে কি ঘটেছে৷ [৪২-০২]//
+  - **খ্রীষ্টের সাথে কি কি ঘটবে সে বিষয়ে ভাববাদীরা কি বলেছিলেন?**
+      * //তারা বলেছিলেন যে খ্রীষ্টকে দুঃখ ভোগ করতে হবে আর তাকে হত্যা করা হবে, কিন্তু তিনি তৃতীয় দিনে পুনরুত্থিত হবেন৷ [৪২-০৩]//
+  - **প্রভু যীশু এমন কি করেছিলেন যার জন্য সেই দুই শিষ্য তাকে চিনতে পেরেছিল?**
+      * //তিনি রুটি ছিঁড়েছিলেন আর ঈশ্বরের ধন্যবাদ করেছিলেন৷ [৪২-০৪]//
+  - **প্রভু যীশুর চলে যাওয়ার পর সেই দুই শিষ্য কি করেছিল?**
+      * //তারা যেরুশালেমে ফিরে গিয়েছিল আর শিষ্যদের বলেছিল যে প্রভু যীশু জীবিত হয়েছেন আর তারা তার দর্শন করেছে৷ [৪২-০৫] //
+  - **প্রভু যীশু কিভাবে শিষ্যদের প্রমান করেছিলেন যে তিনি কোনো ভূত নন?**
+      * //তিনি একটি রান্না করা মাছের টুকরো নিয়েছিলেন আর তা খেয়েছিলেন৷ [৪২-০৬]//
+  - **ঈশ্বরের বাক্য বোঝার জন্য শিষ্যদেরকে প্রভু যীশু কোন ক্ষমতা দিয়েছিল?**
+      * প্রভু যীশু তাদের বুদ্ধির দ্বার খুলে দিয়েছিলেন৷ [৪২-০৭]
+  - **কোন সমাচার প্রভু যীশুর শিষ্যরা ঘোষণা করত?**
+      * //তারা প্রচার করত যে প্রত্যেককে তাদের পাপের জন্য অনুশোচনা করা উচিত ও পাপের ক্ষমা প্রাপ্ত করা উচিত৷ [৪২-০৮]//
+  - **কোথায় কোথায় প্রভু যীশুর শিষ্যদের এই সমাচারটিকে প্রচার করতে হত?**
+      * //তাদের প্রথমে তা যেরুশালেমে প্রচার করতে হত আর তারপর তা পৃথিবীর সকল জনজাতিদের কাছে প্রচার করতে হত৷ [৪২-০৮] //
+  - **কত সময় পর্যন্ত প্রভু যীশু তার শিষ্যদের দেখা দিয়েছিলেন?**
+      * //তিনি তাদের কাছে প্রায় ৪০ দিন পর্যন্ত দেখা দিয়েছিলেন৷ [৪২-০৯]//
+  - **প্রভু যীশু সবচাইতে কত বেশি ভিড়কে একসাথে দেখা দিয়েছিলেন?**
+      * //তিনি প্রায় ৫০০জন লোকেদের সামনে একই সময়ে দেখা দিয়েছিলেন৷ [৪২-০৯]//
+  - **প্রভু যীশু তার শিষ্যদেরকে কোথায় যেতে ও কি করতে আদেশ দিয়েছিলেন?**
+      * //তিনি তাদের বলেছিলেন, “সকল জাতির লোকেদের পিতা, পুত্রের ও পবিত্র আত্মার নামে বাপ্তিস্ম দেওয়ার দ্বারা আর যাকিছু আমি তোমাদের আদেশ দিয়েছি তা শেখানোর দ্বারা তাদের শিষ্য বানাও৷” [৪২-১০] //
+  - **কেন প্রভু যীশু তার শিষ্যদের যেরুশালেমে থাকতে বলেছিলেন?**
+      * //তাদের সেখানে পিতার তরফ থেকে যতক্ষণ না পবিত্র আত্মার দ্বারা শক্তি না আসে ততদিন পর্যন্ত থাকতে হত৷ [৪২-১১]//
+  - **প্রভু যীশু পুনরুত্থানের চল্লিশ দিন পরে কোথায় গিয়েছিলেন?**
+      * //তিনি স্বর্গে আরোহন করেছিলেন৷ [৪২-১১]//
+  - **প্রভু যীশু সেখানে এখন কি করছেন?**
+      * //তিনি সেখানে পিতার ডান পাশে বসে সকল কিছুর উপর রাজত্ব করছেন৷ [৪২-১১]//
+**[[:en:obs:notes:questions:41|<< ]] | [[:en:obs:notes:questions:43| >>]]**
