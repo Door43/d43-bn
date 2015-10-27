@@ -1,36 +1,33 @@
-====== Story #45: Phillip and the Ethiopian Official ======
+====== কাহিনী #৪৫: ফিলিপ আর ইথিয়পীয় উচ্চপদস্থ অধিকারী ======
 
-===== Comprehension Questions and Answers =====
+===== উপলব্ধকারী প্রশ্ন আর উত্তরসমূহ  =====
 
-
-  - **What kind of person was Stephen?**
-    *//He had a good reputation and was full of the Holy Spirit and of wisdom. [45-01]//
-  - **What was the false charge that some Jews brought against Stephen?**
-    *//They said Stephen had spoken evil things about Moses and God. [45-02]//
-  - **What did Stephen say the people had done that was worse than their ancestors?**
-    *//They killed the Messiah. [45-03]//
-  - **How did the religious leaders react to Stephen's accusation?**
-    *//They dragged Stephen out of the city and threw stones at him in order to kill him. [45-04]//
-  - **What was the last thing Stephen said before he died?**
-    *//“Master, do not count this sin against them.” [45-05]//
-  - **Who guarded the robes of the people who killed Stephen?**
-    *//Saul. [45-06]//
-  - **What did the believers do when the persecution began in Jerusalem?**
-    *//They fled to other places and preached about Jesus wherever they went. [45-06]//
-  - **Who did Philip meet on the desert road?**
-    *//An important official from Ethiopia. [45-07]//
-  - **What was the Ethiopian official doing as Phillip approached?**
-    *//He was reading what the prophet Isaiah wrote. [45-08]//
-  - **Did the official understand the prophecy that he was reading?**
-    *//No, he needed someone to explain it to him. [45-09]//
-  - **To whom did Philip say the prophesy of the lamb referred?**
-    *//It referred to Jesus. [45-10]//
-  - **After Philip explained the prophecy and then the Ethiopian saw some water, what did he ask?**
-    *//The Ethiopian asked if he could be baptized. [45-11]//
-  - **What happened to Philip after he baptized the Ethiopian official?**
-    *//The Holy Spirit carried Philip away. [45-12]//
-  - **What did the Ethiopian official do after Philip left him?**
-    *//He continued traveling toward his home, happy that he knew Jesus. [45-13]//
-
-
-**[[en/obs/notes/questions/44|<< ]] | [[en/obs/notes/questions/46| >>]]**
+  - **স্তেফান কি ধরনের ব্যক্তি ছিলেন?**
+      * //তার ভালো সুনাম ছিল আর তিনি পবিত্র আত্মায় ও বুদ্ধিতে পরিপূর্ণ ছিলেন৷ [৪৫-০১]//
+  - **স্তেফানের বিরুদ্ধে ইহুদি ব্যক্তিরা কি মিথ্যে অপবাদ দিয়েছিল?**
+      * //তারা বলেছিল যে স্তেফান মোশী ও ঈশ্বরের বিষয়ে মন্দ কথা বলেছিল৷ [৪৫-০২]//
+  - **লোকেরা তাদের পূর্বপুরুষদের তুলনায় এমন কি মন্দ কার্য করেছিল যা স্তেফান তাদের বলেছিল?**
+      * //তারা খ্রীষ্টকে হত্যা করেছিল৷[৪৫-০৩]//
+  - **স্তেফানের দোষারোপে ধার্মিক নেতারা কেমনভাবে প্রতিক্রিয়া করেছিল?**
+      * //তারা স্তেফানকে নগরের বাইরে টেনে বের করে দিয়েছিল আর তাকে পাথর ছুঁড়ে হত্যা করেছিল৷ [৪৫-০৪] //
+  - **স্তেফান মরার পূর্বে শেষ কি কথা বলেছিলেন?**
+      * //“হে প্রভু, এদের পাপ গণনা করবেন না” [৪৫-০৫]//
+  - **সেই হত্যাকারীদের পোশাক কে পাহারা দিচ্ছিল?**
+      * //শৌল নামক একটি যুবক৷ [৪৫-০৬]//
+  - **বিশ্বাসীরা কি করেছিল যখন তাদের যেরুশালেমে উৎপীড়ন করা আরম্ভ হয়েছিল?**
+      * //তারা অন্যান্য জায়গায় পালিয়ে গিয়েছিল আর যেকোনো জায়গায় তারা গিয়েছিল সেখানে তারা প্রভু যীশুর প্রচার করেছিল৷ [৪৫-০৬]//
+  - **মরুভূমির পথে ফিলিপ কার সাথে সাক্ষাৎকার করেছিলেন?**
+      * //তিনি ইথিয়পীয়ের একজন উচ্চপদস্থ অধিকারীর সাথে সাক্ষাৎকার করেছিলেন৷ [৪৫-০৭]//
+  - **ইথিয়পীয়ের সেই অধিকারী কি করছিলেন যখন ফিলিপ তার কাছে আসছিলেন?**
+      * //তিনি যিশাইয় ভাববাদীর পুস্তক পড়ছিলেন৷ [৪৫-০৮]//
+  - **সেই অধিকারী কি বুঝছিলেন যা তিনি পড়ছিলেন?**
+      * //না, তার একজন ব্যাখ্যাকারীর প্রয়োজন ছিল৷ [৪৫-০৯]//
+  - **মেষশাবকটির বিষয়ে ফিলিপ কার বিষয়ে উল্লেখ করেছিলেন?**
+      * //তিনি প্রভু যীশুর বিষয়ে বলেছিলেন৷ [৪৫-১০]//
+  - **ফিলিপ সেই ভাববাণীটিকে বর্ণনা করার পর আর যখন সেই ইথিয়পীয় ব্যক্তিটি জল দেখার পর তারা কি করেছিলেন?**
+      * //সেই ইথিয়পীয়টি জিজ্ঞাসা করেছিলেন যে তিনি বাপ্তিস্ম নিতে পারেন কি না৷ [৪৫-১১]//
+  - **সেই ইথিয়পীয় ব্যক্তিটিকে বাপ্তিস্ম দেওয়ার পর ফিলিপের সাথে কি হয়েছিল?**
+      * //পবিত্র আত্মা ফিলিপকে দূরে নিয়ে গিয়েছিলেন৷ [৪৫-১২]//
+  - **ফিলিপের যাওয়ার পর সেই ইথিয়পীয় ব্যক্তিটি কি করেছিলেন?**
+      * //তিনি তার দেশের পথে যাত্রা করেছিলেন আর তিনি সন্তুষ্ট ছিলেন যে তিনি প্রভু যীশুর বিষয়ে শুনতে পেরেছিলেন৷ [৪৫-১৩]//
+**[[:en:obs:notes:questions:44|<< ]] | [[:en:obs:notes:questions:46| >>]]**
