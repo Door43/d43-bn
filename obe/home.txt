@@ -1,11 +1,11 @@
-====== Complete list of Important Terms ======
+====== Complete List of Important Terms - Bengali ======
 
-==== "Key Terms" and "Other Terms" in OBE: ====
+==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:bn:obe:kt:home|Key Terms]]
-  * [[:bn:obe:other:home|Other Terms]]
+  * [[:bn:obe:kt:home]]
+  * [[:bn:obe:other:home]]
 
+==== All Important Terms: ====
 
-==== All terms from both lists: ====
+<nspages bn:obe -r -title -exclude:home -textPages="">
 
-{{pagequery>ns:en:obe; fulltext; sort=title:asc; display={name} -{title}; natsort; showcount; hidemsg; hidejump; layout=column}}
