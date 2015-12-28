@@ -1,65 +1,58 @@
-====== 13. God's Covenant with Israel ======
+====== ১৩. ইসরাইলের সাথে ঈশ্বরের নিয়ম ======
 
+===== পরিদর্শন: =====
 
-===== Overview: =====
+ঈশ্বর ইস্রায়েলীয়দের সীনয় পর্বতের নির্জন প্রদেশে তার আরাধনা করার জন্য নিয়ে আসেন৷ তিনি তাদের পাথরের ফলকে দশাজ্ঞা ও অন্যান্য বহু আজ্ঞাসমুহ প্রদান করেন৷ কিন্তু লোকজন ঈশ্বরের অপেক্ষায় ক্লান্ত হয়ে পরে আর তাই একটি মূর্তি নির্মান করে৷ মোশী লোকেদের কারণে ভীষণ ক্রুদ্ধ হন আর ঈশ্বর একটি মহামারী প্রেরণ করেন যা বহু লোকেদের ধ্বংস করেছিল৷ কিন্তু ঈশ্বর লোকেদের ক্ষমা করেন যখন মোশী তাদের হয়ে নিবেদন করেছিলেন৷
 
+====== কাহিনীটিকে অনুবাদ করুন ======
 
-God led the Israelites to Mount Sinai in the wilderness to worship him. He gave them the Ten Commandments on tablets of stone, and many other commandments. But the people grew tired of waiting for God and made an idol. Moses was very angry with the people, and God sent a plague that killed many of them. But God forgave the people when Moses prayed for them. 
+কাহিনীর প্রত্যেক কাঠামোটিকে অনুবাদ করার জন্য নীচের দেওয়া লিংকটিতে ক্লিক করুন৷
 
+[[:bn:obs:notes:frames:13-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-01.jpg?nolink&200}}]]\\
+সীনয় পর্বত [১৩-০১]
 
-====== Translate the Story ======
+[[:bn:obs:notes:frames:13-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-02.jpg?nolink&200}}]]\\
+ঈশ্বর ইস্রায়েলকে আহ্বাণ করলেন [১৩-০২]
 
+[[:bn:obs:notes:frames:13-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-03.jpg?nolink&200}}]]\\
+মোশী ঈশ্বরের সাথে সাক্ষাৎকার করেন [১৩-০৩]
 
-Click on the links below to translate each frame of the story.
+[[:bn:obs:notes:frames:13-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-04.jpg?nolink&200}}]]\\
+আমি হলাম তোমাদের ঈশ্বর [১৩-০৪]
 
+[[:bn:obs:notes:frames:13-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-05.jpg?nolink&200}}]]\\
+আজ্ঞাসমূহ [১৩-০৫]
 
-[[:bn:obs:notes:frames:13-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-01.jpg?200|Frame 13-01}}]]\\ 
-The Mountain at Sinai [13-01]\\ 
+[[:bn:obs:notes:frames:13-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-06.jpg?nolink&200}}]]\\
+অন্যান্য আজ্ঞা সকল [১৩-০৬]
 
-[[:bn:obs:notes:frames:13-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-02.jpg?200|Frame 13-02}}]]\\ 
-God Called Israel [13-02]\\ 
+[[:bn:obs:notes:frames:13-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-07.jpg?nolink&200}}]]\\
+পাথরের ফলক [১৩-০৭]
 
-[[:bn:obs:notes:frames:13-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-03.jpg?200|Frame 13-03}}]]\\ 
-Moses Met God [13-03]\\ 
+[[:bn:obs:notes:frames:13-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-08.jpg?nolink&200}}]]\\
+মিলনতাম্বু [১৩-০৮]
 
-[[:bn:obs:notes:frames:13-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-04.jpg?200|Frame 13-04}}]]\\ 
-I Am Your God [13-04]\\ 
+[[:bn:obs:notes:frames:13-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-09.jpg?nolink&200}}]]\\
+বেদী [১৩-০৯]
 
-[[:bn:obs:notes:frames:13-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-05.jpg?200|Frame 13-05}}]]\\ 
-The Commandments [13-05]\\ 
+[[:bn:obs:notes:frames:13-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-10.jpg?nolink&200}}]]\\
+লোকেরা পাপ করলো [১৩-১০]
 
-[[:bn:obs:notes:frames:13-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-06.jpg?200|Frame 13-06}}]]\\ 
-More Commandments [13-06]\\ 
+[[:bn:obs:notes:frames:13-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-11.jpg?nolink&200}}]]\\
+আমাদের জন্য একটি মূর্তি তৈরী কর [১৩-১১]
 
-[[:bn:obs:notes:frames:13-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-07.jpg?200|Frame 13-07}}]]\\ 
-The Stone Tablets [13-07]\\ 
+[[:bn:obs:notes:frames:13-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-12.jpg?nolink&200}}]]\\
+সোনার বাছুর [১৩-১২]
 
-[[:bn:obs:notes:frames:13-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-08.jpg?200|Frame 13-08}}]]\\ 
-The Tent of Meeting [13-08]\\ 
+[[:bn:obs:notes:frames:13-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-13.jpg?nolink&200}}]]\\
+মোশী ক্রুদ্ধ হলেন [১৩-১৩]
 
-[[:bn:obs:notes:frames:13-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-09.jpg?200|Frame 13-09}}]]\\ 
-The Altar [13-09]\\ 
+[[:bn:obs:notes:frames:13-14|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-14.jpg?nolink&200}}]]\\
+মোশী মূর্তিটিকে নষ্ট করলেন [১৩-১৪]
 
-[[:bn:obs:notes:frames:13-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-10.jpg?200|Frame 13-10}}]]\\ 
-The People Sinned [13-10]\\ 
+[[:bn:obs:notes:frames:13-15|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-15.jpg?nolink&200}}]]\\
+মোশী ইস্রায়েলীয়দের জন্য প্রার্থনা করলেন [১৩-১৫]
 
-[[:bn:obs:notes:frames:13-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-11.jpg?200|Frame 13-11}}]]\\ 
-Make Us an Idol [13-11]\\ 
-
-[[:bn:obs:notes:frames:13-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-12.jpg?200|Frame 13-12}}]]\\ 
-The Golden Calf [13-12]\\ 
-
-[[:bn:obs:notes:frames:13-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-13.jpg?200|Frame 13-13}}]]\\ 
-Moses Was Angry [13-13]\\ 
-
-[[:bn:obs:notes:frames:13-14|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-14.jpg?200|Frame 13-14}}]]\\ 
-Moses Destroyed the Idol [13-14]\\ 
-
-[[:bn:obs:notes:frames:13-15|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-13-15.jpg?200|Frame 13-15}}]]\\ 
-Moses Prayed for Israel [13-15]\\ 
-
-
-//A Bible story from: Exodus 19-34//
+//একটি বাইবেল কাহিনী: নেওয়া হয়েছে- যাত্রাপুস্তক ১৯-৩৪//
 
 **[[:bn:obs:notes:12|<< Previous]] | [[:bn:obs:notes:14|Next >>]]**
-
