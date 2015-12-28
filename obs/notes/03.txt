@@ -1,67 +1,60 @@
-====== 3. The Flood ======
+====== ৩. জলপ্লাবন ======
 
+===== পরিদর্শন: =====
 
-===== Overview: =====
+আদম ও হবার পাপটি সম্পূর্ণ মানব-জগতে ছড়িয়ে গিয়েছিল৷ মানুষ এতটাই মন্দ হয়ে গিয়েছিল যে ঈশ্বর তাদের বিচার করার সিদ্ধান্ত নিলেন৷ যাইহোক, একজন নোহ নামক ধার্মিক ব্যক্তি ঈশ্বরের আজ্ঞাকারী ছিলেন৷ তাই ঈশ্বর নোহকে একটি প্রবল বন্যা যা বাকি সকলকে ধ্বংস করবে সেটির হাত থেকে তাকে ও তার পরিবারকে রক্ষা করার জন্য একটি জলজাহাজ তৈরী করতে বললেন৷
 
+===== কাহিনীটিকে অনুবাদ করুন =====
 
-The sin of Adam and Eve spread throughout the human race. People became so bad that God decided to judge them. However, one righteous  man named Noah listened to God. So God told Noah to build a large boat to save himself and his family from the great flood that would destroy everyone else.
+কাহিনীর প্রত্যেক কাঠামোটিকে অনুবাদ করার জন্য নীচের দেওয়া চিত্রগুলোতে ক্লিক করুন৷
 
+[[:bn:obs:notes:frames:03-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-01.jpg?nolink&200}}]]\\
+পাপ বৃদ্ধি পেল [০৩-০১]\\
+\\
+[[:bn:obs:notes:frames:03-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-02.jpg?nolink&200}}]]\\
+নোহ অনুগ্রহ প্রাপ্ত করেন [০৩-০২]\\
+\\
+[[:bn:obs:notes:frames:03-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-03.jpg?nolink&200}}]]\\
+বিরাট জল জাহাজ [০৩-০৩]\\
+\\
+[[:bn:obs:notes:frames:03-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-04.jpg?nolink&200}}]]\\
+জাহাজ নির্মান [০৩-০৪]\\
+\\
+[[:bn:obs:notes:frames:03-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-05.jpg?nolink&200}}]]\\
+জাহাজে চড়া [০৩-০৫]\\
+\\
+[[:bn:obs:notes:frames:03-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-06.jpg?nolink&200}}]]\\
+পশুরা এলো [০৩-০৬]\\
+\\
+[[:bn:obs:notes:frames:03-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-07.jpg?nolink&200}}]]\\
+বৃষ্টি আরম্ভ হল [০৩-০৭]\\
+[[:bn:obs:notes:frames:03-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-08.jpg?nolink&200}}]]\\
+বন্যা থেকে সুরক্ষা [০৩-০৮]\\
+\\
+[[:bn:obs:notes:frames:03-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-09.jpg?nolink&200}}]]\\
+বৃষ্টি হওয়া থামলো [০৩-০৯]\\
+\\
+[[:bn:obs:notes:frames:03-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-10.jpg?nolink&200}}]]\\
+দাঁড়কাক [০৩-১০]\\
+\\
+[[:bn:obs:notes:frames:03-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-11.jpg?nolink&200}}]]\\
+কপোত [০৩-১১]\\
+\\
+[[:bn:obs:notes:frames:03-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg?nolink&200}}]]\\
+শুকনো ভূমি [০৩-১২]\\
+\\
+[[:bn:obs:notes:frames:03-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?nolink&200}}]]\\
+জাহাজটি থেকে বাইরে আসা [০৩-১৩]\\
+\\
+[[:bn:obs:notes:frames:03-14|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-14.jpg?nolink&200}}]]\\
+নোহের বলি উৎসর্গ [০৩-১৪]\\
+\\
+[[:bn:obs:notes:frames:03-15|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-15.jpg?nolink&200}}]]\\
+ঈশ্বরের প্রতিজ্ঞা [০৩-১৫]\\
+\\
+[[:bn:obs:notes:frames:03-16|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-16.jpg?nolink&200}}]]\\
+রংধনু [০৩-১৬]
 
-===== Translate the Story =====
-
-
-Click on the images below to translate each frame of the story.
-
-
-[[:bn:obs:notes:frames:03-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-01.jpg?200|Frame 03-01}}]]\\
-Sin Increased [03-01]\\
-\\
-[[:bn:obs:notes:frames:03-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-02.jpg?200|Frame 03-02}}]]\\
-Noah Found Grace [03-02]\\
-\\
-[[:bn:obs:notes:frames:03-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-03.jpg?200|Frame 03-03}}]]\\
-The Big Boat [03-03]\\
-\\
-[[:bn:obs:notes:frames:03-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-04.jpg?200|Frame 03-04}}]]\\
-Building the Boat [03-04]\\
-\\
-[[:bn:obs:notes:frames:03-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-05.jpg?200|Frame 03-05}}]]\\
-Loading the Boat [03-05]\\
-\\
-[[:bn:obs:notes:frames:03-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-06.jpg?200|Frame 03-06}}]]\\
-The Animals Came [03-06]\\
-\\
-[[:bn:obs:notes:frames:03-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-07.jpg?200|Frame 03-07}}]]\\
-The Rain Began [03-07]\\
-\\
-[[:bn:obs:notes:frames:03-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-08.jpg?200|Frame 03-08}}]]\\
-Safe from the Flood [03-08]\\
-\\
-[[:bn:obs:notes:frames:03-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-09.jpg?200|Frame 03-09}}]]\\
-The Rain Stopped [03-09]\\
-\\
-[[:bn:obs:notes:frames:03-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-10.jpg?200|Frame 03-10}}]]\\
-The Raven [03-10]\\
-\\
-[[:bn:obs:notes:frames:03-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-11.jpg?200|Frame 03-11}}]]\\
-The Dove [03-11]\\
-\\
-[[:bn:obs:notes:frames:03-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-12.jpg?200|Frame 03-12}}]]\\
-Dry Land [03-12]\\
-\\
-[[:bn:obs:notes:frames:03-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-13.jpg?200|Frame 03-13}}]]\\
-Leaving the Boat [03-13]\\
-\\
-[[:bn:obs:notes:frames:03-14|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-14.jpg?200|Frame 03-14}}]]\\
-Noah's Sacrifice [03-14]\\
-\\
-[[:bn:obs:notes:frames:03-15|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-15.jpg?200|Frame 03-15}}]]\\
-God's Promise [03-15]\\
-\\
-[[:bn:obs:notes:frames:03-16|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-16.jpg?200|Frame 03-16}}]]\\
-The Rainbow [03-16]\\
-\\
-
-//A Bible story from: Genesis 6-8//
+//একটি বাইবেল কাহিনী: নেওয়া হয়েছে- আদিপুস্তক ৬-৮//
 
 **[[:bn:obs:notes:02|<< Previous]] | [[:bn:obs:notes:04|Next >>]]**
