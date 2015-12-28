@@ -1,46 +1,40 @@
-====== 4. God's Covenant with Abraham ======
+====== ৪. আব্রাহামের সাথে ঈশ্বরের নিয়ম ======
 
+===== পরিদর্শন: =====
 
-===== Overview: =====
+পাপ সকলকে একসাথে ঈশ্বরের বিরুদ্ধে অনাজ্ঞাকারী করে দিয়েছিল৷ তাই, ঈশ্বর তাদেরকে বিভিন্ন ভাষীদের দলে বিভক্ত করে দিয়েছিলেন এবং পৃথিবীর চারদিকে ছড়িয়ে দিয়েছিলেন৷ কিন্তু তিনি আব্রামকে তার অনুগামী হতে নির্বাচন করলেন৷ ঈশ্বর অব্রামের বংশধরদের একটি মহান জাতিতে পরিণত করার, আর তার দ্বারা পৃথিবীর সকল পরিবারদের আশির্বাদ করার প্রতিজ্ঞা করেছিলেন৷
 
+===== কাহিনীটিকে অনুবাদ করুন =====
 
-Sin caused everyone to work together to disobey God. Therefore, God divided them into many different language groups and scattered them over the earth. But he chose Abram to follow him. God promised to make the descendants of Abram into a great nation, and to bless all of the families of the earth through him.
+কাহিনীর প্রত্যেক কাঠামোটিকে অনুবাদ করার জন্য নীচের দেওয়া চিত্রগুলোতে ক্লিক করুন৷
 
-
-===== Translate the Story =====
-
-
-Click on the images below to translate each frame of the story.
-
-
-[[:bn:obs:notes:frames:04-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?200|Frame 04-01}}]]\\
-One People [04-01]\\
+[[:bn:obs:notes:frames:04-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?nolink&200}}]]\\
+একত্রিত মানুষ [০৪-০১ ]\\
 \\
-[[:bn:obs:notes:frames:04-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-02.jpg?200|Frame 04-02}}]]\\
-The Tower [04-02]\\
+[[:bn:obs:notes:frames:04-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-02.jpg?nolink&200}}]]\\
+স্বর্গস্পর্শী মিনার [০৪-০২]\\
 \\
-[[:bn:obs:notes:frames:04-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg?200|Frame 04-03}}]]\\
-Many Languages [04-03]\\
+[[:bn:obs:notes:frames:04-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-03.jpg?nolink&200}}]]\\
+বহু ভাষাসমূহ [০৪-০৩]\\
 \\
-[[:bn:obs:notes:frames:04-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-04.jpg?200|Frame 04-04}}]]\\
-God Chose Abram [04-04]\\
+[[:bn:obs:notes:frames:04-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-04.jpg?nolink&200}}]]\\
+ঈশ্বর আব্রামকে নির্বাচন করেন [০৪-০৪]\\
 \\
-[[:bn:obs:notes:frames:04-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-05.jpg?200|Frame 04-05}}]]\\
-To Canaan [04-05]\\
+[[:bn:obs:notes:frames:04-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-05.jpg?nolink&200}}]]\\
+কানান [০৪-০৫]\\
 \\
-[[:bn:obs:notes:frames:04-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-06.jpg?200|Frame 04-06}}]]\\
-God Blessed Abram [04-06]\\
+[[:bn:obs:notes:frames:04-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-06.jpg?nolink&200}}]]\\
+ঈশ্বর আব্রামকে আশির্বাদ দিয়েছিলেন [০৪-০৬]\\
 \\
-[[:bn:obs:notes:frames:04-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-07.jpg?200|Frame 04-07}}]]\\
-Melchizedek [04-07]\\
+[[:bn:obs:notes:frames:04-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-07.jpg?nolink&200}}]]\\
+মল্কীযেদক [০৪-০৭]\\
 \\
-[[:bn:obs:notes:frames:04-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-08.jpg?200|Frame 04-08}}]]\\
-No Son [04-08]\\
+[[:bn:obs:notes:frames:04-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-08.jpg?nolink&200}}]]\\
+পুত্রহীন [০৪-০৮]\\
 \\
-[[:bn:obs:notes:frames:04-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-09.jpg?200|Frame 04-09}}]]\\
-God's Covenant [04-09]\\
-\\
+[[:bn:obs:notes:frames:04-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-09.jpg?nolink&200}}]]\\
+ঈশ্বরের নিয়ম [০৪-০৯]
 
-//A Bible story from: Genesis 11-15//
+//একটি বাইবেল কাহিনী: নেওয়া হয়েছে- আদিপুস্তক ১১-১৫//
 
 **[[:bn:obs:notes:03|<< Previous]] | [[:bn:obs:notes:05|Next >>]]**
