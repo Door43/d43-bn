@@ -1,42 +1,37 @@
-====== 31. Jesus Walks on Water ======
+====== ৩১. যীশু জলের উপরে হাঁটেন ======
 
+===== পরিদর্শন: =====
 
-===== Overview: =====
+একদিন, প্রভু যীশু হ্রদের কিনারে প্রার্থনা করছিলেন তখন তার শিষ্যরা নৌকায় হ্রদের অন্য পারে যাচ্ছিলেন৷ সেই সময়ে একটি ঝড় ওঠে আর সেটি তাদের নৌকাটিকে বার বার আঘাত করছিল৷ তারপর প্রভু যীশু জলের উপর দিয়ে হেঁটে তাদের কাছে এসেছিলেন আর শিষ্যরা তাতে ভয়ভীত হয়েছিল৷ কিন্তু পিতর নৌকা থেকে বের হয়ে পরেছিলেন আর প্রভু যীশুর কাছে জলের উপর দিয়ে হেঁটে গিয়েছিলেন৷ যখন পিতর ডুবতে আরম্ভ করেছিলেন, তখন প্রভু যীশু তাকে রক্ষা করেন আর ঝড়টিকে শান্ত করেন৷
 
+====== কাহিনীটিকে অনুবাদ করুন ======
 
-One day, Jesus was praying near the lake as his disciples went across it in a boat. A storm arose and battered their boat. Then Jesus came to them walking on the water, and the disciples were afraid. But Peter got out of the boat and walked to Jesus on the water. When Peter began to sink, Jesus saved him and calmed the storm.
+কাহিনীর প্রত্যেক কাঠামোটিকে অনুবাদ করার জন্য নীচের দেওয়া লিংকটিতে ক্লিক করুন৷
 
+[[:bn:obs:notes:frames:31-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-01.jpg?nolink&200}}]]\\
+প্রভু যীশু একাকী প্রার্থনা করলেন [৩১-০১]
 
-====== Translate the Story ======
+[[:bn:obs:notes:frames:31-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?nolink&200}}]]\\
+ঝড় [৩১-০২]
 
+[[:bn:obs:notes:frames:31-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?nolink&200}}]]\\
+প্রভু যীশু জলের উপর দিয়ে হাঁটলেন [৩১-০৩]
 
-Click on the links below to translate each frame of the story.
+[[:bn:obs:notes:frames:31-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?nolink&200}}]]\\
+শিষ্যেরা ভয় পেল [৩১-০৪]
 
+[[:bn:obs:notes:frames:31-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?nolink&200}}]]\\
+প্রভু যীশু পিতরকে ডাকলেন [৩১-০৫]
 
-[[:bn:obs:notes:frames:31-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-01.jpg?200|Frame 31-01}}]]\\ 
-Jesus Prayed Alone [31-01]\\ 
+[[:bn:obs:notes:frames:31-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-06.jpg?nolink&200}}]]\\
+পিতর জলের উপর হাঁটলেন [৩১-০৬]
 
-[[:bn:obs:notes:frames:31-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-02.jpg?200|Frame 31-02}}]]\\ 
-The Storm [31-02]\\ 
+[[:bn:obs:notes:frames:31-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?nolink&200}}]]\\
+পিতর ডুবতে লাগলেন [৩১-০৭]
 
-[[:bn:obs:notes:frames:31-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-03.jpg?200|Frame 31-03}}]]\\ 
-Jesus Walked on the Water [31-03]\\ 
+[[:bn:obs:notes:frames:31-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-08.jpg?nolink&200}}]]\\
+ঈশ্বরের পুত্র [৩১-০৮]
 
-[[:bn:obs:notes:frames:31-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-04.jpg?200|Frame 31-04}}]]\\ 
-The Disciples Were Afraid [31-04]\\ 
-
-[[:bn:obs:notes:frames:31-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-05.jpg?200|Frame 31-05}}]]\\ 
-Jesus Called Peter [31-05]\\ 
-
-[[:bn:obs:notes:frames:31-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-06.jpg?200|Frame 31-06}}]]\\ 
-Peter Walked on the Water [31-06]\\ 
-
-[[:bn:obs:notes:frames:31-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-07.jpg?200|Frame 31-07}}]]\\ 
-Peter Sank [31-07]\\ 
-
-[[:bn:obs:notes:frames:31-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-31-08.jpg?200|Frame 31-08}}]]\\ 
-The Son of God [31-08]\\ 
-
-//A Bible story from: Matthew 14:22-33; Mark 6:45-52; John 6:16-21//
+//একটি বাইবেল কাহিনী: নেওয়া হয়েছে- মথি ১৪:২২-২৩; মার্ক ৬:৪৫-৫২; যোহন ৬:১৬-২১//
 
 **[[:bn:obs:notes:30|<< Previous]] | [[:bn:obs:notes:32|Next >>]]**
