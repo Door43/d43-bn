@@ -1,40 +1,34 @@
-====== 22. The Birth of John ======
+====== ২২. যোহনের জন্ম ======
 
+===== পরিদর্শন: =====
 
-===== Overview: =====
+সখরিয় নামক একজন যাজক ছিলেন যিনি অত্যন্ত বৃদ্ধ ও সন্তানহীন ছিলেন৷ ঈশ্বরের এক স্বর্গদূত তাকে বলেছিলেন যে তার একটি পুত্র হবে, যোহন, যিনি খ্রীষ্টের জন্য পথ প্রস্তুত করবেন৷ সেই স্বর্গদূত একজন কুমারী কন্যাকেও যার নাম ছিল মরিয়ম বলেছিলেন যে তার একটি পুত্র হবে৷ মরিয়মের পুত্রটি হবেন খ্রীষ্ট, যিনি হলেন সর্বশক্তিমান মহান ঈশ্বরের পুত্র৷
 
+====== কাহিনীটিকে অনুবাদ করুন ======
 
-A priest named Zechariah was very old and had no children. An angel from God told him that he would have a son, John, who would prepare the way for the Messiah. The angel also told a young virgin named Mary that she would have a son. Mary’s child would be the Messiah, the Son of the Most High God.
+কাহিনীর প্রত্যেক কাঠামোটিকে অনুবাদ করার জন্য নীচের দেওয়া লিংকটিতে ক্লিক করুন৷
 
+[[:bn:obs:notes:frames:22-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-01.jpg?nolink&200}}]]\\
+ঈশ্বর সখরিয়ের সাথে কথা বললেন [২২-০১]
 
-====== Translate the Story ======
+[[:bn:obs:notes:frames:22-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?nolink&200}}]]\\
+তোমার একটি পুত্র হবে [২২-০২]
 
+[[:bn:obs:notes:frames:22-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?nolink&200}}]]\\
+কথা বলতে অক্ষম হলেন [২২-০৩]
 
-Click on the links below to translate each frame of the story.
+[[:bn:obs:notes:frames:22-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-04.jpg?nolink&200}}]]\\
+একটি স্বর্গদূত মরিয়মের সাথে কথা বললেন [২২-০৪]
 
+[[:bn:obs:notes:frames:22-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-05.jpg?nolink&200}}]]\\
+খ্রীষ্টের মাতা [২২-০৫]
 
-[[:bn:obs:notes:frames:22-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-01.jpg?200|Frame 22-01}}]]\\ 
-God Spoke to Zechariah [22-01]\\ 
+[[:bn:obs:notes:frames:22-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-06.jpg?nolink&200}}]]\\
+মরিয়ম আর ইলীশাবেত [২২-০৬]
 
-[[:bn:obs:notes:frames:22-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-02.jpg?200|Frame 22-02}}]]\\ 
-You Will Have a Son [22-02]\\ 
+[[:bn:obs:notes:frames:22-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-07.jpg?nolink&200}}]]\\
+যোহনের জন্ম [২২-০৭]
 
-[[:bn:obs:notes:frames:22-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-03.jpg?200|Frame 22-03}}]]\\ 
-Unable to Speak [22-03]\\ 
-
-[[:bn:obs:notes:frames:22-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-04.jpg?200|Frame 22-04}}]]\\ 
-An Angel Spoke to Mary [22-04]\\ 
-
-[[:bn:obs:notes:frames:22-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-05.jpg?200|Frame 22-05}}]]\\ 
-The Mother of the Messiah [22-05]\\ 
-
-[[:bn:obs:notes:frames:22-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-06.jpg?200|Frame 22-06}}]]\\ 
-Mary and Elizabeth [22-06]\\ 
-
-[[:bn:obs:notes:frames:22-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-22-07.jpg?200|Frame 22-07}}]]\\ 
-The Birth of John [22-07]\\ 
-
-
-//A Bible story from: Luke 1//
+//একটি বাইবেল কাহিনী: নেওয়া হয়েছে- লুক ১//
 
 **[[:bn:obs:notes:21|<< Previous]] | [[:bn:obs:notes:23|Next >>]]**
