@@ -1,73 +1,67 @@
-====== 19. The Prophets ======
+====== ১৯. ভাববাদিগণ ======
 
+===== পরিদর্শন: =====
 
-===== Overview: =====
+ঈশ্বর ইসরাইলের সাথে ভাববাদীদের দ্বারা কথা বলতেন৷ তিনি এলিয়কে রাজা আহাবকে ভর্ৎসনা করতে, আর বাল দেবের মিথ্যে ভাববাদীদের চ্যালেঞ্জ করতে পাঠিয়েছিলেন৷ ঈশ্বর নামানকে তার কুষ্ঠরোগ থেকে সুস্থ করতে ইলীশায়কে পাঠিয়েছিলেন৷ ঈশ্বর যিরমিয়কে রক্ষা করেছিলেন যখন লোকেদের দ্বারা তার সাথে কুব্যবহার করা হয়েছিল৷ বিরোধিতা সত্ত্বেও, ভাববাদীরা লোকেদের বিশ্বাসযোগ্যতার সাথে বলেছিলেন যে ঈশ্বর মশীহকে প্রেরণ করবেন৷
 
+====== কাহিনীটিকে অনুবাদ করুন ======
 
-God spoke to Israel through the prophets. He sent Elijah to rebuke King Ahab, and to challenge the prophets of the false god, Baal. God sent Elisha to heal Naaman from his leprosy. God protected Jeremiah when he was treated very badly by the people. In spite of opposition, the prophets faithfully told the people that God would send the Messiah.
+কাহিনীর প্রত্যেক কাঠামোটিকে অনুবাদ করার জন্য নীচের দেওয়া লিংকটিতে ক্লিক করুন৷
 
+[[:bn:obs:notes:frames:19-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-01.jpg?nolink&200}}]]\\
+ঈশ্বর ভাববাদীদের পাঠিয়েছিলেন [১৯-০১]
 
-====== Translate the Story ======
+[[:bn:obs:notes:frames:19-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-02.jpg?nolink&200}}]]\\
+এলিয় আহাবকে তিরস্কার করলেন [১৯-০২]
 
+[[:bn:obs:notes:frames:19-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-03.jpg?nolink&200}}]]\\
+ঈশ্বর এলিয়ের জন্য প্রদান করলেন [১৯-০৩]
 
-Click on the links below to translate each frame of the story.
+[[:bn:obs:notes:frames:19-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-04.jpg?nolink&200}}]]\\
+ঈশ্বর বিধবা স্ত্রীটিকে প্রদান করেন [১৯-০৪]
 
+[[:bn:obs:notes:frames:19-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-05.jpg?nolink&200}}]]\\
+এলিয় আহাবকে চালেঞ্জ করলেন [১৯-০৫]
 
-[[:bn:obs:notes:frames:19-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-01.jpg?200|Frame 19-01}}]]\\ 
-God Sent the Prophets [19-01]\\ 
+[[:bn:obs:notes:frames:19-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-06.jpg?nolink&200}}]]\\
+এলিয় আর বালের ভাববাদীগন [১৯-০৬]
 
-[[:bn:obs:notes:frames:19-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-02.jpg?200|Frame 19-02}}]]\\ 
-Elijah Rebuked Ahab [19-02]\\ 
+[[:bn:obs:notes:frames:19-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-07.jpg?nolink&200}}]]\\
+একটি আগুন ছাড়াই বলি [১৯-০৭]
 
-[[:bn:obs:notes:frames:19-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-03.jpg?200|Frame 19-03}}]]\\ 
-God Provided for Elijah [19-03]\\ 
+[[:bn:obs:notes:frames:19-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-08.jpg?nolink&200}}]]\\
+বাল উত্তর দেয়নি [১৯-০৮]
 
-[[:bn:obs:notes:frames:19-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-04.jpg?200|Frame 19-04}}]]\\ 
-God Provided for the Widow [19-04]\\ 
+[[:bn:obs:notes:frames:19-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-09.jpg?nolink&200}}]]\\
+এলিয় বলির বেদী তৈরী করলেন [১৯-০৯]
 
-[[:bn:obs:notes:frames:19-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-05.jpg?200|Frame 19-05}}]]\\ 
-Elijah Challenged Ahab [19-05]\\ 
+[[:bn:obs:notes:frames:19-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-10.jpg?nolink&200}}]]\\
+এলিয়ের প্রার্থনা [১৯-১০]
 
-[[:bn:obs:notes:frames:19-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-06.jpg?200|Frame 19-06}}]]\\ 
-Elijah and the Prophets of Baal [19-06]\\ 
+[[:bn:obs:notes:frames:19-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-11.jpg?nolink&200}}]]\\
+ঈশ্বর আগুন দেওয়ার মাধ্যমে উত্তর দিলেন [১৯-১১]
 
-[[:bn:obs:notes:frames:19-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-07.jpg?200|Frame 19-07}}]]\\ 
-A Sacrifice without Fire [19-07]\\ 
+[[:bn:obs:notes:frames:19-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-12.jpg?nolink&200}}]]\\
+বালের ভাববাদীদের নিহনন [১৯-১২]
 
-[[:bn:obs:notes:frames:19-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-08.jpg?200|Frame 19-08}}]]\\ 
-Baal Did Not Answer [19-08]\\ 
+[[:bn:obs:notes:frames:19-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-13.jpg?nolink&200}}]]\\
+একটি ঝড়োবৃষ্টি দুর্ভিক্ষের সমাপ্তি করল [১৯-১৩]
 
-[[:bn:obs:notes:frames:19-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-09.jpg?200|Frame 19-09}}]]\\ 
-Elijah Prepared the Sacrifice [19-09]\\ 
+[[:bn:obs:notes:frames:19-14|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-14.jpg?nolink&200}}]]\\
+নামান ইলীশায়-এর কাছে এলেন [১৯-১৪]
 
-[[:bn:obs:notes:frames:19-10|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-10.jpg?200|Frame 19-10}}]]\\ 
-The Prayer of Elijah [19-10]\\ 
+[[:bn:obs:notes:frames:19-15|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-15.jpg?nolink&200}}]]\\
+নামান সুস্থ হন [১৯-১৫]
 
-[[:bn:obs:notes:frames:19-11|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-11.jpg?200|Frame 19-11}}]]\\ 
-God Answered with Fire [19-11]\\ 
+[[:bn:obs:notes:frames:19-16|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-16.jpg?nolink&200}}]]\\
+ভাববাদীরা লোকেদের সতর্ক করতেন [১৯-১৬]
 
-[[:bn:obs:notes:frames:19-12|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-12.jpg?200|Frame 19-12}}]]\\ 
-Killing the Prophets of Baal [19-12]\\ 
+[[:bn:obs:notes:frames:19-17|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-17.jpg?nolink&200}}]]\\
+যিরমিয় ঈশ্বরের জন্য দুঃখভোগ করেছিলেন [১৯-১৭]
 
-[[:bn:obs:notes:frames:19-13|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-13.jpg?200|Frame 19-13}}]]\\ 
-A Storm Ended the Drought [19-13]\\ 
+[[:bn:obs:notes:frames:19-18|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-18.jpg?nolink&200}}]]\\
+ভাববাদীদের সংবাদ [১৯-১৮]
 
-[[:bn:obs:notes:frames:19-14|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-14.jpg?200|Frame 19-14}}]]\\ 
-Naaman Came to Elisha [19-14]\\ 
-
-[[:bn:obs:notes:frames:19-15|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-15.jpg?200|Frame 19-15}}]]\\ 
-Naaman Was Healed [19-15]\\ 
-
-[[:bn:obs:notes:frames:19-16|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-16.jpg?200|Frame 19-16}}]]\\ 
-The Prophets Warned the People [19-16]\\ 
-
-[[:bn:obs:notes:frames:19-17|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-17.jpg?200|Frame 19-17}}]]\\ 
-Jeremiah Suffered for God [19-17]\\ 
-
-[[:bn:obs:notes:frames:19-18|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-19-18.jpg?200|Frame 19-18}}]]\\ 
-The Message of the Prophets [19-18]\\ 
-
-
-//A Bible story from: 1 Kings 16-18; 2 Kings 5; Jeremiah 38//
+//একটি বাইবেল কাহিনী: নেওয়া হয়েছে- ১ রাজাবলি ১৬-১৮; ২ রাজাবলি ৫; যিরমিয় ৩৮//
 
 **[[:bn:obs:notes:18|<< Previous]] | [[:bn:obs:notes:20|Next >>]]**
