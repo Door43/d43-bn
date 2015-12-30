@@ -1,45 +1,40 @@
-====== 44. Peter and John Heal a Beggar ======
+====== ৪৪. পিতর আর যোহন একটি ভিখারীকে সুস্থ করেন ======
 
+===== পরিদর্শন: =====
 
-===== Overview: =====
+পিতর ও যোহন মন্দিরে ছিলেন যখন তারা প্রভু যীশুর নামে একজন পঙ্গু ভিখারীকে সুস্থ করে৷ লোকেরা আশ্চর্যবোধ করে, কিন্তু ধার্মিক শাসকেরা ক্রুদ্ধ হয় ও তাদের গ্রেফতার করে৷ যাইহোক, শাসকেরা অস্বীকার করতে পারল না যে পিতর ও যোহন এই চমৎকারটি করেছিল৷ তাই তারা তাদের বলল যেন তারা প্রভু যীশুর নাম না নেয় আর তাদের ছেড়ে দিল৷
 
+====== কাহিনীটিকে অনুবাদ করুন ======
 
-Peter and John were in the temple when they healed a crippled beggar in the name of Jesus. The people were amazed, but the religious rulers were angry and arrested them. However, the rulers could not dispute that Peter and John had done this miracle. So they told them not to speak about Jesus anymore, and released them.
+কাহিনীর প্রত্যেক কাঠামোটিকে অনুবাদ করার জন্য নীচের দেওয়া লিংকটিতে ক্লিক করুন৷
 
+[[:bn:obs:notes:frames:44-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?nolink&200}}]]\\
+পঙ্গু ব্যক্তি [৪৪-০১]
 
-====== Translate the Story ======
+[[:bn:obs:notes:frames:44-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?nolink&200}}]]\\
+উঠো আর হাঁট [৪৪-০২]
 
+[[:bn:obs:notes:frames:44-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?nolink&200}}]]\\
+পঙ্গু ব্যক্তিটি সুস্থ হল [৪৪-০৩]
 
-Click on the links below to translate each frame of the story.
+[[:bn:obs:notes:frames:44-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg?nolink&200}}]]\\
+যীশুর শক্তি [৪৪-০৪]
 
+[[:bn:obs:notes:frames:44-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?nolink&200}}]]\\
+পিতর প্রচার করলেন [৪৪-০৫]
 
-[[:bn:obs:notes:frames:44-01|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?200|Frame 44-01}}]]\\ 
-The Crippled Man [44-01]\\ 
+[[:bn:obs:notes:frames:44-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?nolink&200}}]]\\
+পিতর আর যোহনকে গ্রেফতার করা হয় [৪৪-০৬]
 
-[[:bn:obs:notes:frames:44-02|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?200|Frame 44-02}}]]\\ 
-Get Up and Walk [44-02]\\ 
+[[:bn:obs:notes:frames:44-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?nolink&200}}]]\\
+ইহুদি নেতাদের সামনে [৪৪-০৭]
 
-[[:bn:obs:notes:frames:44-03|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?200|Frame 44-03}}]]\\ 
-The Crippled Man Was Healed [44-03]\\ 
+[[:bn:obs:notes:frames:44-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?nolink&200}}]]\\
+যীশু ছাড়া অন্য কোনো পথ নেই [৪৪-০৮]
 
-[[:bn:obs:notes:frames:44-04|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg?200|Frame 44-04}}]]\\ 
-The Power of Jesus [44-04]\\ 
+[[:bn:obs:notes:frames:44-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?nolink&200}}]]\\
+শিষ্যদের ছেড়ে দেওয়া হল [৪৪-০৯]
 
-[[:bn:obs:notes:frames:44-05|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?200|Frame 44-05}}]]\\ 
-Peter Preached [44-05]\\ 
-
-[[:bn:obs:notes:frames:44-06|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?200|Frame 44-06}}]]\\ 
-Peter and John Were Arrested [44-06]\\ 
-
-[[:bn:obs:notes:frames:44-07|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?200|Frame 44-07}}]]\\ 
-Before the Jewish Leaders [44-07]\\ 
-
-[[:bn:obs:notes:frames:44-08|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?200|Frame 44-08}}]]\\ 
-No Other Way but Jesus [44-08]\\ 
-
-[[:bn:obs:notes:frames:44-09|{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?200|Frame 44-09}}]]\\ 
-The Disciples Were Released [44-09]\\ 
-
-//A Bible story from: Acts 3:1-4:22//
+//একটি বাইবেল কাহিনী: নেওয়া হয়েছে- প্রেরিতদের কার্য ৩:১-৪:২২//
 
 **[[:bn:obs:notes:43|<< Previous]] | [[:bn:obs:notes:45|Next >>]]**
