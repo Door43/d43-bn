@@ -9,7 +9,7 @@
 
   * [[:bn:ta|translationAcademy]]
   * [[:bn:get-started|How to Get Started]]
-  * [[:en:obs:help|Open Bible Stories Help]]
+  * [[:bn:obs:help|Open Bible Stories Help]]
 
 **Resources**
 
