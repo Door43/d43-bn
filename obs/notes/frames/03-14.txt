@@ -6,11 +6,11 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:noah|নোহ]]**
-  * **[[:bn:obs:notes:key-terms:altar|বেদী]]**
-  * **[[:bn:obs:notes:key-terms:sacrifice|বলি উৎসর্গ করেছিলেন]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:bless|আশির্বাদ দিলেন]]**
+  * **[[:bn:obe:other:noah]]**
+  * **[[:bn:obe:other:altar]]**
+  * **[[:bn:obe:other:sacrifice]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:bless]]**
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **পশু যা বলির জন্য ব্যবহারিত হত**  – অন্যভাবে এটিকে বলা যাবে, “তার প্রতি লোকেরা বলি দেওয়ার জন্য ব্যবহার করত৷”
