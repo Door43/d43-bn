@@ -1,8 +1,8 @@
 
 
- **যাকোব, ইসরাইল **
+=====যাকোব, ইসরাইল =====
 
-======   ======
+
 
 ===== তথ্যসমূহ: =====
 
@@ -17,7 +17,7 @@
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
-[আরও দেখুন: [[:bn:obe:other:isaac|ইসহাক]], [[:bn:obe:other:rebekah|Rebekah]], [[:bn:obe:other:esau|এষৌ]], [[:bn:obe:other:israel|israel]])
+[আরও দেখুন: [[:bn:obe:other:isaac]], [[:bn:obe:other:rebekah]], [[:bn:obe:other:esau]], [[:bn:obe:other:israel]])
 
 ===== Bible References: =====
 
