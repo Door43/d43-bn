@@ -1,8 +1,7 @@
 
 
- **দাস, ক্রীতদাস , দাসত্ব **
+=====দাস, ক্রীতদাস , দাসত্ব =====
 
-======   ======
 
 ===== সংজ্ঞা: =====
 
@@ -13,7 +12,7 @@ A servant is a person who works for another person, either by choice or by force
   * In biblical times, some people willingly put themselves into a form of slavery for the purpose of paying back debts.
   * People who obey God through faith in Christ are often called His "servants." Christians are also called "slaves to righteousness."
 
-(See also: [[:bn:obe:other:serve|serve]])
+(See also: [[:bn:obe:other:serve]])
 
 ===== Bible References: =====
 
