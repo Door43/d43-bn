@@ -1,6 +1,4 @@
-** সারা ** **, সারী **
-
-======   ======
+===== সারা , সারী =====
 
 ===== তথ্যসমূহ: =====
 
@@ -10,7 +8,7 @@
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
-(আরও দেখুন: আব্রাহাম[[:en:obe:other:abraham|,]] অব্রাম , [[:bn:obe:other:isaac|ইসহাক]])
+(আরও দেখুন: [[:en:obe:other:abraham|]], [[:bn:obe:other:isaac]])
 
 ===== Bible References: =====
 
