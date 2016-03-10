@@ -1,8 +1,7 @@
-======   ======
 
-**ঈষ্করিয়োতীয় **
 
-======   ======
+=====ঈষ্করিয়োতীয় =====
+
 
 ===== তথ্যসমূহ: =====
 
@@ -14,7 +13,7 @@
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
-(See also: [[:en:obe:kt:apostle|apostle, apostleship]], [[:en:obe:kt:betray|betray, betrayer]], [[:bn:obe:other:jewishleaders|ইহুদি নেতাসমূহ, ধার্মিক নেতাসমূহ]])
+(See also: [[:bn:obe:kt:apostle]], [[:bn:obe:kt:betray]], [[:bn:obe:other:jewishleaders]])
 
 ===== Bible References: =====
 
