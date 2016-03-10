@@ -1,6 +1,4 @@
-** যাজক, গুরুগিরি **
-
-======   ======
+===== যাজক, গুরুগিরি =====
 
 ===== সংজ্ঞা: =====
 
@@ -22,7 +20,7 @@ In the Bible, a priest was someone who was chosen to pray and offer sacrifices t
   * Some translations may prefer to always say something like, "Israelite priest" or "Jewish priest" or "Yahweh's priest" to make it clear that this does not refer to a modern-day type of priest.
   * The term used to translate "priest" should be distinct from the terms for "chief priest" and "high priest" and "Levite" and "prophet."
 
-(See also: [[:en:obe:other:aaron|Aaron]], [[:en:obe:other:sacrifice|sacrifice, offering]], [[:en:obe:other:chiefpriests|chief priests]], [[:bn:obe:kt:highpriest|মহাযাজক]], [[:bn:obe:other:mediator|mediator]])
+(See also: [[:en:obe:other:aaron]], [[:en:obe:other:sacrifice]], [[:en:obe:other:chiefpriests]], [[:bn:obe:kt:highpriest]], [[:bn:obe:other:mediator]])
 
 ===== Bible References: =====
 
