@@ -1,6 +1,4 @@
-** ইসরাইল, ইস্রায়েলীয়রা , ইস্রায়েল জাতি **
-
-======   ======
+===== ইসরাইল, ইস্রায়েলীয়রা , ইস্রায়েল জাতি =====
 
 ===== তথ্যসমূহ: =====
 
@@ -12,7 +10,7 @@
   * ইস্রায়েলের রাষ্ট্রটি বারোটি গোত্র দ্বারা গঠিত হয়েছিল৷
   * Some time after King Solomon died, the nation was divided into two kingdoms: the southern kingdom, called Judah and the northern kingdom, called Israel.
 
-[আরও দেখুন: যাকোব[[:bn:obe:other:jacob|, Israel]], ইস্রায়েল রাজ্য, যিহুদা রাজ্য][[:bn:obe:other:kingdomofjudah|, Judah]])
+[আরও দেখুন: [[:bn:obe:other:jacob]], [[:bn:obe:other:kingdomofjudah]])
 
 ===== Bible References: =====
 
