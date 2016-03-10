@@ -1,19 +1,22 @@
 
 
-**<font 24px/inherit;;inherit;;inherit>বিশ্বাসের পরীক্ষা [০৫-০৬]</font>    **
+=====বিশ্বাসের পরীক্ষা [০৫-০৬]=====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-06.jpg?nolink&}}
 
 যখন ইসহাক বাল্যবয়সী ছিলেন, তখন ঈশ্বর আব্রাহামের বিশ্বাসকে এ বলে পরীক্ষা করলেন, “ তোমার একমাত্র সন্তান, ইসহাককে নাও আর তাকে আমার জন্য একটি বলিরূপে হত্যা কর ৷ আবার আব্রাহাম ঈশ্বরের আজ্ঞাকারী হলেন আর তার পুত্রকে বলি দেওয়ার প্রস্তুতি নিলেন৷
 
-**<font 20px/inherit;;inherit;;inherit>গুরুত্বপূর্ণ শব্দসমূহ:</font>    **
-  * **[[:bn:obs:notes:key-terms:isaac|ইসহাক]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:abraham|আব্রাহামের]]**
-  * **[[:bn:obs:notes:key-terms:faith|বিশ্বাস]]**
-  * **[[:bn:obs:notes:key-terms:son|পুত্র]]**
-  * **[[:bn:obs:notes:key-terms:sacrifice|বলি]]**
-  * **[[:bn:obs:notes:key-terms:obey|আজ্ঞাকারী]]**
+=====গুরুত্বপূর্ণ শব্দসমূহ:=====
+
+  * **[[:bn:obe:other:isaac]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:abraham]]**
+  * **[[:bn:obe:kt:faith]]**
+  * **[[:bn:obe:kt:son]]**
+  * **[[:bn:obe:other:sacrifice]]**
+  * **[[:bn:obe:other:obey]]**
+
+
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **ঈশ্বর আব্রাহামের বিশ্বাসের পরীক্ষা নেন**- ঈশ্বর চেয়েছিলেন যেন আব্রাহাম তাকে দেখায় যে তিনি সম্পূর্ণরূপে ঈশ্বরের অধীন, যেন যাকিছু ঈশ্বর তাকে বলে করতে তিনি তা পালন করেন৷
