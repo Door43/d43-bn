@@ -6,16 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:sarah|সারী]]**
-  * **[[:bn:obs:notes:key-terms:son|পুত্র]]**
-  * **[[:bn:obs:notes:key-terms:promise|প্রতিজ্ঞা]]**
-  * **[[:bn:obs:notes:key-terms:isaac|ইসহাক]]**
-  * **[[:bn:obs:notes:key-terms:covenant|নিয়ম]]**
-  * **[[:bn:obs:notes:key-terms:ishmael|ইশ্মায়েল]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:abraham|আব্রামের]]**
-  * **[[:bn:obs:notes:key-terms:abraham|আব্রাহাম]]**
-  * **[[:bn:obs:notes:key-terms:sarah|সারা]]**
+  * **[[:bn:obe:other:sarah]]**
+  * **[[:bn:obe:kt:son]]**
+  * **[[:bn:obe:kt:promise]]**
+  * **[[:bn:obe:other:isaac]]**
+  * **[[:bn:obe:kt:covenant]]**
+  * **[[:bn:obe:other:ishmael]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:abraham]]**
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * (ঈশ্বর অব্রামের সাথে কথা নিয়ত বলতেন৷)
