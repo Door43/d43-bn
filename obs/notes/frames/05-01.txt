@@ -1,6 +1,6 @@
 
 
-**<font 24px/inherit;;inherit;;inherit>হাগার [০৫-০১]</font>    **
+**হাগার [০৫-০১]    **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-01.jpg?nolink&}}
 
@@ -8,12 +8,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:abraham|আব্রাম]]**
-  * **[[:bn:obs:notes:key-terms:sarah|সারী]]**
-  * **[[:bn:obs:notes:key-terms:canaan|কানান]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:servant|চাকর]]**
-  * **[[:bn:obs:notes:key-terms:hagar|হাগার]]**
+  * **[[:bn:obe:other:abraham]]**
+  * **[[:bn:obe:other:sarah]]**
+  * **[[:bn:obe:other:canaan]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:servant]]**
+  * **[[:bn:obe:other:hagar]]**
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **তখনও সন্তান ছিল না**- সন্তানহীন, অব্রামের কোনো উত্তরাধিকার ছিল না একটি মহান জাতি হওয়ার জন্য৷
