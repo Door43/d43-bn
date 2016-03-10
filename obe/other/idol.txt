@@ -1,7 +1,7 @@
 
 
-**মূর্তি, পৌত্তলিক**
-======   ======
+=====মূর্তি, পৌত্তলিক =====
+
 
 ===== সংজ্ঞা: =====
 
@@ -14,7 +14,7 @@
   * An "idolatrous kingdom" means a "kingdom of people who worship idols" or "kingdom that worships earthly things.
   * The term "idolatrous figure" is another word for a "carved image" or an "idol."
 
-(See also: [[:en:obe:kt:falsegod|false god, god]], [[:en:obe:kt:worship|worship]], [[:bn:obe:other:image|image, carved figure]])
+(See also: [[:bn:obe:kt:falsegod]], [[:bn:obe:kt:worship]], [[:bn:obe:other:image]])
 
 ===== Bible References: =====
 
