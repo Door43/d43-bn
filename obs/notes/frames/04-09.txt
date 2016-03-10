@@ -6,12 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:covenant|নিয়ম]]**
-  * **[[:bn:obs:notes:key-terms:abraham|আব্রাম]]**
-  * **[[:bn:obs:notes:key-terms:son|পুত্র]]**
-  * **[[:bn:obs:notes:key-terms:canaan|কানান]]**
-  * **[[:bn:obs:notes:key-terms:descendant|সন্তান-সন্ততি]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:covenant]]**
+  * **[[:bn:obe:other:abraham]]**
+  * **[[:bn:obe:kt:son]]**
+  * **[[:bn:obe:other:canaan]]**
+  * **[[:bn:obe:other:descendant]]**
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **দুটি দলসমূহ**- দল সমূহ বলতে দুজনও হতে পারে, দুটি সম্প্রদায় হতে পারে, বা একটি ব্যক্তি ও একটি গোষ্ঠীও হতে পারে৷ এই ক্ষেত্রে ঈশ্বর ও অব্রামের মধ্যে সম্মতি বোঝায়৷
