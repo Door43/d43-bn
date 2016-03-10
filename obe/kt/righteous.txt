@@ -1,8 +1,7 @@
-======   ======
 
-** ধার্মিক , ধার্মিকতা **
 
-======   ======
+===== ধার্মিক , ধার্মিকতা =====
+
 
 ===== সংজ্ঞা: =====
 
@@ -19,7 +18,7 @@ The term, "righteous" describes someone or something that is morally good and wi
   * Sometimes "the righteous" refers to "people who think they are good" or "people who seem to be righteous."
   * Depending on the context, "righteousness" could also be translated with a word or phrase that means, "being perfect before God" or "acting in a right way by obeying God" or "doing perfectly good and just things."
 
-(See also: [[:bn:obe:kt:good|good]], [[:bn:obe:kt:holy|holy]], [[:bn:obe:kt:evil|evil]], [[:bn:obe:kt:justice|justice]])
+(See also: [[:bn:obe:kt:good]], [[:bn:obe:kt:holy]], [[:bn:obe:kt:evil]], [[:bn:obe:kt:justice]])
 
 ===== Bible References: =====
 
