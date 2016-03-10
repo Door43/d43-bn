@@ -1,6 +1,6 @@
 
 
-**<font 24px/inherit;;inherit;;inherit>ঈশ্বর পুরুষটিকে অভিশপ্ত করেন [০২-১১]</font>    **
+=====ঈশ্বর পুরুষটিকে অভিশপ্ত করেন [০২-১১]=====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-11.jpg?nolink&}}
 
@@ -8,12 +8,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:disobey|অবাধ্যতা]]**
-  * **[[:bn:obs:notes:key-terms:curse|অভিশপ্ত]]**
-  * **[[:bn:obs:notes:key-terms:death|মরবে]]**
-  * **[[:bn:obs:notes:key-terms:eve|হবা]]**
-  * **[[:bn:obs:notes:key-terms:adam|আদম]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:disobey]]**
+  * **[[:bn:obe:kt:curse]]**
+  * **[[:bn:obe:kt:death]]**
+  * **[[:bn:obe:other:eve]]**
+  * **[[:bn:obe:other:adam]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **ভূমি অভিশাপগ্রস্ত হল**- আদমের অবাধ্যতার শাস্তি স্বরূপ, পৃথিবী আর কখনো ফলবন্ত থাকবে না৷ আদমকে যথেষ্ট খাদ্য খাওয়ার জন্য খুবিই কঠিন প্ররিশ্রম করতে হবে৷
