@@ -6,9 +6,10 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:noah|নোহ]]**
-**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font>    **
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:noah]]**
+
+=====অনুবাদিত টীকাসমূহ:=====
 
 //(এই কাঠামোটির জন্য কোনো টীকা নেই৷) //
 
