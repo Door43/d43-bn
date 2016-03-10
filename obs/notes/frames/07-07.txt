@@ -6,9 +6,9 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:jacob|যাকোব]]**
-  * **[[:bn:obs:notes:key-terms:rebekah|রিবিকার]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obe:other:jacob]]**
+  * **[[:bn:obe:other:rebekah]]**
+  * **[[:bn:obe:kt:god]]**
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **সম্পন্নতা**- এটি ইঙ্গিত করে অর্থের দিক দিয়ে, প্রচুর গবাদি পশু ও সম্পত্তির দিক দিয়ে৷
