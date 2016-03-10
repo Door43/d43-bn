@@ -1,8 +1,5 @@
-======   ======
+=====উত্তরাধিকারী , উত্তরাধিকার =====
 
-**উত্তরাধিকারী , উত্তরাধিকার **
-
-======   ======
 
 ===== সংজ্ঞা: =====
 
@@ -23,7 +20,7 @@ To inherit means to receive something valuable from a parent or other person, be
   * Ways to translate "inheritance" could include, "promised gift" or "secure possession" (from God).
   * The term "heir" could be translated with a word or phrase that means, "privileged child who receives the father's possessions" or "person chosen to receive (God's) spiritual possessions or blessings."
 
-(See also: [[:bn:obe:other:heir|heir]], [[:bn:obe:other:canaan|Canaan, Canaanite]], [[:bn:obe:kt:promisedland|Promised Land]])
+(See also: [[:bn:obe:other:heir]], [[:bn:obe:other:canaan]], [[:bn:obe:kt:promisedland]])
 
 ===== Bible References: =====
 
