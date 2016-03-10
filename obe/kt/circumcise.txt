@@ -1,8 +1,8 @@
-======   ======
 
-**<font 24px/inherit;;inherit;;inherit>সুন্নৎ করা</font> ** **<font 24px/inherit;;inherit;;inherit>, সুন্নৎ</font> **
 
-======   ======
+=====সুন্নৎ করা, সুন্নৎ=====
+
+
 
 ===== সংজ্ঞা: =====
 
@@ -20,7 +20,7 @@
   * Other ways to translate this term would be, "cut around" or "cut in a circle" or "cut off the foreskin."
   * Make sure the term used to translate this does not refer to females. It may be necessary to translate this with a word or phrase that includes the meaning of "male."
 
-(See also: [[:bn:obe:kt:uncircumcised|uncircumcised, uncircumcision]], [[:bn:obe:kt:covenant|covenant]])
+(See also: [[:bn:obe:kt:uncircumcised]], [[:bn:obe:kt:covenant]])
 
 ===== Bible References: =====
 
