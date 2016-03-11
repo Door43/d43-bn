@@ -6,13 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:joseph-ot|যোষেফ]]**
-  * **[[:bn:obs:notes:key-terms:evil|মন্দ ]]**
-  * **[[:bn:obs:notes:key-terms:servant|দাস ]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:frames:08-12:bn:obs:kt:good|উত্তমতায়]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশর]]**
-  *
+  * **[[:bn:obe:other:josephot]]**
+  * **[[:bn:obe:kt:evil]]**
+  * **[[:bn:obe:other:servant]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:good]]**
+  * **[[:bn:obe:other:egypt]]**
 
 ==== অনুবাদিত টীকাসমূহ: ====
 
