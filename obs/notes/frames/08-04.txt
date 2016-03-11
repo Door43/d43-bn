@@ -6,12 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:servant|ক্রীতদাস]]**
-  * **[[:bn:obs:notes:key-terms:joseph-ot|যোষেফ]]**
-  * **[[:bn:obs:notes:key-terms:egypt|রমিশ]]**
-  * **[[:bn:obs:notes:key-terms:nileriver|নিল নদ ]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:bless|আশির্বাদ করলেন ]]**
+  * **[[:bn:obe:other:servant]]**
+  * **[[:bn:obe:other:josephot]]**
+  * **[[:bn:obe:other:egypt]]**
+  * **[[:bn:obe:other:nileriver]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:bless]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **সরকারী অফিসার**- ইনি মিশর সরকারের একজন ব্যক্তি ছিলেন৷ অন্যভাবে বললে এটি হবে, “মিশর সকারের একজন অধিকারী৷”
