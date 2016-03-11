@@ -6,9 +6,9 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
-  * **[[:bn:obs:notes:key-terms:josephot|যোষেফ]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশর]]**
+  * **[[:bn:obe:other:pharaoh]]**
+  * **[[:bn:obe:other:josephot]]**
+  * **[[:bn:obe:other:egypt]]**
 
 =====অনুবাদিত টীকাসমূহ:=====
 
