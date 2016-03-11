@@ -6,9 +6,9 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:jacob|যাকোব]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশর ]]**
-  * **[[:bn:obs:notes:key-terms:joseph-ot|যোষেফ]]**
+  * **[[:bn:obe:other:jacob]]**
+  * **[[:bn:obe:other:egypt]]**
+  * **[[:bn:obe:other:josephot]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * তার বড় ছেলেদের- তারা হল যোষেফের ভাই যারা তাকে দাসত্বে বিক্রয় করেছিল৷
