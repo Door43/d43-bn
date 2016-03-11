@@ -6,12 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:joseph-ot|যোষেফ]]**
-  * **[[:bn:obs:notes:key-terms:innocent|নির্দোষ]]**
-  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশরবাসী ]]**
-  * **[[:bn:obs:notes:key-terms:king|রাজাদের]]**
-  * **[[:bn:obs:notes:key-terms:dream|স্বপ্নগুলো ]]**
+  * **[[:bn:obe:other:josephot]]**
+  * **[[:bn:obe:kt:innocent]]**
+  * **[[:bn:obe:other:pharaoh]]**
+  * **[[:bn:obe:other:egypt]]**
+  * **[[:bn:obe:other:king]]**
+  * **[[:bn:obe:other:dream]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **প্রচুর পরিমানে বিচলিত করেছিল**- এর অর্থ হল যে রাজা খুব ভয়ভীত হয়েছিলেন আর বিভ্রান্ত হয়েছিলেন (যা তিনি স্বপ্নে দেখেছিলেন তার জন্য)৷
