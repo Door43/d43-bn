@@ -1,7 +1,7 @@
 
 
-**ফরৌণ, মিশরের রাজা **
-======   ======
+=====ফরৌণ, মিশরের রাজা =====
+
 
 ===== তথ্যসমূহ: =====
 
@@ -14,7 +14,7 @@
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(আরও দেখুন: মিশর[[:bn:obe:other:egypt|,]] মিশরের, রাজা)
+(আরও দেখুন: [[:bn:obe:other:egypt]] )
 
 ===== Bible References: =====
 
