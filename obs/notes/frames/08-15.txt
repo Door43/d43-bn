@@ -6,14 +6,13 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:frames:08-15:bn:obe:kt:covenant|নিয়ম]]**
-  * **[[:bn:obs:notes:frames:08-15:bn:obe:kt:promise|প্রতিজ্ঞাসমূহ ]]**
-  * **[[:bn:obs:notes:frames:08-15:bn:obe:kt:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:frames:08-15:bn:obe:other:abraham|আব্রাহাম]]**
-  * **[[:bn:obs:notes:frames:08-15:bn:obe:other:issac|ইসহাক]]**
-  * **[[:bn:obs:notes:frames:08-15:bn:obe:other:issac|যাকোব]]**
-  * **[[:bn:obs:notes:frames:08-15:bn:obe:other:descendant|সন্তান-সন্ততি]]**
-  * **[[:bn:obs:notes:frames:08-15:bn:obe:other:israel|ইস্রায়েল]]**
+  * **[[:bn:obe:kt:covenant]]**
+  * **[[:bn:obe:kt:promise]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:abraham]]**
+  * **[[:bn:obe:other:isaac]]**
+  * **[[:bn:obe:other:descendant]]**
+  * **[[:bn:obe:other:israel]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **নিয়মের প্রতিজ্ঞাসমূহ**- বহু কাল পূর্বে ঈশ্বর আব্রাহামের সাথে একটি চুক্তি করেছিলে আর প্রতিজ্ঞা করেছিলেন যে তিনি তাকে বহু সন্তান-সন্ততি দেবেন; তারা কানানের ভূমিটিকে অধিকার করবে আর একটি মহান জাতি হবে৷ ঈশ্বর আরও প্রতিজ্ঞা করেছিলেন যে সকল লোকেরা আব্রাহামের বংশধারা থেকে অশির্বাদিত হবে৷-[০৭-১০]-কেও দেখুন৷
