@@ -6,9 +6,9 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:shepherd|মেষপালক]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশর]]**
+  * **[[:bn:obe:other:moses]]**
+  * **[[:bn:obe:other:shepherd]]**
+  * **[[:bn:obe:other:egypt]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **নির্জন-প্রদেশ**- নির্জন-প্রদেশ হল একটি বিরাট স্থান যা পাথরময় ও শুকনো ছিল৷ সেই অঞ্চলটি খাদ্য উৎপাদনের জন্য ভালো ছিল না আর খুব কম লোক সেখানে বসবাস করত৷ **[[https://door43.org/en/obs/notes/frames/09-10|[09-10]]]**.
