@@ -6,9 +6,11 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:nile river|নিল নদে]]**
-**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font> **
+  * **[[:bn:obe:other:pharaoh]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:nileriver]]**
+
+
+=====অনুবাদিত টীকাসমূহ:=====
   * **দেখলেন**- এটিকে অন্যভাবে বললে এটি হবে, “উপলব্ধি করলেন” বা “জেনে নিলেন৷”
 **[[:bn:obs:notes:frames:09-03|<<]] | [[:bn:obs:notes:frames:09-04|Up]] | [[:bn:obs:notes:frames:09-05|>>]]**
