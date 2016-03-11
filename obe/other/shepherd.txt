@@ -1,6 +1,5 @@
-** মেষপালক, মেষপালক **
+===== মেষপালক, মেষপালক=====
 
-======   ======
 
 ===== সংজ্ঞা: =====
 
@@ -19,7 +18,7 @@
   * When used as a metaphor, different ways to translate this term could include, "spiritual shepherd" or "who is like a shepherd" or "who cares for his people like a shepherd cares for his sheep," depending on the context.
   * Ways to translate the verb, "to shepherd" (a flock) could include, "to take care of" or "to spiritually nourish" or "to guide and teach like a spiritual shepherd."
 
-(See also: [[:bn:obe:other:sheep|sheep, ram]], [[:bn:obe:kt:pastor|pastor]], [[:bn:obe:kt:believer|believer]])
+(See also: [[:bn:obe:other:sheep]], [[:bn:obe:kt:pastor]], [[:bn:obe:kt:believer]])
 
 ===== Bible References: =====
 
