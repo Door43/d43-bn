@@ -6,9 +6,9 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:joseph-ot|যোষেফের]]**
-  * **[[:bn:obs:notes:key-terms:dream|স্বপ্ন দেখেছিলেন]]**
-  * **[[:bn:obs:notes:key-terms:servant|ক্রীতদাস]]**
+  * **[[:bn:obe:other:josephot]]**
+  * **[[:bn:obe:other:dream]]**
+  * **[[:bn:obe:other:servant]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **ইদেতার ভার কাছে এলেন**- অন্যভাবে এটিকে অনুবাদ করলে তা হবে, “সেই স্থানে পৌঁছালেন যেখানে তার ভাইরা ছিল৷”
