@@ -6,17 +6,18 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:suffer|দুঃখভোগ]]**
-  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:servant|দাসত্ব]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশর]]**
-  * **[[:bn:obs:notes:key-terms:canaan|কানান]]**
-  * **[[:bn:obs:notes:key-terms:promise|প্রতিজ্ঞাসমূহ]]**
-  * **[[:bn:obs:notes:key-terms:abraham|আব্রাহাম]]**
-  * **[[:bn:obs:notes:key-terms:isaac|ইসহাক]]**
-  * **[[:bn:obs:notes:key-terms:jacob|যাকোব]]**
+
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:suffer]]**
+  * **[[:bn:obe:other:pharaoh]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:servant]]**
+  * **[[:bn:obe:other:egypt]]**
+  * **[[:bn:obe:other:canaan]]**
+  * **[[:bn:obe:kt:promise]]**
+  * **[[:bn:obe:other:abraham]]**
+  * **[[:bn:obe:other:isaac]]**
+  * **[[:bn:obe:other:jacob]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **আমার প্রজাদের বেদনা**- এটিকে এভাবেও অনুবাদ করা যেতে পারে, “খুব কঠিন ব্যবহার যা আমার প্রজারা অভিজ্ঞতা করছে৷” কিছু ভাষায় এটিকে এভাবে অনুবাদ করা যেতে পারে, “কিভাবে মিশরীয়রা আমার প্রজাদের ভয়ংকর যন্ত্রণা দিচ্ছে৷”
