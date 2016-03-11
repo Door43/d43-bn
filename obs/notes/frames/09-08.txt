@@ -6,11 +6,11 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশরবাসী]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:servant|দাস]]**
-  * **[[:bn:obs:notes:key-terms:save|রক্ষা]]**
+  * **[[:bn:obe:other:moses]]**
+  * **[[:bn:obe:other:egypt]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:servant]]**
+  * **[[:bn:obe:kt:save]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **প্রাপ্তবয়স্ক হয়ে উঠেছিলেন**- এটিকে অন্যভাবে বললে এটি হবে, “একটি পুরুষ হয়ে উঠেছিলেন৷”
