@@ -1,6 +1,6 @@
 
 
-**<font 20px/inherit;;inherit;;inherit>কঠিন প্ররিশ্রম [০৯-০৩]</font>    **
+**কঠিন প্ররিশ্রম [০৯-০৩]    **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-03.jpg?nolink&}}
 
@@ -8,10 +8,10 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:egypt|মিশরবাসী]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:bless|আশির্বাদ দিলেন ]]**
+  * **[[:bn:obe:other:egypt]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:bless]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **দুর্বিষহ**- এর অর্থ হল যে তারা প্রচুর কষ্ট ভুগছিলেন কারন তাদের কতই না কষ্ট দেওয়া হয়েছিল আর কঠিন কার্য করানো হয়েছিল আর কার্য করতে বাধ্য করা হয়েছিল৷ তারাও খুব মানসিক রূপে ভেঙ্গে পরেছিলেন৷
