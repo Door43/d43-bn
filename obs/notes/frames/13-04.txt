@@ -6,14 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:covenant|নিয়ম]]**
-  * **[[:bn:obs:notes:key-terms:yahweh|যীহোবা]]**
-  * **[[:bn:obs:notes:key-terms:save|রক্ষা করেছিলেন]]**
-  * **[[:bn:obs:notes:key-terms:servant|দাসত্ব]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশর]]**
-  * **[[:bn:obs:notes:key-terms:worship|আরাধনা]]**
-  * **[[:bn:obs:notes:key-terms:false-god|দেবদেবী]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:covenant]]**
+  * **[[:bn:obe:kt:yahweh]]**
+  * **[[:bn:obe:kt:save]]**
+  * **[[:bn:obe:other:servant]]**
+  * **[[:bn:obe:other:egypt]]**
+  * **[[:bn:obe:kt:worship]]**
+  * **[[:bn:obe:kt:falsegod]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **তখন ঈশ্বর তাদের নিয়ম দিলেন আর বললেন**- যা কিছু ঈশ্বর এর পর বললেন তা হল নিয়মের বিষয়বস্তু, তা হল, তিনি লোকেদের যা বললেন তা তাদের মানতে হবে৷এটিকে এভাবে অনুবাদ করা যেতে পারে, “তারপর ঈশ্বর তার নিয়ম তাদের বললেন৷ তিনি বললেন” বা, “তারপর ঈশ্বর তার নিয়ম তাদের সাথে স্থির করলেন৷”
