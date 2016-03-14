@@ -6,12 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:caleb|কলেব]]**
-  * **[[:bn:obs:notes:key-terms:joshua|যিহোশূয়]]**
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:aaron|হারুন]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশর]]**
-  * **[[:bn:obs:notes:key-terms:servant|দাস]]**
+  * **[[:bn:obe:other:caleb]]**
+  * **[[:bn:obe:other:joshua]]**
+  * **[[:bn:obe:other:moses]]**
+  * **[[:bn:obe:other:aaron]]**
+  * **[[:bn:obe:other:egypt]]**
+  * **[[:bn:obe:other:servant]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **কেন আপনি আমাদের নিয়ে এলেন**- এটি একটি আসল প্রশ্ন নয়৷ কিছু কিছু ভাষায় এটি একটি বলার ভঙ্গি, “আপনাকে আমাদের এখানে আনা উচিত হয়নি৷”
