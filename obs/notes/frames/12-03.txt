@@ -6,11 +6,11 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:servant|দাস]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:false-god|দেবদেবী]]**
+  * **[[:bn:obe:other:pharaoh]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:servant]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:falsegod]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **অল্প কিছু সময় পর**- সম্ভবত দু দিন পর৷ এটা স্পষ্ট করার জন্য, এটাকে এভাবে অনুবাদ করা যেতে পারে, “কিছু দিন পর” বা, “ইস্রায়েলীয়দের মিশর ত্যাগ করার অল্প কিছু দিন পর৷”
