@@ -23,4 +23,4 @@
 
 //(এই কাঠামোটির জন্য কোনো টীকা নেই৷)//
 
-**[[:bn:obs:notes:frames:14-01|<<]] | [[:bn:obs:notes:frames:14-02|Up]] | [[https://door43.org/en/obs/notes/frames/14-03|>>]]**
+**[[:bn:obs:notes:frames:14-01|<<]] | [[:bn:obs:notes:frames:14-02|Up]] | [[:bn:obs/notes/frames/14-03|>>]]**
