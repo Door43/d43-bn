@@ -6,11 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:believe|বিশ্বাস]]**
-  * **[[:bn:obs:notes:key-terms:obey|আজ্ঞাকারী]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:pharaoh]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:kt:believe]]**
+  * **[[:bn:obe:other:obey]]**
+
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **লোকেদের আর পশুদের দুয়েরই প্রথমজাত পুত্র সন্তান**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “প্রত্যেক পরিবারের জেষ্ঠ্য পুত্র আর তাদের পশুদের প্রথম নর সন্তান৷”
