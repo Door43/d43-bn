@@ -6,14 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:aaron|হারুন]]**
-  * **[[:bn:obs:notes:key-terms:idol|মূর্তি]]**
-  * **[[:bn:obs:notes:key-terms:worship|আরাধনা ]]**
-  * **[[:bn:obs:notes:key-terms:sacrifice|বলি]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:sin|পাপ]]**
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:pray|প্রার্থনা করলেন]]**
+  * **[[:bn:obe:other:aaron]]**
+  * **[[:bn:obe:other:idol]]**
+  * **[[:bn:obe:kt:worship]]**
+  * **[[:bn:obe:other:sacrifice]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:sin]]**
+  * **[[:bn:obe:other:moses]]**
+  * **[[:bn:obe:other:pray]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **একটি সোনার মূর্তি তৈরী করলেন**- হারুন সেই সোনা নিলেন যা লোকেরা তার কাছে এনেছিল, তা গলালো ও একত্র করলো, আর সেটিকে একটি বাছুরের আকার দিল৷
