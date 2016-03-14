@@ -6,10 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:tentofmeeting|মিলন তাম্বু]]**
-  * **[[:bn:obs:notes:key-terms:highpriest|মহাযাজক]]**
+
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:tentofmeeting]]**
+  * **[[:bn:obe:kt:highpriest]]**
+
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **তার একটি পূর্ণ বর্ণনাও দিলেন**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “ঈশ্বর তার খুটিনাটি বর্ণনা দিলেন” বা, “ঈশ্বর ঠিক কেমনটি তিনি চান, নির্মান করতে, তা তাদের বললেন৷”
