@@ -6,9 +6,9 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:canaan|কানান]]**
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:canaan]]**
+  * **[[:bn:obe:other:moses]]**
  
 ==== অনুবাদিত টীকাসমূহ: ====
 
