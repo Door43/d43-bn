@@ -6,10 +6,10 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:caleb|কলেব]]**
-  * **[[:bn:obs:notes:key-terms:joshua|যিহোশূয়]]**
-  * **[[:bn:obs:notes:key-terms:canaan|কানান]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obe:other:caleb]]**
+  * **[[:bn:obe:other:joshua]]**
+  * **[[:bn:obe:other:canaan]]**
+  * **[[:bn:obe:kt:god]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **কানানবাসীরা**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “কানানের বসবাসকারী লোকজন” বা “কানানীয়রা৷”
