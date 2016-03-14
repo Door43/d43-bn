@@ -6,10 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
-  * **[[:bn:obs:notes:key-terms:sin|পাপ করেছিল]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
+  * **[[:bn:obe:other:pharaoh]]**
+  * **[[:bn:obe:kt:sin]]**
+  * **[[:bn:obe:other:israel]]**
+
+
 ==== অনুবাদিত টীকাসমূহ: ====
 
-  * **তার হৃদয় কঠোর করলেন**- [১০-০৪]-এর টীকাটি দেখুন৷
-**[[:bn:obs:notes:frames:10-09|<<]] | [[:bn:obs:notes:frames:10-09|Up]] | [[https://door43.org/en/obs/notes/frames/10-10|>>]]**
+  * **তার হৃদয় কঠোর করলেন**- **[[:bn:obs:notes:frames:10-04|[10-04]]]** -এর টীকাটি দেখুন৷
+
+
+**[[:bn:obs:notes:frames:10-09|<<]] | [[:bn:obs:notes:frames:10-09|Up]] | [[:bn/obs/notes/frames/10-10|>>]]**
