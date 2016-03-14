@@ -6,11 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:servant|দাস]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশরবাসী]]**
-  * **[[:bn:obs:notes:key-terms:redsea|লাল সমুদ্র]]**
+
+  * **[[:bn:obe:other:pharaoh]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:servant]]**
+  * **[[:bn:obe:other:egypt]]**
+  * **[[:bn:obe:other:redsea]]**
 
 ==== অনুবাদিত টীকাসমূহ: ====
 
