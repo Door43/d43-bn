@@ -6,14 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:canaan|কানানীয়দের]]**
-  * **[[:bn:obs:notes:key-terms:promisedland|প্রতিজ্ঞার ভূমি]]**
-  * **[[:bn:obs:notes:key-terms:peace|শান্তি]]**
-  * **[[:bn:obs:notes:key-terms:idol|মূর্তি ]]**
-  * **[[:bn:obs:notes:key-terms:obey|আজ্ঞাকারী]]**
-  * **[[:bn:obs:notes:key-terms:worship|আরাধনা]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:canaan]]**
+  * **[[:bn:obe:kt:promisedland]]**
+  * **[[:bn:obe:other:peace]]**
+  * **[[:bn:obe:other:idol]]**
+  * **[[:bn:obe:other:obey]]**
+  * **[[:bn:obe:kt:worship]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **নিস্তার পেতে হবে**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “তাদেরকে দেশ থেকে তাড়িয়ে দাও” বা, “দেশ থেকে তাদের সরিয়ে দাও৷
