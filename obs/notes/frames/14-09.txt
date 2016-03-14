@@ -6,10 +6,10 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:sin|পাপ করেছিল]]**
-  * **[[:bn:obs:notes:key-terms:canaan|কানান]]**
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obe:kt:sin]]**
+  * **[[:bn:obe:other:canaan]]**
+  * **[[:bn:obe:other:moses]]**
+  * **[[:bn:obe:kt:god]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **তারা পাপ করেছে**-এটি যুক্ত করা জরুরী, “ঈশ্বরের দেওয়া কানানের লোকেদের হারানোর আদেশটিকে, না মানার দ্বারা তারা পাপ করেছিল৷”
