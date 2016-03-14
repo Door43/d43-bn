@@ -6,11 +6,11 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:sinai|সীনয় পর্বত]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:aaron|হারুন]]**
-  * **[[:bn:obs:notes:key-terms:idol|মূর্তি]]**
+  * **[[:bn:obe:other:moses]]**
+  * **[[:bn:obe:other:sinai]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:aaron]]**
+  * **[[:bn:obe:other:idol]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **লোকেরা তার ফিরে আসার অপেক্ষায় ক্লান্ত হয়ে পরেছিল**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “লোকেরা অধৈর্য্য হয়ে পরেছিল কারণ তিনি তাড়াতাড়ি ফিরে আসেন নি” বা “লোকেরা আর তার ফিরে আসার অপেক্ষা করতে চায়নি৷”
