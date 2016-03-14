@@ -5,11 +5,10 @@
 ঈশ্বর নিল নদকে রক্তে পরিনত করলেন, কিন্তু তবুও ফরৌণ ইস্রায়লীয়দের যেতে দিলেন না৷
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
-
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:nile-river|নিল নদের]]**
-  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:nileriver]]**
+  * **[[:bn:obe:other:pharaoh]]**
+  * **[[:bn:obe:other:israel]]**
  
 
 =====অনুবাদিত টীকাসমূহ:  =====
