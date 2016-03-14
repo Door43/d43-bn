@@ -6,12 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:covenant|নিয়ম]]**
-  * **[[:bn:obs:notes:key-terms:sinai|সীনয় পর্বত]]**
-  * **[[:bn:obs:notes:key-terms:promisedland|প্রতিজ্ঞার ভূমি]]**
-  * **[[:bn:obs:notes:key-terms:canaan|কানান]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:kt:covenant]]**
+  * **[[:bn:obe:other:sinai]]**
+  * **[[:bn:obe:kt:promisedland]]**
+  * **[[:bn:obe:other:canaan]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **মেঘের স্থম্ভ**  – এই বাক্যাংশটিকে কিভাবে আপনি **[[:bn:obs:notes:frames:12-02|[12-02]]]** -তে অনুবাদ করেছেন তা দেখুন৷
