@@ -6,11 +6,11 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:redsea|লাল সমুদ্র]]**
-  * **[[:bn:obs:notes:key-terms:sinai|সীনয় পর্বত]]**
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:redsea]]**
+  * **[[:bn:obe:other:sinai]]**
+  * **[[:bn:obe:other:moses]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **জ্বলন্ত ঝোপ**- মোশীর মিশরে ফিরে যাওয়ার পূর্বে, যেখানে ঈশ্বর তার সাথে ঝোপের মধ্যে দিয়ে কথা বলেছিলেন যেটিতে আগুন লেগেছিল৷ **[[:bn:obs:notes:frames:11-03|[09-02]]]** -তে দেখুন৷
