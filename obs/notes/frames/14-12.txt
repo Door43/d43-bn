@@ -6,14 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইসরাইল]]**
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:faithful|বিশ্বাসী]]**
-  * **[[:bn:obs:notes:key-terms:promise|প্রতিজ্ঞা]]**
-  * **[[:bn:obs:notes:key-terms:abraham|আব্রাহাম]]**
-  * **[[:bn:obs:notes:key-terms:isaac|ইসহাক]]**
-  * **[[:bn:obs:notes:key-terms:jacob|যাকোব]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:moses]]**
+  * **[[:bn:obe:kt:faithful]]**
+  * **[[:bn:obe:kt:promise]]**
+  * **[[:bn:obe:other:abraham]]**
+  * **[[:bn:obe:other:isaac]]**
+  * **[[:bn:obe:other:jacob]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **চমৎকারভাবে ঈশ্বর তাদের একটি পাথর থেকে জলও দিলেন**- এটিকে এমনভাবে অনুবাদ করা যেতে পারে, “এমন কিছু করা যা কেবল ঈশ্বরই করতে পারেন, তিনি পাথর থেকে জল নির্গত করলেন যেন লোকেরা আর পশুরা জল পান করতে পারে৷”
