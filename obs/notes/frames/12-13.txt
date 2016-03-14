@@ -6,12 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:save|রক্ষা করেছিলেন]]**
-  * **[[:bn:obs:notes:key-terms:servant|দাসত্ব]]**
-  * **[[:bn:obs:notes:key-terms:praise|স্তুতিবাদ]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশরবাসী]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:save]]**
+  * **[[:bn:obe:other:servant]]**
+  * **[[:bn:obe:other:praise]]**
+  * **[[:bn:obe:other:egypt]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **ভীষণ উৎসাহের সাথে আনন্দ করল**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “তারা ভীষণভাবে আনন্দিত ছিল আর তা উৎসাহের সাথে প্রকাশও করলেন” বা, “সম্পূর্ণ হৃদয়ের সাথে তা প্রকাশ করলেন” বা, “তাদের সম্পূর্ণ শক্তির সাথে৷”
