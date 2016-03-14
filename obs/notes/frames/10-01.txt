@@ -6,12 +6,11 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:aaron|হারুন]]**
-  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইসরাইল]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
+  * **[[:bn:obe:other:moses]]**
+  * **[[:bn:obe:other:aaron]]**
+  * **[[:bn:obe:other:pharaoh]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:israel]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **ফরৌনের কাছে**- এটা বললে স্পষ্ট হতে পারে, “ফরৌনের প্রাসাদে তার সাথে কথা বলতে৷”
