@@ -6,12 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:passover|নিস্তারপর্ব্ব]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশরবাসী]]**
-  * **[[:bn:obs:notes:key-terms:servant|দাস]]**
-  * **[[:bn:obs:notes:key-terms:lamb|মেষ]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:kt:passover]]**
+  * **[[:bn:obe:other:egypt]]**
+  * **[[:bn:obe:other:servant]]**
+  * **[[:bn:obe:kt:lamb]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **নিস্তারপর্ব**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “নিস্তারপর্বের কার্যকলাপ” বা, “নিস্তারপর্ব পালন করা” বা, “নিস্তারপর্বের ভোজন৷”
