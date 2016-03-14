@@ -6,15 +6,8 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:tencommandments|দশাজ্ঞা]]**
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:law-of-moses|নিয়মবিধিগুলো]]**
-  * **[[:bn:obs:notes:key-terms:obey|আজ্ঞাকারী হয়েছিলেন]]**
-  * **[[:bn:obs:notes:key-terms:promise|প্রতিজ্ঞা]]**
-  * **[[:bn:obs:notes:key-terms:bless|আশির্বাদিত]]**
-  * **[[:bn:obs:notes:key-terms:disobey|অনাজ্ঞাকারী]]**
-  * **[[:bn:obs:notes:key-terms:punish|শাস্তি]]**
+
+
   * **[[:bn:obe:kt:god]]**
   * **[[:bn:obe:other:tencommandments]]**
   * **[[:bn:obe:other:moses]]**
