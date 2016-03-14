@@ -6,11 +6,11 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:save|রক্ষা]]**
-  * **[[:bn:obs:notes:key-terms:son|পুত্র]]**
-  * **[[:bn:obs:notes:key-terms:believe|বিশ্বাস করেছিলেন]]**
-  * **[[:bn:obs:notes:key-terms:lamb|মেষ]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:save]]**
+  * **[[:bn:obe:kt:son]]**
+  * **[[:bn:obe:kt:believe]]**
+  * **[[:bn:obe:kt:lamb]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **ঈশ্বর প্রদান করলেন**- “ইস্রায়েলীয়দের প্রথম পুত্র সন্তানদের বাঁচানোর জন্য ঈশ্বর হলেন একমাত্র উপায়কর্তা৷
