@@ -11,6 +11,6 @@
   * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
-*//(////এই//  //কাঠামোটির//  //জন্য//  //কোনো//  //টীকা//  //নেই৷////)//
+  *//(এই কাঠামোটির জন্য কোনো টীকা নেই৷)//
 
-**[[:bn:obs:notes:frames:12-08|<<]] | [[:bn:obs:notes:frames:12-09|Up]] | [[https://door43.org/en/obs/notes/frames/12-10|>>]]**
+**[[:bn:obs:notes:frames:12-08|<<]] | [[:bn:obs:notes:frames:12-09|Up]] | [[:bn/obs/notes/frames/12-10|>>]]**
