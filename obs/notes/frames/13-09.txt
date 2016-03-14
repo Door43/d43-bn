@@ -6,18 +6,18 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:disobey|অনাজ্ঞাকারী]]**
-  * **[[:bn:obs:notes:key-terms:law-of-moses|ঈশ্বরের নিয়মবিধি]]**
-  * **[[:bn:obs:notes:key-terms:tentofmeeting|মিলন তাম্বু]]**
-  * **[[:bn:obs:notes:key-terms:sacrifice|বলি]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:priest|যাজক]]**
-  * **[[:bn:obs:notes:key-terms:altar|বেদী]]**
-  * **[[:bn:obs:notes:key-terms:blood|রক্ত]]**
-  * **[[:bn:obs:notes:key-terms:sin|পাপ]]**
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:aaron|হারুন]]**
-  * **[[:bn:obs:notes:key-terms:descendant|উত্তরাধিকার]]**
+  * **[[:bn:obe:other:disobey]]**
+  * **[[:bn:obe:kt:lawofmoses]]**
+  * **[[:bn:obe:other:tentofmeeting]]**
+  * **[[:bn:obe:other:sacrifice]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:priest]]**
+  * **[[:bn:obe:other:altar]]**
+  * **[[:bn:obe:kt:blood]]**
+  * **[[:bn:obe:kt:sin]]**
+  * **[[:bn:obe:other:moses]]**
+  * **[[:bn:obe:other:aaron]]**
+  * **[[:bn:obe:other:descendant]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **ঈশ্বরের নিয়মবিধি**- এটি উল্লেখ করে সেই সকল আদেশ ও নির্দেশনাগুলোকে যা ঈশ্বর ইস্রায়েলীয়দের পালন করতে বলেছিলেন৷
