@@ -6,11 +6,11 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:aaron|হারুন]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশর]]**
+  * **[[:bn:obe:other:pharaoh]]**
+  * **[[:bn:obe:other:moses]]**
+  * **[[:bn:obe:other:aaron]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:egypt]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **ডাকলেন**- এর অর্থ হল যে ফরৌণ তার চাকরদের বলেছিলেন যে মোশী আর হারুনকে বল আমার কাছে আসতে৷
