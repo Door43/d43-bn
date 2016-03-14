@@ -6,12 +6,15 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশরবাসী]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:moses]]**
+  * **[[:bn:obe:other:pharaoh]]**
+  * **[[:bn:obe:other:egypt]]**
+  * **[[:bn:obe:other:israel]]**
+
+
 ==== অনুবাদিত টীকাসমূহ: ====
 
-  * **ঈশ্বর ফরৌনের হৃদয় কঠোর করেছিলেন**-ঈশ্বর ফরৌনের হৃদয়কে কঠিন করা বজায় রাখলেন৷ আরও দেখুন [১০-০৪]-র টীকাটিকে৷
-**[[:bn:obs:notes:frames:10-06|<<]] | [[:bn:obs:notes:frames:10-07|Up]] | [[https://door43.org/en/obs/notes/frames/10-08|>>]]**
+  * **ঈশ্বর ফরৌনের হৃদয় কঠোর করেছিলেন**-ঈশ্বর ফরৌনের হৃদয়কে কঠিন করা বজায় রাখলেন৷ আরও দেখুন **[[:bn:obs:notes:frames:10-04|[10-04]]]** র টীকাটিকে৷
+
+**[[:bn:obs:notes:frames:10-06|<<]] | [[:bn:obs:notes:frames:10-07|Up]] | [[:bn/obs/notes/frames/10-08|>>]]**
