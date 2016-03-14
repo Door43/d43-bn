@@ -6,12 +6,11 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:tentofmeeting|মিলন তাম্বু]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:joshua|যিহোশূয়]]**
-  * **[[:bn:obs:notes:key-terms:caleb|কলেব]]**
-  * **[[:bn:obs:notes:key-terms:promisedland|প্রতিজ্ঞার ভূমি]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:tentofmeeting]]**
+  * **[[:bn:obe:other:joshua]]**
+  * **[[:bn:obe:other:caleb]]**
+  * **[[:bn:obe:kt:promisedland]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **এলেন**- ঈশ্বর একজন ব্যক্তির আকারে আভির্ভূত হলেন না, কিন্তু অন্য এক আকারে যা তার মহিমা ও শক্তিকে প্রকাশ করে৷
