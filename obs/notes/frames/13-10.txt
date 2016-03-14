@@ -6,11 +6,11 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:obey|আজ্ঞাকারী]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:worship|আরাধনা]]**
-  * **[[:bn:obs:notes:key-terms:promise|প্রতিজ্ঞা]]**
-  * **[[:bn:obs:notes:key-terms:sin|পাপ করেছিল]]**
+  * **[[:bn:obe:other:obey]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:worship]]**
+  * **[[:bn:obe:kt:promise]]**
+  * **[[:bn:obe:kt:sin]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **ঈশ্বরের দেওয়া**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “তাদের মানতে বলা হয়েছিল৷”
