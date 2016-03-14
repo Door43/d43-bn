@@ -6,14 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:rebel|বিদ্রোহ]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:promisedland|প্রতিজ্ঞার ভূমি]]**
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:joshua|যিহোশূয়]]**
-  * **[[:bn:obs:notes:key-terms:promise|প্রতিজ্ঞা]]**
-  * **[[:bn:obs:notes:key-terms:prophet|ভাববাদী]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:rebel]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:promisedland]]**
+  * **[[:bn:obe:other:moses]]**
+  * **[[:bn:obe:other:joshua]]**
+  * **[[:bn:obe:kt:promise]]**
+  * **[[:bn:obe:kt:prophet]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **যারা ঈশ্বরের প্রতি বিদ্রোহ করেছিল**- এটিকে এমনভাবে অনুবাদ করা যেতে পারে, “যারা তিরস্কার করেছিল ঈশ্বরের আজ্ঞাকারী হতে যখন তিনি তাদের প্রতিজ্ঞার ভূমিতে যেতে বলেছিলেন৷”
