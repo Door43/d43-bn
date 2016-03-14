@@ -6,9 +6,9 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:canaan|কানান]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:canaan]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **ঈশ্বর যুদ্ধে তাদের সাথে গেলেন না**- অন্য শব্দে, ঈশ্বর তাদের এই যুদ্ধে সাহায্য করলেন না৷
