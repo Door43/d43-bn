@@ -6,12 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশর]]**
-  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
-  * **[[:bn:obs:notes:key-terms:beg|অনুনয় করেছিলেন]]**
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:egypt]]**
+  * **[[:bn:obe:other:pharaoh]]**
+  * **[[:bn:obe:other:beg]]**
+  * **[[:bn:obe:other:moses]]**
+  * **[[:bn:obe:other:israel]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **ঈশ্বর সম্পূর্ণ মিশরে ব্যাঙ পাঠালেন**-এটিকে এভাবে অনুবাদ করা যেতে পারে, “ঈশ্বর মিশরে ব্যাঙদের আবির্ভাব করলেন৷”
