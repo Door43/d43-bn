@@ -6,12 +6,16 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশরবাসী]]**
-  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌনের]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:egypt]]**
+  * **[[:bn:obe:other:pharaoh]]**
+  * **[[:bn:obe:other:israel]]**
+
+
+
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **গবাদিপশু**-এটি ইঙ্গিত করে সেই বড় বড় পশুদের যা মিশরীয়রা তাদের কার্যে ব্যবহার করত, যেমন ঘোড়া, গাধা, উঠ, গরু, মেষ আর ছাগল৷
-  * **তার হৃদয় কঠোর করলেন**- দেখুন [১০-০৪]৷
-**[[:bn:obs:notes:frames:10-05|<<]] | [[:bn:obs:notes:frames:10-06|Up]] | [[https://door43.org/en/obs/notes/frames/10-07|>>]]**
+  * **তার হৃদয় কঠোর করলেন**- দেখুন **[[:bn:obs:notes:frames:10-04|[10-04]]]**.
+
+**[[:bn:obs:notes:frames:10-05|<<]] | [[:bn:obs:notes:frames:10-06|Up]] | [[:bn/obs/notes/frames/10-07|>>]]**
