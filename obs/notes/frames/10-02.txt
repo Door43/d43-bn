@@ -6,10 +6,10 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশর]]**
-  * **[[:bn:obs:notes:key-terms:false-god|দেবদেবী]]**
+  * **[[:bn:obe:other:pharaoh]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:egypt]]**
+  * **[[:bn:obe:kt:faLsegod]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * লোক বা প্রজা- এটি ইস্রায়েলের লোকেদেরকে বোঝাচ্ছে, যাদের “ইস্রায়েলীয়” বলা হত৷
