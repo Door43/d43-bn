@@ -6,11 +6,11 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:blood|রক্ত]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:save|রক্ষা করেছিলেন]]**
-  * **[[:bn:obs:notes:key-terms:lamb|মেষ]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:kt:blood]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:save]]**
+  * **[[:bn:obe:kt:lamb]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **এড়িয়ে গেলেন**- এর অর্থ হল যে ঈশ্বর সেই দরজাগুলোর পাশ দিয়ে এগিয়ে গেলেন আর কাউকেই নিহনন করতে থামলেন না৷ এই ঘটনাটি ইহুদিদের উৎসবে পরিনত হল যাকে বলা হয়, “নিস্তারপর্ব৷”
