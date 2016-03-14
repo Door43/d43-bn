@@ -6,13 +6,13 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশর]]**
-  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:aaron|হারুন]]**
-  * **[[:bn:obs:notes:key-terms:sin|পাপ করেছিল]]**
-  * **[[:bn:obs:notes:key-terms:pray|প্রার্থনা করলেন]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:egypt]]**
+  * **[[:bn:obe:other:pharaoh]]**
+  * **[[:bn:obe:other:moses]]**
+  * **[[:bn:obe:other:aaron]]**
+  * **[[:bn:obe:kt:sin]]**
+  * **[[:bn:obe:other:pray]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **এরপর**- এর অর্থ হল, ঈশ্বর মিশরীয়দের ত্বকে বেদনাময় স্ফোটক উৎপন্ন করার পর৷
