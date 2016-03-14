@@ -6,12 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:pharaoh|ফরৌণ]]**
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:aaron|হারুন]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশর]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:pharaoh]]**
+  * **[[:bn:obe:other:moses]]**
+  * **[[:bn:obe:other:aaron]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:egypt]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **ঈশ্বর একটি আঘাত পাঠালেন**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “ঈশ্বর সেখানে মহামারী বা আঘাত হওয়ার অনুমতি দিলেন” বা, “ঈশ্বর একটি মহামারীকে (পিশুর দ্বারা) মিশরের ভূমিতে হতে দিলেন৷”
