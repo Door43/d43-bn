@@ -6,13 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশর]]**
-  * **[[:bn:obs:notes:key-terms:servant|দাস]]**
-  * **[[:bn:obs:notes:key-terms:promised-land|প্রতিজ্ঞার ভূমি]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশরবাসী]]**
-  * **[[:bn:obs:notes:key-terms:believe|বিশ্বাস করেছিলেন]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:egypt]]**
+  * **[[:bn:obe:other:servant]]**
+  * **[[:bn:obe:kt:promisedland]]**
+  * **[[:bn:obe:kt:believe]]**
+  * **[[:bn:obe:kt:god]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **তারা আর দাস থাকলেন না**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “তারা আর দাস বা গুলাম নয়৷
