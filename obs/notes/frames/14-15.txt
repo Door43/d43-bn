@@ -6,13 +6,13 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:promisedland|প্রতিজ্ঞার ভূমি]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:joshua|যিহোশূয়]]**
-  * **[[:bn:obs:notes:key-terms:trust|বিশ্বাসী]]**
-  * **[[:bn:obs:notes:key-terms:obey|আজ্ঞাকারী হয়েছিলেন]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:moses]]**
+  * **[[:bn:obe:kt:promisedland]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:joshua]]**
+  * **[[:bn:obe:kt:trust]]**
+  * **[[:bn:obe:other:obey]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **ত্রিশ দিন শোক পালন করল**- ত্রিশ দিন ধরে ইস্রায়েলের সকল লোকেরা কাঁদলো আর দেখালো যে তারা খুবিই শোকার্ত মোশীর মৃত্যুতে৷
