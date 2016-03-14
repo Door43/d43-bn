@@ -6,11 +6,11 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * [[:bn:obs:notes:key-terms:god|ঈশ্বর]]
-  * **[[:bn:obs:notes:key-terms:save|রক্ষা]]**
-  * **[[:bn:obs:notes:key-terms:redsea|লাল সমুদ্র]]**
+  * **[[:bn:obe:other:moses]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:save]]**
+  * **[[:bn:obe:other:redsea]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **ঈশ্বর তোমাদের জন্য আজ লড়াই করবেন আর তোমাদের রক্ষা করবেন**-অন্যভাবে এটাকে বললে তা হবে, “আজ ঈশ্বর তোমাদের জন্য মিশরীয়দের হারাবেন আর তোমাদেরকে ক্ষতি করার হাত থেকেও রক্ষা করবেন৷”
