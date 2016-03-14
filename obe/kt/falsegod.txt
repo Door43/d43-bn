@@ -19,7 +19,7 @@ A false god is something that people worship instead of the one true God.
   * In English, a small “g” is used to refer to false gods and large “G” is used to refer to the one true God. Other languages also do that.
   * Another option would be to use a different word to refer to the false gods.
 
-(See also: [[:bn:obe:kt:god|God]], [[:bn:obe:other:idol|idol]], [[:bn:obe:kt:demon|demon, evil spirit, unclean spirit]], image, graven image other)
+(See also: [[:bn:obe:kt:god]], [[:bn:obe:other:idol]], [[:bn:obe:kt:demon]])
 
 ===== Bible References: =====
 
