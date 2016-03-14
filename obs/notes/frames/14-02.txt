@@ -6,19 +6,19 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:promise|প্রতিজ্ঞা ]]**
-  * **[[:bn:obs:notes:key-terms:abraham|আব্রাহাম]]**
-  * **[[:bn:obs:notes:key-terms:isaac|ইসহাক ]]**
-  * **[[:bn:obs:notes:key-terms:jacob|যাকোব ]]**
-  * **[[:bn:obs:notes:frames:14-02:bn:obs:notes:frames:promisedland|প্রতিজ্ঞার ভূমি ]]**
-  * **[[:bn:obs:notes:key-terms:descendant|উত্তরাধিকার ]]**
-  * **[[:bn:obs:notes:key-terms:peoplegroup|বহু লোক]]**
-  * **[[:bn:obs:notes:key-terms:canaan|কানানীয়দের]]**
-  * **[[:bn:obs:notes:key-terms:worship|আরাধনা]]**
-  * **[[:bn:obs:notes:key-terms:obey|আজ্ঞাকারী ]]**
-  * **[[:bn:obs:notes:key-terms:falsegod|মিথ্যে-দেবদেবী ]]**
-  * **[[:bn:obs:notes:key-terms:evil|দুষ্ট]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:promise]]**
+  * **[[:bn:obe:other:abraham]]**
+  * **[[:bn:obe:other:isaac]]**
+  * **[[:bn:obe:other:jacob]]**
+  * **[[:bn:obe:kt:promisedland]]**
+  * **[[:bn:obe:other:descendant]]**
+  * **[[:bn:obe:other:peoplegroup]]**
+  * **[[:bn:obe:other:canaan]]**
+  * **[[:bn:obe:kt:worship]]**
+  * **[[:bn:obe:other:obey]]**
+  * **[[:bn:obe:kt:falsegod]]**
+  * **[[:bn:obe:kt:evil]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
 //(এই কাঠামোটির জন্য কোনো টীকা নেই৷)//
