@@ -6,10 +6,10 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:idol|মূর্তি]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:tencommandments|দশাজ্ঞা]]**
+  * **[[:bn:obe:other:moses]]**
+  * **[[:bn:obe:other:idol]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:tencommandments]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **পাথর ফলকগুলো ভেঙ্গে ফেললেন**- তিনি পাথরগুলোকে ভূমিতে ছুঁড়ে ফেলেদিলেন আর সেগুলো টুকরো টুকরো হয়ে ভেঙ্গে গেল৷
