@@ -6,12 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশরবাসী]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:believe|বিশ্বাস করেছিলেন]]**
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:prophet|ভাববাদী]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:egypt]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:believe]]**
+  * **[[:bn:obe:other:moses]]**
+  * **[[:bn:obe:kt:prophet]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **ঈশ্বরের উপর বিশ্বাস**- অন্য শব্দে, লোকেরা এখন বিশ্বাস করলেন যে ঈশ্বর শক্তিশালী ছিলেন আর তাদের রক্ষার্থে যোগ্য ছিলেন৷
