@@ -6,12 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:idol|মূর্তি ]]**
-  * **[[:bn:obs:notes:key-terms:worship|আরাধনা]]**
-  * **[[:bn:obs:notes:key-terms:yahweh|যীহোবা]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:sabbath|বিশ্রাম বার]]**
-  * **[[:bn:obs:notes:key-terms:holy|পবিত্র]]**
+  * **[[:bn:obe:other:idol]]**
+  * **[[:bn:obe:kt:worship]]**
+  * **[[:bn:obe:kt:yahweh]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:sabbath]]**
+  * **[[:bn:obe:kt:holy]]**
 
 ==== অনুবাদিত টীকাসমূহ: ====
 
