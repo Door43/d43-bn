@@ -6,14 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:pray|প্রার্থনা করলেন]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:forgive|ক্ষমা]]**
-  * **[[:bn:obs:notes:key-terms:tencommandments|দশাজ্ঞা]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:sinai|সীনয় পর্বত]]**
-  * **[[:bn:obs:notes:key-terms:promisedland|প্রতিজ্ঞার ভূমি]]**
+  * **[[:bn:obe:other:moses]]**
+  * **[[:bn:obe:other:pray]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:forgive]]**
+  * **[[:bn:obe:other:tencommandments]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:sinai]]**
+  * **[[:bn:obe:kt:promisedland]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **মোশী লিখলেন**- মোশী একটি অস্ত্র দিয়ে পাথরের ফলকে খোঁদাই করে শব্দ লিখলেন৷
