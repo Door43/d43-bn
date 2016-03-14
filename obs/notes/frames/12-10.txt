@@ -6,10 +6,10 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:egypt|মিশরবাসী]]**
-  * **[[:bn:obs:notes:key-terms:chariot|রথদের]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:egypt]]**
+  * **[[:bn:obe:other:chariot]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **সমুদ্রের পথটি**- এটি হল জলের দেওয়ালের মধ্যেকার সমুদ্রতলের শুখনো ভূমির পথ৷
