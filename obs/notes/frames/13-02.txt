@@ -6,14 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইসরাইল]]**
-  * **[[:bn:obs:notes:key-terms:obey|আজ্ঞাকারী]]**
-  * **[[:bn:obs:notes:key-terms:covenant|নিয়ম]]**
-  * **[[:bn:obs:notes:key-terms:kingdom|রাজ্য]]**
-  * **[[:bn:obs:notes:key-terms:priest|যাজকগন]]**
-  * **[[:bn:obs:notes:key-terms:holy|পবিত্র]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:moses]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:obey]]**
+  * **[[:bn:obe:kt:covenant]]**
+  * **[[:bn:obe:other:kingdom]]**
+  * **[[:bn:obe:kt:priest]]**
+  * **[[:bn:obe:kt:holy]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **আমার নিয়মের প্রতি আজ্ঞাকারী হও**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “তা কর যা আমার নিয়ম তোমাদেরকে করতে বলে৷” আজ্ঞাকারী হওয়া আর পালন করা দুটি ভিন্ন বিষয় নয়৷ স্পষ্ট করতে এমন বলা চলে, “আমার আজ্ঞাকারী হয় আমার নিয়ম পালন করে৷” ঈশ্বর শীঘ্রই তাদের বলতে চলেছিলেন যে তার নিয়মগুলো কি কি৷
