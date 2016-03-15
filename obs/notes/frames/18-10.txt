@@ -6,9 +6,9 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:kingdom|রাজ্য]]**
-  * **[[:bn:obs:notes:key-terms:kingdomofjudah|যিহুদা]]**
-  * **[[:bn:obs:notes:key-terms:kingdomofisrael|ইসরাইল]]**
+  * **[[:bn:obe:other:kingdom]]**
+  * **[[:bn:obe:other:kingdomofjudah]]**
+  * **[[:bn:obe:other:kingdomofisrael]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **যিহুদা রাজ্য ও ইসরাইল রাজ্য**- যিহুদা আর ইসরায়েলের লোকজন ছিল যাকোবের বংশধর আর ঈশ্বরের প্রজার অংশ৷ যদিও, তারা ঈশ্বরের আজ্ঞাকারী হয়নি আর একেঅপরকে হত্যা করেছিল৷
