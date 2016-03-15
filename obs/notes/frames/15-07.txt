@@ -6,15 +6,16 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:gibeon|গিবিয়োনীয়রা]]**
-  * **[[:bn:obs:notes:key-terms:peace|শান্তি]]**
-  * **[[:bn:obs:notes:key-terms:promise|প্রতিজ্ঞা]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:king|রাজারা]]**
-  * **[[:bn:obs:notes:key-terms:canaan|কানান]]**
-  * **[[:bn:obs:notes:key-terms:amorite|ইমোরীয়দের]]**
-  * **[[:bn:obs:notes:key-terms:joshua|যিহোশূয়]]**
+ 
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:gibeon]]**
+  * **[[:bn:obe:other:peace]]**
+  * **[[:bn:obe:kt:promise]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:king]]**
+  * **[[:bn:obe:other:canaan]]**
+  * **[[:bn:obe:other:amorite]]**
+  * **[[:bn:obe:other:joshua]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **যিহোশূয়কে সাহায্যের জন্য খবর পাঠাল**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “তাদের কিছু লোকদের যিহোশূয়কে বলতে পাঠালো যে তাদের শত্রুদের থেকে রক্ষা পেতে ইস্রায়েলীয়দের সাহায্যের প্রয়োজন আছে৷
