@@ -6,12 +6,13 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:jordanriver|যর্দ্দন নদী]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:joshua|যিহোশূয়]]**
-  * **[[:bn:obs:notes:key-terms:jericho|যিরীহো]]**
-  * **[[:bn:obs:notes:key-terms:obey|আজ্ঞাকারী হয়েছিলেন]]**
-  * **[[:bn:obs:notes:key-terms:priest|যাজকগন]]**
+  * **[[:bn:obe:other:jordanriver]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:joshua]]**
+  * **[[:bn:obe:other:jericho]]**
+  * **[[:bn:obe:other:obey]]**
+  * **[[:bn:obe:kt:priest]]**
+
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **লোকেদের যর্দ্দন নদী পার হওয়ার পর**- কিছু কিছু ভাষায় এটা বলা ভালো হবে, “লোকেদের যর্দ্দন নদী অতিক্রম করার পর আর তখন৷”
