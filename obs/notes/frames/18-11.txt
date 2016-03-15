@@ -6,10 +6,10 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:kingdom|রাজ্য]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইসরাইল]]**
-  * **[[:bn:obs:notes:key-terms:king|রাজারা]]**
-  * **[[:bn:obs:notes:key-terms:evil|দুষ্ট]]**
+  * **[[:bn:obe:other:kingdom]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:king]]**
+  * **[[:bn:obe:kt:evil]]**
 
 ==== অনুবাদিত টীকাসমূহ: ====
 
