@@ -16,4 +16,4 @@
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **এই ধাঁচা বহু বার পুনরাবৃত্তি হয়েছিল**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “এমনটি বার বার ঘটেছিল” বা, এসব বহু বার হয়েছিল৷”
-**[[:bn:obs:notes:frames:16-16|<<]] | [[:bn:obs:notes:frames:16-17|Up]] | [[https://door43.org/en/obs/notes/frames/16-18|>>]]**
+**[[:bn:obs:notes:frames:16-16|<<]] | [[:bn:obs:notes:frames:16-17|Up]] | [[:bn:obs/notes/frames/16-18|>>]]**
