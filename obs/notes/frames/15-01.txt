@@ -6,15 +6,15 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:canaan|কানান]]**
-  * **[[:bn:obs:notes:key-terms:promisedland|প্রতিজ্ঞার ভূমি]]**
-  * **[[:bn:obs:notes:key-terms:joshua|যিহোশূয়]]**
-  * **[[:bn:obs:notes:key-terms:jericho|যিরীহো]]**
-  * **[[:bn:obs:notes:key-terms:rahab|রাহব]]**
-  * **[[:bn:obs:notes:key-terms:believe|বিশ্বাস করেছিলেন]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:promise|প্রতিজ্ঞা]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:canaan]]**
+  * **[[:bn:obe:kt:promisedland]]**
+  * **[[:bn:obe:other:joshua]]**
+  * **[[:bn:obe:other:jericho]]**
+  * **[[:bn:obe:other:rahab]]**
+  * **[[:bn:obe:kt:believe]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:promise]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **অন্তিমে এটা ছিল**- “অন্তিমে” এর অর্থ হল “সমাপ্তে” বা, “একটি দীর্ঘ অপেক্ষার পর৷” কোন “সময়” তা স্পষ্ট করার জন্য, আপনি বলতে পারেন, “চল্লিশ বছর নির্জনপ্রদেশে উদ্দেশ্যহীন ভাবে ঘুরে বেড়ানোর পর, অন্তিমে ঈশ্বর তাদের অনুমতি দিলেন৷”
