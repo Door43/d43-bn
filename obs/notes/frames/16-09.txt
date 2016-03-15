@@ -18,4 +18,4 @@
   * **sheep skin**  - This is the skin of a sheep that has all of the wool on it. Wool is a very thick and curly hair that would hold a lot of water. Translate this so that it is clear that this skin is covered with thick, soft hair.
   * **পর দিন সকালে শিশির**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “সকালের শিশির এটিতে আবির্ভূত হোক” বা, “সকালের শিশির আসুক৷” “শিশির” উল্লেখ করে জলের ফোঁটা যা সকালে ভূমির উপর পরে৷ শিশির সাধারণতঃ সকল কিছুকে একই মাত্রায় ভেজায়৷
   * **ঈশ্বর তাই করলেন**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “ঈশ্বর তাই করলেন যা গিদিয়োন তাকে করতে বলেছিলেন৷”
-**[[:bn:obs:notes:frames:16-08|<<]] | [[:bn:obs:notes:frames:16-09|Up]] | [[https://door43.org/en/obs/notes/frames/16-10|>>]]**
+**[[:bn:obs:notes:frames:16-08|<<]] | [[:bn:obs:notes:frames:16-09|Up]] | [[:bn:obs/notes/frames/16-10|>>]]**
