@@ -6,14 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:gideon|গিদিয়োন]]**
-  * **[[:bn:obs:notes:key-terms:high-priest|মহাযাজক]]**
-  * **[[:bn:obs:notes:key-terms:worship|পূজা]]**
-  * **[[:bn:obs:notes:key-terms:idol|মূর্তি]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:punish|শাস্তি]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইসরাইল]]**
-  * **[[:bn:obs:notes:key-terms:deliverer|উদ্ধারক]]**
+  * **[[:bn:obe:other:gideon]]**
+  * **[[:bn:obe:kt:highpriest]]**
+  * **[[:bn:obe:kt:worship]]**
+  * **[[:bn:obe:other:idol]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:punish]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:kt:deliverer]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **গিদিয়োন সেই সোনাকে একটি বিশেষ বস্ত্রে পরিণত করলেন**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “গিদিয়োন সেই সোনার বস্তুগুলোকে গলালেন যা লোকেরা তাকে দিয়েছিলেন আর তা দিয়ে একটি বিশেষ সোনার পোশাক তৈরী করলেন৷”
