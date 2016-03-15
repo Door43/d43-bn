@@ -6,11 +6,11 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:israel|ইসরাইল রাষ্ট্র]]**
-  * **[[:bn:obs:notes:key-terms:rebel|বিদ্রোহ]]**
-  * **[[:bn:obs:notes:key-terms:rehoboam|রহবিয়াম]]**
-  * **[[:bn:obs:notes:key-terms:faithful|বিশ্বাসী]]**
-  * **[[:bn:obs:notes:key-terms:kingdomofjudah|যিহুদা রাজ্য]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:rebel]]**
+  * **[[:bn:obe:other:rehoboam]]**
+  * **[[:bn:obe:kt:faithful]]**
+  * **[[:bn:obe:other:kingdomofjudah]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **দশ গোত্র রহবিয়ামের বিরুদ্ধে বিদ্রোহ করল**- যাকোবের বারটি পুত্রের সন্তানেরা এক একটি গোত্র বা বড় বড় গোষ্টি পরিবার তৈরী হয়ে ইস্রায়েল রাষ্ট্র তৈরী করেছিল৷ ইস্রায়েলের প্রত্যেক জন হল বারো গোষ্টির কোনো একজন৷
