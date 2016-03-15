@@ -1,8 +1,5 @@
-======   ======
+===== মাত্র , ন্যায়বিচার , যথাযথরূপে =====
 
-** মাত্র , ন্যায়বিচার ** ,  ** যথাযথরূপে **
-
-======   ======
 
 ===== সংজ্ঞা: =====
 
@@ -18,7 +15,7 @@
   * The term "justice" could be translated as, "fair treatment" or "deserved consequences"
   * To act justly could be translated as, "treat (someone) fairly."
 
-(আরও দেখুন: বিচারক [[:bn:obe:kt:judge|, ]]বিচার)
+(আরও দেখুন:  [[:bn:obe:kt:judge]])
 
 ===== Bible References: =====
 
