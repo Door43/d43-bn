@@ -6,17 +6,17 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:uriah|উরিয়]]**
-  * **[[:bn:obs:notes:key-terms:david|দায়ূদ]]**
-  * **[[:bn:obs:notes:key-terms:bathsheba|বৎশেবা]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:prophet|ভাববাদী]]**
-  * **[[:bn:obs:notes:key-terms:nathan|দায়ূদ]]**
-  * **[[:bn:obs:notes:key-terms:evil|দুষ্ট]]**
-  * **[[:bn:obs:notes:key-terms:sin|পাপ]]**
-  * **[[:bn:obs:notes:key-terms:repent|অনুশোচনা]]**
-  * **[[:bn:obs:notes:key-terms:forgive|ক্ষমা]]**
-  * **[[:bn:obs:notes:key-terms:obey|আজ্ঞাকারী হয়েছিলেন]]**
+  * **[[:bn:obe:other:uriah]]**
+  * **[[:bn:obe:other:david]]**
+  * **[[:bn:obe:other:bathsheba]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:prophet]]**
+  * **[[:bn:obe:other:nathan]]**
+  * **[[:bn:obe:kt:evil]]**
+  * **[[:bn:obe:kt:sin]]**
+  * **[[:bn:obe:kt:repent]]**
+  * **[[:bn:obe:kt:forgive]]**
+  * **[[:bn:obe:other:obey]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **দায়ূদের কর্মে**  – এটি উল্লেখ করে বৎশেবার সাথে দায়ূদের ব্যভিচারকে আর তার স্বামী উরিয়কে হত্যা করার কার্যকে৷
