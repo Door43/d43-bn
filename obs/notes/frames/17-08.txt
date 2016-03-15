@@ -6,13 +6,13 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:david|দায়ূদ]]**
-  * **[[:bn:obs:notes:key-terms:praise|প্রশংসা ]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:promise|প্রতিজ্ঞা ]]**
-  * **[[:bn:obs:notes:key-terms:bless|আশির্বাদ ]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয় ]]**
-  * **[[:bn:obs:notes:key-terms:christ|মশীহ বা খ্রীষ্ট]]**
+  * **[[:bn:obe:other:david]]**
+  * **[[:bn:obe:other:praise]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:promise]]**
+  * **[[:bn:obe:kt:bless]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:kt:christ]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **এই শব্দ শুনলেন**- তা হল, “ভাববাদী দ্বারা উক্ত বাক্য সকল৷” এটি উল্লেখ করে **[[:bn:obs:notes:frames:17-07|[17-07]]]** -এর প্রতিজ্ঞাটিকে৷
