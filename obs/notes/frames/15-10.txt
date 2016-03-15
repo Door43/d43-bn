@@ -6,9 +6,9 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইসরাইল ]]**
-  * **[[:bn:obs:notes:key-terms:amorite|ইমোরীয়দের]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:amorite]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * //(এই কাঠামোটির জন্য কোনো টীকা নেই৷)//
