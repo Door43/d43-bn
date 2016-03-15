@@ -6,11 +6,11 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:saul|শৌল]]**
-  * **[[:bn:obs:notes:key-terms:king|রাজা]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইসরাইল]]**
-  * **[[:bn:obs:notes:key-terms:obey|আজ্ঞাকারী]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
+  * **[[:bn:obe:other:saul]]**
+  * **[[:bn:obe:other:king]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:obey]]**
+  * **[[:bn:obe:kt:god]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **ইসরাইলের প্রথম রাজা ছিলেন**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “ইস্রায়েলের উপর রাজত্ব করতে প্রথম রাজা হলেন৷”
