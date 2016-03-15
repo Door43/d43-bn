@@ -6,18 +6,18 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:joshua|যিহোশূয়]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:disobey|অনাজ্ঞাকারী]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:canaan|কানানীয়দের]]**
-  * **[[:bn:obs:notes:key-terms:obey|আজ্ঞাকারী]]**
-  * **[[:bn:obs:notes:key-terms:lawofmoses|ঈশ্বরের ব্যবস্থা]]**
-  * **[[:bn:obs:notes:key-terms:worship|আরাধনা]]**
-  * **[[:bn:obs:notes:key-terms:falsegod|দেবদেবী]]**
-  * **[[:bn:obs:notes:key-terms:yahweh|যীহোবা]]**
-  * **[[:bn:obs:notes:key-terms:true|সত্য]]**
-  * **[[:bn:obs:notes:key-terms:king|রাজা]]**
+  * **[[:bn:obe:other:joshua]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:disobey]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:canaan]]**
+  * **[[:bn:obe:other:obey]]**
+  * **[[:bn:obe:kt:lawofmoses]]**
+  * **[[:bn:obe:kt:worship]]**
+  * **[[:bn:obe:kt:falsegod]]**
+  * **[[:bn:obe:kt:yahweh]]**
+  * **[[:bn:obe:kt:true]]**
+  * **[[:bn:obe:other:king]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **কানানীয়দের বাকি লোকেদের বেরও করল না**- এটি প্রকাশ করে যে তারা কিভাবে ঈশ্বরের অনাজ্ঞাকারী হয়েছিল, কিছু কিছু ভাষায় এটা উত্তম হবে এই উক্তিটির সাথে আরম্ভ করা, “তারা করেনি৷”
