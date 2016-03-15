@@ -6,11 +6,11 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:gideon|গিদিয়োন]]**
-  * **[[:bn:obs:notes:key-terms:midian|মিদিয়নীয়]]**
-  * **[[:bn:obs:notes:key-terms:dream|স্বপ্ন]]**
-  * **[[:bn:obs:notes:key-terms:worship|আরাধনা ]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:gideon]]**
+  * **[[:bn:obe:other:midian]]**
+  * **[[:bn:obe:other:dream]]**
+  * **[[:bn:obe:kt:worship]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **দিকে যাও**- মিদিয়নীয় সৈন্যরা তাদের শিবির একটি উপত্যকায় আর ইস্রায়েলীয় সৈন্যদের তুলনায় নিচু স্থানে স্থাপন করেছিল৷
