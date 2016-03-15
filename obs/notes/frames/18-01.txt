@@ -6,12 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:david|দায়ূদ]]**
-  * **[[:bn:obs:notes:key-terms:solomon|শলোমন]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইসরাইল]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:wise|বুদ্ধি]]**
-  * **[[:bn:obs:notes:key-terms:judge|বিচার]]**
+  * **[[:bn:obe:other:david]]**
+  * **[[:bn:obe:other:solomon]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:wise]]**
+  * **[[:bn:obe:kt:judge]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **বুদ্ধি চাইলেন**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “ঈশ্বরের কাছে প্রার্থনা করলেন তাকে বুদ্ধিমান করার জন্য৷”
