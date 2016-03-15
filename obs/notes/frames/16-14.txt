@@ -6,10 +6,10 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:midian|মিদিয়নীয়দের]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:save|রক্ষা করেছিলেন]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:midian]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:kt:save]]**
 
 ==== অনুবাদিত টীকাসমূহ: ====
 
