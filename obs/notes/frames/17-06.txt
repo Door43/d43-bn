@@ -6,14 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:david|দায়ূদ]]**
-  * **[[:bn:obs:notes:key-terms:temple|মন্দির]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:worship|আরাধনা ]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:sacrifice|বলি]]**
-  * **[[:bn:obs:notes:key-terms:tentofmeeting|মিলন তাম্বু]]**
-  * **[[:bn:obs:notes:key-terms:moses|মোশী]]**
+  * **[[:bn:obe:other:david]]**
+  * **[[:bn:obe:kt:temple]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:kt:worship]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:sacrifice]]**
+  * **[[:bn:obe:other:tentofmeeting]]**
+  * **[[:bn:obe:other:moses]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **একটি মন্দির তৈরী**- দায়ূদ একটি স্থায়ী ভবন তৈরী করতে চেয়েছিলেন ঈশ্বরের আরাধনা করার জন্য যা মিলনতাম্বুর জায়গায় হবে৷
