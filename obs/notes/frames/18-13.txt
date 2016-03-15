@@ -6,19 +6,19 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:king|রাজারা]]**
-  * **[[:bn:obs:notes:key-terms:kingdomofjudah|যিহুদা]]**
-  * **[[:bn:obs:notes:key-terms:descendant|উত্তরাধিকার]]**
-  * **[[:bn:obs:notes:key-terms:david|দায়ূদ]]**
-  * **[[:bn:obs:notes:key-terms:good|ভালো]]**
-  * **[[:bn:obs:notes:key-terms:justice|ন্যায়পূর্বক]]**
-  * **[[:bn:obs:notes:key-terms:worship|আরাধনা]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:evil|দুষ্ট]]**
-  * **[[:bn:obs:notes:key-terms:idol|মূর্তি ]]**
-  * **[[:bn:obs:notes:key-terms:sacrifice|বলি]]**
-  * **[[:bn:obs:notes:key-terms:falsegod|দেবদেবী]]**
-  * **[[:bn:obs:notes:key-terms:rebel|বিদ্রোহ]]**
+  * **[[:bn:obe:other:king]]**
+  * **[[:bn:obe:other:kingdomofjudah]]**
+  * **[[:bn:obe:other:descendant]]**
+  * **[[:bn:obe:other:david]]**
+  * **[[:bn:obe:kt:good]]**
+  * **[[:bn:obe:kt:justice]]**
+  * **[[:bn:obe:kt:worship]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:evil]]**
+  * **[[:bn:obe:other:idol]]**
+  * **[[:bn:obe:other:sacrifice]]**
+  * **[[:bn:obe:kt:falsegod]]**
+  * **[[:bn:obe:other:rebel]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **ন্যায়পূর্বক রাজত্ব**- এর অর্থ হল যে তারা ঈশ্বরের ব্যবস্থা অনুসারে রাজত্ব করত৷ এটিকে এভাবে অনুবাদ করা যেতে পারে, “যখন তারা রাজত্ব করেছিল, তখন তারা তা করত যা সঠিক ছিল৷”
