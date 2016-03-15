@@ -6,14 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:jeroboam|যারবিয়াম]]**
-  * **[[:bn:obs:notes:key-terms:rebel|বিদ্রোহ ]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:sin|পাপ ]]**
-  * **[[:bn:obs:notes:key-terms:idol|মূর্তি]]**
-  * **[[:bn:obs:notes:key-terms:worship|আরাধনা ]]**
-  * **[[:bn:obs:notes:key-terms:temple|মন্দির]]**
-  * **[[:bn:obs:notes:key-terms:kingdomofjudah|যিহুদা রাজ্য ]]**
+  * **[[:bn:obe:other:jeroboam]]**
+  * **[[:bn:obe:other:rebel]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:sin]]**
+  * **[[:bn:obe:other:idol]]**
+  * **[[:bn:obe:kt:worship]]**
+  * **[[:bn:obe:kt:temple]]**
+  * **[[:bn:obe:other:kingdomofjudah]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **লোকেদের পাপ করালেন**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “লোকেদের পাপ করতে নেতৃত্ব দিলেন” বা, “লোকেদের পাপ করতে নির্দেশ দিলেন৷” রহবিয়াম লোকেদের পাপ করালেন তাদেরকে তার বানানো মূর্তিকে আরাধনা করানোর দ্বারা৷
