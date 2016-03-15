@@ -6,18 +6,18 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:prophet|ভাববাদী]]**
-  * **[[:bn:obs:notes:key-terms:nathan|দায়ূদ]]**
-  * **[[:bn:obs:notes:key-terms:david|দায়ূদ]]**
-  * **[[:bn:obs:notes:key-terms:temple|মন্দির]]**
-  * **[[:bn:obs:notes:key-terms:son|পুত্র]]**
-  * **[[:bn:obs:notes:key-terms:bless|আশির্বাদিত]]**
-  * **[[:bn:obs:notes:key-terms:king|রাজা]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইসরাইল]]**
-  * **[[:bn:obs:notes:key-terms:christ|মশীহ বা খ্রীষ্ট]]**
-  * **[[:bn:obs:notes:key-terms:descendant|উত্তরাধিকার]]**
-  * **[[:bn:obs:notes:key-terms:sin|পাপ]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:prophet]]**
+  * **[[:bn:obe:other:nathan]]**
+  * **[[:bn:obe:other:david]]**
+  * **[[:bn:obe:kt:temple]]**
+  * **[[:bn:obe:kt:son]]**
+  * **[[:bn:obe:kt:bless]]**
+  * **[[:bn:obe:other:king]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:kt:christ]]**
+  * **[[:bn:obe:other:descendant]]**
+  * **[[:bn:obe:kt:sin]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **ভাববাদী নাথন**  - কিছু কিছু ভাষায় এটি আরো প্রাকৃতিক হবে বলাটা, “একজন ভাববাদী যার নাম হল নাথান৷”
