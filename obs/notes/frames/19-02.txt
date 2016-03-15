@@ -5,15 +5,15 @@
 এলিয় ছিলেন ইসরাইল রাজ্যের আহাব রাজার রাজত্ব কালের এক ভাববাদী৷ আহাব ছিলেন এক দুষ্ট লোক যিনি লোকেদের বাল নামক এক মিথ্যে দেবতার আরাধনা করতে উৎসাহ দিতেন৷ এলিয় আহাবকে বললেন, “ইসরাইল রাজ্যে তত দিন কোনো বৃষ্টি হবে না যত দিন না আমি আজ্ঞা দিই৷”এটি আহাবকে ভীষণ রুষ্ট করল৷
 
 =====গুরুত্বপূর্ণ শব্দসমূহ:=====
-  * **[[:bn:obs:notes:key-terms:elijah|এলিয়]]**
-  * **[[:bn:obs:notes:key-terms:prophet|ভাববাদী]]**
-  * **[[:bn:obs:notes:key-terms:ahab|আহাব]]**
-  * **[[:bn:obs:notes:key-terms:king|রাজা]]**
-  * **[[:bn:obs:notes:key-terms:kingdomofisrael|রাজ্য]]**
-  * **[[:bn:obs:notes:key-terms:evil|দুষ্ট]]**
-  * **[[:bn:obs:notes:key-terms:worship|আরাধনা ]]**
-  * **[[:bn:obs:notes:key-terms:falsegod|দেবতা ]]**
-  * **[[:bn:obs:notes:key-terms:baal|বাল ]]**
+  * **[[:bn:obe:other:elijah]]**
+  * **[[:bn:obe:kt:prophet]]**
+  * **[[:bn:obe:other:ahab]]**
+  * **[[:bn:obe:other:king]]**
+  * **[[:bn:obe:other:kingdomofisrael]]**
+  * **[[:bn:obe:kt:evil]]**
+  * **[[:bn:obe:kt:worship]]**
+  * **[[:bn:obe:kt:falsegod]]**
+  * **[[:bn:obe:other:baal]]**
 
 
 =====অনুবাদিত টীকাসমূহ:=====
