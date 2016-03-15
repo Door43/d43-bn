@@ -6,12 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:solomon|শলোমন]]**
-  * **[[:bn:obs:notes:key-terms:punish|শাস্তি]]**
-  * **[[:bn:obs:notes:key-terms:promise|প্রতিজ্ঞা]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইসরাইল]]**
-  * **[[:bn:obs:notes:key-terms:kingdom|রাজ্য]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:solomon]]**
+  * **[[:bn:obe:other:punish]]**
+  * **[[:bn:obe:kt:promise]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:kingdom]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **শলোমনের অবিশ্বাসযোগ্যতার শাস্তি স্বরূপ**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “শলোমনকে তার অবিশ্বস্ততার দণ্ড দিতে, ঈশ্বর স্পষ্টভাবে বলে দিলেন যে তিনি বিভক্ত করবেন৷”
