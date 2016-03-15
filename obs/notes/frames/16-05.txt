@@ -6,12 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:gideon|গিদিয়োন]]**
-  * **[[:bn:obs:notes:key-terms:midian|মিদিয়নীয়দের]]**
-  * **[[:bn:obs:notes:key-terms:angel|স্বর্গদূত]]**
-  * **[[:bn:obs:notes:key-terms:yahweh|যীহোবা]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইসরাইল]]**
+  * **[[:bn:obe:other:gideon]]**
+  * **[[:bn:obe:other:midian]]**
+  * **[[:bn:obe:kt:angel]]**
+  * **[[:bn:obe:kt:yahweh]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:israel]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **একদিন**- এই বাক্যাংশটি একটি ঘটনার পরিচয় দেয় যা অতীতে ঘটেছিল, কিন্তু যার নির্দিষ্ট সময় বলা হয়নি৷ কিছু কিছু ভাষায় একই রকম মাধ্যম প্রয়োগ করা হয় একটি সত্য কাহিনী আরম্ভ করার জন্য৷
