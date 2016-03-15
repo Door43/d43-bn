@@ -6,14 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:jerusalem|যেরুশালেম]]**
-  * **[[:bn:obs:notes:key-terms:solomon|শলোমন]]**
-  * **[[:bn:obs:notes:key-terms:temple|মন্দির]]**
-  * **[[:bn:obs:notes:key-terms:david|দায়ূদ]]**
-  * **[[:bn:obs:notes:key-terms:worship|আরাধনা ]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:sacrifice|বলি]]**
-  * **[[:bn:obs:notes:key-terms:tentofmeeting|মিলন তাম্বু]]**
+  * **[[:bn:obe:other:jerusalem]]**
+  * **[[:bn:obe:other:solomon]]**
+  * **[[:bn:obe:kt:temple]]**
+  * **[[:bn:obe:other:david]]**
+  * **[[:bn:obe:kt:worship]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:sacrifice]]**
+  * **[[:bn:obe:other:tentofmeeting]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **মন্দিরে উপস্থিত হলেন**- তা হল “এক বিশেষ মাধ্যমে তিনি তার উপস্থিতি দিলেন৷” যদিও ঈশ্বর একই সময়ে সর্বত্র উপস্থিত, কিন্তু তিনি এক বিশেষ মাধ্যমে তিনি তার উপস্থিতি দিলেন৷
