@@ -6,11 +6,11 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:king|রাজারা]]**
-  * **[[:bn:obs:notes:key-terms:kingdomofisrael|রাজ্য]]**
-  * **[[:bn:obs:notes:key-terms:worship|আরাধনা]]**
-  * **[[:bn:obs:notes:key-terms:idol|মূর্তি]]**
-  * **[[:bn:obs:notes:key-terms:sacrifice|বলি]]**
+  * **[[:bn:obe:other:king]]**
+  * **[[:bn:obe:other:kingdomofisrael]]**
+  * **[[:bn:obe:kt:worship]]**
+  * **[[:bn:obe:other:idol]]**
+  * **[[:bn:obe:other:sacrifice]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **শিশু বলি**- তারা তাদের কিছু কিছু মুর্তিদের জন্য বলি রূপে শিশুদের হত্যা করত৷
