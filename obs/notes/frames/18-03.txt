@@ -6,11 +6,11 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:solomon|শলোমন]]**
-  * **[[:bn:obs:notes:key-terms:disobey|অনাজ্ঞাকারী]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:falsegod|দেবদেবী]]**
-  * **[[:bn:obs:notes:key-terms:worship|আরাধনা]]**
+  * **[[:bn:obe:other:solomon]]**
+  * **[[:bn:obe:other:disobey]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:falsegod]]**
+  * **[[:bn:obe:kt:worship]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **তাদের দেবতাদের সঙ্গে করে নিয়ে এলো**- তারা তাদের মূর্তি ও তাদের আরাধনার পদ্ধতি তাদের সাথে ইস্রায়েলে নিয়ে এলেন৷
