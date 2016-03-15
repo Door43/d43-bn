@@ -1,6 +1,5 @@
-** ভরসা, বিশ্বস্ত ,বিশ্বাসযোগ্যতা  **
+===== ভরসা, বিশ্বস্ত ,বিশ্বাসযোগ্যতা =====
 
-======   ======
 
 ===== সংজ্ঞা: =====
 
@@ -16,7 +15,7 @@ The term "trust" refers to believing that something or someone is true or depend
   * Ways to translate "trust" could include, "believe" or "have faith" or "have confidence" or "depend on."
   * The term "trustworthy" could be translated as, "dependable" or "reliable" or "can always be trusted."
 
-(See also: [[:bn:obe:kt:faith|আস্থা]], [[:bn:obe:kt:believe|believe]], [[:bn:obe:kt:confidence|confidence, confident]], [[:en:obe:kt:faithful|faithful, faithfulness]])
+(See also: [[:bn:obe:kt:faith]], [[:bn:obe:kt:believe]], [[:bn:obe:kt:confidence]], [[:bn:obe:kt:faithful]])
 
 ===== Bible References: =====
 
