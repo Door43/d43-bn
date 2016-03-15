@@ -6,9 +6,9 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:gideon|গিদিয়োন]]**
-  * **[[:bn:obs:notes:key-terms:king|রাজা]]**
-  * **[[:bn:obs:notes:key-terms:midian|মিদিয়নীয়দের]]**
+  * **[[:bn:obe:other:gideon]]**
+  * **[[:bn:obe:other:king]]**
+  * **[[:bn:obe:other:midian]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **তাদের তা করতে অনুমতি দিলেন না**- গিদিয়োন জানতেন যে ইস্রায়েলীয়দের জন্য ঈশ্বরই সয়ং রাজা থাকটা ভালো৷
