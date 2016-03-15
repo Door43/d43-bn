@@ -6,11 +6,11 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:jericho|যিরীহো]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:rahab|রাহব]]**
-  * **[[:bn:obs:notes:key-terms:canaan|কানান]]**
+  * **[[:bn:obe:other:jericho]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:rahab]]**
+  * **[[:bn:obe:other:canaan]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **যারা ইস্রায়লীয়দের অংশ হল**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “যারা তারপর ইস্রায়েলীয়দের সাথে যুক্ত হল” বা, “যারা তারপর ইস্রায়েলীয় রাষ্ট্রের সাথে যুক্ত হল৷”
