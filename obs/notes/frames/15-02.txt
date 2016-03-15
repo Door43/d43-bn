@@ -6,12 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:jordanriver|যর্দ্দন নদী]]**
-  * **[[:bn:obs:notes:key-terms:promisedland|প্রতিজ্ঞার ভূমি]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:joshua|যিহোশূয়]]**
-  * **[[:bn:obs:notes:key-terms:priest|যাজকগন]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:jordanriver]]**
+  * **[[:bn:obe:kt:promisedland]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:joshua]]**
+  * **[[:bn:obe:kt:priest]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **যাজকদের প্রথমে যেতে দাও**- কিছু কিছু ভাষায় এটি যুক্ত করা সাহায্যকারী হবে, “যাজকদের বাকি লোকেদের আগে আগে নদী পার হতে যেতে দাও৷”
