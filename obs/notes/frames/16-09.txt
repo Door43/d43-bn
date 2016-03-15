@@ -6,12 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:gideon|গিদিয়োন]]**
-  * **[[https://door43.org/en/obe/other/sheep|sheep]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:save|রক্ষা]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইসরাইল]]**
-  * **[[:bn:obs:notes:key-terms:midian|মিদিয়নীয়দের]]**
+  * **[[:bn:obe:other:gideon]]**
+  * **[[:bn:obe:other:sheep]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:save]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:midian]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **চিহ্ন**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “চমৎকার” বা “অসম্ভব জিনিস৷”
