@@ -6,16 +6,15 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:joshua|যিহোশূয়]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইসরাইল]]**
-  * **[[:bn:obs:notes:key-terms:obey|আজ্ঞাকারী]]**
-  * **[[:bn:obs:notes:key-terms:covenant|নিয়ম]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইস্রায়েলীয়]]**
-  * **[[:bn:obs:notes:key-terms:sinai|সীনয় পর্বত]]**
-  * **[[:bn:obs:notes:key-terms:promise|প্রতিজ্ঞা]]**
-  * **[[:bn:obs:notes:key-terms:faithful|বিশ্বাসী]]**
-  * **[[:bn:obs:notes:key-terms:lawofmoses|তার নিয়মবিধি বা ব্যবস্থা]]**
+
+  * **[[:bn:obe:other:joshua]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:obey]]**
+  * **[[:bn:obe:kt:covenant]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:sinai]]**
+  * **[[:bn:obe:kt:faithful]]**
+  * **[[:bn:obe:kt:lawofmoses]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **যখন যিহোশূয় একজন বৃদ্ধ ব্যক্তিতে পরিণত হন**- এটা বললে স্পষ্ট হতে পারে, “বহু বছর পর যখন যিহোশূয় একজন বৃদ্ধ ব্যক্তি হয়েছিলেন৷” যিহোশূয় এই সময়ে ১০০ বছরের হয়েছিলেন৷
