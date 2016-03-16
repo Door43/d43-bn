@@ -1,9 +1,5 @@
 
-
- **ঈশ্বরের পুত্র, ছেলেটি **
-
-======   ======
-
+=====ঈশ্বরের পুত্র, ছেলেটি====== 
 ===== তথ্যসমূহ: =====
 
 ঈশ্বরের পুত্র হলেন প্রভু যীশু, যাকে ঈশ্বর পৃথিবীকে উদ্ধার করতে আর শাসন করতে পাঠিয়েছিলেন৷
@@ -21,7 +17,7 @@
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[:en:obe:kt:jesus|Jesus, Jesus Christ, Christ Jesus]], [[:en:obe:kt:christ|Christ, Messiah]], [[:bn:obe:kt:son|son]], [[:en:obe:kt:god|God]], [[:en:obe:kt:godthefather|God the Father, Heavenly Father]])
+(See also: [[:en:obe:kt:jesus, Jesus Christ]], [[:en:obe:kt:christ|]], [[:bn:obe:kt:son]], [[:en:obe:kt:god]], [[:en:obe:kt:godthefather]])
 
 ===== Bible References: =====
 
