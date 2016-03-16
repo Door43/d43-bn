@@ -1,8 +1,7 @@
 
 
-**সীল, সীলের **
+===== সীল, সীলের===== 
 
-======   ======
 
 ===== তথ্যসমূহ: =====
 
@@ -14,7 +13,7 @@
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names|Translate Names]])
 
-(আরও দেখুন: [[:bn:obe:other:jerusalem|যেরুশালেম]], [[:bn:obe:other:paul|পৌল, শৌল]], [[:bn:obe:other:philippi|ফিলিপীয়]])
+(আরও দেখুন: [[:bn:obe:other:jerusalem]], [[:bn:obe:other:paul]], [[:bn:obe:other:philippi]])
 
 ===== Bible References: =====
 
