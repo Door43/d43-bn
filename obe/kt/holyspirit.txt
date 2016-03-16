@@ -1,7 +1,6 @@
 
 
-**পবিত্র আত্মা, ঈশ্বরের আত্মা , প্রভুর আত্মা**
-======   ======
+=====পবিত্র আত্মা, ঈশ্বরের আত্মা , প্রভুর আত্মা======
 
 ===== তথ্যসমূহ: =====
 
@@ -16,7 +15,7 @@
   * This term could be translated with the words used to translate "holy" and "spirit."
   * Ways to translate this term could also include, "the Pure Spirit" or "Spirit who is Holy" or "God the Spirit."
 
-(See also: [[:bn:obe:kt:holy|holy, holiness]], [[:bn:obe:kt:spirit|spirit, spiritual]], [[:bn:obe:kt:god|ঈশ্বর]], [[:bn:obe:kt:lordgod|Lord]], [[:bn:obe:kt:godthefather|ঈশ্বর পিতা, স্বর্গীয় পিতা]], [[:bn:obe:kt:sonofgod|sonofgod]], [[:bn:obe:kt:gift|gift]])
+(See also: [[:bn:obe:kt:holy]], [[:bn:obe:kt:spirit]], [[:bn:obe:kt:god]], [[:bn:obe:kt:lordgod]], [[:bn:obe:kt:godthefather]], [[:bn:obe:kt:sonofgod]], [[:bn:obe:kt:gift]])
 
 ===== Bible References: =====
 
