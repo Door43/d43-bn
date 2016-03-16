@@ -6,16 +6,16 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:elijah|এলিয়]]**
-  * **[[:bn:obs:notes:key-terms:pray|প্রার্থনা করলেন]]**
-  * **[[:bn:obs:notes:key-terms:yahweh|যীহোবা]]**
-  * **[[:bn:obs:notes:key-terms:god|ঈশ্বর]]**
-  * **[[:bn:obs:notes:key-terms:abraham|আব্রাহাম]]**
-  * **[[:bn:obs:notes:key-terms:isaac|ইসহাক]]**
-  * **[[:bn:obs:notes:key-terms:jacob|যাকোব]]**
-  * **[[:bn:obs:notes:key-terms:israel|ইসরাইল]]**
-  * **[[:bn:obs:notes:key-terms:servant|দাস]]**
-  * **[[:bn:obs:notes:key-terms:true|সত্য]]**
+  * **[[:bn:obe:other:elijah]]**
+  * **[[:bn:obe:other:pray]]**
+  * **[[:bn:obe:kt:yahweh]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:abraham]]**
+  * **[[:bn:obe:other:isaac]]**
+  * **[[:bn:obe:other:jacob]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:other:servant]]**
+  * **[[:bn:obe:kt:true]]**
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **আমাদের আজ দেখান**- তা হল, “আমাদের কাছে প্রমান করুন” বা, “আমাদেরকে দেখান৷”
