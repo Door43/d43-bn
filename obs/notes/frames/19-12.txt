@@ -6,10 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obs:notes:key-terms:elijah|এলিয়]]**
-  * **[[:bn:obs:notes:key-terms:prophet|ভাববাদীদের]]**
-  * **[[:bn:obs:notes:key-terms:baal|বাল]]**
-**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font>    **
+ 
+  * **[[:bn:obe:other:elijah]]**
+  * **[[:bn:obe:kt:prophet]]**
+  * **[[:bn:obe:other:baal]]**
+
+=====অনুবাদিত টীকাসমূহ:=====
   * **পালাতে**- বালের ভাববাদীরা তাদের দেবতা মিথ্যে প্রমানিত হওয়ার পর পালানোর চেষ্টা করল৷
   * **ধরল**- তা হল, “গ্রেফতার করল” বা “জব্দ করল৷”
-**[[:bn:obs:notes:frames:19-11|<<]] | [[:bn:obs:notes:frames:19-12|Up]] | [[https://door43.org/en/obs/notes/frames/19-13|>>]]**
+**[[:bn:obs:notes:frames:19-11|<<]] | [[:bn:obs:notes:frames:19-12|Up]] | [[:bn:obs/notes/frames/19-13|>>]]**
