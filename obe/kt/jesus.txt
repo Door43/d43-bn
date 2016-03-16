@@ -1,7 +1,6 @@
 
 
-**যীশু, যীশু , খ্রীষ্ট যীশুর **
-======   ======
+=====যীশু, যীশু , খ্রীষ্ট যীশুর ======
 
 ===== তথ্যসমূহ: =====
 
@@ -20,7 +19,7 @@
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[:en:obe:kt:sonofgod|Son of God, the Son]], [[:en:obe:kt:godthefather|God the Father, Heavenly Father]], [[:en:obe:kt:god|God]], [[:en:obe:other:mary|Mary]], [[:bn:obe:kt:kingdomofgod|kingdom of God, kingdom of heaven]], [[:en:obe:kt:highpriest|high priest]], [[:en:obe:kt:christ|Christ, Messiah]], [[:en:obe:kt:savior|Savior]])
+(See also: [[:bn:obe:kt:sonofgod]], [[:bn:obe:kt:godthefather]], [[:bn:obe:kt:god]], [[:bn:obe:other:mary]], [[:bn:obe:kt:kingdomofgod]], [[:bn:obe:kt:highpriest]], [[:bn:obe:kt:christ]], [[:bn:obe:kt:savior]])
 
 ===== Bible References: =====
 
