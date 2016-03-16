@@ -9,7 +9,12 @@
   * **যীশু**
   * **ঈশ্বর**
   * **দয়া**
+  * **[[:bn:obe:kt:jesus]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:mercy]]**
+
+
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **তিনি তোমার উপর দয়া করেছেন তা বল**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “কিভাবে তিনি তোমার উপর দয়া দেখিয়েছেন” বা, “যে তিনি তোমার উপর দয়া দেখিয়েছেন৷”
-**[[https://door43.org/en/obs/notes/frames/32-10|<<]] | [[https://door43.org/en/obs/notes/32|Up]] | [[https://door43.org/en/obs/notes/frames/32-12|>>]]**
+**[[:bn:obs/notes/frames/32-10|<<]] | [[:bn:obs/notes/32|Up]] | [[:bn:obs/notes/frames/32-12|>>]]**
