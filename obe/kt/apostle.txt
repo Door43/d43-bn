@@ -18,7 +18,7 @@ The apostles were men sent by Jesus to preach about God and his kingdom. His twe
   * It is important to translate the terms "apostle" and "disciple" in different ways from each other.
   * Also consider how this term was translated in a Bible translation in a local or national language. (See [[:bn:ta:translate:translateunknowns|How to Translate Unknowns]])
 
-(See also: [[:bn:obe:kt:disciple|disciple]], [[:bn:obe:kt:thetwelve]], [[:bn:obe:kt:authority|authority]])
+(See also: [[:bn:obe:kt:disciple]], [[:bn:obe:kt:thetwelve]], [[:bn:obe:kt:authority]])
 
 ===== Bible References: =====
 
