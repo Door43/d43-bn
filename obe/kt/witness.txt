@@ -1,6 +1,5 @@
-** সাক্ষী, প্রত্যক্ষ সাক্ষী **
+===== সাক্ষী, প্রত্যক্ষ সাক্ষী===== 
 
-======   ======
 
 ===== সংজ্ঞা: =====
 
@@ -16,7 +15,7 @@
   * The term "witness" or "eyewitness" could be translated with a word or phrase that means, "person-seeing-it" or "the one who saw it happen" or "those who saw and heard (those things)."
   * The phrase "you will be my witnesses" could also be translated as, "you will tell other people about me" or "you will teach people the truth that I taught you" or "you will tell people what you have seen me do and heard me teach."
 
-(See also: [[:bn:obe:kt:guilt|দোষ, দোষী]], [[:bn:obe:kt:judge|judge, judgment]], [[:bn:obe:kt:true|true]], [[:bn:obe:kt:testimony|testimony, testify]])
+(See also: [[:bn:obe:kt:guilt]], [[:bn:obe:kt:judge]], [[:bn:obe:kt:true]], [[:bn:obe:kt:testimony]])
 
 ===== Bible References: =====
 
