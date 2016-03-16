@@ -11,5 +11,5 @@
   * **__ঈশ্বর__ **
 ==== অনুবাদিত টীকাসমূহ: ====
 
-  * //(////এই কাঠামোটির জন্য কোনো টীকা নেই৷////)//
-**[[https://door43.org/en/obs/notes/frames/30-06|<<]] | [[https://door43.org/en/obs/notes/30|Up]] | [[https://door43.org/en/obs/notes/frames/30-08|>>]]**
+  * //(এই কাঠামোটির জন্য কোনো টীকা নেই৷)//
+**[[:bn:obs/notes/frames/30-06|<<]] | [[:bn:obs/notes/30|Up]] | [[:bn:obs/notes/frames/30-08|>>]]**
