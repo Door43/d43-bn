@@ -1,8 +1,6 @@
 
 
- **সুসমাচার, গসপেল **
-
-======   ======
+ ===== সুসমাচার, গসপেল ===== 
 
 ===== সংজ্ঞা: =====
 
@@ -16,7 +14,7 @@
   * Different ways to translate this term could include, "good message" or "good announcement" or "glad word" or "God's message of salvation" or "the good things God teaches about Jesus."
   * Depending on the context, ways to translate the phrase, "good news of" could include, "good news/message about" or "good message from" or "the good thing God tells us about" or "what God says about how he saves people."
 
-(See: [[:bn:obe:kt:salvation|salvation]], [[:bn:obe:other:sacrifice|sacrifice, offering]], [[:bn:obe:other:kingdom|kingdom]])
+(See: [[:bn:obe:kt:salvation]], [[:bn:obe:other:sacrifice]], [[:bn:obe:other:kingdom]])
 
 ===== Bible References: =====
 
