@@ -1,8 +1,8 @@
-======   ======
 
-**অনন্ত , শাশ্বত , অনন্তকাল **
 
-======   ======
+===== অনন্ত , শাশ্বত , অনন্তকাল ===== 
+
+
 
 ===== সংজ্ঞা: =====
 
@@ -20,7 +20,7 @@ The terms “everlasting” and “eternal” have very similar meanings and ref
   * Depending on the context, different ways to translate "eternity" could include, "existing outside of time" or "unending life" or "life in heaven."
   * Also consider how this word is translated in a Bible translation in a local or national language. (See: [[:bn:ta:translate:translateunknowns|How to Translate Unknowns]])
 
-[আরও দেখুন: [[:bn:obe:kt:forever|forever]], [[:bn:obe:kt:life|life, live, living, alive]])
+[আরও দেখুন: [[:bn:obe:kt:forever]], [[:bn:obe:kt:life]])
 
 ===== Bible References: =====
 
