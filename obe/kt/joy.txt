@@ -1,8 +1,6 @@
 
 
- **আনন্দ, আনন্দদায়ক **
-
-======   ======
+===== আনন্দ, আনন্দদায়ক ===== 
 
 ===== সংজ্ঞা: =====
 
@@ -21,7 +19,7 @@ Joy is a feeling of delight and deep satisfaction that comes from God. The relat
   * A phrase such as "make a joyful shout" could be translated as "shout in a way that shows you are very happy."
   * A "joyful city" or "joyful house" could be translated as "city where joyful people live" or "house full of joyful people."
 
-(See also: [[:bn:obe:other:rejoice|rejoice]])
+(See also: [[:bn:obe:other:rejoice]])
 
 ===== Bible References: =====
 
@@ -36,8 +34,5 @@ Joy is a feeling of delight and deep satisfaction that comes from God. The relat
 
 ~~NOCACHE~~
 
-  * [[:bn:obe:kt:jesus|Prev chunk]]: [[:bn:obe:kt:jesus?do=diff&rev2[0]=1442398708&rev2[1]=&difftype=sidebyside|publish-current]]
 
-  * [[:bn:obe:kt:jesus|Prev chunk]]: [[:bn:obe:kt:jesus?do=diff&rev2[0]=1442398708&rev2[1]=&difftype=sidebyside|publish-current]]
-  * [[:bn:obe:kt:joy|This chunk]]: [[:bn:obe:kt:joy?do=diff&rev2[0]=1442398708&rev2[1]=&difftype=sidebyside|publish-current]]
 
