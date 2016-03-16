@@ -1,8 +1,6 @@
 
 
- **ঈশ্বরের বাক্য, প্রভুর বাক্য , প্রভুর বাক্য , বাইবেল **
-
-======   ======
+===== ঈশ্বরের বাক্য, প্রভুর বাক্য , প্রভুর বাক্য , বাইবেল ===== 
 
 ===== সংজ্ঞা: =====
 
@@ -20,7 +18,7 @@ The term "word of God" is a general term that refers to anything that God has co
   * The expression "the word of God (or Yahweh) came" is often used to introduce something that God told his prophet or his people. This could be translated as, "Yahweh spoke these words" or "God spoke this message."
   * The term "scripture" or "scriptures" could be translated as "the writings" or "the written message from God." This term should be translated differently from the translation of the term "word."
 
-(See also: [[:bn:obe:kt:prophet|prophet, prophecy, prophesy]], [[:bn:obe:kt:yahweh|Yahweh]])
+(See also: [[:bn:obe:kt:prophet]], [[:bn:obe:kt:yahweh]])
 
 ===== Bible References: =====
 
