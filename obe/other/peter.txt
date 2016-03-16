@@ -1,8 +1,7 @@
 
 
- **পিতর, শিমোন পিতর , কৈফা **
+ ===== পিতর, শিমোন পিতর , কৈফা ===== 
 
-======   ======
 
 ===== তথ্যসমূহ: =====
 
@@ -16,7 +15,7 @@ These names are different ways of referring to Peter, who was one of Jesus' twel
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(আরও দেখুন: শিষ্য, প্রেরিত[[:en:obe:kt:apostle|,]] রিসালাত )
+(আরও দেখুন: [[:bn:obe:kt:apostle]] )
 
 ===== Bible References: =====
 
