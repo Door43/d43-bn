@@ -11,4 +11,4 @@
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **পৌঁছালো**  - তা হল, “হ্রদের অন্য প্রান্তে পৌঁছালো” বা, “সেখানে পৌঁছালো৷”
-**[[https://door43.org/en/obs/notes/frames/30-01|<<]] | [[https://door43.org/en/obs/notes/30|Up]] | [[https://door43.org/en/obs/notes/frames/30-03|>>]]**
+**[[:bn:obs/notes/frames/30-01|<<]] | [[:bn:obs/notes/30|Up]] | [[:bn:obs/notes/frames/30-03|>>]]**
