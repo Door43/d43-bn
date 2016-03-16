@@ -1,8 +1,6 @@
 
 
-**শয়তান, শয়তান , মন্দ এক **
-
-======   ======
+=====শয়তান, শয়তান , মন্দ এক =====
 
 ===== তথ্যসমূহ: =====
 
@@ -23,7 +21,7 @@
 
 (Translation suggestions: [[:en:ta:vol1:translate:translate_names|How to Translate Names]])
 
-(See also: [[:bn:obe:kt:kingdomofgod|kingdomofgod]], [[:bn:obe:kt:evil|evil]], [[:bn:obe:kt:tempt|tempt, temptation]], [[:en:obe:kt:demon|demon, evil spirit, unclean spirit]])
+(See also: [[:bn:obe:kt:kingdomofgod]], [[:bn:obe:kt:evil]], [[:bn:obe:kt:tempt]], [[:en:obe:kt:demon]])
 
 ===== Bible References: =====
 
