@@ -11,4 +11,4 @@
 ==== অনুবাদিত টীকাসমূহ: ====
 
   * **হাঁটু গেঁড়ে বসলো**- তা হল, “তাড়াতাড়ি হাঁটু গেড়ে ভূমিতে বসলো৷”
-**[[https://door43.org/en/obs/notes/frames/32-04|<<]] | [[https://door43.org/en/obs/notes/32|Up]] | [[https://door43.org/en/obs/notes/frames/32-06|>>]]**
+**[[:bn:obs/notes/frames/32-04|<<]] | [[:bn:obs/notes/32|Up]] | [[:bn:obs/notes/frames/32-06|>>]]**
