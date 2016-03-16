@@ -11,5 +11,5 @@
   * **__প্রার্থনা__ **
 ==== অনুবাদিত টীকাসমূহ: ====
 
-  * //(////এই কাঠামোটির জন্য কোনো টীকা নেই৷////)//
-**[[https://door43.org/en/obs/notes/frames/31-02|<<]] | [[https://door43.org/en/obs/notes/31|Up]] | [[https://door43.org/en/obs/notes/frames/31-04|>>]]**
+  * //(এই কাঠামোটির জন্য কোনো টীকা নেই৷)//
+**[[:bn:obs/notes/frames/31-02|<<]] | [[:bn:obs/notes/31|Up]] | [[:bn:obs/notes/frames/31-04|>>]]**
