@@ -1,8 +1,6 @@
 
 
-**দুষ্ট আত্মা, পিশাচ , অশুচি আত্মাকে **
-
-======   ======
+===== দুষ্ট আত্মা, পিশাচ , অশুচি আত্মাকে ===== 
 
 ===== সংজ্ঞা: =====
 
@@ -20,7 +18,7 @@
   * Make sure that the word or phrase used to translate this term is different from the term used to refer to the devil.
   * Also consider how the term "demon" is translated in a local or national language. (See: [[:bn:ta:translate:translateunknowns|How to Translate Unknowns]])
 
-[আরও দেখুন: [[:bn:obe:kt:demonpossessed|ভূতগ্রস্ত]], [[:bn:obe:kt:satan|Satan, devil, evil one]], [[:bn:obe:other:idol|idol, idolatrous]], [[:bn:obe:kt:falsegod|false god, god]], [[:bn:obe:kt:angel|angel]], [[:bn:obe:kt:evil|evil, wicked, wickedness]], [[:bn:obe:kt:unclean|unclean, uncleanness]])
+[আরও দেখুন: [[:bn:obe:kt:demonpossessed]], [[:bn:obe:kt:satan]], [[:bn:obe:other:idol]], [[:bn:obe:kt:falsegod]], [[:bn:obe:kt:angel]], [[:bn:obe:kt:evil]], [[:bn:obe:kt:unclean]])
 
 ===== Bible References: =====
 
