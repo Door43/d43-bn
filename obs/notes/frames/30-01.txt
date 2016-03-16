@@ -12,4 +12,4 @@
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **নির্জন স্থানে**- এটি উল্লেখ করে এমন একটি স্থানকে যেখানে খুব কম লোকজন বসবাস করে৷
-**[[https://door43.org/en/obs/notes/frames/29-09|<<]] | [[https://door43.org/en/obs/notes/30|Up]] | [[https://door43.org/en/obs/notes/frames/30-02|>>]]**
+**[[:bn:obs/notes/frames/29-09|<<]] | [[:bn:obs/notes/30|Up]] | [[:bn:obs/notes/frames/30-02|>>]]**
