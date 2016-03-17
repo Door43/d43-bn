@@ -6,9 +6,10 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **যীশু**
-  * **প্রার্থনা**
+  * **[[:bn:obe:kt:jesus]]**
+  * **[[:bn:obe:other:pray]]**
+
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **শুভ্র**- তা হল, “প্রচুর পরিমানে সাদা৷”
-**[[https://door43.org/en/obs/notes/frames/36-01|<<]] | [[https://door43.org/en/obs/notes/36|Up]] | [[https://door43.org/en/obs/notes/frames/36-03|>>]]**
+**[[:bn:obs/notes/frames/36-01|<<]] | [[:bn:obs/notes/36|Up]] | [[:bn:obs/notes/frames/36-03|>>]]**
