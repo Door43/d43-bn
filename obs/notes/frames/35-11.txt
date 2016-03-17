@@ -1,4 +1,4 @@
-<font 24px/inherit;;inherit;;inherit>** বড় ভাইটি ক্রুদ্ধ হল  **  ** [35-11] **</font>
+=====বড় ভাইটি ক্রুদ্ধ হল  [35-11] =====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-35-11.jpg?nolink&}}
 
@@ -6,10 +6,11 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **পুত্র**
-  * **অনুরোধ **
+  * **[[:bn:obe:kt:son]]**
+  * **[[:bn:obe:other:beg]]**
+
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * (যীশু কাহিনী বলা বহাল রাখলেন৷)
 
-**[[https://door43.org/en/obs/notes/frames/35-10|<<]] | [[https://door43.org/en/obs/notes/35|Up]] | [[https://door43.org/en/obs/notes/frames/35-12|>>]]**
+**[[:bn:obs/notes/frames/35-10|<<]] | [[:bn:obs/notes/35|Up]] | [[:bn:obs/notes/frames/35-12|>>]]**
