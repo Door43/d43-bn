@@ -1,4 +1,4 @@
-<font 24px/inherit;;inherit;;inherit>** গোপনীয় রেখো  **  ** [36-07] **</font>
+** গোপনীয় রেখো  **  ** [36-07] **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg?nolink&}}
 
@@ -6,11 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **যীশু**
-  * **শিষ্য**
-  * **মৃত্যু**
-  * **জীবিত **
+  * **[[:bn:obe:kt:jesus]]**
+  * **[[:bn:obe:kt:disciple]]**
+  * **[[:bn:obe:kt:death]]**
+  * **[[:bn:obe:kt:life]]**
+
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * //একটি////বাইবেল////কাহিনী////-//  এইসব উল্লেখগুলো কিছু কিছু বাইবেল অনুবাদে সামান্য ভিন্ন হতে পারে৷
-**[[https://door43.org/en/obs/notes/frames/36-06|<<]] | [[https://door43.org/en/obs/notes/36|Up]] | [[https://door43.org/en/obs/notes/frames/37-01|>>]]**
+**[[:bn:obs/notes/frames/36-06|<<]] | [[:bn:obs/notes/36|Up]] | [[:bn:obs/notes/frames/37-01|>>]]**
