@@ -6,17 +6,17 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **ইহুদি**
-  * **নিস্তারপর্ব্ব**
-  * **ঈশ্বর**
-  * **মুক্তি**
-  * **দাসত্ব**
-  * **মিশর**
-  * **যীশু**
-  * **প্রচার**
-  * **শিষ্য**
-  * **যেরুশালেম**
+  * **[[:bn:obe:other:jew]]**
+  * **[[:bn:obe:kt:passover]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:save]]**
+  * **[[:bn:obe:other:servant]]**
+  * **[[:bn:obe:other:egypt]]**
+  * **[[:bn:obe:kt:jesus]]**
+  * **[[:bn:obe:other:preach]]**
+  * **[[:bn:obe:kt:disciple]]**
+  * **[[:bn:obe:other:jerusalem]]**
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **শতাব্দী পূর্বে**- তা হল, “শত শত বছর পূর্বে” বা, “বহু সময় পূর্বে৷”
-**[[https://door43.org/en/obs/notes/frames/37-11|<<]] | [[https://door43.org/en/obs/notes/38|Up]] | [[https://door43.org/en/obs/notes/frames/38-02|>>]]**
+**[[:bn:obs/notes/frames/37-11|<<]] | [[:bn:obs/notes/38|Up]] | [[:bn:obs/notes/frames/38-02|>>]]**
