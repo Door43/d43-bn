@@ -6,11 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **[[:bn:obe:other:pray]]**
+  * **[[:bn:obe:other:judasiscariot]]**
+  * **[[:bn:obe:other:jewishleaders]]**
   * **[[:bn:obe:kt:jesus]]**
-  * **[[:bn:obe:kt:disciple]]**
+  * **[[:bn:obe:kt:teacher]]**
   * **[[:bn:obe:kt:betray]]**
- 
+
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **কাছে এলো**- কিছু কিছু ভাষায় উল্লেখ করা হতে পারে, “কাছে গেল৷”
