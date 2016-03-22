@@ -6,11 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **মহাযাজক**
-  * **যীশু**
-  * **খ্রীষ্ট**
-  * **ঈশ্বরের পুত্র **
+  * **[[:bn:obe:kt:highpriest]]**
+  * **[[:bn:obe:kt:jesus]]**
+  * **[[:bn:obe:kt:christ]]**
+  * **[[:bn:obe:kt:sonofgod]]**
+
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **অন্তিমে**- তা হল, “তার বিরুদ্ধে কোনো অপরাধের প্রমান না পাওয়ার পর” বা, “তিনি যে দোষী তা প্রমানে বিফল হওয়ার পর৷”
-**[[https://door43.org/en/obs/notes/frames/39-02|<<]] | [[https://door43.org/en/obs/notes/39|Up]] | [[https://door43.org/en/obs/notes/frames/39-04|>>]]**
+**[[:bn:obs/notes/frames/39-02|<<]] | [[:bn:obs/notes/39|Up]] | [[:bn:obs/notes/frames/39-04|>>]]**
