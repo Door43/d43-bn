@@ -1,4 +1,4 @@
-<font 24px/inherit;;inherit;;inherit>** সত্য কি **  ** ? [39-10] **</font>
+** সত্য কি **  ** ? [39-10] **
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-39-10.jpg?nolink&}}
 
@@ -6,14 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **যীশু**
-  * **ঈশ্বরের****রাজ্য**
-  * **রাজ্য**
-  * **চাকরেরা**
-  * **সত্য**
-  * **ঈশ্বর**
-  * **ভালোবাসে**
-  * **পীলাত **
+  * **[[:bn:obe:kt:jesus]]**
+  * **[[:bn:obe:kt:kingdomofgod]]**
+  * **[[:bn:obe:other:kingdom]]**
+  * **[[:bn:obe:other:servant]]**
+  * **[[:bn:obe:kt:true]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:love]]**
+  * **[[:bn:obe:other:pilate]]**
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **আপনিই বললেন**- তা হল, “আপনি সঠিক বলেছেন৷”
@@ -22,4 +22,4 @@
   * **আমার কথা শুনবে**- এটিকে এভাবেও অনুবাদ করা যেতে পারে, “আমার শিক্ষা শুনত আর আমার আজ্ঞাকারী হত৷ এটি কেবল যীশুর কথা শোনাই নয় বরং তা পালন করাকেও অন্তর্ভুক্ত করে৷
   * **সত্য কি?**- তা হল, “কেউ কি জানে যে সত্যটি কি?”
 
-**[[https://door43.org/en/obs/notes/frames/39-09|<<]] | [[https://door43.org/en/obs/notes/39|Up]] | [[https://door43.org/en/obs/notes/frames/39-11|>>]]**
+**[[:bn:obs/notes/frames/39-09|<<]] | [[:bn:obs/notes/39|Up]] | [[:bn:obs/notes/frames/39-11|>>]]**
