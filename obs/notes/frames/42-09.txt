@@ -1,6 +1,6 @@
 
 
-**<font 24px/inherit;;inherit;;inherit>প্রভু যীশু চল্লিশ দিন শিক্ষা দিলেন [৪২-০৯]</font> **
+=====প্রভু যীশু চল্লিশ দিন শিক্ষা দিলেন [৪২-০৯]=====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-42-09.jpg?nolink&}}
 
@@ -8,11 +8,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **যীশু**
-  * **শিষ্য**
-  * **জীবিত**
-  * **ঈশ্বরের রাজ্য**
-**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font> **
-  * //(////এই কাঠামোটির জন্য কোনো টীকা নেই৷////)//
-**[[https://door43.org/en/obs/notes/frames/42-08|<<]] | [[https://door43.org/en/obs/notes/42|Up]] | [[https://door43.org/en/obs/notes/frames/42-10|>>]]**
+  * **[[:bn:obe:kt:jesus]]**
+  * **[[:bn:obe:kt:disciple]]**
+  * **[[:bn:obe:kt:life]]**
+  * **[[:bn:obe:kt:kingdomofgod]]**
+
+=====অনুবাদিত টীকাসমূহ:=====
+  * //(এই কাঠামোটির জন্য কোনো টীকা নেই৷)//
+**[[:bn:obs/notes/frames/42-08|<<]] | [[:bn:obs/notes/42|Up]] | [[:bn:obs/notes/frames/42-10|>>]]**
 
