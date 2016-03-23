@@ -1,6 +1,4 @@
-
-
-**<font 24px/inherit;;inherit;;inherit>যীশুই হলেন খ্রীষ্ট [৪৩-০৯]</font> **
+=====যীশুই হলেন খ্রীষ্ট [৪৩-০৯]=====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-09.jpg?nolink&}}
 
@@ -8,14 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **ক্রুশে দিয়েছিলেন**
-  * **যীশু**
-  * **ঈশ্বর**
-  * **প্রভু**
-  * **খ্রীষ্ট**
+  * **[[:bn:obe:kt:crucify]]**
+  * **[[:bn:obe:kt:jesus]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:lord]]**
+  * **[[:bn:obe:kt:christ]]**
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * (পিতর ভিড়কে প্রচার করা বহাল রাখলেন৷)
   * **কিন্তু নিশ্চই জানুন যে ঈশ্বর**  - এটিকে এভাবে অনুবাদ করা যেতে পারে, “কিন্তু আপনারা জানুন যে এটা সত্য যে” বা, “কিন্তু আপনি নিশ্চিত হতে পারেন যে৷”
-**[[https://door43.org/en/obs/notes/frames/43-08|<<]] | [[https://door43.org/en/obs/notes/43|Up]] | [[https://door43.org/en/obs/notes/frames/43-10|>>]]**
+**[[:bn:obs/notes/frames/43-08|<<]] | [[:bn:obs/notes/43|Up]] | [[:bn:obs/notes/frames/43-10|>>]]**
 
