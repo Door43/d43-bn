@@ -1,6 +1,6 @@
 
 
-**<font 24px/inherit;;inherit;;inherit>৩০০০ বিশ্বাসী [৪৩-১২]</font> **
+=====৩০০০ বিশ্বাসী [৪৩-১২]=====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-43-12.jpg?nolink&}}
 
@@ -8,15 +8,15 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **বিশ্বাস**
-  * **পিতর**
-  * **শিষ্য**
-  * **যীশু**
-  * **বাপ্তিস্ম**
-  * **চার্চ**
-  * **যেরুশালেম**
+  * **[[:bn:obe:kt:believe]]**
+  * **[[:bn:obe:other:peter]]**
+  * **[[:bn:obe:kt:disciple]]**
+  * **[[:bn:obe:kt:jesus]]**
+  * **[[:bn:obe:kt:baptize]]**
+  * **[[:bn:obe:kt:church]]**
+  * **[[:bn:obe:other:jerusalem]]**
 ===== অনুবাদিত টীকাসমূহ: =====
 
-  * //(////এই কাঠামোটির জন্য কোনো টীকা নেই৷////)//
-**[[https://door43.org/en/obs/notes/frames/43-11|<<]] | [[https://door43.org/en/obs/notes/43|Up]] | [[https://door43.org/en/obs/notes/frames/43-13|>>]]**
+  * //(এই কাঠামোটির জন্য কোনো টীকা নেই৷)//
+**[[:bn:obs/notes/frames/43-11|<<]] | [[:bn:obs/notes/43|Up]] | [[:bn:obs/notes/frames/43-13|>>]]**
 
