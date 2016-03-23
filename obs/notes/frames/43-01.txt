@@ -6,13 +6,13 @@
 
 ==== গুরুত্বপূর্ণ শব্দসমূহ: ====
 
-  * **যীশু**
-  * **স্বর্গ**
-  * **শিষ্য**
-  * **যেরুশালেম**
-  * **বিশ্বাসী**
-  * **প্রার্থনা**
-**<font 20px/inherit;;inherit;;inherit>অনুবাদিত টীকাসমূহ:</font> **
+  * **[[:bn:obe:kt:jesus]]**
+  * **[[:bn:obe:kt:heaven]]**
+  * **[[:bn:obe:kt:disciple]]**
+  * **[[:bn:obe:other:jerusalem]]**
+  * **[[:bn:obe:kt:believer]]**
+  * **[[:bn:obe:other:pray]]**
+ =====অনুবাদিত টীকাসমূহ:=====
   * **যীশুর স্বর্গে যাওয়ার পর**- তা হল, “স্বর্গে ফিরলেন৷”
   * **যেরুশালেমেই রইল**- তা হল, “কিছু সময় পর্যন্ত যেরুশালেমে থাকল৷” তারা সেখানে স্থায়ীভাবে থাকল না৷
-**[[https://door43.org/en/obs/notes/frames/42-11|<<]] | [[https://door43.org/en/obs/notes/43|Up]] | [[https://door43.org/en/obs/notes/frames/43-02|>>]]**
+**[[:bn:obs/notes/frames/42-11|<<]] | [[:bn:obs/notes/43|Up]] | [[:bn:obs/notes/frames/43-02|>>]]**
