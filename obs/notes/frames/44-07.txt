@@ -6,12 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **ইহুদি নেতা **
-  * **পিতর**
-  * **যোহন**
-  * **মহাযাজক**
-  * **শক্তি**
+  * **[[:bn:obe:other:jewishleaders]]**
+  * **[[:bn:obe:other:peter]]**
+  * **[[:bn:obe:other:johntheapostle]]**
+  * **[[:bn:obe:kt:highpriest]]**
+  * **[[:bn:obe:kt:power]]**
+
+
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * //(এই কাঠামোটির জন্য কোনো টীকা নেই৷)//
-**[[https://door43.org/en/obs/notes/frames/44-06|<<]] | [[https://door43.org/en/obs/notes/44|Up]] | [[https://door43.org/en/obs/notes/frames/44-08|>>]]**
+**[[:bn:obs/notes/frames/44-06|<<]] | [[:bn:obs/notes/44|Up]] | [[:bn:obs/notes/frames/44-08|>>]]**
