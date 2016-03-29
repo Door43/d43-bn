@@ -1,6 +1,6 @@
 
 
-**<font 24px/inherit;;inherit;;inherit>মরুভূমির পথে ফিলিপ [৪৫-০৭]</font> **
+=====মরুভূমির পথে ফিলিপ [৪৫-০৭]=====
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-45-07.jpg?nolink&}}
 
@@ -8,22 +8,23 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **শিষ্য**
-  * **যীশু**
-  * **বিশ্বাসী**
-  * **যেরুশালেম**
-  * **উৎপীড়ন**
-  * **শামারিয়া**
-  * **প্রচার**
-  * **উদ্ধার**
-  * **স্বর্গদূত**
-  * **ঈশ্বর**
-  * **রথ**
-  * **পবিত্র আত্মা**
+  * **[[:bn:obe:kt:disciple]]**
+  * **[[:bn:obe:kt:jesus]]**
+  * **[[:bn:obe:kt:believer]]**
+  * **[[:bn:obe:other:jerusalem]]**
+  * **[[:bn:obe:other:persecute]]**
+  * **[[:bn:obe:other:samaria]]**
+  * **[[:bn:obe:other:preach]]**
+  * **[[:bn:obe:kt:save]]**
+  * **[[:bn:obe:kt:angel]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:other:chariot]]**
+  * **[[:bn:obe:kt:holyspirit]]**
+
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **একদিন**- এই বাক্যাংশটি একটি ঘটনার পরিচয় দেয় যা অতীতে ঘটেছিল, কিন্তু যার নির্দিষ্ট সময় বলা হয়নি৷ কিছু কিছু ভাষায় একটি সত্য কাহিনী আরম্ভ করার জন্য একই রকম মাধ্যম প্রয়োগ করা হয়৷
   * **ইথিয়পীয়**- ইথিয়পীয় হল পূর্ব আফ্রিকার একটি দেশ৷
 
-**[[https://door43.org/en/obs/notes/frames/45-06|<<]] | [[https://door43.org/en/obs/notes/45|Up]] | [[https://door43.org/en/obs/notes/frames/45-08|>>]]**
+**[[:bn:obs/notes/frames/45-06|<<]] | [[:bn:obs/notes/45|Up]] | [[:bn:obs/notes/frames/45-08|>>]]**
 
