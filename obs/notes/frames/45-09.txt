@@ -6,8 +6,9 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **যিশাইয়**
+  * **[[:bn:obe:other:isaiah]]**
+
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **যিশাইয় কি নিজের বিষয়ে**  - এটিকে এভাবেও অনুবাদ করা যেতে পারে, “যিশাইয় কি উল্লেখ করছিলেন৷”
-**[[https://door43.org/en/obs/notes/frames/45-08|<<]] | [[https://door43.org/en/obs/notes/45|Up]] | [[https://door43.org/en/obs/notes/frames/45-10|>>]]**
+**[[:bn:obs/notes/frames/45-08|<<]] | [[:bn:obs/notes/45|Up]] | [[:bn:obs/notes/frames/45-10|>>]]**
