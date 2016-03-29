@@ -6,12 +6,13 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **সুস্থ**
-  * **পিতর**
-  * **শক্তি**
-  * **যীশু**
-  * **বিশ্বাস**
+  * **[[:bn:obe:other:heal]]**
+  * **[[:bn:obe:other:peter]]**
+  * **[[:bn:obe:kt:power]]**
+  * **[[:bn:obe:kt:jesus]]**
+  * **[[:bn:obe:kt:faith]]**
+ 
 ===== অনুবাদিত টীকাসমূহ: =====
 
-  * //(////এই কাঠামোটির জন্য কোনো টীকা নেই৷////)//
-**[[https://door43.org/en/obs/notes/frames/44-03|<<]] | [[https://door43.org/en/obs/notes/44|Up]] | [[https://door43.org/en/obs/notes/frames/44-05|>>]]**
+  * //(এই কাঠামোটির জন্য কোনো টীকা নেই৷)//
+**[[:bn:obs/notes/frames/44-03|<<]] | [[:bn:obs/notes/44|Up]] | [[:bn:obs/notes/frames/44-05|>>]]**
