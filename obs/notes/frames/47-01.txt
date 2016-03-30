@@ -6,17 +6,18 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **রোমান সাম্রাজ্য**
-  * **পৌল**
-  * **সীল**
-  * **ফিলিপীয়**
-  * **সুসমাচার**
-  * **যীশু**
-  * **ভালবাসেন**
-  * **আরাধনা**
-  * **ঈশ্বর**
+  * **[[:bn:obe:other:rome]]**
+  * **[[:bn:obe:other:paul]]**
+  * **[[:bn:obe:other:silas]]**
+  * **[[:bn:obe:other:philippi]]**
+  * **[[:bn:obe:kt:goodnews]]**
+  * **[[:bn:obe:kt:jesus]]**
+  * **[[:bn:obe:kt:love]]**
+  * **[[:bn:obe:kt:worship]]**
+  * **[[:bn:obe:kt:god]]**
+
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **সুসমাচার প্রচার করতে**- তা হল, “শেখাতে” বা, “প্রচার করতে৷”
   * **ব্যবসায়ী**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “বিক্রেতা” বা, “ব্যবসায়ের মালকিন ছিলেন৷”
-**[[https://door43.org/en/obs/notes/frames/46-10|<<]] | [[https://door43.org/en/obs/notes/47|Up]] | [[https://door43.org/en/obs/notes/frames/47-02|>>]]**
+**[[:bn:obs/notes/frames/46-10|<<]] | [[:bn:obs/notes/47|Up]] | [[:bn:obs/notes/frames/47-02|>>]]**
