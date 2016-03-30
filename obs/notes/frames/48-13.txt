@@ -6,14 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **ঈশ্বর**
-  * **প্রতিজ্ঞা**
-  * **রাজা দায়ূদ**
-  * **ঈশ্বরের পুত্র **
-  * **খ্রীষ্ট**
-  * **বংশধরদের**
-  * **যীশু**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:promise]]**
+  * **[[:bn:obe:other:david]]**
+  * **[[:bn:obe:kt:sonofgod]]**
+  * **[[:bn:obe:kt:christ]]**
+  * **[[:bn:obe:other:descendant]]**
+  * **[[:bn:obe:kt:jesus]]**
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * //(এই কাঠামোটির জন্য কোনো টীকা নেই৷)//
-**[[https://door43.org/en/obs/notes/frames/48-12|<<]] | [[https://door43.org/en/obs/notes/48|Up]] | [[https://door43.org/en/obs/notes/frames/48-14|>>]]**
+**[[:bn:obs/notes/frames/48-12|<<]] | [[:bn:obs/notes/48|Up]] | [[:bn:obs/notes/frames/48-14|>>]]**
