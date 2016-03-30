@@ -6,13 +6,13 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **ঈশ্বর**
-  * **নিয়ম**
-  * **ইস্রায়েলীয়**
-  * **নতুন নিয়ম**
-  * **জাতি **
-  * **বিশ্বাস**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:covenant]]**
+  * **[[:bn:obe:other:israel]]**
+  * **[[:bn:obe:kt:newcovenant]]**
+  * **[[:bn:obe:other:peoplegroup]]**
+  * **[[:bn:obe:kt:believe]]**
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **ইস্রায়লীয়দের সাথে, যারা নির্বাচিত লোক ছিল**- তা হল, “ইস্রায়েলীয়রা যাদের নির্বাচিত করা হয়েছিল” বা, “তার নির্বাচিত লোকজন, ইস্রায়েলীয়রা৷”
-**[[https://door43.org/en/obs/notes/frames/48-10|<<]] | [[https://door43.org/en/obs/notes/48|Up]] | [[https://door43.org/en/obs/notes/frames/48-12|>>]]**
+**[[:bn:obs/notes/frames/48-10|<<]] | [[:bn:obs/notes/48|Up]] | [[:bn:obs/notes/frames/48-12|>>]]**
