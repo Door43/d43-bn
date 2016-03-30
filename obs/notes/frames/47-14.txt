@@ -6,14 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **পৌল**
-  * **খ্রিস্টান**
-  * **প্রচার**
-  * **সুসমাচার**
-  * **যীশু**
-  * **বিশ্বাসী**
-  * **চার্চ**
+  * **[[:bn:obe:other:paul]]**
+  * **[[:bn:obe:kt:christian]]**
+  * **[[:bn:obe:other:preach]]**
+  * **[[:bn:obe:kt:goodnews]]**
+  * **[[:bn:obe:kt:jesus]]**
+  * **[[:bn:obe:kt:believer]]**
+  * **[[:bn:obe:kt:church]]**
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * //একটি বাইবেল কাহিনী-//  এইসব উল্লেখগুলো কিছু কিছু বাইবেল অনুবাদে সামান্য ভিন্ন হতে পারে৷
-**[[https://door43.org/en/obs/notes/frames/47-13|<<]] | [[https://door43.org/en/obs/notes/47|Up]] | [[https://door43.org/en/obs/notes/frames/48-01|>>]]**
+**[[:bn:obs/notes/frames/47-13|<<]] | [[:bn:obs/notes/47|Up]] | [[:bn:obs/notes/frames/48-01|>>]]**
