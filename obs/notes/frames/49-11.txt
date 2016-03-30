@@ -6,14 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **যীশু**
-  * **পাপ**
-  * **দণ্ড**
-  * **মরলেন**
-  * **বলি**
-  * **ঈশ্বর**
-  * **ক্ষমা**
+  * **[[:bn:obe:kt:jesus]]**
+  * **[[:bn:obe:kt:sin]]**
+  * **[[:bn:obe:other:punish]]**
+  * **[[:bn:obe:kt:death]]**
+  * **[[:bn:obe:other:sacrifice]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:forgive]]**
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **পাপ মেটাতে**- তা হল, “দণ্ড সরাতে” বা, “দোষ মেটাতে৷” যীশুর বলিদান ঈশ্বরকে আমাদের পাপ এমনভাবে দেখায় যে তা কখনো অস্তিত্বেই ছিল না৷
-**[[https://door43.org/en/obs/notes/frames/49-10|<<]] | [[https://door43.org/en/obs/notes/49|Up]] | [[https://door43.org/en/obs/notes/frames/49-12|>>]]**
+**[[:bn:obs/notes/frames/49-10|<<]] | [[:bn:obs/notes/49|Up]] | [[:bn:obs/notes/frames/49-12|>>]]**
