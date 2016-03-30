@@ -6,12 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **খ্রিস্টান**
-  * **ঈশ্বর**
-  * **ক্ষমা**
-  * **পাপ**
-  * **যীশু**
+  * **[[:bn:obe:kt:christian]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:forgive]]**
+  * **[[:bn:obe:kt:sin]]**
+  * **[[:bn:obe:kt:jesus]]**
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **আপনাকে গন্য করেন**- তা হল, “আপনাকে ভাবেন” বা, “আপনাকে ধারণা করেন” বা, “আপনাকে ডাকেন৷”
-**[[https://door43.org/en/obs/notes/frames/49-15|<<]] | [[https://door43.org/en/obs/notes/49|Up]] | [[https://door43.org/en/obs/notes/frames/49-17|>>]]**
+**[[:bn:obs/notes/frames/49-15|<<]] | [[:bn:obs/notes/49|Up]] | [[:bn:obs/notes/frames/49-17|>>]]**
