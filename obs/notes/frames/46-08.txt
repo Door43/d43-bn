@@ -6,14 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **শৌল**
-  * **যেরুশালেম**
-  * **শিষ্য**
-  * **বিশ্বাসী**
-  * **বার্ণবা**
-  * **প্রেরিতদের**
-  * **প্রচার**
+  * **[[:bn:obe:other:paul]]**
+  * **[[:bn:obe:other:jerusalem]]**
+  * **[[:bn:obe:kt:disciple]]**
+  * **[[:bn:obe:kt:believer]]**
+  * **[[:bn:obe:other:barnabas]]**
+  * **[[:bn:obe:kt:apostle]]**
+  * **[[:bn:obe:other:preach]]**
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **শৌলকে গ্রহণ করেন**- তা হল, “বিশ্বাস করল যে শৌলও যীশুর একজন বিশ্বাসী৷”
-**[[https://door43.org/en/obs/notes/frames/46-07|<<]] | [[https://door43.org/en/obs/notes/46|Up]] | [[https://door43.org/en/obs/notes/frames/46-09|>>]]**
+**[[:bn:obs/notes/frames/46-07|<<]] | [[:bn:obs/notes/46|Up]] | [[:bn:obs/notes/frames/46-09|>>]]**
