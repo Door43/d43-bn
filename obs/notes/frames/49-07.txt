@@ -6,12 +6,12 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **যীশু**
-  * **ঈশ্বর**
-  * **ভালবাসেন**
-  * **পাপ**
-  * **ক্ষমা**
+  * **[[:bn:obe:kt:jesus]]**
+  * **[[:bn:obe:kt:god]]**
+  * **[[:bn:obe:kt:love]]**
+  * **[[:bn:obe:kt:sin]]**
+  * **[[:bn:obe:kt:forgive]]**
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * //(এই কাঠামোটির জন্য কোনো টীকা নেই৷)//
-**[[https://door43.org/en/obs/notes/frames/49-06|<<]] | [[https://door43.org/en/obs/notes/49|Up]] | [[https://door43.org/en/obs/notes/frames/49-08|>>]]**
+**[[:bn:obs/notes/frames/49-06|<<]] | [[:bn:obs/notes/49|Up]] | [[:bn:obs/notes/frames/49-08|>>]]**
