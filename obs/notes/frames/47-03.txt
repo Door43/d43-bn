@@ -6,16 +6,16 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **পৌল**
-  * **সীল**
-  * **প্রার্থনা**
-  * **দাসী**
-  * **ভূতগ্রস্ত**
-  * **ভূত**
-  * **মালিকদের**
+  * **[[:bn:obe:other:paul]]**
+  * **[[:bn:obe:other:silas]]**
+  * **[[:bn:obe:other:pray]]**
+  * **[[:bn:obe:other:servant]]**
+  * **[[:bn:obe:kt:demonpossessed]]**
+  * **[[:bn:obe:kt:demon]]**
+  * **[[:bn:obe:kt:lord]]**
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **তার মালিকদেরকে**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “তার নিয়ন্ত্রণকারীদের৷”
   * **জোতিষ বিদ্যার দ্বারা**- তা হল, “এমন একজন যে লোকেদের সাথে তাদের ভবিষ্যতে কি ঘটবে তা বলে দিত৷”
 
-**[[https://door43.org/en/obs/notes/frames/47-02|<<]] | [[https://door43.org/en/obs/notes/47|Up]] | [[https://door43.org/en/obs/notes/frames/47-04|>>]]**
+**[[:bn:obs/notes/frames/47-02|<<]] | [[:bn:obs/notes/47|Up]] | [[:bn:obs/notes/frames/47-04|>>]]**
