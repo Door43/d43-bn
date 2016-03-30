@@ -6,9 +6,10 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **প্রেম**
-  * **ঈশ্বর**
+  * **[[:bn:obe:kt:love]]**
+  * **[[:bn:obe:kt:god]]**
+
 ===== অনুবাদিত টীকাসমূহ: =====
 
   * **সকল কিছুর চেয়ে**- এটিকে এভাবে অনুবাদ করা যেতে পারে, “আপনার ধনসম্পত্তি” বা, “আপনার প্রতিপত্তি৷”
-**[[https://door43.org/en/obs/notes/frames/49-03|<<]] | [[https://door43.org/en/obs/notes/49|Up]] | [[https://door43.org/en/obs/notes/frames/49-05|>>]]**
+**[[:bn:obs/notes/frames/49-03|<<]] | [[:bn:obs/notes/49|Up]] | [[:bn:obs/notes/frames/49-05|>>]]**
