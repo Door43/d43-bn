@@ -6,13 +6,14 @@
 
 ===== গুরুত্বপূর্ণ শব্দসমূহ: =====
 
-  * **বিশ্বাস**
-  * **যীশু**
-  * **বাপ্তিস্ম**
-  * **পৌল**
-  * **সীল**
-  * **আনন্দ**
+  * **[[:bn:obe:kt:believe]]**
+  * **[[:bn:obe:kt:jesus]]**
+  * **[[:bn:obe:kt:baptize]]**
+  * **[[:bn:obe:other:paul]]**
+  * **[[:bn:obe:other:silas]]**
+  * **[[:bn:obe:kt:joy]]**
+
 ===== অনুবাদিত টীকাসমূহ: =====
 
-  * //(////এই কাঠামোটির জন্য কোনো টীকা নেই৷////)//
-**[[https://door43.org/en/obs/notes/frames/47-11|<<]] | [[https://door43.org/en/obs/notes/47|Up]] | [[https://door43.org/en/obs/notes/frames/47-13|>>]]**
+  * //(এই কাঠামোটির জন্য কোনো টীকা নেই৷)//
+**[[:bn:obs/notes/frames/47-11|<<]] | [[:bn:obs/notes/47|Up]] | [[:bn:obs/notes/frames/47-13|>>]]**
