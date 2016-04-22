@@ -1,11 +1,11 @@
-====== Complete List of Important Terms - Bengali ======
+====== Complete List of translationWords- Bengali ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
-  * [[:bn:obe:kt:home]]
-  * [[:bn:obe:other:home]]
+  * [[:bn:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:bn:obe:other:home|List of the Other Terms in the OBE Directory]]
 
-==== All Important Terms: ====
+==== All Terms in the OBE: ====
 
 <nspages bn:obe -r -title -exclude:home -textPages="">
 
